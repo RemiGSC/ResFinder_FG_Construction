@@ -1,0 +1,63 @@
+LOCUS       HQ605913                 927 bp    DNA     linear   ENV 31-MAY-2012
+DEFINITION  Uncultured bacterium clone AC1 class A beta-lactamase (blaM-1)
+            gene, complete cds.
+ACCESSION   HQ605913
+VERSION     HQ605913.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 927)
+  AUTHORS   Uyaguari,M.I. Jr., Fichot,E.B., Scott,G.I. and Norman,R.S.
+  TITLE     Characterization and quantitation of a novel beta-lactamase gene
+            within a wastewater treatment facility and surrounding coastal
+            ecosystem
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 927)
+  AUTHORS   Uyaguari,M.I. Jr., Fichot,E.B., Scott,G.I. and Norman,R.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-NOV-2010) Environmental Health Sciences, University
+            of South Carolina, 921 Assembly Street, Suite 401, Columbia, SC
+            29208, USA
+FEATURES             Location/Qualifiers
+     source          1..927
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="wastewater treatment plant"
+                     /db_xref="taxon:77133"
+                     /clone="AC1"
+                     /environmental_sample
+     gene            1..927
+                     /gene="blaM-1"
+     CDS             1..927
+                     /gene="blaM-1"
+                     /note="confers resistance to ampicillin"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="class A beta-lactamase"
+                     /protein_id="AEC04637.1"
+                     /translation="MWREVKQHMSNKFIKRVVKMKYWKILSLVFCTFAFAVNCKAHAG
+                     VKQIETKYNVKIGVYAIDTNNGNSFSYRQDERFPFQSTVKMVVAAAALKNIEADERIK
+                     ISSDDIVFWSPIVRLNLDRGYMTIKELAEAAMSYSDNAATNILITRLGGTKSINEFAK
+                     SIGNASFYLENLEPNLNSDPNNIHDSSTPKDMAQSVQKLLIENNVLSQENQHILKTWM
+                     MNNTTGYKKIRYGLPLGWSAAEKTGGGSGTSHDIGIVWSPACKPIVLAIYTFSNKKDN
+                     AQQADKAIAETTKFILDEFSKKNICFSATDFK"
+ORIGIN      
+        1 atgtggcgag aagttaaaca gcatatgagt aataaattta taaaaagggt agttaaaatg
+       61 aaatattgga aaatattaag cttggtgttt tgcacatttg cttttgcagt taattgcaaa
+      121 gcacacgcag gagtgaagca gattgagaca aagtacaatg ttaaaattgg cgtttatgca
+      181 attgacacca ataatggtaa cagcttttct tatcgtcagg atgagcgctt tccatttcaa
+      241 agcactgtta agatggtagt tgcagctgct gctttaaaaa atattgaagc tgatgagaga
+      301 ataaaaattt cttcagatga tattgtgttt tggagtccta tcgttcgcct gaatttagat
+      361 agaggttaca tgacgataaa ggagcttgca gaagcagcaa tgagttatag tgataatgct
+      421 gcaactaata ttctgattac aaggcttgga ggaactaaaa gcattaatga atttgcaaaa
+      481 tcaataggaa acgcatcgtt ttatttagaa aatttagagc ctaatttaaa ctcagatcca
+      541 aataacattc atgatagctc tactcccaaa gatatggccc aaagtgttca aaaactattg
+      601 atagaaaata atgttttaag tcaagaaaat cagcatatat taaaaacttg gatgatgaac
+      661 aatactacag gttacaaaaa aatcagatat ggattgcctc taggttggag cgctgcagaa
+      721 aaaacaggtg gaggctctgg tacttctcat gatataggaa ttgtatggtc gcctgcatgt
+      781 aagccaatag tactagcaat ttatacattt tcaaataaaa aagataatgc gcagcaggct
+      841 gataaagcga ttgctgaaac gactaaattt attcttgatg aattttctaa gaaaaacata
+      901 tgtttctcag caacggattt taaataa
+//
+

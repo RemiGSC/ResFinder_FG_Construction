@@ -1,0 +1,19 @@
+#!/bin/bash
+
+cd /home/remi.gschwind/resfinder_FG/data/contigs
+
+cat *.fasta > /home/remi.gschwind/resfinder_FG/data/contigs/DNA_insert_seq.fasta
+echo "Concatenation done"
+
+cd-hit-est -i DNA_insert_seq.fasta -o /home/remi.gschwind/resfinder_FG/data/contigs/DNA_insert_seq_cdhit.fasta -d 0 -c 1 -M 0
+echo "cdhit done"
+
+prokka --cpus 6 --locustag prokka --gcode 11 --outdir /home/remi.gschwind/resfinder_FG/output/output_prokka --prefix prokka DNA_insert_seq_cdhit.fasta
+echo "Prokka done"
+
+cd /home/remi.gschwind/resfinder_FG/script
+
+python annotation_curation.py
+
+echo "Annotation & curation done"
+

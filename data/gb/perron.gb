@@ -1,0 +1,654 @@
+LOCUS       KC520483                1167 bp    DNA     linear   BCT 01-APR-2015
+DEFINITION  Mixed culture bacterium PEN_AL_1 putative beta-lactamase gene,
+            complete cds.
+ACCESSION   KC520483
+VERSION     KC520483.1
+KEYWORDS    .
+SOURCE      mixed culture bacterium PEN_AL_1
+  ORGANISM  mixed culture bacterium PEN_AL_1
+            Bacteria.
+REFERENCE   1  (bases 1 to 1167)
+  AUTHORS   Perron,G.G., Whyte,L., Turnbaugh,P.J., Goordial,J., Hanage,W.P.,
+            Dantas,G. and Desai,M.M.
+  TITLE     Functional characterization of bacteria isolated from ancient
+            arctic soil exposes diverse resistance mechanisms to modern
+            antibiotics
+  JOURNAL   PLoS ONE 10 (3), E0069533 (2015)
+   PUBMED   25807523
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1167)
+  AUTHORS   Perron,G.G., Whyte,L., Turnbaugh,P.J., Hanage,W.P., Dantas,G. and
+            Desai,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JAN-2013) Biology, University of Ottawa, 30
+            Marie-Curie, Ottawa, ON K1N 6N5, Canada
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1167
+                     /organism="mixed culture bacterium PEN_AL_1"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Active layer soil from the Arctic"
+                     /db_xref="taxon:1424454"
+                     /clone="PEN_AL_1"
+                     /country="Canada"
+                     /note="cf. Stenotrophomonas sp."
+     CDS             1..1167
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative beta-lactamase"
+                     /protein_id="AHB51673.1"
+                     /translation="MYKFHLPRLASFSAFALLLGASHCMAATKSDDQLDALVKAAIGP
+                     VMQQQNIPGVAVAITLNGQQHYFNYGVASKEDGKPVSQDTLFEIGSVSKTFATTLAAY
+                     AQASGKLSLSDRASQVWPDLRGSAFDTISVLQLATYTAGGLPLQFPDEADRPDKMLAY
+                     FKQWKPVYAAGTHRQYSNPSLGLSGYLAAKSMGQPFDELMEKTLLPKLGLKHTYLKVP
+                     QDQMGLYAQGYGKDGSPVRVSPGALDSEAYGVKTSAADLLRYVEANLKPATLEKPLQQ
+                     AIALTHSGYYTVGKMTQGLGWEHYHYPASLDTLLNGNSTEMAMAAHKVQWLNPPQPAQ
+                     DAAWFNKTGSTGGFGAYVAFVPSEDIGIVILANKNYPNSERIKLAHNILSALTE"
+ORIGIN      
+        1 atgtacaaat ttcatctgcc aagattggcg tccttcagcg ctttcgccct gttgctcggt
+       61 gcaagtcact gtatggccgc cacaaaatcc gacgatcaac tcgatgccct ggtgaaagcc
+      121 gccatcggcc cggtcatgca acaacagaat attcccggcg tagccgtcgc gatcaccctg
+      181 aatggccaac agcattactt taactacggt gtggcctcga aagaggacgg caaaccggtc
+      241 agccaagaca ccctgttcga aattggttcg gtgagtaaaa ccttcgccac gacgttggca
+      301 gcttatgccc aggccagcgg caagttgtcc ctgtctgacc gggccagcca ggtgtggcct
+      361 gacttgcggg gcagtgcgtt cgacactatc agcgtgttgc aactcgccac ctacaccgct
+      421 ggcgggctgc cgctgcagtt ccctgacgag gccgatcgtc cagacaaaat gctggcctat
+      481 ttcaaacaat ggaaaccggt gtatgccgca ggcacccacc gccagtattc aaaccccagc
+      541 cttgggctgt ccggttatct ggcggccaaa agcatgggcc agccgtttga tgagttgatg
+      601 gaaaaaaccc tgctaccgaa actcggcctc aagcacacct acctcaaagt gccgcaggat
+      661 cagatggggc tttatgccca gggttacggc aaggatggca gtccggtgcg ggtgagcccg
+      721 ggcgcactgg attcggaggc ctatggcgta aaaaccagcg cggcggattt gcttcgttat
+      781 gttgaagcga acctgaaacc ggcgacgctg gagaagccat tgcagcaagc gatcgccctg
+      841 actcacagcg gttactacac cgtgggcaag atgacgcagg ggttgggatg ggagcactac
+      901 cactatccgg ccagcctcga tacgttgctg aatggcaact cgacggagat ggcgatggcg
+      961 gcgcataaag tccagtggct gaacccaccg caacctgcgc aagacgcggc atggttcaac
+     1021 aagaccgggt cgacgggtgg tttcggggct tatgtcgcgt tcgtgccttc ggaagatatc
+     1081 ggtatcgtta ttctggcgaa caagaattac ccgaactcgg agcgaataaa gctggctcac
+     1141 aacatactga gtgccctgac cgaataa
+//
+
+LOCUS       KC520484                 957 bp    DNA     linear   BCT 01-APR-2015
+DEFINITION  Mixed culture bacterium PEN_AL_2 putative L2 beta-lactamase gene,
+            complete cds.
+ACCESSION   KC520484
+VERSION     KC520484.1
+KEYWORDS    .
+SOURCE      mixed culture bacterium PEN_AL_2
+  ORGANISM  mixed culture bacterium PEN_AL_2
+            Bacteria.
+REFERENCE   1  (bases 1 to 957)
+  AUTHORS   Perron,G.G., Whyte,L., Turnbaugh,P.J., Goordial,J., Hanage,W.P.,
+            Dantas,G. and Desai,M.M.
+  TITLE     Functional characterization of bacteria isolated from ancient
+            arctic soil exposes diverse resistance mechanisms to modern
+            antibiotics
+  JOURNAL   PLoS ONE 10 (3), E0069533 (2015)
+   PUBMED   25807523
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 957)
+  AUTHORS   Perron,G.G., Whyte,L., Turnbaugh,P.J., Hanage,W.P., Dantas,G. and
+            Desai,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JAN-2013) Biology, University of Ottawa, 30
+            Marie-Curie, Ottawa, ON K1N 6N5, Canada
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..957
+                     /organism="mixed culture bacterium PEN_AL_2"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Active layer soil from the Arctic"
+                     /db_xref="taxon:1424455"
+                     /clone="PEN_AL_2"
+                     /country="Canada"
+                     /note="cf. Stenotrophomonas sp."
+     CDS             55..957
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative L2 beta-lactamase"
+                     /protein_id="AHB51674.1"
+                     /translation="MLARRQFLQWTGAAAASALAATALARSPLASAVPGRKADDFAAL
+                     EAASGGRLGVTLLDTATGQRIGHRQDERFPMCSTFKFVLSAAVLHLADQGTLSLDRRV
+                     LVRQQDMLSHAPVTMRHIGKDLTVRDLCRATMVTSDNPAANLLLGVVGGPAGVTAFLR
+                     ANGDAVTRNDRLEPEMNRFAPGDPRDTTSPAAMAASLQRFVLGEVLKPASRQQLADWL
+                     IDNETGDARLRAGLSKAWRVGDKTGSNGKDTTNDIAILWPLAGGAPWVLTSYLQGATV
+                     DDAGRNDVLRQVAVIAERIMQRPR"
+ORIGIN      
+        1 ctggtgcccc ctcggcagag gcggaatact cgggttttcg ccaaggagaa ccgcatgctt
+       61 gccagacgac agttcctgca atggaccggg gccgccgccg cttcggccct ggctgccacc
+      121 gcgttggcca ggtcaccctt ggcttcggct gtgcctggcc gcaaggccga cgattttgct
+      181 gcgctggaag ccgccagcgg cggtcgcctc ggcgtgaccc tgctcgacac cgccaccggg
+      241 cagcgcatcg gtcaccgcca ggacgagcgc ttcccgatgt gcagcacgtt caaattcgtc
+      301 ctgtcggccg ccgtcctgca cctggccgac cagggcacgc tctcgctgga ccggcgcgtc
+      361 ctcgtgcgcc agcaggacat gctctcgcat gcaccggtga ccatgcggca tatcggcaag
+      421 gacctgacgg tgcgcgacct gtgccgggca acgatggtca ccagcgacaa tcccgcggcg
+      481 aacctgctgc tgggcgtggt cggtgggccg gccggcgtga ccgcgttcct gcgtgccaat
+      541 ggcgatgcgg tgacccgcaa cgatcgtctc gagccggaga tgaacaggtt cgccccgggc
+      601 gacccgcgcg acaccaccag cccggcggcg atggccgcca gcctgcagcg tttcgtgctc
+      661 ggtgaggtgc tcaagccggc ctcgcggcag cagctggcgg actggctgat cgacaacgaa
+      721 accggtgatg cgcggctgcg tgctggcctt tccaaggcgt ggcgggtggg cgacaagacc
+      781 ggcagcaacg gcaaggacac caccaacgac atcgccatcc tgtggccgct ggccggcggc
+      841 gcgccgtggg tgctgaccag ctatctgcag ggcgccacgg tggatgatgc cggccgcaac
+      901 gatgtgctgc ggcaggtggc ggtgatcgcc gaacgcatca tgcagagacc gcggtag
+//
+
+LOCUS       KC520485                1662 bp    DNA     linear   BCT 01-APR-2015
+DEFINITION  Mixed culture bacterium TET_AL_1 putative drug resistance
+            transporter EmrB/QacA gene, complete cds.
+ACCESSION   KC520485
+VERSION     KC520485.1
+KEYWORDS    .
+SOURCE      mixed culture bacterium TET_AL_1
+  ORGANISM  mixed culture bacterium TET_AL_1
+            Bacteria.
+REFERENCE   1  (bases 1 to 1662)
+  AUTHORS   Perron,G.G., Whyte,L., Turnbaugh,P.J., Goordial,J., Hanage,W.P.,
+            Dantas,G. and Desai,M.M.
+  TITLE     Functional characterization of bacteria isolated from ancient
+            arctic soil exposes diverse resistance mechanisms to modern
+            antibiotics
+  JOURNAL   PLoS ONE 10 (3), E0069533 (2015)
+   PUBMED   25807523
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1662)
+  AUTHORS   Perron,G.G., Whyte,L., Turnbaugh,P.J., Hanage,W.P., Dantas,G. and
+            Desai,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JAN-2013) Biology, University of Ottawa, 30
+            Marie-Curie, Ottawa, ON K1N 6N5, Canada
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1662
+                     /organism="mixed culture bacterium TET_AL_1"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Active layer soil from the Arctic"
+                     /db_xref="taxon:1424462"
+                     /clone="TET_AL_1"
+                     /country="Canada"
+                     /note="cf. Arthrobacter sp."
+     CDS             1..1662
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative drug resistance transporter EmrB/QacA"
+                     /protein_id="AHB51675.1"
+                     /translation="MSKTTAVRAAGETLTQRQIVTVMVGLMLGMFLASLDQTIVSTSI
+                     YTIANDLDGLSLQAWATTAYLITSTVSTPLYGKLSDIFGRRPLYLIAIVIFLVGSLYA
+                     GSVHSMTELAIARGVQGLGAGGLLALALTIIGDIVSLKDRAKYQGYFMSVFGISSVLG
+                     PVVGGAFAGSANILGFDGWRWVFFINLPIGLAALAVVFMFLHLPAKHVKQKIDYFGAA
+                     AITLAIVPLLLVAEQGRSWGFMSLNSFLCYGLGAVGIVWFLLAEKRAGDYALIPLRLF
+                     RNATFGLSSLLNFIIGIGMFGAIAMLPMYLQLVKGLTPTEAGLMMITFTLGILTGSIT
+                     AGRTISASGTYRIFPIVGTGILTVAALVMGLSLGVDTGLWVPGVIAVFFGMGLGFCMQ
+                     PLTLAMQVSVPPKDMGVGTSSAAFFRSMGGAVGTAVFISMLFSLAASRIADTMKSAMS
+                     SADYQAVLRDPAVAADPANAKLYEFFQNGASNESLNDTSWLHSANSVLTRPITEGFAY
+                     AIDTVMITAAVLTGIAFLISFALPNKKLTDPKVAPQGDAAAVAAH"
+ORIGIN      
+        1 atgtccaaaa caaccgctgt gcgtgccgcc ggcgaaaccc tgacacagcg tcagatcgtc
+       61 accgtgatgg tggggctgat gctgggcatg ttcctggcgt cgctggacca gaccatcgtg
+      121 tccacctcca tctacaccat cgccaacgac ctcgacgggc tgtccctgca ggcgtgggcc
+      181 accaccgcct acctcatcac gtccaccgtc agcacgccgc tgtacggcaa gctgagcgac
+      241 attttcggcc gccgcccgct gtacctgatc gcgatcgtca tcttcctggt cggctcgctc
+      301 tacgccggct ccgtgcactc catgacggag ctggccatcg cccgcggcgt ccagggcctg
+      361 ggcgccggcg gcctgctggc cctcgcgctg accatcatcg gggacatcgt gtccctcaag
+      421 gaccgggcca agtaccaggg ctacttcatg tcggtgttcg gcatctcctc cgtactcggc
+      481 cccgtagtgg gcggcgcatt tgcaggttcc gccaacatcc tgggctttga cggctggcgc
+      541 tgggtgttct tcatcaacct gcccatcggc ctggcggccc tggccgtggt gtttatgttc
+      601 ctgcacctgc cggccaagca cgtgaaacag aagatcgact acttcggcgc ggccgccatc
+      661 acgctcgcca tcgtcccgct gctgctggtg gcggaacagg gccgcagctg gggctttatg
+      721 tcgctgaatt ccttcctttg ctacggcctg ggcgcggtgg gcatcgtctg gttcctgctg
+      781 gctgaaaagc gcgccgggga ctacgccctg atcccgctcc ggctcttccg gaacgctact
+      841 tttggcctgt cctcgctgct gaacttcatc atcggcatcg gcatgttcgg cgccatcgcc
+      901 atgctgccca tgtacctgca gctggtcaag gggctcacgc ccaccgaagc cggcctgatg
+      961 atgatcacct tcaccctggg catcctgacc ggttcgatca ccgcaggccg caccatttcg
+     1021 gcgtcgggca cgtaccggat tttccccatc gtgggtacgg gcatcctcac cgtcgccgcg
+     1081 ctggttatgg ggctgtccct gggcgtggac acgggcctgt gggttcccgg cgtgatcgcc
+     1141 gtgttcttcg gcatgggcct gggtttctgc atgcagccgc tcaccctggc catgcaggtc
+     1201 tccgtgccgc cgaaggacat gggcgtgggc acgtcctccg ccgcgttctt ccgctccatg
+     1261 ggcggcgcgg tgggcacggc tgtgttcatc tccatgctgt tcagcctggc cgcgagccgg
+     1321 atcgccgaca cgatgaagtc cgccatgtcc agtgccgact accaggccgt actgcgcgac
+     1381 ccggctgtgg cggcggaccc cgccaacgcc aagctctacg agttcttcca gaacggggca
+     1441 tcgaacgagt cgctcaatga caccagctgg ctccactccg cgaacagcgt gctcacccgg
+     1501 cccattaccg agggctttgc gtacgcgatc gacaccgtga tgatcaccgc ggccgtcctc
+     1561 accggcatcg cgttcctgat cagcttcgcg ctgccaaaca agaagctgac ggacccgaaa
+     1621 gtggccccgc agggagacgc agctgcggtg gcggcccact aa
+//
+
+LOCUS       KC520486                1197 bp    DNA     linear   BCT 01-APR-2015
+DEFINITION  Mixed culture bacterium TET_AL_2 putative transporter gene,
+            complete cds.
+ACCESSION   KC520486
+VERSION     KC520486.1
+KEYWORDS    .
+SOURCE      mixed culture bacterium TET_AL_2
+  ORGANISM  mixed culture bacterium TET_AL_2
+            Bacteria.
+REFERENCE   1  (bases 1 to 1197)
+  AUTHORS   Perron,G.G., Whyte,L., Turnbaugh,P.J., Goordial,J., Hanage,W.P.,
+            Dantas,G. and Desai,M.M.
+  TITLE     Functional characterization of bacteria isolated from ancient
+            arctic soil exposes diverse resistance mechanisms to modern
+            antibiotics
+  JOURNAL   PLoS ONE 10 (3), E0069533 (2015)
+   PUBMED   25807523
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1197)
+  AUTHORS   Perron,G.G., Whyte,L., Turnbaugh,P.J., Hanage,W.P., Dantas,G. and
+            Desai,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JAN-2013) Biology, University of Ottawa, 30
+            Marie-Curie, Ottawa, ON K1N 6N5, Canada
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1197
+                     /organism="mixed culture bacterium TET_AL_2"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Active layer soil from the Arctic"
+                     /db_xref="taxon:1424463"
+                     /clone="TET_AL_2"
+                     /country="Canada"
+                     /note="cf. Pseudomonas sp."
+     CDS             1..1197
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative transporter"
+                     /protein_id="AHB51676.1"
+                     /translation="MNLRTILILGALSAFAPLAIDFYLPAFPAMALAFGTDEQHVQVT
+                     LAAYFLGLSIGQLVYGPIADRFGRRVPLLTGVVLFTVASLACAFAPNLEWLIGARFVQ
+                     ALGGCAGMVISRAIVSDKCDAVGSAKVFSQLMLVMGLAPILAPMLGGLLVNTTGWQSI
+                     FLVLTGFSALAAVAVALGLPESMPADMPRQPLSGSLRQYGRLFADRVFLGHALTGGIA
+                     IAGMFAYIAGSPFVFIKLYRVPAEHFGWLFGTNAAGFILVAQVNARLLAKRGPAFLLA
+                     RAVWVYLAAGLALLAVSALHTEKLWPLLIPLFICIASLGCILPNASACAMNGQGARAG
+                     SASALLGCLQFSVAAGAASLVGILYDGTAMPMAMVISLCGALVVSVAMLTRRLQNTRA
+                     LVQAQV"
+ORIGIN      
+        1 atgaacttgc gtaccatttt aatcctcggc gccctcagtg cgtttgcgcc gctggcgatc
+       61 gacttttacc tgccagcctt tcccgcgatg gcgctggctt tcggcaccga cgaacaacac
+      121 gttcaagtga cgcttgcggc ctattttctg gggttgtcga ttggtcaatt ggtctacggc
+      181 ccgattgccg atcgcttcgg ccggcgggtg ccattgctca ctggcgtggt gttgttcacc
+      241 gtcgcttcac tggcctgcgc gtttgcgccg aacctcgaat ggctgatcgg cgcgcgcttc
+      301 gtccaggcgc tgggcggttg cgcagggatg gtgatctcgc gggcaatcgt cagcgataaa
+      361 tgcgatgcgg tgggctcggc caaggtcttt tcccagctga tgctggtgat ggggctggca
+      421 cctatccttg cgccaatgct gggcggattg ctggtcaata ccacaggctg gcagtcgatc
+      481 ttcctggtgt tgaccggctt cagtgcgctg gcggcggtgg ccgtggcgct ggggttgccg
+      541 gaaagcatgc cggccgatat gccgcgccaa ccattgtctg gctctttgcg gcagtacggc
+      601 cggttgttcg cggatcgggt attccttggc catgccctga cgggcggtat cgccatcgcc
+      661 gggatgtttg cctacatcgc cggctcgcct tttgtgttca tcaagctcta ccgcgtgccg
+      721 gccgagcatt tcggctggtt gttcggcacc aatgcggcgg gtttcattct ggtggcccag
+      781 gtcaacgccc ggttactggc caagcgtggg ccggcattcc tgctggcacg tgcggtatgg
+      841 gtttacctgg cggcaggcct ggcgctgctc gccgtgagtg cgctgcacac cgagaaactg
+      901 tggccgctgc tgattccgtt gttcatctgt atcgccagcc tggggtgcat cctgcccaac
+      961 gcgtcggcct gcgcgatgaa cggtcagggc gcccgcgccg gcagtgcgtc ggcattgctt
+     1021 ggttgcctgc aattcagcgt cgccgccggg gctgcgtcac tggtggggat tttgtacgac
+     1081 ggcacggcca tgccgatggc catggtcatc agcctgtgcg gggctctggt ggtgagcgtc
+     1141 gcaatgctca cccgacgttt gcaaaatacc cgggcgctgg tgcaggccca ggtttga
+//
+
+LOCUS       KC520487                1104 bp    DNA     linear   BCT 01-APR-2015
+DEFINITION  Mixed culture bacterium SIS_AL_1 putative aminoglycoside
+            6'-N-acetyltransferase lz-like gene, partial sequence.
+ACCESSION   KC520487
+VERSION     KC520487.1
+KEYWORDS    .
+SOURCE      mixed culture bacterium SIS_AL_1
+  ORGANISM  mixed culture bacterium SIS_AL_1
+            Bacteria.
+REFERENCE   1  (bases 1 to 1104)
+  AUTHORS   Perron,G.G., Whyte,L., Turnbaugh,P.J., Goordial,J., Hanage,W.P.,
+            Dantas,G. and Desai,M.M.
+  TITLE     Functional characterization of bacteria isolated from ancient
+            arctic soil exposes diverse resistance mechanisms to modern
+            antibiotics
+  JOURNAL   PLoS ONE 10 (3), E0069533 (2015)
+   PUBMED   25807523
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1104)
+  AUTHORS   Perron,G.G., Whyte,L., Turnbaugh,P.J., Hanage,W.P., Dantas,G. and
+            Desai,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JAN-2013) Biology, University of Ottawa, 30
+            Marie-Curie, Ottawa, ON K1N 6N5, Canada
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1104
+                     /organism="mixed culture bacterium SIS_AL_1"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Active layer soil from the Arctic"
+                     /db_xref="taxon:1424457"
+                     /clone="SIS_AL_1"
+                     /country="Canada"
+                     /note="cf. Stenotrophomonas sp."
+     misc_feature    1..>1104
+                     /note="similar to putative aminoglycoside
+                     6'-N-acetyltransferase lz; confers resistance to
+                     sisomicin"
+ORIGIN      
+        1 ctgcaggcca atccgcaggc cgcgctgttg ttcctgtggc gcagcctgcg cgaagccggt
+       61 atccaggtgc gcattgaagg ccgtgtcgag caggtcgccg atgccgaagc cgatgcctat
+      121 ttcgccagcc gcccgcgcat gagccagatt ggcgcgtggg cctcgcagca gtcgaagacg
+      181 ctggcaacgc gcgaggaatt cgatgcgcgc gtggccgagg tcgaagcccg cttcgagggc
+      241 aaggacgtgc cgcgcccgga gggctggagc ggcctgcgcg tggtgcccga ccgcatcgag
+      301 ttctggtacg gcgcgcagtt ccgcctgcac gaacgctggt gctatgaagc cggtgccgaa
+      361 gggcgctgga gcaagcgcct gttgtacccg tgatcgccag cgcgcccacg atccgccagg
+      421 ccacgccggc cgatgcggct gcatgggcgc agttgcgtct cggcctgtgg cctgatgccg
+      481 atgatccgct ggaggagctg acgcagtcgc tggcagatgc cgaaggtgct gtgttcttgg
+      541 cctgtgccgc ggatggcgag acggttggtt tcgctgaagt gcgcctgcgc catgactacg
+      601 tgaacggtac cgagtcttcg ccggtggggt tcctggaggg ctggtacgtg cagccgcagt
+      661 ggcaaggcag cggcgtcggc cgcgccctgc tggcggcggt gcaggcgtgg acgcgcgatg
+      721 cgggctgccg cgaactggct tcggacagtc gcgtggaaga cgtgcaggct cacgccgcgc
+      781 atcgggcctg cggcttcgaa gagaccgaac gggtcgtcta tttccgcatg ccgctggagc
+      841 catcggcgtg aatcgcgtgg cgctgtaccg cgtggtggtg ttcgtgccgt cggcagcact
+      901 gggcgcggtg aagcagggca tcctggcggt ggacgcgctg gcggccggcg actacgagca
+      961 cggtatgtgg tggtcggcgc cggggttcga acagttccgc ccgcgcgtgg gtgcgtcgcc
+     1021 cgtgcagggt gaggcggggc gcaccgaagt ggtcgacagc gtacgcttgg aattctgcct
+     1081 cggcgcgatc cgcagcggct gcag
+//
+
+LOCUS       KC520488                 723 bp    DNA     linear   BCT 01-APR-2015
+DEFINITION  Mixed culture bacterium SIS_AL_2 putative multidrug ABC transporter
+            ATPase and permease gene, complete cds.
+ACCESSION   KC520488
+VERSION     KC520488.1
+KEYWORDS    .
+SOURCE      mixed culture bacterium SIS_AL_2
+  ORGANISM  mixed culture bacterium SIS_AL_2
+            Bacteria.
+REFERENCE   1  (bases 1 to 723)
+  AUTHORS   Perron,G.G., Whyte,L., Turnbaugh,P.J., Goordial,J., Hanage,W.P.,
+            Dantas,G. and Desai,M.M.
+  TITLE     Functional characterization of bacteria isolated from ancient
+            arctic soil exposes diverse resistance mechanisms to modern
+            antibiotics
+  JOURNAL   PLoS ONE 10 (3), E0069533 (2015)
+   PUBMED   25807523
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 723)
+  AUTHORS   Perron,G.G., Whyte,L., Turnbaugh,P.J., Hanage,W.P., Dantas,G. and
+            Desai,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JAN-2013) Biology, University of Ottawa, 30
+            Marie-Curie, Ottawa, ON K1N 6N5, Canada
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..723
+                     /organism="mixed culture bacterium SIS_AL_2"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Active layer soil from the Arctic"
+                     /db_xref="taxon:1424458"
+                     /clone="SIS_AL_2"
+                     /country="Canada"
+                     /note="cf. Arthrobacter sp."
+     CDS             1..723
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative multidrug ABC transporter ATPase and
+                     permease"
+                     /protein_id="AHB51677.1"
+                     /translation="MVKKAIVTAMAVISLFTLMGCNNRAEVDTLSPAQAAELKPMPQS
+                     WRGVLPCADCEGIETSLFLEKDGTWVMNERYLGAREEPSSFASYGTWARTADKLVLTD
+                     SKGEKSYYRAKGDALEMLDREGNPIESQFNYTLEAAQSSLPMTPMTLRGMYFYMADAA
+                     TFTDCATGKRFMVANNAELERSYLAARGHSEKPVLLSVEGHFTLEGNPDTGAPTKVLA
+                     PDTAGKFXPNQDCSSLGQYTPS"
+ORIGIN      
+        1 atggtgaaaa aagcgatagt gacagcgatg gctgtaatca gcctctttac tctgatggga
+       61 tgtaataatc gggccgaagt cgatacgctt tctccggcgc aggctgccga actgaaaccg
+      121 atgccgcaaa gttggcgcgg cgtgctgccg tgtgccgatt gcgaaggaat cgaaacctct
+      181 ctgttcctcg aaaaagacgg aacatgggtg atgaatgagc gttatctcgg tgctcgtgaa
+      241 gaaccttcct ccttcgcttc ctacggtaca tgggcgcgaa ccgctgacaa gctggtatta
+      301 accgacagca aaggtgaaaa gtcatattat cgggcgaaag gcgatgcgct ggagatgctc
+      361 gatcgtgaag gcaatccgat tgaatcgcag ttcaactata cgctggaagc ggcacaatcc
+      421 agtttaccta tgacgccgat gaccctgcgg ggcatgtatt tttatatggc tgatgcggcg
+      481 accttcactg attgcgcgac cggaaaacgt ttcatggtag cgaataacgc agagctggag
+      541 cgtagctacc tggctgcgcg cggtcacagt gaaaaaccgg tgttactgtc agtagaaggt
+      601 cactttacgc ttgagggtaa tccggatacc ggtgcgccga ctaaagtatt ggcacccgat
+      661 acggcaggga aattttancc caaccaggat tgcagtagtt tggggcagta caccccgtct
+      721 tga
+//
+
+LOCUS       KC520489                 624 bp    DNA     linear   BCT 01-APR-2015
+DEFINITION  Mixed culture bacterium AMK_AL_1 putative acyl carrier protein
+            phosphodiesterase gene, complete cds.
+ACCESSION   KC520489
+VERSION     KC520489.1
+KEYWORDS    .
+SOURCE      mixed culture bacterium AMK_AL_1
+  ORGANISM  mixed culture bacterium AMK_AL_1
+            Bacteria.
+REFERENCE   1  (bases 1 to 624)
+  AUTHORS   Perron,G.G., Whyte,L., Turnbaugh,P.J., Goordial,J., Hanage,W.P.,
+            Dantas,G. and Desai,M.M.
+  TITLE     Functional characterization of bacteria isolated from ancient
+            arctic soil exposes diverse resistance mechanisms to modern
+            antibiotics
+  JOURNAL   PLoS ONE 10 (3), E0069533 (2015)
+   PUBMED   25807523
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 624)
+  AUTHORS   Perron,G.G., Whyte,L., Turnbaugh,P.J., Hanage,W.P., Dantas,G. and
+            Desai,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JAN-2013) Biology, University of Ottawa, 30
+            Marie-Curie, Ottawa, ON K1N 6N5, Canada
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..624
+                     /organism="mixed culture bacterium AMK_AL_1"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Active layer soil from the Arctic"
+                     /db_xref="taxon:1424446"
+                     /clone="AMK_AL_1"
+                     /country="Canada"
+                     /note="cf. Arthrobacter sp."
+     CDS             1..624
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative acyl carrier protein phosphodiesterase"
+                     /protein_id="AHB51678.1"
+                     /translation="MQLARRFIDSVQTAGSESFELENLDLFNDRALPAFGRAAADAKM
+                     AVFSGQDQTPEQIAAWKSARDVFDQFAAADAYVFNIPMWNAGVPYVLKQWIDIVTQPG
+                     WSFGFDPEKGYCGLMEGKQAIAIHTSGVYAPGLPAAFGSDFSSTYFADWLNFVGIEDA
+                     THVRFAPTVVNGDVDGTRKLAESELSAAASAFAGKLSAVGALQLINN"
+ORIGIN      
+        1 ttgcaattgg cccgccgctt catcgattcc gtccagactg ccggctcgga gagctttgag
+       61 ctggagaacc tcgatctgtt caacgaccgt gcgctgcccg ctttcggtcg tgcagcagcg
+      121 gatgccaaga tggccgtctt ctccggacag gaccaaactc cggaacaaat cgccgcgtgg
+      181 aaatcagccc gcgacgtatt cgatcagttc gccgctgccg atgcctacgt cttcaatatc
+      241 cccatgtgga acgcgggcgt tccttatgtc ctgaagcagt ggatcgacat tgtcacccag
+      301 cccggatgga gcttcggctt tgaccccgaa aagggatact gcggcttgat ggaaggaaag
+      361 caggctatag cgattcacac cagcggtgtt tacgctcccg gtctacctgc tgcctttggt
+      421 agcgatttca gcagcaccta ttttgctgac tggctgaact ttgtcggcat agaggacgcc
+      481 actcatgtcc gttttgcccc gacggtagtc aacggcgatg tggacggcac acgcaagctt
+      541 gccgagtccg agctctccgc ggcagcatcc gcgtttgccg gcaagctcag cgctgttgga
+      601 gcccttcagc tcattaacaa ctga
+//
+
+LOCUS       KC520490                 963 bp    DNA     linear   BCT 01-APR-2015
+DEFINITION  Mixed culture bacterium AMK_AL_2 putative dehydrogenase gene,
+            complete cds.
+ACCESSION   KC520490
+VERSION     KC520490.1
+KEYWORDS    .
+SOURCE      mixed culture bacterium AMK_AL_2
+  ORGANISM  mixed culture bacterium AMK_AL_2
+            Bacteria.
+REFERENCE   1  (bases 1 to 963)
+  AUTHORS   Perron,G.G., Whyte,L., Turnbaugh,P.J., Goordial,J., Hanage,W.P.,
+            Dantas,G. and Desai,M.M.
+  TITLE     Functional characterization of bacteria isolated from ancient
+            arctic soil exposes diverse resistance mechanisms to modern
+            antibiotics
+  JOURNAL   PLoS ONE 10 (3), E0069533 (2015)
+   PUBMED   25807523
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 963)
+  AUTHORS   Perron,G.G., Whyte,L., Turnbaugh,P.J., Hanage,W.P., Dantas,G. and
+            Desai,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JAN-2013) Biology, University of Ottawa, 30
+            Marie-Curie, Ottawa, ON K1N 6N5, Canada
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..963
+                     /organism="mixed culture bacterium AMK_AL_2"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Active layer soil from the Arctic"
+                     /db_xref="taxon:1424447"
+                     /clone="AMK_AL_2"
+                     /country="Canada"
+     CDS             1..963
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative dehydrogenase"
+                     /protein_id="AHB51679.1"
+                     /translation="MKALQGVEGQVEWVEEPSPTCDVGQVRIRVAAAGLNRADLLQKA
+                     GLYPPPPGASQVLGLECSGVISEVGAGSSWQVGDRVCALLAGGGMAEEVVVDGRHVLP
+                     VPDGLSLAEAAALPEVYATVWLNLFQLAALKPGEKVLLHAGASGIGSAAIQLCKAFGN
+                     PCWVSVGSAERLAYCEALGAQGGVVRTGDLDSLRDLGPFDVILDPVGGNYAALNLKML
+                     ALDGRWVLIGLMGGREAKLDLAQVLAKRVQILGSTLRSRDEQFKADLFSDLSQHVWPL
+                     FAEGRLSPQLAKTFPIKDAEAAFAELASNKVAGKLVLIIDPSLT"
+ORIGIN      
+        1 gtgaaagcat tgcaaggcgt ggaaggtcaa gtggagtggg ttgaagagcc cagtcctaca
+       61 tgcgatgtag gacaagttcg aattcgagtg gcggcagcgg gcctcaatcg cgccgatttg
+      121 ttacagaagg caggacttta tccgccaccg ccgggagcca gtcaggtact gggtcttgag
+      181 tgttcggggg tgatcagcga ggtcggtgcg ggctcgtcct ggcaggtcgg cgaccgggtt
+      241 tgcgccttgc tggccggggg cgggatggcc gaagaggtag ttgtcgacgg acggcatgtg
+      301 ctgccggttc ccgacggttt gtccctggcc gaggccgctg cgctgccgga agtttacgcg
+      361 accgtctggc tgaatttgtt tcaactggct gcgctcaaac caggtgagaa agttctcctg
+      421 cacgccggag caagtggaat cggttcagct gccattcagc tgtgcaaggc ctttggcaac
+      481 ccgtgctggg tcagcgttgg ttctgccgag cgtctggcgt attgcgaagc actgggtgcg
+      541 cagggtgggg tggtgcgcac cggcgacctg gacagcttgc gtgatctggg gccgttcgac
+      601 gtgattctcg acccggtcgg cggcaactat gccgcgctga atctgaaaat gctggcgctc
+      661 gacggtcgtt gggtgctgat cggtttgatg ggcggtcgtg aggcgaagct ggatctggcg
+      721 caggtcctgg ccaagcgcgt gcaaatactg ggatcgacct tgcgcagtcg cgatgagcag
+      781 ttcaaggcag atttgttcag tgatttgagc cagcacgtgt ggccgctgtt tgccgagggg
+      841 cggttgagtc cgcagttggc caagacattc ccgatcaagg acgccgaagc ggcgtttgcg
+      901 gagttggcga gtaataaggt ggcggggaag ttagtgttga taatcgaccc aagcctgacc
+      961 tga
+//
+
+LOCUS       KC520491                 475 bp    DNA     linear   BCT 01-APR-2015
+DEFINITION  Mixed culture bacterium DOX_AL_1 putative glycerol-3-phosphate
+            O-acyltransferase gene, partial cds.
+ACCESSION   KC520491
+VERSION     KC520491.1
+KEYWORDS    .
+SOURCE      mixed culture bacterium DOX_AL_1
+  ORGANISM  mixed culture bacterium DOX_AL_1
+            Bacteria.
+REFERENCE   1  (bases 1 to 475)
+  AUTHORS   Perron,G.G., Whyte,L., Turnbaugh,P.J., Goordial,J., Hanage,W.P.,
+            Dantas,G. and Desai,M.M.
+  TITLE     Functional characterization of bacteria isolated from ancient
+            arctic soil exposes diverse resistance mechanisms to modern
+            antibiotics
+  JOURNAL   PLoS ONE 10 (3), E0069533 (2015)
+   PUBMED   25807523
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 475)
+  AUTHORS   Perron,G.G., Whyte,L., Turnbaugh,P.J., Hanage,W.P., Dantas,G. and
+            Desai,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JAN-2013) Biology, University of Ottawa, 30
+            Marie-Curie, Ottawa, ON K1N 6N5, Canada
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..475
+                     /organism="mixed culture bacterium DOX_AL_1"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Active layer soil from the Arctic"
+                     /db_xref="taxon:1424452"
+                     /clone="DOX_AL_1"
+                     /country="Canada"
+                     /note="cf. Stenotrophomonas sp."
+     CDS             <1..>475
+                     /codon_start=2
+                     /transl_table=11
+                     /product="putative glycerol-3-phosphate O-acyltransferase"
+                     /protein_id="AHB51680.1"
+                     /translation="PVGRRPWWARLLGRLVEPWLSLKIEPEQPGQYNDGRPVVYVLED
+                     YGLSNALILDKACREAGLPSPLVPIAGDPTGRKRAYLALSRRSSSNSLIPEQRGAKTH
+                     SDSLAKVLQAHRARGELDVHLVPVSIFVGRAPDKQSGWFAVLFSENWALVGRFRRL"
+ORIGIN      
+        1 cccggtcggt cgccggccgt ggtgggcgcg cctgctcggc aggctggtcg agccctggct
+       61 gtcgctgaag atcgaaccgg agcagcctgg ccagtacaac gatggccgcc cggtggtgta
+      121 cgtgctggaa gactacggtc tgtccaacgc gctgatcctg gacaaggcct gccgcgaagc
+      181 cggcctgccc tcgccgctgg tgcccattgc cggcgacccg accgggcgca agcgcgccta
+      241 cctggccctc tcgcgccgca gcagcagcaa ttcgctgatt cccgagcagc gcggcgccaa
+      301 gacccattcc gattcgctgg ccaaggtgct gcaggcgcat cgtgcccgcg gcgagctcga
+      361 cgtgcacctg gtgccggtgt cgatcttcgt cggccgcgcg ccggacaagc agagcggctg
+      421 gttcgcggtg ctgttctcgg aaaactgggc gctggtcggg cgcttccgcc gcctg
+//
+
+LOCUS       KC520492                 573 bp    DNA     linear   BCT 01-APR-2015
+DEFINITION  Mixed culture bacterium DOX_AL_2 putative Acyl-CoA thioesterase I
+            gene, partial cds.
+ACCESSION   KC520492
+VERSION     KC520492.1
+KEYWORDS    .
+SOURCE      mixed culture bacterium DOX_AL_2
+  ORGANISM  mixed culture bacterium DOX_AL_2
+            Bacteria.
+REFERENCE   1  (bases 1 to 573)
+  AUTHORS   Perron,G.G., Whyte,L., Turnbaugh,P.J., Goordial,J., Hanage,W.P.,
+            Dantas,G. and Desai,M.M.
+  TITLE     Functional characterization of bacteria isolated from ancient
+            arctic soil exposes diverse resistance mechanisms to modern
+            antibiotics
+  JOURNAL   PLoS ONE 10 (3), E0069533 (2015)
+   PUBMED   25807523
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 573)
+  AUTHORS   Perron,G.G., Whyte,L., Turnbaugh,P.J., Hanage,W.P., Dantas,G. and
+            Desai,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JAN-2013) Biology, University of Ottawa, 30
+            Marie-Curie, Ottawa, ON K1N 6N5, Canada
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..573
+                     /organism="mixed culture bacterium DOX_AL_2"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Active layer soil from the Arctic"
+                     /db_xref="taxon:1424453"
+                     /clone="DOX_AL_2"
+                     /country="Canada"
+                     /note="cf. Stenotrophomonas sp."
+     CDS             <1..573
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative Acyl-CoA thioesterase I"
+                     /protein_id="AHB51681.1"
+                     /translation="ACAKGPVTRNAVLVVGDSLSAAHNIPAASGWVNLLQQRVKQQVT
+                     PAPAIINASISGETTAGALTRLPALLARHQPRVVVIELGGNDALRGLSPAQLRGNLEK
+                     MILASQQAGAKVLLLGIDVPPNYGPAYRQKLRQTYADLSRKHQAPLLPFLLEGVALKP
+                     GLMQSDGLHPTAAAQPQVLENVWPLLKPML"
+ORIGIN      
+        1 gcctgtgcca aaggtccggt cacgcgcaat gcggtgctgg tggtcggcga cagcctgagt
+       61 gccgcccaca atatcccggc cgcgtcgggc tgggtgaacc tgcttcagca gcgggttaaa
+      121 caacaggtca cgccggcgcc ggccatcatc aatgccagca tcagcggcga gaccaccgcc
+      181 ggcgcgctca ctcggctgcc ggcgctgctg gcccggcacc agccgcgggt ggtggtgatc
+      241 gaactgggcg gcaacgatgc gctgcgcggg ttgagcccgg cgcagctgcg cggcaacctg
+      301 gagaagatga tcctggccag ccagcaggcc ggggccaagg tgctgctgct cgggatcgac
+      361 gtaccgccca actacggccc ggcctaccgc cagaagctgc gccagaccta tgcggatctc
+      421 tccagaaagc accaggcgcc gctgctgccg ttcctgctcg agggcgtggc gctcaagccc
+      481 gggttgatgc agtccgacgg cctgcacccg accgccgctg cgcagccgca ggtgctggag
+      541 aacgtctggc cgctgctcaa acccatgctc tga
+//
+

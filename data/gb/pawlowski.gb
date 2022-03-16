@@ -1,0 +1,1049 @@
+LOCUS       KX531043                3093 bp    DNA     linear   BCT 09-NOV-2016
+DEFINITION  Paenibacillus sp. LC231 mupirocin-resistant isoleucyl-tRNA
+            synthetase (ileRS) gene, complete cds.
+ACCESSION   KX531043
+VERSION     KX531043.1
+KEYWORDS    .
+SOURCE      Paenibacillus sp. LC231
+  ORGANISM  Paenibacillus sp. LC231
+            Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae;
+            Paenibacillus.
+REFERENCE   1  (bases 1 to 3093)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     A diverse intrinsic antibiotic resistome from a cave bacterium
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 3093)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUL-2016) Biochemistry and Biomedical sciences,
+            McMaster University, 1280 Main St W, Hamilton, Ontario L8S 4L8,
+            Canada
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.5.0
+            Coverage              :: 50
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..3093
+                     /organism="Paenibacillus sp. LC231"
+                     /mol_type="genomic DNA"
+                     /strain="LC231"
+                     /isolation_source="Lechuguilla Cave"
+                     /db_xref="taxon:1120679"
+     gene            1..3093
+                     /gene="ileRS"
+     CDS             1..3093
+                     /gene="ileRS"
+                     /function="confers resistance in E. coli"
+                     /note="IleRS"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="mupirocin-resistant isoleucyl-tRNA synthetase"
+                     /protein_id="APB03213.1"
+                     /translation="MNRVDVKEKARARELRILNKWNEENTFKKSIELRAGKPNYVFYE
+                     GPPTANGAPHIGHVLGRVIKDFVGRYQTMKGYHVVRKAGWDTHGLPVELGVEKQLGIS
+                     GKQEIENYGVEAFIKKCKASVFEYEHKWRELTEAIAYWTDLDHPYITLENNYIESVWN
+                     ILATIHDKGLLYRGHRVSPYCPCCQTTLSSHEVAQGYEDVKDLSATAKFKLHDGGEYV
+                     LAWTTTPWTLPSHVALAVNPDMDYARVEQEDGIYIVAKNLVEDVMKGDFTVLSTLKGS
+                     ELVGKTYDPPFPFVKAEKANLIVGASFVTDASGTGIVHMAPAHGEDDYRVCRENGISF
+                     VSVVNGQGRYTDEVTDFAGRFVKDCDLDIVKALSEKGLLYSKEKYEHSYPFCWRCKSP
+                     LLYYAMESWFIETTAVKDQLIANNNEVTWYPGHVREGRFGKFLEDLVDWNISRNRYWG
+                     TPLNVWVCDSCEGQFSPHSIAELRANAVGEVAEDLELHKPYVDEVKVKCPHCEGGVME
+                     RTSEVIDVWFDSGSMPYAQYHYPFEDKEKFEQQYPADMICEGIDQTRGWFYSLLAVST
+                     LFTGKAPYKAVMATGHILDENGQKMSKSKGNVIDPWEIIEEYGTDAFRWALLADSAPW
+                     NSKRFSKGIVGEAKSKVVDTLVNTHAFLTLYAGIDGYDPKEHDFKGSNHKLDRWILSR
+                     LNSLIQVVDKGLAVNDFLNAAKAIEAYVDELSNWYIRRSRDRFWGSGLGEDKLAAYGT
+                     LTHVLLTLSKLMAPFTPMLSEDIFVNLGGGGESVHLADFPQTDEALIDKALEQDMETA
+                     RQIVELARNVRNETGIKTRQPLSELIVSMDREFDLAGYEDIIRDEINVKAIEVETSDS
+                     GFVDFTLKMNLKVAGKKYGKNIGFLQGFLKGMSSDETRKVVQTGGVNVTSPEGEELQI
+                     TSEELLVEKKAKEGFASASGYGLTVALNTDITPELEQEGWVREVVRAVQDTRKKLDLP
+                     IEKRVNLTLDTDEELKVAITAFEDVLRENVLVNDLQFAQSEGMERVELGGKTIGIHIA
+                     "
+ORIGIN      
+        1 atgaacagag tagacgtcaa ggagaaggcg cgggcaagag agctgcgcat cttgaacaaa
+       61 tggaacgagg agaacacgtt taagaaatca atcgagctgc gggccggcaa gccgaattat
+      121 gtattctacg aaggtccgcc gaccgctaac ggtgcgccgc acatcggtca cgtccttggc
+      181 cgcgtcatca aggattttgt gggccgttat cagacgatga agggctacca tgtcgttcgg
+      241 aaagcgggct gggatacgca cgggcttccg gttgagcttg gcgtagagaa gcagcttggc
+      301 atctccggca agcaggagat cgagaattat ggcgttgaag cttttatcaa aaaatgcaaa
+      361 gccagcgtat ttgaatatga gcacaagtgg cgcgagctga ccgaggcaat tgcttattgg
+      421 accgatctgg atcatcccta catcacgctt gagaacaact atatcgagag tgtatggaac
+      481 attctggcga cgattcatga taaaggcctt ctgtaccgcg gtcatcgcgt gagcccatac
+      541 tgtccttgct gtcagactac actcagctcc cacgaggtgg cgcaaggtta tgaggatgtt
+      601 aaagacctta gcgcaacagc gaagtttaag ctgcatgacg gcggagagta tgtactggca
+      661 tggacaacga cgccttggac gcttccatcc cacgtggcac tggctgtgaa tcccgatatg
+      721 gattacgccc gcgtcgagca ggaggacggc atctatatcg tggcgaagaa tctggtagag
+      781 gatgtcatga agggcgactt taccgttctg tccacactca aaggttccga gctggtcggc
+      841 aagacttacg atcctccgtt cccgtttgta aaagcggaaa aagcgaatct catcgtcggc
+      901 gcatcctttg ttaccgatgc aagcggtacg gggattgtgc atatggctcc tgcgcacggt
+      961 gaagatgact atcgcgtatg ccgcgagaat ggcatcagct tcgtgagtgt ggtgaacggc
+     1021 caaggccgtt ataccgacga agtgacggat tttgccggac gcttcgtgaa ggattgcgat
+     1081 ctggacatcg tgaaggcatt gtctgaaaaa ggacttctgt acagcaagga gaaatacgag
+     1141 cacagctatc cattctgctg gcgctgtaaa tccccgctgc tctattatgc gatggagagc
+     1201 tggtttatcg aaacgacagc ggttaaggat cagttgatcg cgaacaacaa tgaggtcacc
+     1261 tggtatccgg gccatgtgcg cgaaggccgc ttcggcaagt tccttgaaga tctggtagat
+     1321 tggaatatta gccggaaccg ttattgggga acaccgctta acgtatgggt ctgcgattct
+     1381 tgtgaagggc aattctcgcc gcacagcatt gcggagcttc gggctaacgc cgtaggcgag
+     1441 gtagcggagg atctggagct gcataagccg tatgtggatg aagtgaaagt gaaatgccct
+     1501 cactgtgaag gcggcgtcat ggaacggacc tcggaagtca tcgacgtatg gtttgacagc
+     1561 ggatcgatgc cgtatgcgca ataccattat ccattcgaag acaaggagaa attcgaacag
+     1621 cagtatcctg ctgatatgat ctgcgaaggg atcgaccaga cgcgcggatg gttctacagc
+     1681 ttgcttgccg tatcgactct ctttacgggt aaagcgcctt ataaagcggt tatggccaca
+     1741 ggacatattc ttgatgaaaa cggacagaag atgtccaaat ccaagggcaa cgtcatcgat
+     1801 ccttgggaaa tcatcgaaga gtacggcaca gatgcgttcc gttgggcgct gctcgctgac
+     1861 agtgcaccat ggaacagcaa acgcttttcg aaaggaatcg tcggcgaagc caaatccaag
+     1921 gttgtcgata cgctggtgaa cacccatgcg ttcctgacat tgtatgccgg catcgatggc
+     1981 tatgatccga aggagcatga cttcaaggga tcgaaccaca agctggaccg ctggattctg
+     2041 tcccgactga acagtttgat tcaagtggtt gacaagggac tggccgtgaa tgatttcctg
+     2101 aacgcggcca aagcaatcga agcttacgtg gatgagctga gcaactggta tatccgccgt
+     2161 tcgcgcgacc gtttctgggg cagcggactc ggggaggata agctggccgc atacgggacg
+     2221 cttacgcacg tgctgttgac cctctccaag ctgatggcac cattcacgcc gatgctgtcc
+     2281 gaagatatct tcgtcaactt gggcggcggc ggtgagagcg tgcatctggc cgacttcccg
+     2341 caaacagacg aagcgttgat cgacaaggcg ctcgagcagg acatggagac ggctagacag
+     2401 atcgtagagc ttgcgcgcaa cgtccgcaac gagaccggga tcaaaacgcg ccagccgctg
+     2461 tccgagctca tcgtatccat ggatcgcgag tttgatctcg cgggatatga agacatcatc
+     2521 agggatgaga tcaacgtcaa agcgattgag gtggagacca gcgacagtgg tttcgttgat
+     2581 ttcacgctga aaatgaactt aaaagttgca ggcaagaaat acggcaaaaa tatcggtttc
+     2641 ctgcaagggt tcctgaaagg catgagcagt gacgagaccc gcaaggtggt ccaaacgggc
+     2701 ggcgtgaacg tgacatcgcc ggaaggtgaa gaattacaga tcacgtccga agagctgctg
+     2761 gtggagaaga aggcgaagga aggctttgca tccgcttcag gttatggctt aaccgtggcg
+     2821 cttaatacgg atatcacgcc ggagctcgag caggaaggct gggttcgcga agtggtgcgt
+     2881 gccgtacagg atacgcgcaa gaagctggac ctgccgatcg agaagcgggt gaacttgacc
+     2941 ctcgataccg atgaagagct taaagttgcg atcaccgcat ttgaagatgt gctgcgcgag
+     3001 aatgtccttg tgaacgattt gcaatttgca caaagcgaag gcatggagcg ggttgagctt
+     3061 ggcggcaaaa ccatcggcat ccacatcgcc taa
+//
+
+LOCUS       KX531044                1032 bp    DNA     linear   BCT 09-NOV-2016
+DEFINITION  Paenibacillus sp. LC231 tetracycline resistance ATP-binding domain
+            protein (tetA-48) gene, complete cds.
+ACCESSION   KX531044
+VERSION     KX531044.1
+KEYWORDS    .
+SOURCE      Paenibacillus sp. LC231
+  ORGANISM  Paenibacillus sp. LC231
+            Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae;
+            Paenibacillus.
+REFERENCE   1  (bases 1 to 1032)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     A diverse intrinsic antibiotic resistome from a cave bacterium
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1032)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUL-2016) Biochemistry and Biomedical sciences,
+            McMaster University, 1280 Main St W, Hamilton, Ontario L8S 4L8,
+            Canada
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.5.0
+            Coverage              :: 50
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1032
+                     /organism="Paenibacillus sp. LC231"
+                     /mol_type="genomic DNA"
+                     /strain="LC231"
+                     /isolation_source="Lechuguilla Cave"
+                     /db_xref="taxon:1120679"
+     gene            1..1032
+                     /gene="tetA-48"
+     CDS             1..1032
+                     /gene="tetA-48"
+                     /function="confers resistance in E. coli when expressed
+                     with TetB(48)"
+                     /note="TetA(48)"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetracycline resistance ATP-binding domain
+                     protein"
+                     /protein_id="APB03214.1"
+                     /translation="MEHAYKKKIEPKPGDLAVEAYGLIKTFGDNRAVDGVDLNVRTGT
+                     IYGVLGPNGAGKTTTIRMLATLLRPDAGSARIFGHDVQAESQIVRQLIGVTGQYASVD
+                     ESLSATENLIIFSRLLGLGRKEARRKAEELLEEFGLSEAAKRPLKNFSGGMRRRLDLA
+                     ASLIAQPPLIFLDEPTTGLDPRTRSQMWDTIRRLVNTGSTVLLTTQYLEEADQLADRI
+                     AVIDYGRVVAEGTADELKMSVGTSSLHLTVEDSVDMDRACHTVEQVLGVHANVSPEAG
+                     KITAPMANAGLVTDLLIELRTAGIGLSEMSVQKPTLDEVFLTITGHGVKEDAAQESYE
+                     SNDREVARV"
+ORIGIN      
+        1 atggagcatg catacaaaaa gaaaatagaa ccaaaacctg gcgacttggc cgttgaggct
+       61 tacggactga tcaaaacatt cggagataac cgcgccgtgg atggggtgga tctgaacgta
+      121 cgtaccggaa cgatctacgg tgtacttggc ccgaatgggg caggcaagac gaccaccatc
+      181 cgaatgctgg cgaccttgct aagaccggat gcgggttcgg cccgaatctt cggacatgat
+      241 gtgcaggcgg aatcgcagat tgtccgtcag ttgatcgggg taaccggcca atacgcgtcg
+      301 gtggacgaat cgctcagcgc tacggagaat ctgattatat tctcacgttt gcttggtttg
+      361 gggcgtaagg aggcaaggcg caaggcggaa gagctgctcg aggaattcgg tttgtcggaa
+      421 gccgcgaagc ggccgctaaa aaatttctcg ggcggcatgc ggagaaggct ggatctggcg
+      481 gcaagcctga ttgcccagcc gccgcttatc ttcctggatg aaccgacgac ggggctggat
+      541 ccaaggacgc gttcccagat gtgggatacg atccgccgat tggtgaatac cggttcaacg
+      601 gtattgctga ccacgcagta tctcgaggag gccgaccagc tggcagaccg catcgccgtt
+      661 atcgattacg gccgggttgt ggccgagggg acggccgatg aactgaagat gtcggtgggc
+      721 acttcctcgc tgcatttgac tgtcgaggat tcggttgaca tggatcgcgc ctgccatacc
+      781 gtggaacaag tgttaggcgt ccatgccaat gtatcgccgg aagccggaaa gataacggcg
+      841 ccgatggcta atgcgggtct tgttacagac ctgctgatcg agctgcgaac agcaggaatc
+      901 ggcttgtccg agatgagcgt gcagaagccg accctggatg aggtgttcct aacgatcacc
+      961 ggccacggcg tgaaggaaga cgctgcccaa gagtcttatg aatccaatga tcgggaggtg
+     1021 gcacgggtat ga
+//
+
+LOCUS       KX531045                 816 bp    DNA     linear   BCT 09-NOV-2016
+DEFINITION  Paenibacillus sp. LC231 tetracycline resistance ABC-transporter
+            (tetB-48) gene, complete cds.
+ACCESSION   KX531045
+VERSION     KX531045.1
+KEYWORDS    .
+SOURCE      Paenibacillus sp. LC231
+  ORGANISM  Paenibacillus sp. LC231
+            Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae;
+            Paenibacillus.
+REFERENCE   1  (bases 1 to 816)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     A diverse intrinsic antibiotic resistome from a cave bacterium
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 816)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUL-2016) Biochemistry and Biomedical sciences,
+            McMaster University, 1280 Main St W, Hamilton, Ontario L8S 4L8,
+            Canada
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.5.0
+            Coverage              :: 50
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..816
+                     /organism="Paenibacillus sp. LC231"
+                     /mol_type="genomic DNA"
+                     /strain="LC231"
+                     /isolation_source="Lechuguilla Cave"
+                     /db_xref="taxon:1120679"
+     gene            1..816
+                     /gene="tetB-48"
+     CDS             1..816
+                     /gene="tetB-48"
+                     /function="confers resistance in E. coli when expressed
+                     with TetA(48)"
+                     /note="TetB(48)"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetracycline resistance ABC-transporter"
+                     /protein_id="APB03215.1"
+                     /translation="MSSSMIQPGTERQLKNRTSLGQTVRNSLTMAYRGLLKLRRTPEQ
+                     LFDVTFQPIIFTLMFTYIFGGAISGDVASYLPVIIPGILVQTVITTSVVTGVQLREDM
+                     DKGVFDRFKSLPIARIAPLAGALLADTIRYTIATVLTFTMGYIMGYRPEGGLGYVALA
+                     GLVVILCSWAISWIFAFCGVIARSASGVQGISMIVLFPLTFLSNAFVPVDTMPGWLQW
+                     FVNMNPISHLVTAVRDLTNAGTVGWDLTISLVGAAVIVAIFAPITVRAYMRRT"
+ORIGIN      
+        1 atgagcagct ccatgattca gcctgggacg gaacgtcagc ttaagaaccg cacgagtttg
+       61 ggtcagacgg tccgaaattc gttgacgatg gcttaccgcg ggctgctgaa gctccggcgc
+      121 acgcccgagc agttgtttga cgtcacgttt cagcccatta tttttacgct gatgttcacc
+      181 tatatttttg ggggcgccat ctcgggtgac gtggcgagtt atttgcccgt catcattccc
+      241 ggcatcctcg tccagaccgt gattacgacc tccgtcgtca caggcgttca gctgcgcgag
+      301 gatatggata aaggcgtatt cgaccgattc aaatcgctgc cgattgcacg catcgcaccg
+      361 ctggcgggtg ccctgctggc agacacgatt cggtatacca ttgcgacagt gcttaccttt
+      421 acgatgggat atattatggg gtatcggccc gagggcggct tgggttatgt tgctcttgcg
+      481 gggttggtcg tcattttgtg ctcatgggcc attagctgga tttttgcttt ctgcggcgtg
+      541 attgcaagat ctgcctccgg cgtgcagggg atatcgatga tcgtgctgtt tccgctcacg
+      601 tttctctcca acgcgttcgt gccggtggat acgatgccgg gctggctgca gtggttcgtc
+      661 aatatgaatc cgatctcgca tcttgtgaca gccgttcggg atctcaccaa cgctggcacc
+      721 gtgggctggg atctcacgat atccttggtt ggcgccgcgg ttatcgtggc gatctttgct
+      781 cccattacgg ttcgtgcgta catgcgccgc acttga
+//
+
+LOCUS       KX531046                 864 bp    DNA     linear   BCT 09-NOV-2016
+DEFINITION  Paenibacillus sp. LC231 lincosamide resistance methyltransferase
+            (llmA) gene, complete cds.
+ACCESSION   KX531046
+VERSION     KX531046.1
+KEYWORDS    .
+SOURCE      Paenibacillus sp. LC231
+  ORGANISM  Paenibacillus sp. LC231
+            Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae;
+            Paenibacillus.
+REFERENCE   1  (bases 1 to 864)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     A diverse intrinsic antibiotic resistome from a cave bacterium
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 864)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUL-2016) Biochemistry and Biomedical sciences,
+            McMaster University, 1280 Main St W, Hamilton, Ontario L8S 4L8,
+            Canada
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.5.0
+            Coverage              :: 50
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..864
+                     /organism="Paenibacillus sp. LC231"
+                     /mol_type="genomic DNA"
+                     /strain="LC231"
+                     /isolation_source="Lechuguilla Cave"
+                     /db_xref="taxon:1120679"
+     gene            1..864
+                     /gene="llmA"
+     CDS             1..864
+                     /gene="llmA"
+                     /function="confers resistance to lincosamides when
+                     expressed in E. coli"
+                     /note="LlmA"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="lincosamide resistance methyltransferase"
+                     /protein_id="APB03216.1"
+                     /translation="MYVAQDWQDYEVIDTGGGEKLERWGDVILRRPDPQIIWPIERED
+                     GQWRSVHGHYHRSSSGGGQWDMKKQLPDRWTISYDQLKFHIRPTNFKHTGLFPEQAAN
+                     WRWMMDKIASAGRPVSVLNLFAYTGGATVAAASAGAQVVHVDAAKGMVQWAKENAALS
+                     GLADRPIRYITDDVFKFVQREQRRGNKYDAIIMDPPSYGRGPSGETWKLEQSLYPFLE
+                     SCMSIVSDNPLFMLINSYTTGISPTVLNNMLTMTMKPKYGGTISAGEIGLPITRSGMN
+                     LPCGILGRWES"
+ORIGIN      
+        1 atgtatgtag ctcaggattg gcaagattac gaggtcatcg ataccggagg cggagaaaag
+       61 ctggaacgct ggggcgacgt gattctcaga cgtccggatc cgcagatcat atggccgatt
+      121 gaacgtgaag atggacagtg gcgcagtgtg cacggacact atcatcgcag ctcgtcgggc
+      181 ggcggacaat gggacatgaa aaagcagctt ccggaccggt ggaccatctc atacgaccaa
+      241 ttgaaatttc atattcgacc aaccaatttt aaacataccg gtttgtttcc ggagcaggca
+      301 gccaactggc gctggatgat ggataagatc gcttctgccg gacgtccggt cagcgtgctg
+      361 aacctgttcg cctataccgg cggagcaacc gtggcggccg cttcggccgg agctcaggtt
+      421 gttcatgtgg atgctgcgaa gggaatggtt caatgggcca aggaaaacgc ggcattgtcc
+      481 ggacttgccg accgtcctat ccgttatatc acggatgatg tgtttaaatt cgtacaacgg
+      541 gagcagcgtc gggggaacaa atacgatgcg atcattatgg accctccatc ttatggccgc
+      601 ggaccaagtg gagaaacgtg gaagcttgag caaagcttgt atcccttcct cgaaagctgc
+      661 atgagcatcg tatcggataa tccgctgttc atgctgatta actcctatac aaccgggatc
+      721 tcccctaccg ttctgaataa catgctgacc atgaccatga agccgaaata cggcggtacc
+      781 atcagtgcgg gagagatcgg attgccgatt acccgctccg gcatgaacct gccgtgcggc
+      841 atcctaggtc gatgggagtc ctga
+//
+
+LOCUS       KX531047                 654 bp    DNA     linear   BCT 09-NOV-2016
+DEFINITION  Paenibacillus sp. LC231 chloramphenicol acetyltransferase (catU)
+            gene, complete cds.
+ACCESSION   KX531047
+VERSION     KX531047.1
+KEYWORDS    .
+SOURCE      Paenibacillus sp. LC231
+  ORGANISM  Paenibacillus sp. LC231
+            Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae;
+            Paenibacillus.
+REFERENCE   1  (bases 1 to 654)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     A diverse intrinsic antibiotic resistome from a cave bacterium
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 654)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUL-2016) Biochemistry and Biomedical sciences,
+            McMaster University, 1280 Main St W, Hamilton, Ontario L8S 4L8,
+            Canada
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.5.0
+            Coverage              :: 50
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..654
+                     /organism="Paenibacillus sp. LC231"
+                     /mol_type="genomic DNA"
+                     /strain="LC231"
+                     /isolation_source="Lechuguilla Cave"
+                     /db_xref="taxon:1120679"
+     gene            1..654
+                     /gene="catU"
+     CDS             1..654
+                     /gene="catU"
+                     /function="enzyme kinetics"
+                     /note="CatU"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chloramphenicol acetyltransferase"
+                     /protein_id="APB03217.1"
+                     /translation="MKFHIINVEEWTRKPYYEHYLRSNKCTFSITVDIDITRLLYSLK
+                     ANGFKLYPAFIYMVTRVVNDRVEFKTSFSPEGELGYWDRMTPSYTFFHNDDHTFSCLW
+                     TAFSNDFYRFHDHYEQDMEQYRDTKGLFVKENPPPNTFPISMIPWTSFSGFNLNIVNE
+                     ADYLLPIITGGKYTEQGGRVLLPVSLQVHHAVCDGYHASMFFKELQSLADSFEDWLT"
+ORIGIN      
+        1 atgaagtttc acattattaa tgttgaagag tggacgagaa agccttatta tgagcattat
+       61 cttcgatcga ataaatgcac cttcagcatc accgtggata tcgacattac tcgcttgttg
+      121 tattcgttaa aagctaatgg attcaagctt tatccagctt ttatttatat ggttacaaga
+      181 gttgtcaatg accgggttga attcaaaact tcctttagtc ccgaagggga attgggttac
+      241 tgggatcgga tgacgccgag ttataccttt ttccataacg atgaccatac cttctcctgt
+      301 ttatggacag cattttcgaa tgatttctat cgatttcatg atcattacga gcaggacatg
+      361 gagcaatatc gggatacaaa agggctgttt gttaaagaga atccaccgcc gaacacgttt
+      421 cccatatcca tgataccctg gacaagcttt agcggattta atctaaacat tgtcaatgaa
+      481 gcagactatc ttcttcccat cataaccggc ggaaaatata ccgagcaggg tggccgtgtt
+      541 ctgcttccag tctcattgca ggtgcaccat gctgtgtgtg atggttatca tgccagcatg
+      601 ttctttaagg agttgcagag cttggcggat tcttttgaag attggttaac ttaa
+//
+
+LOCUS       KX531048                2259 bp    DNA     linear   BCT 09-NOV-2016
+DEFINITION  Paenibacillus sp. LC231 bacitracin amidohydrolase (bahA) gene,
+            complete cds.
+ACCESSION   KX531048
+VERSION     KX531048.1
+KEYWORDS    .
+SOURCE      Paenibacillus sp. LC231
+  ORGANISM  Paenibacillus sp. LC231
+            Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae;
+            Paenibacillus.
+REFERENCE   1  (bases 1 to 2259)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     A diverse intrinsic antibiotic resistome from a cave bacterium
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2259)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUL-2016) Biochemistry and Biomedical sciences,
+            McMaster University, 1280 Main St W, Hamilton, Ontario L8S 4L8,
+            Canada
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.5.0
+            Coverage              :: 50
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2259
+                     /organism="Paenibacillus sp. LC231"
+                     /mol_type="genomic DNA"
+                     /strain="LC231"
+                     /isolation_source="Lechuguilla Cave"
+                     /db_xref="taxon:1120679"
+     gene            1..2259
+                     /gene="bahA"
+     CDS             1..2259
+                     /gene="bahA"
+                     /function="confers resistance by inactivating bacitracin
+                     when expressed in E. coli"
+                     /note="BahA"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="bacitracin amidohydrolase"
+                     /protein_id="APB03218.1"
+                     /translation="MEIHKEKEKEKGVTFFRRIMANRKRRGPLSPGWKGASLGLGATG
+                     FILILIQANYLLTGHGVGKFIVGTFLFLFAAALISGLASMLLHGVKKLPSRYIWMLLY
+                     SLIMFLFCFIVQPGVSAVFIVSLAIVLSLFGALAYKFAAGSYKQVSKTRKIGAMACLS
+                     LITIAIGAGSFWLIRAGDDAAPDITLKQLKTSTRYEDSTMNNPAEQGTYPVQSLLYGS
+                     PDNYRTEFNQSGSLTTQTVDASRFVEKWSSLRTKSLGFGPEAMPLNGRVWYPEGEGTF
+                     PLVLIVHGNHLMNDYSDPGYEYLGRLLASKGYIFVSVDENFLNFSPYEDLFLISPLLS
+                     ENPARGLLLLEHLQTWKDWNSDPDNPFYQKVDMERIALIGHSRGGEAVAIAAAYNKLG
+                     RHPDHGDIKFDYNFSIRSLISIAGTDGQYKPQGKPLPLQDVNYLSLHGAHDMDVNSLD
+                     GAKQYHRIRYTKGTNYMKSLVYIYGANHGQFNGGWGRGDGAGLGNQLFNLRQIMPRDE
+                     QETIAKVFISSFLDATLKDQRQYREVFKDLGYAKEWIPDNLYVGNYYDSQTTLIADFH
+                     EDIDLQSTTLPGGSLRGENLQQWKEEKVKTKWGEADYSAVRLGWNSNGSSEPASYTVT
+                     LPDNGVETGRDSSIVFSLADARKTEESGDPKELINFTITVEDRKGHQASLPLSHISKL
+                     PPVIEGKLLKWPFSNAGNTSEPVFQSYDFQLDDYYKMNPDFNPQQLSKIRIEFNLTKR
+                     GSILLRDVGIRS"
+ORIGIN      
+        1 ttggaaatac acaaagagaa agaaaaagaa aaaggcgtta cgttttttcg aagaatcatg
+       61 gcaaaccgga agcgtagggg gccgctatcc cctggatgga agggtgcgtc gcttgggctc
+      121 ggcgccaccg gctttattct aattctgata caggccaatt atctattgac ggggcatggt
+      181 gtcggtaaat tcatcgtggg cacattcctg tttctctttg cggctgccct tataagcggc
+      241 ctagcatcaa tgttgctgca cggggtcaag aaactaccaa gccgttatat ttggatgctg
+      301 ctgtattccc tgatcatgtt tttattctgt tttattgtgc agccgggcgt atcggcagtc
+      361 ttcatcgtct ctttggccat tgttttatct ttatttggtg cattggctta taaatttgca
+      421 gcgggaagct acaagcaagt gtctaaaacc aggaaaatcg gcgcgatggc ttgtttgtcc
+      481 ttgatcacca tcgcgatcgg cgctggcagc ttctggctga ttcgggccgg agatgatgcc
+      541 gctccggaca tcacattgaa acagctgaaa acctcaaccc gatatgaaga ctcgacgatg
+      601 aacaatccgg ccgaacaagg cacatatccc gtccaaagcc tgttatacgg aagtcctgac
+      661 aactatcgga cagaatttaa tcaaagcggt tccctaacca cccaaacggt ggatgcgtcc
+      721 aggtttgttg agaagtggtc gtctttgcgc acgaagtcgc ttggattcgg acccgaggcc
+      781 atgccgttaa acggaagagt gtggtatccc gaaggggaag gcacctttcc gcttgttttg
+      841 attgtacatg gtaatcactt gatgaatgat tattccgatc cgggttatga atatctcggc
+      901 aggctgctcg cgagcaaagg gtatatattt gtctccgtgg atgaaaattt cctcaatttc
+      961 tccccatatg aggatctatt cctgatcagc ccgctgctaa gtgaaaatcc ggcaaggggt
+     1021 ctgctgctgc tggagcattt gcaaacctgg aaggactgga acagcgatcc ggacaacccg
+     1081 ttttaccaaa aggtcgatat ggaacgaatc gccctcatcg gtcattcccg gggcggcgaa
+     1141 gcggtcgcga tcgcggcagc gtataacaag cttggccgtc atccggacca tggggatatc
+     1201 aagtttgatt ataacttttc gatccgctcg ctcatttcca ttgcgggaac ggacgggcaa
+     1261 tataagcccc aaggcaaacc tctgccgctg caagacgtaa attatctgtc tttgcatgga
+     1321 gctcatgata tggatgtcaa cagcctggac ggtgcgaagc aatatcaccg gattcgttat
+     1381 accaagggca caaattacat gaaatcgctg gtctatattt atggagccaa ccacggccag
+     1441 tttaacggag gctggggcag aggggatggg gcagggttgg ggaaccaact gtttaaccta
+     1501 cgtcaaatta tgccacggga tgagcaggaa accatcgcaa aagtgttcat atcttcgttc
+     1561 ctggatgcca cgctgaagga ccaacggcaa tacagggagg tgttcaagga tttgggttac
+     1621 gccaaggaat ggattcccga caatctgtat gtgggcaatt attacgattc gcagacgacc
+     1681 ttgatcgccg attttcatga agacatcgat ctgcagagca ccacgcttcc tggcggcagc
+     1741 ctgcggggcg agaacctgca gcaatggaag gaagaaaagg ttaagacaaa atggggcgaa
+     1801 gcggattaca gcgcggttcg cttaggctgg aattcgaacg gttcgtccga gcctgcctcc
+     1861 tatacggtta ctttgccgga taacggggtg gaaacaggaa gggatagctc gatcgtattt
+     1921 tcgctggcag atgcacgcaa aacagaagaa agcggcgacc cgaaagagct tatcaatttt
+     1981 acgattacgg ttgaagatag gaagggccat caggcaagtc ttcccctcag ccacatatcc
+     2041 aagttgccgc ctgttattga aggtaaactt ctcaaatggc cattttcgaa tgcaggcaat
+     2101 acttcagaac ccgtatttca aagctacgat ttccaattag acgattatta caaaatgaat
+     2161 ccggacttca acccgcagca gttgagcaag attcgcatcg agttcaatct aaccaagcgg
+     2221 ggaagcattc tgcttcgtga tgttggcatt cgatcttaa
+//
+
+LOCUS       KX531049                1947 bp    DNA     linear   BCT 09-NOV-2016
+DEFINITION  Paenibacillus sp. LC231 tiamulin efflux ATP-binding protein (taeA)
+            gene, complete cds.
+ACCESSION   KX531049
+VERSION     KX531049.1
+KEYWORDS    .
+SOURCE      Paenibacillus sp. LC231
+  ORGANISM  Paenibacillus sp. LC231
+            Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae;
+            Paenibacillus.
+REFERENCE   1  (bases 1 to 1947)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     A diverse intrinsic antibiotic resistome from a cave bacterium
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1947)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUL-2016) Biochemistry and Biomedical sciences,
+            McMaster University, 1280 Main St W, Hamilton, Ontario L8S 4L8,
+            Canada
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.5.0
+            Coverage              :: 50
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1947
+                     /organism="Paenibacillus sp. LC231"
+                     /mol_type="genomic DNA"
+                     /strain="LC231"
+                     /isolation_source="Lechuguilla Cave"
+                     /db_xref="taxon:1120679"
+     gene            1..1947
+                     /gene="taeA"
+     CDS             1..1947
+                     /gene="taeA"
+                     /function="confers resistance in E. coli"
+                     /note="TaeA"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tiamulin efflux ATP-binding protein"
+                     /protein_id="APB03219.1"
+                     /translation="MNILTVEQVTKSYGDKILFQDASFGMEDQDKIGIIGVNGTGKST
+                     FLRVIAGLEPPDSGKISMGNRIRVRYLAQNPEFDPDKTVLQQVFEGDLPEMKAVREYT
+                     ETMELLELHPSHEELQQKLLKLNQTLETLQAWQLESDAKTILSKLGIRNYEAKMGTLS
+                     GGQRKRVALAAALIQPSDLLILDEPTNHIDNESVAWLEQYLQKRRGALLMITHDRYFL
+                     DRVANVMLELDHGRLFRYEANYSRFLELKAEREEREAASEQKRQNLLRSELAWIRRGA
+                     KARTTKQKARIERFEKLKDQEMVHSSGELDVSVASTRLGRKILEIEGLRMKIDDKTLI
+                     QDLSYIAVPEDRIGIVGPNGSGKSTLLNLIAGRIQPGGGEVVLGPTVKLGYFTQEHQE
+                     MDGSQRVIEYIKDEAEVVRTADGSAITAAQMLERFLFPPALQWTPIAKLSGGEKRRLY
+                     LLRVLMSAPNVLLLDEPTNDLDIQTLSVLEQYLDEFPGVCIVVSHDRFFLDRTVDKIM
+                     AFEGDGQIRVHVGSYSEYAEWMQRHGGEASGSKAEASIAKSASGSSDGTDSDSAKEAP
+                     RERLKFSYKEQREFDQIDGLIEDTESKLASIQSEMETAGSDAARLQELMKAQEETERE
+                     LEHLMERWTYLNELAEKIEQSKKS"
+ORIGIN      
+        1 atgaatattt tgaccgtcga acaggtaaca aaaagctatg gagacaaaat tctgtttcaa
+       61 gatgcatcct tcggaatgga ggatcaggat aaaatcggca ttatcggcgt gaatggcacg
+      121 gggaaatcca catttctgcg ggtcatcgcg gggctcgagc cgcccgactc cggtaaaata
+      181 tcgatgggca atcgcatccg ggttcgttac ctcgcgcaaa atccggagtt tgatccggac
+      241 aaaaccgtcc tgcagcaggt gtttgagggc gatcttccgg agatgaaggc cgtgcgggaa
+      301 tacaccgaaa cgatggaact gctggagctg catccaagtc atgaggagct ccagcagaaa
+      361 ctgctgaagc tcaatcagac gctggaaacg ctgcaggcat ggcagcttga aagcgatgcg
+      421 aaaaccatcc tgtccaagct ggggattcgg aattatgaag cgaagatggg aacgctgtcg
+      481 ggcggccagc gtaagcgggt ggcattagcc gccgccttga ttcagccttc cgacttgctt
+      541 attttggacg agccgaccaa ccacattgac aatgaatccg ttgcctggct ggagcagtat
+      601 ttgcagaagc gccgcggcgc gctgctcatg attacgcatg accggtattt tctggaccgg
+      661 gtagccaatg ttatgctgga gctggatcac ggacggctgt ttcgatatga ggcgaactac
+      721 agccgttttc tggagctgaa ggcagaacgc gaggagcgtg aagccgcttc cgagcaaaag
+      781 cgccaaaatt tgctgcggag cgagcttgcc tggatccgca gaggggccaa ggcccgcacg
+      841 accaagcaga aggcgaggat tgaacgcttc gagaaactca aggatcagga gatggtgcac
+      901 agctccggtg aactggacgt ttcggtcgct tccacccgct tgggacgcaa aattctggag
+      961 attgaaggtc tccggatgaa gatcgacgac aaaacgttaa ttcaggacct ttcctatatc
+     1021 gccgttcccg aggatcggat aggtatcgta ggcccgaacg gcagcggcaa atccacgctg
+     1081 ctcaatctga ttgccgggcg gattcagccg ggtggcgggg aagtcgtgct cggaccgacg
+     1141 gtcaagctcg gttatttcac gcaggagcat caggagatgg acggcagtca gcgcgtgatt
+     1201 gagtatatca aggatgaggc cgaggttgtc cgcacggcgg acggttcggc gattaccgca
+     1261 gcccagatgc tggaacgctt tctgttcccg cccgcgctgc agtggacgcc gattgcgaag
+     1321 ctgtccggag gcgagaagcg ccgcttgtat ctgctgcggg tgctgatgag cgcaccgaat
+     1381 gtgctgctgc ttgatgaacc gaccaatgat ttggatatcc agacattgtc cgtcctggag
+     1441 cagtatttgg atgagttccc gggcgtctgt atcgtggtat cccatgatcg ctttttcctg
+     1501 gatcgaaccg tggacaagat tatggctttt gagggcgacg gtcagattcg tgtccatgtc
+     1561 ggctcttaca gcgaatatgc ggaatggatg cagcgtcacg gcggtgaagc ttccgggagc
+     1621 aaggcggagg catccatagc caaatctgct tcggggagca gcgatggcac ggacagtgat
+     1681 tcagctaaag aagcgccgcg tgagcgcttg aaattcagtt acaaagaaca acgggagttt
+     1741 gatcagattg acgggctcat cgaggatacc gagagcaagc tcgcttcgat tcaatccgag
+     1801 atggagaccg ccggcagcga cgcagccagg cttcaggagc tgatgaaggc tcaggaggaa
+     1861 acggaacgtg agctggagca tctgatggaa cgctggacct atctgaacga gctcgcggag
+     1921 aagattgaac agagcaagaa atcgtaa
+//
+
+LOCUS       KX531050                 633 bp    DNA     linear   BCT 09-NOV-2016
+DEFINITION  Paenibacillus sp. LC231 streptogramin A acetyltransferase (vatI)
+            gene, complete cds.
+ACCESSION   KX531050
+VERSION     KX531050.1
+KEYWORDS    .
+SOURCE      Paenibacillus sp. LC231
+  ORGANISM  Paenibacillus sp. LC231
+            Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae;
+            Paenibacillus.
+REFERENCE   1  (bases 1 to 633)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     A diverse intrinsic antibiotic resistome from a cave bacterium
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 633)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUL-2016) Biochemistry and Biomedical sciences,
+            McMaster University, 1280 Main St W, Hamilton, Ontario L8S 4L8,
+            Canada
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.5.0
+            Coverage              :: 50
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..633
+                     /organism="Paenibacillus sp. LC231"
+                     /mol_type="genomic DNA"
+                     /strain="LC231"
+                     /isolation_source="Lechuguilla Cave"
+                     /db_xref="taxon:1120679"
+     gene            1..633
+                     /gene="vatI"
+     CDS             1..633
+                     /gene="vatI"
+                     /function="enzyme kinetics"
+                     /note="VatI"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="streptogramin A acetyltransferase"
+                     /protein_id="APB03220.1"
+                     /translation="MTGPNPNERYPIPGDNNLQFIKNTITKPNIIAGDYSYYYALNGE
+                     SFEDQVLYHYEFIGTKLMIGKFCSIASEVRFMMDGGNHRMDGSTFPFNIFGNGWEKFT
+                     PSLDQLPIKGDTIIGNDVWIGRRATIMSGVRIGDGAIIAAEAVVVKDVEPYTIVGGNP
+                     AKDIRKRYSTEVIQELLDIKWWDCDIEVINQYIGAIVSGDMDLLRKMRQN"
+ORIGIN      
+        1 atgacaggac cgaatccaaa tgagagatat cctatacccg gagataacaa tcttcagttt
+       61 atcaagaaca cgattacaaa acctaatatt atcgcagggg attattcata ctactatgcc
+      121 ttaaacggag aatcatttga ggatcaagta ttgtatcatt atgaattcat tggaactaaa
+      181 ttaatgatcg gcaagttttg ttccattgct tccgaggtca gatttatgat ggatggaggg
+      241 aaccatcgga tggacggttc aacctttcca tttaatatct ttggaaacgg ctgggagaaa
+      301 ttcactccat ctttggatca attgccgatc aagggagata cgatcattgg aaatgacgtg
+      361 tggatcggaa ggcgtgcaac gatcatgtcg ggtgtaagga ttggcgatgg agctatcatt
+      421 gccgctgaag ctgtcgttgt aaaggatgtg gagccttata cgatcgttgg aggcaatcca
+      481 gcgaaggata tccgcaagcg atattccacc gaagtcattc aagagttatt ggatattaaa
+      541 tggtgggatt gcgatatcga agtcatcaat caatatattg gcgcaattgt aagcggagat
+      601 atggacttgc ttagaaaaat gagacaaaat tag
+//
+
+LOCUS       KX531051                 723 bp    DNA     linear   BCT 09-NOV-2016
+DEFINITION  Paenibacillus sp. LC231 kasugamycin 2' acetyltransferase
+            (aac(2')-IIb) gene, complete cds.
+ACCESSION   KX531051
+VERSION     KX531051.1
+KEYWORDS    .
+SOURCE      Paenibacillus sp. LC231
+  ORGANISM  Paenibacillus sp. LC231
+            Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae;
+            Paenibacillus.
+REFERENCE   1  (bases 1 to 723)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     A diverse intrinsic antibiotic resistome from a cave bacterium
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 723)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUL-2016) Biochemistry and Biomedical sciences,
+            McMaster University, 1280 Main St W, Hamilton, Ontario L8S 4L8,
+            Canada
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.5.0
+            Coverage              :: 50
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..723
+                     /organism="Paenibacillus sp. LC231"
+                     /mol_type="genomic DNA"
+                     /strain="LC231"
+                     /isolation_source="Lechuguilla Cave"
+                     /db_xref="taxon:1120679"
+     gene            1..723
+                     /gene="aac(2')-IIb"
+     CDS             1..723
+                     /gene="aac(2')-IIb"
+                     /function="enzyme kinetics"
+                     /note="AAC(2')-IIb"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="kasugamycin 2' acetyltransferase"
+                     /protein_id="APB03221.1"
+                     /translation="MNHRKGNEPTAAALMELHVLAMFTHDGNMQIRTINEPWPGEELA
+                     PRFFMGRTIDGSSICRFRHDVPEGIAGQLRALVEDEPIVTEEVLTRPKHFAAYMNLLR
+                     AEHYTSGPCYRIPDQTTQAKQTVRITPGNIREYSLTGFEWLTTEIDYDQPCVALIHEN
+                     RVVSVCRSVRITERAHEAGLETSEEFRGRGYAAAVVAGWAIEVQKMGALALYSTLWGN
+                     SSSRRVANKLGLSYYGVNFTIS"
+ORIGIN      
+        1 atgaaccata ggaaaggtaa cgagccaacc gctgcggcac tgatggaatt gcatgttctg
+       61 gcgatgttta cgcatgacgg gaatatgcaa attcgcacca tcaacgagcc ttggccggga
+      121 gaggagcttg ccccgaggtt tttcatgggt cgaacgatag acggctcttc gatctgcagg
+      181 tttcgtcatg atgttcccga aggaattgcc gggcaattga gggctttggt tgaagatgag
+      241 cctatcgtta ctgaagaggt tctgacgagg cctaaacatt ttgcagctta tatgaacctc
+      301 cttcgcgctg agcactatac gagcggacct tgttatcgga tacctgatca aacaacgcag
+      361 gccaaacaga cggtaaggat cacaccggga aatattcgcg aatattcgct caccggtttt
+      421 gaatggctga ccacggaaat tgattatgac cagccttgtg ttgcgctcat tcatgagaat
+      481 agggtggtgt cggtttgccg cagcgtccgg attactgaac gagctcacga agctgggctt
+      541 gaaacgtcag aggaatttcg tggaagaggt tatgcggctg ctgttgttgc cggatgggcc
+      601 atagaggtgc aaaaaatggg cgcgctggcg ttgtacagta ctttatgggg aaatagctct
+      661 tcccggagag tagcaaataa attagggttg tcctattacg gagttaactt cacgatcagt
+      721 tga
+//
+
+LOCUS       KX531052                2655 bp    DNA     linear   BCT 09-NOV-2016
+DEFINITION  Paenibacillus sp. LC231 rifampin phosphotransferase (rphB) gene,
+            complete cds.
+ACCESSION   KX531052
+VERSION     KX531052.1
+KEYWORDS    .
+SOURCE      Paenibacillus sp. LC231
+  ORGANISM  Paenibacillus sp. LC231
+            Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae;
+            Paenibacillus.
+REFERENCE   1  (bases 1 to 2655)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     A diverse intrinsic antibiotic resistome from a cave bacterium
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2655)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUL-2016) Biochemistry and Biomedical sciences,
+            McMaster University, 1280 Main St W, Hamilton, Ontario L8S 4L8,
+            Canada
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.5.0
+            Coverage              :: 50
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2655
+                     /organism="Paenibacillus sp. LC231"
+                     /mol_type="genomic DNA"
+                     /strain="LC231"
+                     /isolation_source="Lechuguilla Cave"
+                     /db_xref="taxon:1120679"
+     gene            1..2655
+                     /gene="rphB"
+     CDS             1..2655
+                     /gene="rphB"
+                     /function="enzyme kinetics"
+                     /note="RphB"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="rifampin phosphotransferase"
+                     /protein_id="APB03222.1"
+                     /translation="MRSLVLDFQEMDKKQLGLVGGKGLHLGELSKIEGIRVPEGFCVT
+                     TIGYQRAIEQNETYQAMLNRLTMLSAEDRDQMVEISRKIRQTIMEVEIPSDVVTAVTR
+                     YLSRFGEEQAYAVRSSATAEDLPHASFAGQQDTYLNIIGVDAILQHISKCWASLFTDR
+                     AVIYRMQNGFDHRQVYLSVVVQRMVFPEASGILFTADPMTSNRKLLSIDAGFGLGEAL
+                     VSGLVSADGYKVREGEIIEKRIAAKTLAIYGRKEGGTETKQIDPDQQKSQTLTDEQIL
+                     QLARIGRQIEAHFGQPQDIEWCLAQDTFYIVQSRPITTLYPIPEANDQENHVYVSVGH
+                     QQMMTDPMKPLGLSFFLLTTPAPMRTAGGRLFVDTTAMLASPVSRENVLNTLGQSDPL
+                     IKDALMTILERGDFIKSLPIAENEQTPGKNNISSAGYQTPIDHDPTIVSDLMERTQSS
+                     IEVLKQNIQTKSGSDLFDFILEDIQELKKNLFDPQSSAVIMAAMNASTWINEKMNEWL
+                     GEKNAADTLSQSVPGNVTSEMGLALLDVADVIRPYPEIIDYLEQAKDDHFLDKLLTFD
+                     GGQQAQDAILDFLDKYGMRCAGEIDLTRTRWSEKPIALVPLILGNIKNFEPNASHRKF
+                     EQGRQEALKKEQELLDRLKQLPDGEGKAQETKRMIDLIRNFMGYREYPKYGMVNRYFI
+                     YKQALLKEAERLVQAGVIHHKEDIYYLTFEELDEVVRTNKLDNPGSMVEQQAKLAIRQ
+                     MISKRKEEYNVFEKLTPPRVITSDGEIIAGEYKRENIPAEAIVGLPVSSGTVEGRARV
+                     ILNMKDADLEEGDILVTAFTDPSWTPLFVSIKGLVTEVGGLMTHGAVIAREYGLPAVV
+                     GVENATKRIKDGQRIRVHGSEGYIEILS"
+ORIGIN      
+        1 atgcgttcgt tggttctcga ttttcaggaa atggacaaaa agcagcttgg gctcgttggt
+       61 ggaaaagggc tccatttagg ggaattatca aaaattgagg gaatacgagt tcccgaagga
+      121 ttttgcgtga caaccatagg atatcaaaga gccatcgaac aaaacgaaac gtatcaagct
+      181 atgctcaatc gactaaccat gctatcagca gaggatcgag atcaaatggt tgaaatcagc
+      241 aggaagatca gacaaaccat tatggaggta gaaattccat ccgatgtagt gacagcagta
+      301 actcgctatc tctcccggtt tggcgaggaa caggcttatg ccgtacgatc cagtgcaact
+      361 gctgaagatt taccgcatgc ctcttttgcg ggtcaacaag acacctatct aaacatcatc
+      421 ggcgtcgatg ccatcttgca gcatatcagc aaatgctggg cttccttgtt tacagatcgc
+      481 gcggtgatct atcgcatgca aaatggattt gaccatcgtc aagtttattt atccgtagtc
+      541 gttcaaagga tggttttccc cgaggcttca gggatattat tcaccgctga tccgatgact
+      601 tctaatcgaa agctgctatc catcgatgcc ggtttcggac ttggagaagc actggtctct
+      661 ggcttggtat ctgccgatgg ttacaaagta cgggaaggag aaatcatcga gaagcggata
+      721 gcagccaaaa cattggcgat ctacggacga aaagaaggcg gaacagaaac aaagcaaatc
+      781 gatcccgatc agcaaaagtc acaaacactt acggatgagc aaattttaca actggcacgc
+      841 atcgggagac agattgaggc tcattttggc caaccccaag atatcgagtg gtgtttggcc
+      901 caggatacct tttatattgt ccagagtcgg ccaatcacga cgctataccc gatacctgaa
+      961 gcgaatgatc aagaaaatca cgtatacgta tctgtcggtc atcaacaaat gatgacggat
+     1021 cccatgaaac cgctgggatt gtcttttttc ctgctaacga ctcctgcacc catgcgtaca
+     1081 gctggcggaa ggttgtttgt tgatactacg gctatgctgg cttcaccggt tagcagagaa
+     1141 aatgtattaa ataccctggg acaatccgat ccactcatca aagacgctct tatgaccatc
+     1201 ttagagcgag gagattttat aaaatcgcta cccatcgctg aaaatgaaca gactcccgga
+     1261 aaaaacaata tatcgtctgc gggttatcaa acgccaatcg accacgatcc gacaatcgtt
+     1321 tctgatttaa tggaacgtac tcaatcatcg atcgaagtgt tgaaacaaaa catccaaacg
+     1381 aaatccggat ccgatttatt tgattttata ttggaagata tccaggaact gaagaagaat
+     1441 ttatttgacc cacaaagctc ggctgtcatc atggctgcaa tgaatgcttc aacctggatc
+     1501 aacgaaaaaa tgaatgaatg gttaggcgaa aaaaacgcag ccgacacgct ttctcaatcc
+     1561 gtaccgggca atgttacttc ggaaatgggt ctggcgctgc tggatgttgc agacgtcatt
+     1621 cgtccttatc cggaaatcat tgattatttg gagcaagcaa aagatgatca ctttttggat
+     1681 aagctgctta catttgatgg cgggcagcaa gctcaagacg cgatcctaga ttttcttgac
+     1741 aaatatggca tgcgatgtgc tggagaaatc gatttaacaa gaactcgttg gagtgaaaaa
+     1801 ccaattgcgc ttgttccgtt gattctgggt aacatcaaaa acttcgagcc taatgccagc
+     1861 catcggaaat tcgagcaagg gcggcaggaa gctttgaaaa aagaacaaga gctattagat
+     1921 cgattgaaac aattgccgga cggtgaagga aaagcccaag aaaccaaacg aatgattgac
+     1981 ctcattcgga atttcatggg ttatcgggaa tacccgaaat acggtatggt gaatcgttac
+     2041 tttatttata agcaggcttt actgaaagag gctgaacgac tcgtacaagc gggcgttatt
+     2101 catcataagg aagatatata ttatctcact tttgaagagc ttgacgaggt cgtacgcaca
+     2161 aataaactgg ataacccggg ttccatggtc gagcagcaag caaagcttgc gatcagacag
+     2221 atgatcagca aacgaaaaga ggagtacaac gtatttgaaa aactaactcc tccgcgcgtg
+     2281 atcacgtcgg atggtgaaat catcgcaggg gagtacaaac gagaaaatat cccagccgaa
+     2341 gctattgtcg gcctgcctgt ttcttccgga acggtcgaag gacgagcgcg tgtcatctta
+     2401 aacatgaaag acgccgatct cgaggaagga gatatattag tcaccgcttt taccgaccct
+     2461 agctggacgc ctctgtttgt atccattaag ggcttggtca ccgaagtggg cggactgatg
+     2521 acccatggag ccgttatcgc gcgtgaatat ggcttaccgg ccgttgtcgg cgttgagaat
+     2581 gctaccaaac ggataaagga cgggcagcgc attcgcgtac atgggtccga aggctatatt
+     2641 gaaatattgt catag
+//
+
+LOCUS       KX531053                 594 bp    DNA     linear   BCT 09-NOV-2016
+DEFINITION  Paenibacillus sp. LC231 aminoglycoside 6' phosphotransferase
+            (aac(6')-34) gene, complete cds.
+ACCESSION   KX531053
+VERSION     KX531053.1
+KEYWORDS    .
+SOURCE      Paenibacillus sp. LC231
+  ORGANISM  Paenibacillus sp. LC231
+            Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae;
+            Paenibacillus.
+REFERENCE   1  (bases 1 to 594)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     A diverse intrinsic antibiotic resistome from a cave bacterium
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 594)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUL-2016) Biochemistry and Biomedical sciences,
+            McMaster University, 1280 Main St W, Hamilton, Ontario L8S 4L8,
+            Canada
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.5.0
+            Coverage              :: 50
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..594
+                     /organism="Paenibacillus sp. LC231"
+                     /mol_type="genomic DNA"
+                     /strain="LC231"
+                     /isolation_source="Lechuguilla Cave"
+                     /db_xref="taxon:1120679"
+     gene            1..594
+                     /gene="aac(6')-34"
+     CDS             1..594
+                     /gene="aac(6')-34"
+                     /function="enzyme kinetics"
+                     /note="AAC(6')-34"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="aminoglycoside 6' phosphotransferase"
+                     /protein_id="APB03223.1"
+                     /translation="MRIGDLIREDGGIAMLVYEAGPITVRELEEKDEISLASWLSNPD
+                     VLQYYEGRDNPHDVERVREHFYVDDDETRCIIKYEGKPIGYIQFYLLDEETLGEYGYN
+                     ESDADCRTFATDQFIGEPDYWNRGIGTKLMTSMVEYLVFQRQADRIVMDPQAWNERAI
+                     ACYEKCGFRKVRLLEKHEQHEGELRDCWIMEYRAERK"
+ORIGIN      
+        1 atgagaattg gggatctaat aagggaagat ggggggatcg cgatgctggt gtacgaggct
+       61 ggaccgatta cggttcgcga gctggaggag aaggatgaaa tatccttagc ttcttggctg
+      121 tccaatccgg atgtgctgca gtattatgag ggacgggaca atcctcacga cgtggagcgg
+      181 gtgcgggagc atttttacgt ggatgatgat gagactcgct gcatcattaa atatgagggg
+      241 aaaccgatcg gatatattca gttttatctt ctggatgaag agacgttagg cgagtatgga
+      301 tataacgaga gtgatgcaga ctgcagaacc ttcgccacgg atcaattcat cggggagccg
+      361 gattattgga atcgaggcat cggtacgaag ctcatgactt ccatggtgga gtatctcgtg
+      421 tttcagaggc aggctgatcg gatcgtaatg gacccgcagg catggaatga acgggcgatt
+      481 gcttgttacg aaaagtgcgg cttccggaag gtcagactgc tggagaagca tgaacagcat
+      541 gaaggtgaac tgcgggactg ctggattatg gagtatcggg cagagcgaaa gtaa
+//
+
+LOCUS       KX531054                 486 bp    DNA     linear   BCT 09-NOV-2016
+DEFINITION  Paenibacillus sp. LC231 capreomycin acetyltransferase (cpaA) gene,
+            complete cds.
+ACCESSION   KX531054
+VERSION     KX531054.1
+KEYWORDS    .
+SOURCE      Paenibacillus sp. LC231
+  ORGANISM  Paenibacillus sp. LC231
+            Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae;
+            Paenibacillus.
+REFERENCE   1  (bases 1 to 486)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     A diverse intrinsic antibiotic resistome from a cave bacterium
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 486)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUL-2016) Biochemistry and Biomedical sciences,
+            McMaster University, 1280 Main St W, Hamilton, Ontario L8S 4L8,
+            Canada
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.5.0
+            Coverage              :: 50
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..486
+                     /organism="Paenibacillus sp. LC231"
+                     /mol_type="genomic DNA"
+                     /strain="LC231"
+                     /isolation_source="Lechuguilla Cave"
+                     /db_xref="taxon:1120679"
+     gene            1..486
+                     /gene="cpaA"
+     CDS             1..486
+                     /gene="cpaA"
+                     /function="enzyme kinetics"
+                     /note="CpaA"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="capreomycin acetyltransferase"
+                     /protein_id="APB03224.1"
+                     /translation="MPLRITAMTETYADQIMQWSYEPPYDFYNSEPDEEFRKELLECS
+                     YYAILDKEGQLFGFCCTGSSAQIPIAIPLGAYDEDLLDFGLGMKPESTGQCRGKEFLS
+                     FVLASIAEFHKRQSFRLTVAKFNERAIRLYTQLGFSEVATFDYGGTTFITMIKKPGSG
+                     L"
+ORIGIN      
+        1 atgcctcttc gtatcacggc catgaccgaa acgtatgccg atcaaattat gcaatggagc
+       61 tatgaacctc cctatgattt ctacaacagc gaaccggatg aggagtttcg gaaagaactt
+      121 ctggagtgct cgtattacgc catactggac aaggaagggc agctcttcgg cttttgctgt
+      181 acaggctcat cagcccaaat tccgatcgca atcccgttag gtgcatatga cgaggatctg
+      241 ctggatttcg gacttgggat gaaaccggaa tcgaccggac aatgccgggg aaaagagttt
+      301 ctctcgttcg tgctggcatc catcgctgaa tttcacaagc gccaatcgtt tcggctgacc
+      361 gttgccaaat tcaatgaacg agccattcgc ttgtataccc agctgggctt ctcggaagtt
+      421 gcaacgtttg attatggcgg cactacgttc ataacgatga tcaagaagcc gggctccgga
+      481 ttgtaa
+//
+
+LOCUS       KX531055                 891 bp    DNA     linear   BCT 09-NOV-2016
+DEFINITION  Paenibacillus sp. LC231 streptogramin B lyase (vgbC) gene, complete
+            cds.
+ACCESSION   KX531055
+VERSION     KX531055.1
+KEYWORDS    .
+SOURCE      Paenibacillus sp. LC231
+  ORGANISM  Paenibacillus sp. LC231
+            Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae;
+            Paenibacillus.
+REFERENCE   1  (bases 1 to 891)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     A diverse intrinsic antibiotic resistome from a cave bacterium
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 891)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUL-2016) Biochemistry and Biomedical sciences,
+            McMaster University, 1280 Main St W, Hamilton, Ontario L8S 4L8,
+            Canada
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.5.0
+            Coverage              :: 50
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..891
+                     /organism="Paenibacillus sp. LC231"
+                     /mol_type="genomic DNA"
+                     /strain="LC231"
+                     /isolation_source="Lechuguilla Cave"
+                     /db_xref="taxon:1120679"
+     gene            1..891
+                     /gene="vgbC"
+     CDS             1..891
+                     /gene="vgbC"
+                     /function="enzyme kinetics"
+                     /note="VgbC"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="streptogramin B lyase"
+                     /protein_id="APB03225.1"
+                     /translation="MQIAAQEYKTANRESGPYGITARQDRTIWFTEQKGNRIGRLTKD
+                     GDMRTFEVPTPDAGVMSILSAHTGDLWFTEYKANKIGRMTMEGTFAEFELPEANSSPY
+                     GLAEGPDGAIWFTELSGNRIGRITPAGIITEYDLPCEGSYPSYITAGPDGALWFTENQ
+                     NNCIGRITVDGEITEYRIPTEQSGPVGITTGADGALWFVQINGNQIGRITTAGEITEF
+                     KLPSGNARPHAITAGVSGDLWFTEWGANQIGRITCTGDITEYPIPTPSAEPHGITVDS
+                     GGEVWFAEECDQIGRFTIQY"
+ORIGIN      
+        1 atgcagatcg ccgcacagga gtacaagaca gcgaatcggg aatcgggacc ttatggtatt
+       61 acggcaagac aagatcggac catatggttc acggaacaaa aaggaaaccg gatcggacgg
+      121 ctcaccaagg atggggatat gcgcacgttc gaagtgccga ctccagatgc cggggtcatg
+      181 tctatcctct ctgcccatac cggtgacctc tggtttacgg agtacaaagc aaataaaatc
+      241 ggaaggatga caatggaagg aacatttgcg gaattcgagc tgcctgaagc caattcgtct
+      301 ccctacggct tggctgaggg tccggatgga gccatatggt tcaccgagct aagcggcaac
+      361 cgaatcggaa ggataacgcc ggcaggcatt atcacggaat atgacttacc atgcgaagga
+      421 tcgtaccctt cctatattac agccggtccg gacggcgcgt tgtggtttac ggaaaaccag
+      481 aacaactgca tcggccgaat tacggtggac ggggagatta ccgagtaccg gattccaaca
+      541 gagcaatccg ggccggtcgg catcacgaca ggtgccgatg gcgctctatg gtttgttcaa
+      601 atcaacggca atcaaatcgg ccggatcaca acggccgggg aaattacgga attcaagctc
+      661 ccgtccggga atgccagacc ccatgccatc acggcgggcg tttccgggga tctatggttt
+      721 accgaatggg gagccaatca aatcggacga attacctgca ccggggacat taccgagtat
+      781 ccaatcccta ccccctccgc agaacctcat ggcataaccg tggattcggg cggcgaggtc
+      841 tggttcgccg aggaatgcga tcagatcggc cggtttacga ttcagtatta g
+//
+
+LOCUS       KX531056                 927 bp    DNA     linear   BCT 09-NOV-2016
+DEFINITION  Paenibacillus sp. LC231 macrolide phosphotransferase (mphI) gene,
+            complete cds.
+ACCESSION   KX531056
+VERSION     KX531056.1
+KEYWORDS    .
+SOURCE      Paenibacillus sp. LC231
+  ORGANISM  Paenibacillus sp. LC231
+            Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae;
+            Paenibacillus.
+REFERENCE   1  (bases 1 to 927)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     A diverse intrinsic antibiotic resistome from a cave bacterium
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 927)
+  AUTHORS   Pawlowski,A.C. and Wright,G.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUL-2016) Biochemistry and Biomedical sciences,
+            McMaster University, 1280 Main St W, Hamilton, Ontario L8S 4L8,
+            Canada
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.5.0
+            Coverage              :: 50
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..927
+                     /organism="Paenibacillus sp. LC231"
+                     /mol_type="genomic DNA"
+                     /strain="LC231"
+                     /isolation_source="Lechuguilla Cave"
+                     /db_xref="taxon:1120679"
+     gene            1..927
+                     /gene="mphI"
+     CDS             1..927
+                     /gene="mphI"
+                     /function="inactivates telithromycin, tylosin and
+                     spiramycin, but not erythromycin, clarithromycin or
+                     azithromycin"
+                     /note="MphI"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="macrolide phosphotransferase"
+                     /protein_id="APB03226.1"
+                     /translation="MTIAKPNDDYTQVIQEMLEIAGKHGVNLIPEGIEMNESGMDFLV
+                     GFAEEAGTGARWILRKPRRPDVLDRADNEARVLKLIQSHLSVDVPDWRIYTPELIAYP
+                     LLSGQPAASVSMEGYAWNMDHENPGDGFIRSLAEALVALHGVDHDAARAAGLRVKSPQ
+                     EVRDETARNMEDIKSRLGVSDALWERWQKWLEEDSYWPTHSALIHGDLHPPHILIDER
+                     VQVTGLLDWTESEVASPAKDFVLYYAIYGEHNLRVLLDRYEQAGGKVWPRMFDHIVEQ
+                     HAAYPVLIAQFALLTGQEEYMTMARNALGLTE"
+ORIGIN      
+        1 atgacaatag caaaaccaaa tgatgattat acacaagtga tccaagagat gctggagatt
+       61 gccggaaaac acggggtgaa tttgattccg gagggaatag agatgaatga atccggcatg
+      121 gatttccttg ttggattcgc agaggaggca gggactggag cacggtggat tctgcggaaa
+      181 ccgagacgac cggatgtgct ggatagagca gataacgaag ctagggtcct gaagctgatt
+      241 caatcccatc tttcggttga tgtaccggat tggcggattt acacgccgga gctcatcgcc
+      301 tatccgctgc ttagcgggca gcctgccgct tccgtcagca tggaaggata tgcatggaat
+      361 atggatcatg agaatccggg cgacgggttt atccgctcac tggctgaagc gctggttgcc
+      421 ttgcatggcg tcgatcatga tgcagcccga gcagcaggtc tgcgggtaaa gagtccccaa
+      481 gaggttcgtg atgagacggc gcgaaatatg gaagacatca agagccgtct gggcgtttcc
+      541 gatgcgctgt gggagagatg gcaaaaatgg ctggaggagg attcctattg gccgacgcat
+      601 tctgccctca tccatggcga tcttcatccc ccgcatatcc tgattgatga gcgcgtgcag
+      661 gtgaccggac ttttggattg gacggagtcc gaggtagcaa gtcccgccaa agacttcgtg
+      721 ttatactacg ctatttatgg cgagcataat ctccgtgtcc tgttggaccg gtatgaacaa
+      781 gccggaggga aggtatggcc gcgcatgttc gatcatattg tcgaacagca tgccgcgtat
+      841 cccgtgctga tcgcccagtt cgctctcctg acaggccagg aagagtatat gacgatggcg
+      901 cggaatgctc tgggtttgac ggagtaa
+//
+

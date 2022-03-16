@@ -1,0 +1,89 @@
+LOCUS       MN215968                1280 bp    DNA     linear   ENV 23-MAR-2020
+DEFINITION  MAG: Uncultured bacterium isolate Read271790 quaternary ammonium
+            compound resistance protein and gentamicin resistance protein (gar)
+            genes, complete cds.
+ACCESSION   MN215968
+VERSION     MN215968.1
+DBLINK      BioProject: PRJNA555822
+            BioSample: SAMN07585045
+            Sequence Read Archive: SRR9722734
+KEYWORDS    ENV; Metagenome Assembled Genome; MAG.
+SOURCE      uncultured bacterium (sediment metagenome)
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1280)
+  AUTHORS   Bohm,M.E., Razavi,M., Marathe,N.P., Flach,C.F. and Larsson,D.G.J.
+  TITLE     Discovery of a novel integron-borne aminoglycoside resistance gene
+            present in clinical pathogens by screening environmental bacterial
+            communities
+  JOURNAL   Microbiome 8 (1), 41 (2020)
+   PUBMED   32197644
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1280)
+  AUTHORS   Razavi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JUL-2019) Infectious diseases, University of
+            Gothenburg, Guldhedsgatan 10A, 5th floor, Goteborg, Vastra Gotaland
+            41346, Sweden
+FEATURES             Location/Qualifiers
+     source          1..1280
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolate="Read271790"
+                     /isolation_source="river sediment"
+                     /db_xref="taxon:77133"
+                     /environmental_sample
+                     /country="India: Pune and Patancheru"
+                     /lat_lon="18.5257 N 73.8584 E"
+                     /collection_date="26-Mar-2014"
+                     /metagenome_source="sediment metagenome"
+                     /note="metagenomic"
+     misc_feature    <1..>1280
+                     /note="contains class I integron"
+     CDS             complement(29..373)
+                     /note="qacEDelta"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="quaternary ammonium compound resistance protein"
+                     /protein_id="QGJ03284.1"
+                     /translation="MISPTQIGRYIMKGWLFLVIAIVGEVIATSALKSSEGFTKLAPS
+                     AVVIIGYGIAFYFLSLVLKSIPVGVAYAVWSGLGVVIITAIAWLLHGQKLDAWGFVGM
+                     GLIIAAFLRRYR"
+     gene            complement(537..1040)
+                     /gene="gar"
+     CDS             complement(537..1040)
+                     /gene="gar"
+                     /note="GAR"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="gentamicin resistance protein"
+                     /protein_id="QGJ03285.1"
+                     /translation="MIILLNGPLGIGKSTLSEALTERVDWCAMLDGDHLIELNPPPAN
+                     EQETLLSVSTLLIAHYQSVGYRNFVLNHLWTVPADLSQFRAKLSELDSDVHCFRLTLP
+                     VEENLRRIERRASATGLDRSYELEVFAEEHTVFSGCYGHELGVPLDASSSPGELASQV
+                     LALLGLH"
+ORIGIN      
+        1 agtcatcgta tcgcgctcga tatcaagctt atcgataccg tcgcaaaaag gcagcaatta
+       61 tgagccccat acctacaaag ccccacgcat caagcttttg cccatgaagc aaccaggcaa
+      121 tggctgtaat tatgacgacg ccgagtcccg accagactgc ataagcaaca ccgacaggga
+      181 tggatttcag aaccagagaa agaaaataaa atgcgatgcc ataaccgatt atgacaacgg
+      241 cggaaggggc aagcttagta aagccctcgc tagattttaa tgcggatgtt gcgattactt
+      301 cgccaactat tgcgataaca agaaaaagcc agcctttcat gatatatctc ccaatttgtg
+      361 tagggcttat tatgcacgct taaaaataat aaaagcagac ttgacctgat agtttggctg
+      421 tgagcaatta tgtgcttagt gcatctaacg ctggagctaa gcggccacat caatcgcgta
+      481 gcgattgatt ggtccgcttg agcgaaatgt taggcggcgc tccgaccaag ccttgcctaa
+      541 tgaagtccaa gcaacgccag aacttggctc gcaagctcgc ctggcgaact cgatgcatct
+      601 agtggaacgc caagttcgtg tccgtaacat ccagagaaaa ctgtgtgctc ctcggcaaac
+      661 acctccaact cgtacgatcg gtcaagtccg gttgcacttg ctctacgctc aatacgtcgg
+      721 aggttctcct caaccggcaa tgtcaaacgg aagcaatgaa cgtctgagtc aagctccgaa
+      781 agcttggcgc gaaactgact gaggtcggcg ggaacggtcc acaggtgatt gagaacgaag
+      841 ttgcggtagc cgacgctctg atagtgagca atgagcagtg tgctcacaga aagaagcgtt
+      901 tcctgctcat tggcaggagg tggattgagt tcgatgaggt ggtcgccgtc aagcatggcg
+      961 caccaatcaa cccgttccgt caatgcctca gatagcgtgg atttaccgat tccgagcggt
+     1021 ccattaagca gaataatcat gcaaaaactc ggttatgtac tcactacaat cttgccacgc
+     1081 catccgcacg ccgcctaact ttgttttagg gcgactgccc tgctgcgtaa catcgttgct
+     1141 gctccataac atcaaacgac ggtatcgata agcttgatat cgaattcgct catgagacaa
+     1201 taaccctgat aaatgcttca ataatattga aaaaggtcga cggtatcgat aagcttgata
+     1261 tcgagcgcga tacgatgact
+//
+

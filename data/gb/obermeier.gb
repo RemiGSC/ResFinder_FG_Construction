@@ -1,0 +1,67 @@
+LOCUS       MK831000                 915 bp    DNA     linear   ENV 17-JUN-2020
+DEFINITION  Uncultured bacterium clone Mm3 class A beta-lactamase Mm3 gene,
+            complete cds.
+ACCESSION   MK831000
+VERSION     MK831000.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 915)
+  AUTHORS   Taffner,J. and Bergna,A.
+  TITLE     Moss microbiota - A hot spot for versatile antibiotic resistance
+            genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 915)
+  AUTHORS   Obermeier,M.-M., Poehlein,A., Mueller,C.A. and Berg,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-APR-2019) Institute of Environmental Biotechnology,
+            Graz University of Technology, Petersgasse 12, Graz, Styria 8010,
+            Austria
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: to be added later v. 01.01.2
+            Sequencing Technology :: Illumina; Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..915
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="plant-associated metagenome (Alpine
+                     bog, Pirker Waldhochmoor)"
+                     /host="Sphagnum magellanicum"
+                     /db_xref="taxon:77133"
+                     /clone="Mm3"
+                     /environmental_sample
+                     /country="Austria"
+                     /lat_lon="46.6275 N 14.4351 E"
+     CDS             1..915
+                     /EC_number="3.5.2.6"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="class A beta-lactamase Mm3"
+                     /protein_id="QCF34648.1"
+                     /translation="MNPNHSARGNRMDRRSLLKGALLGATAAALQPRLSLATHLPGTD
+                     DRLAALERQHGGRLGVAMLDTGNGHRIAHRADERFLMCSTFKWLAAAAVLARTDHATE
+                     KLDRRVVFGKDALLSYAPITSQHVGGQGMTVAELCEAAITLSDNTAANLLLTRLGGPT
+                     ALTAFLRRLGDKVTRLDRMEPELNVSSPGDERDTTTPSAMLQDLQRLLLGDALSDMSR
+                     EQLTAWLRKTVTGKDTLRAGLPVDWTIGDKTGSGAHGERNDVAIVWPPNRKPLLIAAY
+                     YVNPNTDDARRNHVLAEVGRIAAATSSV"
+ORIGIN      
+        1 atgaacccca accactctgc aagaggcaac cgcatggacc gacgaagcct attgaaaggc
+       61 gccttgctgg gcgcaaccgc agccgcactg cagccgcgac tctcgctggc cacccaccta
+      121 cccggcacgg acgaccggct agccgcactg gagcgccagc atggcggtcg cctgggtgtt
+      181 gccatgcttg ataccggcaa cgggcatcgc atcgcgcacc gcgcggacga gcgctttctc
+      241 atgtgcagca cattcaagtg gcttgcggcc gccgccgtgc tggcgcgcac cgatcacgcg
+      301 actgaaaagc tcgaccggcg cgtggtcttc ggcaaggacg cgctgttatc gtatgccccg
+      361 atcacctcac agcacgtcgg tggccaaggc atgacggttg ccgaactgtg cgaggcagcc
+      421 atcaccctta gcgataacac cgcggccaac ctgttgctta cccgcctggg cgggcccacc
+      481 gctctaacag cctttttgcg tcgcctgggc gacaaggtca cccgactgga tcgcatggaa
+      541 cccgagctca acgtatcgag ccctggcgat gagcgcgaca ccacgactcc cagcgccatg
+      601 ctccaagatc tgcaaagact gctgctgggc gacgcgcttt ccgacatgtc acgcgagcaa
+      661 ctgaccgcgt ggctgcgaaa gacagtcacc ggtaaagata cgctccgcgc ggggttgccg
+      721 gtcgattgga ccatcggcga taaaaccggg agcggcgcgc atggcgagcg aaacgacgtt
+      781 gcgatcgtat ggccaccgaa tcgcaagccg ttgctgattg ccgcgtatta cgtgaatccg
+      841 aataccgacg atgcccggcg taaccatgtg cttgccgagg taggacgtat cgcggcggcg
+      901 acatcgagcg tctag
+//
+

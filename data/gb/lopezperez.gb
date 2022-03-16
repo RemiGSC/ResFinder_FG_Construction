@@ -1,0 +1,103 @@
+LOCUS       KF169941                1859 bp    DNA     linear   ENV 18-SEP-2013
+DEFINITION  Uncultured Aeromonas sp. clone pLM2 putative oxidoreductase gene,
+            partial cds; putative multidrug resistance protein gene, complete
+            cds; and putative HAM1 protein gene, partial cds.
+ACCESSION   KF169941
+VERSION     KF169941.1
+KEYWORDS    ENV.
+SOURCE      uncultured Aeromonas sp.
+  ORGANISM  uncultured Aeromonas sp.
+            Bacteria; Proteobacteria; Gammaproteobacteria; Aeromonadales;
+            Aeromonadaceae; Aeromonas; environmental samples.
+REFERENCE   1  (bases 1 to 1859)
+  AUTHORS   Lopez-Perez,M., Mirete,S., Jardon-Valadez,E. and
+            Gonzalez-Pastor,J.E.
+  TITLE     Identification and modeling of a novel chloramphenicol resistance
+            protein detected by functional metagenomics in a wetland of Lerma,
+            Mexico
+  JOURNAL   Int. Microbiol. 16 (2), 103-111 (2013)
+   PUBMED   24400528
+REFERENCE   2  (bases 1 to 1859)
+  AUTHORS   Lopez-Perez,M., Mirete,S., Jardon-Valadez,E. and
+            Gonzalez-Pastor,J.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-MAY-2013) Molecular Evolution, Centro de
+            Astrobiologia (CSIC-INTA), Ctra. de Ajalvir km 4, Torrejon de
+            Ardoz, Madrid 28850, Spain
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 8.0.2 (13), 412
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1859
+                     /organism="uncultured Aeromonas sp."
+                     /mol_type="genomic DNA"
+                     /isolation_source="wetland"
+                     /db_xref="taxon:263763"
+                     /clone="pLM2"
+                     /environmental_sample
+                     /country="Mexico"
+     CDS             complement(<1..135)
+                     /note="ORF1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative oxidoreductase"
+                     /protein_id="AGW01014.1"
+                     /translation="MSQTLNAALVGYGFAGKTFHAPFLTSTPGLSLGWVVSRDTAKVQ
+                     A"
+     CDS             complement(243..1406)
+                     /note="ORF2"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative multidrug resistance protein"
+                     /protein_id="AGW01015.1"
+                     /translation="MPLILLLVLLVLFSPLAIDIYLPAIPQMAEQLGAEVTLMQGTIT
+                     WFLFSMGLGQLLVGPLADRYGRKPIALGGVLLYGLSALAAGFAASLGELMLARVLQGF
+                     GACATSVAAFSVVRDSYGPKKSGQMISYLNGAICFIPALAPLLGGWLTAKAGWSANFW
+                     FMAGYAAIVGSWLLWRMPETRPGETSSSGPLISWSRYSPVLRSPSFLFNACLCMLAMA
+                     VILAYVTAAPVQLMVKLGLDMSGFSYWFTANAALNILACFLAPRFIARVGPRRTLRIG
+                     LLVITLSAMALTLVQHIDHPLAMMGPVFFSSIGFAMVLGAAAGMALAPFGHCAGTAAA
+                     LLGLFQMSGSGALVGITGWLMPDPLNQLALHMWLLLPPLLLLLTRQGRRLCLQ"
+     CDS             1513..>1859
+                     /note="ORF3"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative HAM1 protein"
+                     /protein_id="AGW01016.1"
+                     /translation="MYVIRTSTGVKVVASLGSIEGNWRFYSRRAPHRMRRLFLRRCSM
+                     NKLVLATGNQKKVKELATMLADMKIQVIPQSEFAVPDADETGTTFVENAIIKARHAAR
+                     ITGLPAVADDSGL"
+ORIGIN      
+        1 ggcctgcacc ttggccgtat cccggctcac gacccaaccg agggagaggc ccggggtgct
+       61 ggtcaggaag ggggcgtgaa aggtcttgcc tgcgaagcca tagcccacca gggcggcgtt
+      121 gagagtctgg ctcatccggt tttctccacg ggtctgtgtg tcatgagagt caggcgagat
+      181 gtcgcctgta aaaagaacag ggggctcatg gccccctgag tgtgcccatc agagcacagg
+      241 atttattgca aacacaagcg ccggccctga cgtgtcagca gcaacagcaa tggcggcaac
+      301 agcagccaca tgtgcaacgc cagctggttg agcggatccg gcatcaacca gcccgtgatc
+      361 cccaccaggg cgccggagcc gctcatctgg aacaggccga gcagggccgc tgccgtaccg
+      421 gcacagtggc cgaacggtgc cagtgccatg ccagccgcag cccccagcac catggcaaag
+      481 ccgatgctgg agaagaacac gggccccatc atggccagcg ggtgatcgat atgctgcacc
+      541 agggtcagcg ccatggctga cagtgtgatc accagcagac cgatgcgcag tgtgcgtctc
+      601 ggcccgactc tggcgatgaa acggggcgcc aggaagcagg cgaggatgtt cagcgccgca
+      661 ttggccgtga accagtagct gaacccgctc atgtccagtc ccagtttcac catcaactgc
+      721 acaggggcgg ccgtgacata ggccaggatc accgccatcg ccaacatgca cagacaggcg
+      781 ttgaacagga agctgggaga gcgcagcaca gggctgtagc gggaccagct gatgagcgga
+      841 ccactgctgc tggtctcgcc cgggcgggtc tccggcatcc gccacaacag ccagctgccg
+      901 acgatggccg cgtaacctgc catgaaccag aagttggcag accagcctgc cttggcggtg
+      961 agccagcccc ccagcagcgg cgccagcgcc ggaataaagc agatggcgcc attgagatag
+     1021 gagatcatct ggccgctctt cttgggacca tagctgtcac gcaccacaga aaaagcggcg
+     1081 accgaggtgg cgcaggcgcc gaagccttgc agcacccgcg ccagcatcag ctcacccagg
+     1141 ctggcggcaa agccggccgc cagggcactc aggccataga gcagcacacc ccccagggcg
+     1201 atgggcttgc ggccataacg gtctgcgagc ggccctacca gcagctgacc cagccccatg
+     1261 ctgaacagaa accaggtgat ggtaccctgc atcagtgtca cttcggcacc tagctgctcg
+     1321 gccatctgcg gaatggcggg cagatagatg tcgatggcca gcggactgaa cagcaccagt
+     1381 agtacaagca gaagaatcaa tggcatcagt cacctcatgg cttacggaaa atcgattggg
+     1441 gcgcgagtct actgactcac agtaatgaat tgaaatggta tttaatcact ttggttattc
+     1501 ctatacggaa acatgtatgt tattcgcacc tccaccgggg tcaaggtagt ggcaagcctc
+     1561 ggaagtattg agggcaattg gcgcttttac tcaaggcgtg ccccgcatag aatgcgcaga
+     1621 ttatttttgc ggaggtgctc gatgaacaag cttgtcctgg caacagggaa ccagaaaaag
+     1681 gtgaaggaat tggccaccat gctggccgat atgaagatcc aggtgatccc acagagcgag
+     1741 tttgctgtgc ctgatgccga cgagaccggc accaccttcg tcgagaatgc catcatcaag
+     1801 gcccgtcacg ccgcccgcat cacaggtctg cccgccgtcg ccgacgactc gggactgga
+//
+

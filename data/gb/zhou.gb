@@ -1,0 +1,776 @@
+LOCUS       JN625754                 902 bp    DNA     linear   ENV 15-APR-2012
+DEFINITION  Uncultured organism clone FRAMP1.1 FRAMP1.1 beta-lactamase gene,
+            partial cds.
+ACCESSION   JN625754
+VERSION     JN625754.1
+KEYWORDS    ENV.
+SOURCE      uncultured organism
+  ORGANISM  uncultured organism
+            unclassified sequences; environmental samples.
+REFERENCE   1  (bases 1 to 902)
+  AUTHORS   Zhou,W., Wang,Y. and Lin,J.
+  TITLE     Functional cloning and characterization of antibiotic resistance
+            genes from the chicken gut microbiome
+  JOURNAL   Appl. Environ. Microbiol. 78 (8), 3028-3032 (2012)
+   PUBMED   22286984
+REFERENCE   2  (bases 1 to 902)
+  AUTHORS   Zhou,W. and Lin,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2011) Department of Animal Science, University of
+            Tennessee, 2640 Morgan Circle Drive, Knoxville, TN 37996, USA
+FEATURES             Location/Qualifiers
+     source          1..902
+                     /organism="uncultured organism"
+                     /mol_type="genomic DNA"
+                     /isolation_source="intestinal content"
+                     /host="Gallus gallus"
+                     /db_xref="taxon:155900"
+                     /clone="FRAMP1.1"
+                     /environmental_sample
+     CDS             1..>902
+                     /EC_number="3.5.2.6"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="FRAMP1.1 beta-lactamase"
+                     /protein_id="AFH53879.1"
+                     /translation="MTSVRLTTALRAIVFALAATGASAAACAQDAERRISEMTAGKPA
+                     EVGVAWIADGKAHAVNNADGYPMMSVFKLHGAVAELRQMERRGTPADTLITVRAAEME
+                     KDTYSPMLKRYGGRDFTIRLDSLLRYSVAESDNNACDIIMRLAGGTDGVNAEMRAIGL
+                     TGYAITETEASMHADPTRSYNNRSTPLAVAELFRKLYEGGILGEPYATLLKDILLSTS
+                     TGPNKIKAALPPGATLAHKTGTGFTLHDGTITADNDAGAITLADGRRIYIAVLVKDSK
+                     LGADGNARLIKEIAEAVIYSEVKF"
+ORIGIN      
+        1 atgacatcag tacgactgac aacggcgctg cgcgccatag tcttcgcctt ggcggcaacg
+       61 ggcgcctcgg cggccgcctg cgcccaagac gcggagcggc ggataagcga gatgaccgcc
+      121 ggcaagcccg ccgaggtggg cgtggcgtgg atagccgacg gcaaggcgca cgccgtcaac
+      181 aacgccgacg gctaccccat gatgagcgtc ttcaagctgc acggggcagt ggcggagcta
+      241 aggcagatgg agcggcgcgg cactccggcc gacacattga taaccgtcag ggcggccgag
+      301 atggagaaag acacctacag ccccatgctg aaacggtatg gcggcaggga tttcactata
+      361 cgcctcgaca gccttctgcg ttacagcgtg gccgagagcg acaacaacgc ctgcgacatc
+      421 atcatgcgac tggcgggcgg aacagacggc gttaacgccg agatgcgggc catagggctg
+      481 accggctacg ccataacgga aaccgaagcc tcgatgcacg ccgacccgac gcgctcttac
+      541 aacaaccgct cgacgccgct cgcggtggcc gagctgttca ggaaactgta tgaaggcggc
+      601 atactcggcg aaccttacgc cacattatta aaggacatcc tgctgtcgac atccaccgga
+      661 ccgaacaaga ttaaggcggc cctgccgccc ggagctacgc tcgcccacaa gacgggcacg
+      721 ggcttcactc tgcacgacgg cacgataacg gccgacaacg acgccggcgc aataaccctg
+      781 gccgacggcc ggcggatata catagccgtg ctggtgaagg actcgaagct gggcgccgac
+      841 ggcaacgcaa ggcttataaa ggagattgcg gaggcggtaa tttattcaga agttaaattt
+      901 ta
+//
+
+LOCUS       JN625755                 861 bp    DNA     linear   ENV 15-APR-2012
+DEFINITION  Uncultured organism clone FRAMP2.1 ampicillin resistant protein
+            gene, complete cds.
+ACCESSION   JN625755
+VERSION     JN625755.1
+KEYWORDS    ENV.
+SOURCE      uncultured organism
+  ORGANISM  uncultured organism
+            unclassified sequences; environmental samples.
+REFERENCE   1  (bases 1 to 861)
+  AUTHORS   Zhou,W., Wang,Y. and Lin,J.
+  TITLE     Functional cloning and characterization of antibiotic resistance
+            genes from the chicken gut microbiome
+  JOURNAL   Appl. Environ. Microbiol. 78 (8), 3028-3032 (2012)
+   PUBMED   22286984
+REFERENCE   2  (bases 1 to 861)
+  AUTHORS   Zhou,W. and Lin,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2011) Department of Animal Science, University of
+            Tennessee, 2640 Morgan Circle Drive, Knoxville, TN 37996, USA
+FEATURES             Location/Qualifiers
+     source          1..861
+                     /organism="uncultured organism"
+                     /mol_type="genomic DNA"
+                     /isolation_source="intestinal content"
+                     /host="Gallus gallus"
+                     /db_xref="taxon:155900"
+                     /clone="FRAMP2.1"
+                     /environmental_sample
+     CDS             1..861
+                     /EC_number="3.5.2.6"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ampicillin resistant protein"
+                     /protein_id="AFH53880.1"
+                     /translation="MSIQHFRVALIPFFAAFCLPVFAHPETLVKVKDAEDQLGARVGY
+                     IELDLNSGKILESFRPEERFPMMSTFKVLLCGAVLSRIDAGQEQLGRRIHYSQNDLVE
+                     YSPVTEKHLTDGMTVRELCSAAITMSDNTAANLLLTTIGGPKELTAFLHNMGDHVTRL
+                     DRWEPELNEAIPNDERDTTMPVAMATTLRKLLTGELLTLASRQQLIDWMEADKVAGPL
+                     LRSALPAGWFIADKSGAGERGSRGIIAALGPDGKPSRIVVIYTTGSQATMDERNRQIA
+                     EIGASLIKHW"
+ORIGIN      
+        1 atgagtattc aacatttccg tgtcgccctt attcccttct ttgcggcatt ttgccttcct
+       61 gtttttgctc acccagaaac gctggtgaaa gtaaaagatg ctgaagatca gttgggtgca
+      121 cgagtgggtt acatcgaact ggatctcaac agcggtaaga tccttgagag ttttcgcccc
+      181 gaagaacgtt ttccaatgat gagcactttt aaagttctgc tatgtggcgc ggtattatcc
+      241 cgtattgacg ccgggcaaga gcaactcggt cgccgcatac actattctca gaatgacttg
+      301 gttgagtact caccagtcac agaaaagcat cttacggatg gcatgacagt aagagaatta
+      361 tgcagtgctg ccataaccat gagtgataac actgcggcca acttacttct gacaacgatc
+      421 ggaggaccga aggagctaac cgcttttttg cacaacatgg gggatcatgt aactcgcctt
+      481 gatcgttggg aaccggagct gaatgaagcc ataccaaacg acgagcgtga caccacgatg
+      541 cctgtagcaa tggcaacaac gttgcgcaaa ctattaactg gcgaactact tactctagct
+      601 tcccggcaac aattaataga ctggatggag gcggataaag ttgcaggacc acttctgcgc
+      661 tcggcccttc cggctggctg gtttattgct gataaatctg gagccggtga gcgtgggtct
+      721 cgcggtatca ttgcagcact ggggccagat ggtaagccct cccgtatcgt agttatctac
+      781 acgacgggga gtcaggcaac tatggatgaa cgaaatagac agatcgctga gataggtgcc
+      841 tcactgatta agcattggta a
+//
+
+LOCUS       JN625756                 525 bp    DNA     linear   ENV 24-JUL-2018
+DEFINITION  Uncultured bacterium clone CRAMP1.3 TEM beta-lactamase gene,
+            complete cds.
+ACCESSION   JN625756
+VERSION     JN625756.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 525)
+  AUTHORS   Zhou,W., Wang,Y. and Lin,J.
+  TITLE     Functional cloning and characterization of antibiotic resistance
+            genes from the chicken gut microbiome
+  JOURNAL   Appl. Environ. Microbiol. 78 (8), 3028-3032 (2012)
+   PUBMED   22286984
+REFERENCE   2  (bases 1 to 525)
+  AUTHORS   Zhou,W. and Lin,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2011) Department of Animal Science, University of
+            Tennessee, 2640 Morgan Circle Drive, Knoxville, TN 37996, USA
+FEATURES             Location/Qualifiers
+     source          1..525
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="intestinal content"
+                     /host="Gallus gallus"
+                     /db_xref="taxon:77133"
+                     /clone="CRAMP1.3"
+                     /environmental_sample
+     CDS             1..525
+                     /EC_number="3.5.2.6"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="TEM beta-lactamase"
+                     /protein_id="AFH53881.1"
+                     /translation="MXIQHFRVXLIPFFAAFCLPVFAHPETLVKVKDAEHXLGARXGY
+                     IELDLNXGKILESFRPEERFPMMSTFKVLLCGAVLSRIDVGQXQLGRRIHYSQNDLVE
+                     YSPFTDKHLTDGMTVRELCIAAITMXDNTAAKLLLTTIGGPKELIAFLXNMGDHXTRX
+                     DRWZXZLNEXIPND"
+ORIGIN      
+        1 atgartattc aacatttccg tgtckccctt attccctttt ttgcggcatt ttgccttcct
+       61 gtttttgctc acccagaaac gctggtgaaa gtaaaagatg ctgaacatca sttgggtgca
+      121 cgaktgggtt acatcgaact ggatctcaac aktggtaaga tccttgagag ttttcgcccc
+      181 gaagaacgtt ttccaatgat gagcactttt aaagttctgc tatgtggcgc ggtattatcc
+      241 cgyattgacg tcgggcaaga scaactcggt cgccgcatac actattctca gaatgacttg
+      301 gttgagtact caccattcac agacaagcat cttacggatg gcatgacagt aagagaatta
+      361 tgcattgctg ccataaccat gaktgataac actgcggcca aattacttct gacaacgatc
+      421 ggagggccga aggagctaat cgcttttttg wacaacatgg gggatcatgy aactcgccyt
+      481 gatcgytggs aaycgsagct gaatgaarcc ataccaaayg attag
+//
+
+LOCUS       JN625757                 756 bp    DNA     linear   ENV 15-APR-2012
+DEFINITION  Uncultured organism clone CRAMP1.4 TEM beta-lactamase gene,
+            complete cds.
+ACCESSION   JN625757
+VERSION     JN625757.1
+KEYWORDS    ENV.
+SOURCE      uncultured organism
+  ORGANISM  uncultured organism
+            unclassified sequences; environmental samples.
+REFERENCE   1  (bases 1 to 756)
+  AUTHORS   Zhou,W., Wang,Y. and Lin,J.
+  TITLE     Functional cloning and characterization of antibiotic resistance
+            genes from the chicken gut microbiome
+  JOURNAL   Appl. Environ. Microbiol. 78 (8), 3028-3032 (2012)
+   PUBMED   22286984
+REFERENCE   2  (bases 1 to 756)
+  AUTHORS   Zhou,W. and Lin,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2011) Department of Animal Science, University of
+            Tennessee, 2640 Morgan Circle Drive, Knoxville, TN 37996, USA
+FEATURES             Location/Qualifiers
+     source          1..756
+                     /organism="uncultured organism"
+                     /mol_type="genomic DNA"
+                     /isolation_source="intestinal content"
+                     /host="Gallus gallus"
+                     /db_xref="taxon:155900"
+                     /clone="CRAMP1.4"
+                     /environmental_sample
+     CDS             1..756
+                     /EC_number="3.5.2.6"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="TEM beta-lactamase"
+                     /protein_id="AFH53882.1"
+                     /translation="MSIQHFRVALIPFFAAFCLPVFAHPETLVKVKDAEDQLGARVGY
+                     IELDLNSGKILESFRPEERFPMMSTFKVLLCGAVLSRIDAGQEQLGRRIHYSQNDLVE
+                     YSPVTEKHLTDGMTVRELCSAAITMSDNTAANLLLTTIGGPKELTAFLHNMGDHVTRL
+                     DRWEPELNEAIPNDERDTTMPVAMATTLRKLLTGELLTLASRQQLIDWMEADKVAGPL
+                     LRSALPAGWFIADKSGAGERGSRGIIAALGARW"
+ORIGIN      
+        1 atgagtattc aacatttccg tgtcgccctt attccctttt ttgcggcatt ttgccttcct
+       61 gtttttgctc acccagaaac gctggtgaaa gtaaaagatg ctgaagatca gttgggtgca
+      121 cgagtgggtt acatcgaact ggatctcaac agcggtaaga tccttgagag ttttcgcccc
+      181 gaagaacgtt ttccaatgat gagcactttt aaagttctgc tatgtggcgc ggtattatcc
+      241 cgtattgacg ccgggcaaga gcaactcggt cgccgcatac actattctca gaatgacttg
+      301 gttgagtact caccagtcac agaaaagcat cttacggatg gcatgacagt aagagaatta
+      361 tgcagtgctg ccataaccat gagtgataac actgcggcca acttacttct gacaacgatc
+      421 ggagggccga aggagctaac cgcttttttg cacaacatgg gggatcatgt aactcgcctt
+      481 gatcgttggg aaccggagct gaatgaagcc ataccaaacg acgagcgtga caccacgatg
+      541 cctgtagcaa tggcaacaac gttgcgcaaa ctattaactg gcgaactact tactctagct
+      601 tcccggcaac aattaataga ctggatggag gcggataaag ttgcaggacc acttctgcgc
+      661 tcggcccttc cggctggctg gtttattgct gataaatctg gagccggtga gcgtgggtct
+      721 cgcggtatca ttgcagcact gggggccaga tggtaa
+//
+
+LOCUS       JN625758                 642 bp    DNA     linear   ENV 15-APR-2012
+DEFINITION  Uncultured organism clone CRAMP2.2 HGF-1 beta-lactamase gene,
+            complete cds.
+ACCESSION   JN625758
+VERSION     JN625758.1
+KEYWORDS    ENV.
+SOURCE      uncultured organism
+  ORGANISM  uncultured organism
+            unclassified sequences; environmental samples.
+REFERENCE   1  (bases 1 to 642)
+  AUTHORS   Zhou,W., Wang,Y. and Lin,J.
+  TITLE     Functional cloning and characterization of antibiotic resistance
+            genes from the chicken gut microbiome
+  JOURNAL   Appl. Environ. Microbiol. 78 (8), 3028-3032 (2012)
+   PUBMED   22286984
+REFERENCE   2  (bases 1 to 642)
+  AUTHORS   Zhou,W. and Lin,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2011) Department of Animal Science, University of
+            Tennessee, 2640 Morgan Circle Drive, Knoxville, TN 37996, USA
+FEATURES             Location/Qualifiers
+     source          1..642
+                     /organism="uncultured organism"
+                     /mol_type="genomic DNA"
+                     /isolation_source="intestinal content"
+                     /host="Gallus gallus"
+                     /db_xref="taxon:155900"
+                     /clone="CRAMP2.2"
+                     /environmental_sample
+     CDS             1..642
+                     /EC_number="3.5.2.6"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="HGF-1 beta-lactamase"
+                     /protein_id="AFH53883.1"
+                     /translation="MKRFLMSAVCSFYSIMAFGQIQIGDIKEVIQEKKATVGVAILYQ
+                     DKIFTLSDNQQYPLMSLFKFHVTVAALKKMDREHIPLDSTVYITREQMHENTYSPLRN
+                     KYPNQGIHISLRDIITYTIIYSDNNTCDWLIDFAGGIKKVDTFIKSLGIKKLNLTETE
+                     HSMHENIMNSYNNWSSPLSVVQLIKKIYTDEILSATSFAFLEETMLNCSSGEK"
+ORIGIN      
+        1 atgaagcgat tcctcatgtc tgcggtatgc agtttttact ccataatggc gttcggccaa
+       61 attcaaattg gagatataaa ggaagttatc caagaaaaaa aagcgacagt cggtgtggca
+      121 atcctatatc aagacaagat ctttacatta tccgacaatc agcaataccc tttaatgagc
+      181 ctttttaagt ttcatgtgac tgtggctgct ttgaaaaaga tggataggga acatattccc
+      241 ttagacagta cggtgtacat aacacgtgaa caaatgcatg aaaacacata tagtcctttg
+      301 agaaacaaat atcccaatca aggaatacac atatcattgc gtgatataat aacgtatacg
+      361 attatttata gcgacaataa cacgtgtgac tggctcattg attttgctgg agggataaaa
+      421 aaggtggata ctttcatcaa atcattgggc atcaagaaac tgaatttgac tgagacggaa
+      481 catagcatgc acgaaaatat catgaatagc tataataatt ggagttcacc tttgtcagtc
+      541 gtacaattga taaagaaaat atatacggat gagattttat ctgcaacatc tttcgcattt
+      601 ctggaagaaa ccatgctcaa ctgctcgtcc ggagaaaaat aa
+//
+
+LOCUS       JN625759                 510 bp    DNA     linear   ENV 15-APR-2012
+DEFINITION  Uncultured organism clone CRAMP2.3 CbIA beta-lactamase gene,
+            complete cds.
+ACCESSION   JN625759
+VERSION     JN625759.1
+KEYWORDS    ENV.
+SOURCE      uncultured organism
+  ORGANISM  uncultured organism
+            unclassified sequences; environmental samples.
+REFERENCE   1  (bases 1 to 510)
+  AUTHORS   Zhou,W., Wang,Y. and Lin,J.
+  TITLE     Functional cloning and characterization of antibiotic resistance
+            genes from the chicken gut microbiome
+  JOURNAL   Appl. Environ. Microbiol. 78 (8), 3028-3032 (2012)
+   PUBMED   22286984
+REFERENCE   2  (bases 1 to 510)
+  AUTHORS   Zhou,W. and Lin,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2011) Department of Animal Science, University of
+            Tennessee, 2640 Morgan Circle Drive, Knoxville, TN 37996, USA
+FEATURES             Location/Qualifiers
+     source          1..510
+                     /organism="uncultured organism"
+                     /mol_type="genomic DNA"
+                     /isolation_source="intestinal content"
+                     /host="Gallus gallus"
+                     /db_xref="taxon:155900"
+                     /clone="CRAMP2.3"
+                     /environmental_sample
+     CDS             1..510
+                     /EC_number="3.5.2.6"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="CbIA beta-lactamase"
+                     /protein_id="AFH53884.1"
+                     /translation="MSELENRIDSLLNGKKATVGIAVWTDKGDMLRYNDHVHFPLLSV
+                     FKFHVALAVLDKMDKQSISLDSIVSIKASQMPPNTYSPLRKKFPDQDFTITLRELMQY
+                     SISQSDNNACDILIXYAXXIKHINDYIXRLSIDSFQTSRKTEDGMQLPAFEAVYRNLE
+                     ILLXLXSBY"
+ORIGIN      
+        1 atgtctgaac ttgaaaaccg gattgacagt ctgctcaatg gcaagaaagc caccgttggt
+       61 atagccgtat ggacagacaa aggagacatg ctccggtata acgaccatgt acacttcccc
+      121 ttgctcagtg tattcaaatt ccatgtggca ctggccgtac tggacaagat ggataagcaa
+      181 agcatcagtc tggacagcat tgtttccata aaggcatccc aaatgccgcc caatacctac
+      241 agccccctgc ggaagaagtt tcccgaccag gatttcacga ttacgcttag ggaactgatg
+      301 caatacagca tttcccaaag cgacaacaat gcctgcgaca tcttgataga wtatgcarga
+      361 rgcatcaaac atatcaatga ctatatycmm cggttgagta tcgactcctt tcaaacytct
+      421 cggaaaacag aagacggcat gcaacttcca gctttcgagg ctgtataccg caacttggag
+      481 atactcctys cgctatgstc sractactga
+//
+
+LOCUS       JN625760                 936 bp    DNA     linear   ENV 15-APR-2012
+DEFINITION  UNVERIFIED: Uncultured organism clone CRTET2.1 TetW tetracycline
+            resistance protein-like gene, complete sequence.
+ACCESSION   JN625760
+VERSION     JN625760.1
+KEYWORDS    ENV; UNVERIFIED.
+SOURCE      uncultured organism
+  ORGANISM  uncultured organism
+            unclassified sequences; environmental samples.
+REFERENCE   1  (bases 1 to 936)
+  AUTHORS   Zhou,W., Wang,Y. and Lin,J.
+  TITLE     Functional cloning and characterization of antibiotic resistance
+            genes from the chicken gut microbiome
+  JOURNAL   Appl. Environ. Microbiol. 78 (8), 3028-3032 (2012)
+   PUBMED   22286984
+REFERENCE   2  (bases 1 to 936)
+  AUTHORS   Zhou,W. and Lin,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2011) Department of Animal Science, University of
+            Tennessee, 2640 Morgan Circle Drive, Knoxville, TN 37996, USA
+COMMENT     GenBank staff is unable to verify sequence and/or annotation
+            provided by the submitter.
+FEATURES             Location/Qualifiers
+     source          1..936
+                     /organism="uncultured organism"
+                     /mol_type="genomic DNA"
+                     /isolation_source="intestinal content"
+                     /host="Gallus gallus"
+                     /db_xref="taxon:155900"
+                     /clone="CRTET2.1"
+                     /environmental_sample
+     misc_feature    1..936
+                     /note="similar to TetW tetracycline resistance protein"
+ORIGIN      
+        1 atgaaaataa tcaatattgg aattcttgcc catgtagacg ctggaaagac gaccttgacg
+       61 gagagcctgc tatatgccag cggagccatt tcagaaccgg ggagcgtcga aaaagggaca
+      121 acgaggacgg acaccatgtt tttggagcgg cagcgtggga ttaccattca agcggcagtc
+      181 acttccttcc agtggcacag atgtaaagtc aacattgtgg atacgcccgg ccacatggat
+      241 tttttggcgg aggtgtaccg ctctttggct gttttagatg gggccatctt ggtgatctcc
+      301 gctaaagatg gcgtgcaggc ccagacccgt attctgttcc atgccctgcg gaaaatgaac
+      361 attcccaccg ttatctttat caacaagatc gaccaggctg gcgttgattt gcagagcgtg
+      421 gttcagtctg ttcgggataa gctctccgcc gatattatca tcaagcagac ggtgtcgctg
+      481 tccccggaaa tagtcctgga ggaaaatacc gacatagaag catgggatgc ggtcatcgaa
+      541 aataacgatg aattattgga aaagtatatc gcaggagaac caatcagccg ggaaaaactt
+      601 gcgcgggagg aacagcagcg ggttcaagac gcctccctgt tcccagtcta tcatggcagc
+      661 gccaaaaatg gccttggcat tcaaccgttg atggatgcgg tgacagggct gttccaaccg
+      721 attggggaac aggggggcgc cgccctatgc ggcagcgttt tcaaggtgga agtatacagw
+      781 tkgcggycag cggcgtgtct atctacggct atacagcgga wcgctgcgcc tgcgggatac
+      841 ggtgrccctg rccgggagag aaaagctgaa aatcacagag atgcgtattc catccaaagg
+      901 ggaaattgtt cggacagaca ccgcttatcc gggtga
+//
+
+LOCUS       JN625761                 660 bp    DNA     linear   ENV 15-APR-2012
+DEFINITION  Uncultured organism clone CRTET2.2 TetW tetracycline resistance
+            protein gene, complete cds.
+ACCESSION   JN625761
+VERSION     JN625761.1
+KEYWORDS    ENV.
+SOURCE      uncultured organism
+  ORGANISM  uncultured organism
+            unclassified sequences; environmental samples.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Zhou,W., Wang,Y. and Lin,J.
+  TITLE     Functional cloning and characterization of antibiotic resistance
+            genes from the chicken gut microbiome
+  JOURNAL   Appl. Environ. Microbiol. 78 (8), 3028-3032 (2012)
+   PUBMED   22286984
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Zhou,W. and Lin,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2011) Department of Animal Science, University of
+            Tennessee, 2640 Morgan Circle Drive, Knoxville, TN 37996, USA
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="uncultured organism"
+                     /mol_type="genomic DNA"
+                     /isolation_source="intestinal content"
+                     /host="Gallus gallus"
+                     /db_xref="taxon:155900"
+                     /clone="CRTET2.2"
+                     /environmental_sample
+     CDS             1..660
+                     /codon_start=1
+                     /transl_table=11
+                     /product="TetW tetracycline resistance protein"
+                     /protein_id="AFH53885.1"
+                     /translation="MERPLKAASHTIHIEVPPNPFWASIGLSVTPLSLGSGVQYESRV
+                     SLGYLNQSFQNAVRDGIRYGLEQGLFGWNVTDCKICFEYGLYYSPVSTPADFRSLAPI
+                     VLEQALKESGTQLLEPYLSFILYAPQEYLSRAYHDAPKYCATIETAQVKKDEVVFTGE
+                     IPARCIQAYRTDLAFYTNGRSVCLTELKGYQAAVGKPVIQPRRPNSRLDKVRHMFQKV
+                     M"
+ORIGIN      
+        1 atggagcggc cgctcaaagc agccagccac accatccata tcgaggtgcc gcccaacccg
+       61 ttttgggcat ccataggact gtctgttaca ccactctcgc ttggctccgg tgtacaatac
+      121 gagagccggg tttcgctggg atacttgaac cagagttttc aaaacgctgt cagggatggt
+      181 atccgttacg ggctggagca gggcttgttc ggctggaacg taacggactg taagatttgc
+      241 tttgaatacg ggctttatta cagtccggtc agcacgccgg cggacttccg ctcattggcc
+      301 ccgattgtat tggaacaggc attgaaggaa tcggggacgc agctgctgga accttatctc
+      361 tccttcatcc tctatgcgcc ccaggaatac ctttccaggg cttatcatga tgcaccgaaa
+      421 tactgtgcca ccatcgaaac ggcccaggta aaaaaggatg aagttgtctt tactggcgag
+      481 attcccgccc gctgtataca ggcataccgt actgatctgg ccttttacac caacgggcgg
+      541 agcgtatgcc ttacagaact gaaagggtat caggccgctg tcggcaagcc agtcatccag
+      601 ccccgccgtc caaacagccg cctggacaag gtgcgccata tgtttcagaa ggtaatgtaa
+//
+
+LOCUS       JN625762                 774 bp    DNA     linear   ENV 15-APR-2012
+DEFINITION  Uncultured organism clone CRSPE2.1 adenyl transferase gene,
+            complete cds.
+ACCESSION   JN625762
+VERSION     JN625762.1
+KEYWORDS    ENV.
+SOURCE      uncultured organism
+  ORGANISM  uncultured organism
+            unclassified sequences; environmental samples.
+REFERENCE   1  (bases 1 to 774)
+  AUTHORS   Zhou,W., Wang,Y. and Lin,J.
+  TITLE     Functional cloning and characterization of antibiotic resistance
+            genes from the chicken gut microbiome
+  JOURNAL   Appl. Environ. Microbiol. 78 (8), 3028-3032 (2012)
+   PUBMED   22286984
+REFERENCE   2  (bases 1 to 774)
+  AUTHORS   Zhou,W. and Lin,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2011) Department of Animal Science, University of
+            Tennessee, 2640 Morgan Circle Drive, Knoxville, TN 37996, USA
+FEATURES             Location/Qualifiers
+     source          1..774
+                     /organism="uncultured organism"
+                     /mol_type="genomic DNA"
+                     /isolation_source="intestinal content"
+                     /host="Gallus gallus"
+                     /db_xref="taxon:155900"
+                     /clone="CRSPE2.1"
+                     /environmental_sample
+     CDS             1..774
+                     /EC_number="2.7.7.47"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="adenyl transferase"
+                     /protein_id="AFH53886.1"
+                     /translation="MNINEFPQQVNQVISIAETILQGQILGIYLYGSATMNGLRPDSD
+                     IDILIITKQELSNSIRADLTKQLLKISGSVGCIEKRPLEVTIINQSDIVPLQFPPKCQ
+                     YMYGEWLRGEMEAGEYPQACNDPDIMILLWQAEKIAYFEGAESKELIPAIPFHEIKKA
+                     IRFSLPGLISSFKGDERNVLLTLSRMWFTLVTEEITTKDVAAKWVILKLPERFPPLLT
+                     TAKEAYLGNLSDEWETVEKEAMALVEYMKKQIEELLRTE"
+ORIGIN      
+        1 atgaatataa atgaatttcc acaacaagta aatcaagtta tttcaatagc agaaaccata
+       61 ttacaaggtc aaatattggg gatatattta tatggttcag caacaatgaa tgggctgcgt
+      121 ccagatagtg atatagatat actgataatt actaaacaag aattgagtaa ttcaatcaga
+      181 gcagatctaa caaagcaatt attgaaaatt tctggctccg taggctgtat tgaaaaaaga
+      241 cctttagagg taactattat caatcaatct gatattgttc cgttgcaatt tccgccaaaa
+      301 tgtcagtata tgtatggtga atggctaagg ggagagatgg aagcaggaga atatccgcaa
+      361 gcctgcaatg acccagatat aatgatttta ttatggcaag cagaaaaaat agcatacttt
+      421 gaaggggcgg aaagcaaaga gcttattccc gctatcccat ttcacgaaat taaaaaagca
+      481 attcggtttt ctttacctgg tttgatttcc agctttaagg gtgatgaaag aaatgtgtta
+      541 ttaaccttat cacgaatgtg gtttacttta gtaacagaag aaatcacgac aaaagatgtt
+      601 gccgcaaaat gggtaatttt aaaattgccg gagagattcc cccccctgct aacaacggca
+      661 aaggaagctt atttgggaaa tttgtctgat gaatgggaga cagtagaaaa ggaagcgatg
+      721 gcacttgtag aatatatgaa aaaacaaatt gaggaattac ttagaacaga gtag
+//
+
+LOCUS       JN625763                 804 bp    DNA     linear   ENV 15-APR-2012
+DEFINITION  Uncultured organism clone CRCHL2.1 chloramphenicol
+            acetyltransferase gene, complete cds.
+ACCESSION   JN625763
+VERSION     JN625763.1
+KEYWORDS    ENV.
+SOURCE      uncultured organism
+  ORGANISM  uncultured organism
+            unclassified sequences; environmental samples.
+REFERENCE   1  (bases 1 to 804)
+  AUTHORS   Zhou,W., Wang,Y. and Lin,J.
+  TITLE     Functional cloning and characterization of antibiotic resistance
+            genes from the chicken gut microbiome
+  JOURNAL   Appl. Environ. Microbiol. 78 (8), 3028-3032 (2012)
+   PUBMED   22286984
+REFERENCE   2  (bases 1 to 804)
+  AUTHORS   Zhou,W. and Lin,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2011) Department of Animal Science, University of
+            Tennessee, 2640 Morgan Circle Drive, Knoxville, TN 37996, USA
+FEATURES             Location/Qualifiers
+     source          1..804
+                     /organism="uncultured organism"
+                     /mol_type="genomic DNA"
+                     /isolation_source="intestinal content"
+                     /host="Gallus gallus"
+                     /db_xref="taxon:155900"
+                     /clone="CRCHL2.1"
+                     /environmental_sample
+     CDS             1..804
+                     /EC_number="2.3.1.28"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chloramphenicol acetyltransferase"
+                     /protein_id="AFH53887.1"
+                     /translation="MEFRLIDLKRWKRKAYFTHYFESVPCTYSMTVKLDITTIKTGKA
+                     KLYPTLLYAVSTVVNRHEEFRMAVDDEGQIGIFSEMMPCYTIFHKDTEMFSNIWTKYI
+                     GDYTEFCKQYEKDMQQYGENKGMMAKPNPPVNTFPVSMIPWTTFEGFNLNLQKGYGYL
+                     LPIFTFGRYYEENGKYWIPLSIQVHHAVCDGFHTCRFINELQEVFKSLPNHGVTKMSE
+                     EHGLTPYETREXFFYKTENESAGGNLLFRNSWLTQQMLNCRVQKPPFSY"
+ORIGIN      
+        1 atggaatttc gtttgattga tctgaaaaga tggaaaagaa aagcgtactt tacgcattat
+       61 tttgaatctg tgccttgcac atatagcatg accgtaaagc tggatattac tacgattaaa
+      121 accggtaaag caaaattgta tcccaccctt ttgtatgccg tttcaacagt agttaaccgg
+      181 cacgaagaat tccgtatggc tgtggacgat gaagggcaaa tcgggatatt tagtgaaatg
+      241 atgccgtgct atacaatttt ccataaggac acggagatgt tttcaaatat ctggaccaag
+      301 tatatcggtg attatacgga gttctgcaag cagtatgaaa aggatatgca gcaatacggt
+      361 gaaaacaagg gcatgatggc aaagccaaat ccgcctgtga atactttccc ggtctccatg
+      421 attccatgga cgacctttga aggatttaat ctgaatttac aaaagggata tggctatctg
+      481 cttcccattt ttacgtttgg acgatactat gaagaaaacg gaaaatattg gattccgtta
+      541 tctattcagg tacaccatgc ggtatgcgat ggatttcata cctgccgttt tatcaatgaa
+      601 ttacaggaag tattcaaaag tttaccaaac catggagtga cgaagatgag cgaggaacat
+      661 ggactgaccc cgtatgaaac cagagaawtc ttcttttaca agaccgaaaa cgagagtgcg
+      721 ggtggaaatc tgctyttcag aaattcttgg ctgacacagc aaatgctraa ctgtcgagta
+      781 cagaagccgc cattcagcta ctga
+//
+
+LOCUS       JN625764                 639 bp    DNA     linear   ENV 15-APR-2012
+DEFINITION  Uncultured organism clone CRCHL2.2 chloramphenicol
+            acetyltransferase gene, complete cds.
+ACCESSION   JN625764
+VERSION     JN625764.1
+KEYWORDS    ENV.
+SOURCE      uncultured organism
+  ORGANISM  uncultured organism
+            unclassified sequences; environmental samples.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Zhou,W., Wang,Y. and Lin,J.
+  TITLE     Functional cloning and characterization of antibiotic resistance
+            genes from the chicken gut microbiome
+  JOURNAL   Appl. Environ. Microbiol. 78 (8), 3028-3032 (2012)
+   PUBMED   22286984
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Zhou,W. and Lin,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2011) Department of Animal Science, University of
+            Tennessee, 2640 Morgan Circle Drive, Knoxville, TN 37996, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="uncultured organism"
+                     /mol_type="genomic DNA"
+                     /isolation_source="intestinal content"
+                     /host="Gallus gallus"
+                     /db_xref="taxon:155900"
+                     /clone="CRCHL2.2"
+                     /environmental_sample
+     CDS             1..639
+                     /EC_number="2.3.1.28"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chloramphenicol acetyltransferase"
+                     /protein_id="AFH53888.1"
+                     /translation="MTFTPIDMETWHRKPYFLHYHKDIPCTYSMTVSLDITVLKKTGV
+                     SLYPALLYLLTKNVNHYEQFRTAFDEKGNVGIYSNMEPCYTIFHKEQETFSNLWTEYS
+                     EDFSTFLARYKADLETYGNVLDMDAKPNTPPNTFPVSMVPWTTFTGFHLHLQKGYDYL
+                     LPIFTLGKAWEHHGHWKMPLAIQYIMCLRWVPCEPFXNPSADLHIQHNKIES"
+ORIGIN      
+        1 atgacattca cacccatcga catggaaaca tggcacagaa agccctattt ccttcattac
+       61 cacaaagata ttccctgcac ttacagcatg actgtttctc tggacatcac cgtcctgaag
+      121 aaaacaggcg tttccctgta tcctgccctg ctgtatctct taaccaaaaa cgtgaaccac
+      181 tacgagcagt tccgcacagc ctttgacgaa aagggaaatg tgggcatcta ttccaacatg
+      241 gagccatgct ataccatttt ccataaggaa caggaaacct tttccaacct ctggacggag
+      301 tacagcgagg atttttccac attccttgcg cgatacaaag ccgatctgga aacctacggg
+      361 aacgtactgg atatggacgc aaaaccaaat acaccgccca acacctttcc cgtttccatg
+      421 gtgccatgga ccacattcac gggcttccat ctgcacctgc aaaagggtta cgactatctc
+      481 ctgcccatat tcacactggg caaggcatgg gaacaccatg ggcactggaa aatgcccctt
+      541 gccatacagt acatcatgtg tctgcgatgg gttccatgtg agccgtttgk gaatccctca
+      601 gcagacttgc acattcagca taataaaata gaaagctga
+//
+
+LOCUS       JN625765                 786 bp    DNA     linear   ENV 15-APR-2012
+DEFINITION  Uncultured organism clone FRSPE1.1 adenyl transferase gene,
+            complete cds.
+ACCESSION   JN625765
+VERSION     JN625765.1
+KEYWORDS    ENV.
+SOURCE      uncultured organism
+  ORGANISM  uncultured organism
+            unclassified sequences; environmental samples.
+REFERENCE   1  (bases 1 to 786)
+  AUTHORS   Zhou,W., Wang,Y. and Lin,J.
+  TITLE     Functional cloning and characterization of antibiotic resistance
+            genes from the chicken gut microbiome
+  JOURNAL   Appl. Environ. Microbiol. 78 (8), 3028-3032 (2012)
+   PUBMED   22286984
+REFERENCE   2  (bases 1 to 786)
+  AUTHORS   Zhou,W. and Lin,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2011) Department of Animal Science, University of
+            Tennessee, 2640 Morgan Circle Drive, Knoxville, TN 37996, USA
+FEATURES             Location/Qualifiers
+     source          1..786
+                     /organism="uncultured organism"
+                     /mol_type="genomic DNA"
+                     /isolation_source="intestinal content"
+                     /host="Gallus gallus"
+                     /db_xref="taxon:155900"
+                     /clone="FRSPE1.1"
+                     /environmental_sample
+     CDS             1..786
+                     /EC_number="2.7.7.47"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="adenyl transferase"
+                     /protein_id="AFH53889.1"
+                     /translation="MMNSYEVTKKLLPVQVSAVTALLQKILQKQLIGVYLYGSAVLGG
+                     LKHESDLDILVVIKEYLSEAHRLTLTKRLLELSGEIGDKNNRPLEVTIVSEHILTLTE
+                     KIPECEYMYGEWLRADIESGKIPQRYVEPDVILLLFQARSSSIVLYGVPAENLLPEIG
+                     FEKINKAILHSLPALMKTINGDERNVLLTLARMWYSLSSQKICPKDIAAYWAAENVPE
+                     ELAYLLIMAAEGYTGKIKDCWEDKTEELNKLTDFLQQKIKGFA"
+ORIGIN      
+        1 atgatgaata gttatgaagt aacaaaaaaa ttactgcctg tacaggtgag cgcagtaacg
+       61 gcgttgttgc agaaaatact tcaaaaacaa ttaattggcg tatatttata tggctctgct
+      121 gtattgggcg ggcttaaaca cgaaagtgat ttggatattt tggttgttat taaggagtat
+      181 ttaagcgaag cacatcgttt aacgcttaca aaaaggcttc ttgaattatc cggagaaata
+      241 ggagataaaa ataatcgtcc attagaagtt accatagtaa gtgaacatat attgacatta
+      301 actgaaaaaa ttcccgaatg tgaatatatg tacggggaat ggttaagagc cgatatagaa
+      361 tccggaaaaa ttccgcagcg ttatgttgaa ccggatgtaa ttttactttt atttcaggct
+      421 cggagtagca gtattgtttt atatggcgtt ccggcagaaa atttgctgcc ggaaatagga
+      481 tttgaaaaaa ttaataaagc aattttgcat tctttgcctg ctttaatgaa aactattaac
+      541 ggtgatgaaa gaaatgtatt gcttacgctt gccagaatgt ggtatagttt gagcagccaa
+      601 aaaatttgtc caaaagatat tgctgcatat tgggcggcag aaaatgttcc tgaagaattg
+      661 gcctatcttt taattatggc agctgaaggt tatacgggta aaatcaaaga ttgttgggag
+      721 gataaaacag aagaattaaa taagcttaca gatttccttc aacaaaaaat aaaaggtttt
+      781 gcttaa
+//
+
+LOCUS       JN625766                 861 bp    DNA     linear   ENV 15-APR-2012
+DEFINITION  Uncultured organism clone CRAMP1.1 ampicillin resistant protein
+            gene, complete cds.
+ACCESSION   JN625766
+VERSION     JN625766.1
+KEYWORDS    ENV.
+SOURCE      uncultured organism
+  ORGANISM  uncultured organism
+            unclassified sequences; environmental samples.
+REFERENCE   1  (bases 1 to 861)
+  AUTHORS   Zhou,W., Wang,Y. and Lin,J.
+  TITLE     Functional cloning and characterization of antibiotic resistance
+            genes from the chicken gut microbiome
+  JOURNAL   Appl. Environ. Microbiol. 78 (8), 3028-3032 (2012)
+   PUBMED   22286984
+REFERENCE   2  (bases 1 to 861)
+  AUTHORS   Zhou,W. and Lin,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-AUG-2011) Department of Animal Science, University of
+            Tennessee, 2640 Morgan Circle Drive, Knoxville, TN 37996, USA
+FEATURES             Location/Qualifiers
+     source          1..861
+                     /organism="uncultured organism"
+                     /mol_type="genomic DNA"
+                     /isolation_source="intestinal content"
+                     /host="Gallus gallus"
+                     /db_xref="taxon:155900"
+                     /clone="CRAMP1.1"
+                     /environmental_sample
+     CDS             1..861
+                     /EC_number="3.5.2.6"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ampicillin resistant protein"
+                     /protein_id="AFH53890.1"
+                     /translation="MSIQHFRVALIPFFAAFCLPVFAHPETLVKVKDAEDQLGARVGY
+                     IELDLNSGKILESFRPEERFPMMSTFKVLLCGAVLSRIDAGQEQLGRRIHYSQNDLVE
+                     YSPVTEKHLTDGMTVRELCSAAITMSDNTAANLLLTTIGGPKELTAFLHNMGDHVTRL
+                     DRWEPELNEAIPNDERDTTMPVAMATTLRKLLTGELLTLASRQQLIDWMEADKVAGPL
+                     LRSALPAGWFIADKSGAGERGSRGIIAALGPDGKPSRIVVIYTTGSQATMDERNRQIA
+                     EIGASLIKHW"
+ORIGIN      
+        1 atgagtattc aacatttccg tgtcgccctt attcccttct ttgcggcatt ttgccttcct
+       61 gtttttgctc acccagaaac gctggtgaaa gtaaaagatg ctgaagatca gttgggtgca
+      121 cgagtgggtt acatcgaact ggatctcaac agcggtaaga tccttgagag ttttcgcccc
+      181 gaagaacgtt ttccaatgat gagcactttt aaagttctgc tatgtggcgc ggtattatcc
+      241 cgtattgacg ccgggcaaga gcaactcggt cgccgcatac actattctca gaatgacttg
+      301 gttgagtact caccagtcac agaaaagcat cttacggatg gcatgacagt aagagaatta
+      361 tgcagtgctg ccataaccat gagtgataac actgcggcca acttacttct gacaacgatc
+      421 ggaggaccga aggagctaac cgcttttttg cacaacatgg gggatcatgt aactcgcctt
+      481 gatcgttggg aaccggagct gaatgaagcc ataccaaacg acgagcgtga caccacgatg
+      541 cctgtagcaa tggcaacaac gttgcgcaaa ctattaactg gcgaactact tactctagct
+      601 tcccggcaac aattaataga ctggatggag gcggataaag ttgcaggacc acttctgcgc
+      661 tcggcccttc cggctggctg gtttattgct gataaatctg gagccggtga gcgtgggtct
+      721 cgcggtatca ttgcagcact ggggccagat ggtaagccct cccgtatcgt agttatctac
+      781 acgacgggga gtcaggcaac tatggatgaa cgaaatagac agatcgctga gataggtgcc
+      841 tcactgatta agcattggta a
+//
+
+LOCUS       JN625767                 891 bp    DNA     linear   ENV 15-APR-2012
+DEFINITION  Uncultured organism clone CRAMP2.1 CbIA beta-lactamase gene,
+            complete cds.
+ACCESSION   JN625767
+VERSION     JN625767.1
+KEYWORDS    ENV.
+SOURCE      uncultured organism
+  ORGANISM  uncultured organism
+            unclassified sequences; environmental samples.
+REFERENCE   1  (bases 1 to 891)
+  AUTHORS   Zhou,W., Wang,Y. and Lin,J.
+  TITLE     Functional cloning and characterization of antibiotic resistance
+            genes from the chicken gut microbiome
+  JOURNAL   Appl. Environ. Microbiol. 78 (8), 3028-3032 (2012)
+   PUBMED   22286984
+REFERENCE   2  (bases 1 to 891)
+  AUTHORS   Zhou,W. and Lin,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2011) Department of Animal Science, University of
+            Tennessee, 2640 Morgan Circle Drive, Knoxville, TN 37996, USA
+FEATURES             Location/Qualifiers
+     source          1..891
+                     /organism="uncultured organism"
+                     /mol_type="genomic DNA"
+                     /isolation_source="intestinal content"
+                     /host="Gallus gallus"
+                     /db_xref="taxon:155900"
+                     /clone="CRAMP2.1"
+                     /environmental_sample
+     CDS             1..891
+                     /EC_number="3.5.2.6"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="CbIA beta-lactamase"
+                     /protein_id="AFH53891.1"
+                     /translation="MKAYFIAILTLFTCIATVVRAQQMSELENRIDSLLNGKKATVGI
+                     AVWTDKGDMLRYNDHVHFPLLSVFKFHVALAVLDKMDKQSISLDSIVSIKASQMPPNT
+                     YSPLRKKFPDQDFTITLRELMQYSISQSDNNACDILIEYAGGIKHINDYIHRLSIDSF
+                     NLSETEDGMHSSFEAVYRNWSTPSAMVRLLRTADEKELFSNKELKDFLWQTMIDTETG
+                     ANKLKGMLPAKTVVGHKTGSSDRNADGMKTADNDAGLVILPDGRKYYIAAFVMDSYET
+                     DEDNANIIARISRMVYDAMR"
+ORIGIN      
+        1 atgaaagcat atttcatcgc catacttacc ttattcactt gtatagctac cgtcgtccgg
+       61 gcgcagcaaa tgtctgaact tgaaaaccgg attgacagtc tgctcaatgg caagaaagcc
+      121 accgttggta tagccgtatg gacagacaaa ggagacatgc tccggtataa cgaccatgta
+      181 cacttcccct tgctcagtgt attcaaattc catgtggcac tggccgtact ggacaagatg
+      241 gataagcaaa gcatcagtct ggacagcatt gtttccataa aggcatccca aatgccgccc
+      301 aatacctaca gccccctgcg gaagaagttt cccgaccagg atttcacgat tacgcttagg
+      361 gaactgatgc aatacagcat ttcccaaagc gacaacaatg cctgcgacat cttgatagaa
+      421 tatgcaggag gcatcaaaca tatcaacgac tatatccacc ggttgagtat cgactccttc
+      481 aacctctcgg aaacagaaga cggcatgcac tccagcttcg aggctgtata ccgcaactgg
+      541 agtactcctt ccgctatggt ccgactactg agaacggctg atgaaaaaga gttgttctcc
+      601 aacaaggagc tgaaagactt cttgtggcag accatgatag atactgaaac cggtgccaac
+      661 aaactgaaag gtatgttgcc agccaaaacc gtggtaggac acaagaccgg ctcttccgac
+      721 cgcaatgccg acggtatgaa aactgcagat aatgatgccg gcctcgttat ccttcccgac
+      781 ggccggaaat actacattgc cgccttcgtc atggactcat acgagacgga tgaggacaat
+      841 gcgaacatca tcgcccgcat atcacgcatg gtatatgatg cgatgagatg a
+//
+

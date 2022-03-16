@@ -1,0 +1,572 @@
+LOCUS       KM113767                1156 bp    DNA     linear   ENV 23-OCT-2014
+DEFINITION  Bacterium enrichment culture clone cep-01 beta-lactamase class A
+            (blacep01) gene, complete cds.
+ACCESSION   KM113767
+VERSION     KM113767.1
+KEYWORDS    ENV.
+SOURCE      bacterium enrichment culture clone cep-01
+  ORGANISM  bacterium enrichment culture clone cep-01
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1156)
+  AUTHORS   Udikovic-Kolic,N., Wichmann,F., Broderick,N.A. and Handelsman,J.
+  TITLE     Bloom of resident antibiotic-resistant bacteria in soil following
+            manure fertilization
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 111 (42), 15202-15207 (2014)
+   PUBMED   25288759
+REFERENCE   2  (bases 1 to 1156)
+  AUTHORS   Udikovic-Kolic,N., Wichmann,F., Broderick,N. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUL-2014) Department of Molecular, Cellular and
+            Developmental Biology, Yale University, 219 Prospect Street, New
+            Haven, CT 06511, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.0.5
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1156
+                     /organism="bacterium enrichment culture clone cep-01"
+                     /mol_type="genomic DNA"
+                     /isolation_source="cow manure"
+                     /db_xref="taxon:1548701"
+                     /clone="cep-01"
+                     /environmental_sample
+                     /country="USA"
+     gene            124..978
+                     /gene="blacep01"
+     CDS             124..978
+                     /gene="blacep01"
+                     /note="confers resistance on Escherichia coli to
+                     beta-lactams"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="beta-lactamase class A"
+                     /protein_id="AIQ86551.1"
+                     /translation="MKKFCFLFLIICGLMFFCLQDCQARQKLNLADLENKYNAVIGVY
+                     AVDMENGKKICYKPDTRFSYCSTHKVFTVAELLRQKNTSDLNEIRKFSAEDILSYAPI
+                     TKDHVADGMTLAEICSASLRWSDNTAANLILQEIGGVENFKVALKNIGDKTTKPARNE
+                     PELNLFNPKDNRDTSTPRQMVKNLQVYIFGDILSDDKKKLLIDWMSDNSITDTLIKAG
+                     TPQGWKVIDKSGSGDYGARNDIAVIYPPNRKPIVMAIMSRRTEKNAKSDDAMIAEAAK
+                     RIFDNLVF"
+ORIGIN      
+        1 aagtgtgtta tattatgata aagtaatggc aataagagtg ctaattgctg atgatcacgc
+       61 tctattgagc caatacgacc cgttgaattt ggcgggtcgt tcaacagata gtaggaggtt
+      121 attatgaaga aattttgttt tttgtttttg ataatctgtg gcttgatgtt tttctgcctt
+      181 caggattgtc aagcgcggca gaaattaaat cttgctgatc tggaaaataa atataacgcc
+      241 gtgattggtg tttacgccgt tgacatggag aatggaaaaa aaatttgcta caaacctgat
+      301 acgcgttttt cctactgctc gacacacaaa gtttttacgg ttgcagaatt gctaagacaa
+      361 aaaaatacct ccgatttgaa tgaaattcgt aagttttcgg cggaagatat tttgtcctac
+      421 gcgccaatca ccaaagacca tgttgctgat ggcatgacgc tggcggaaat ttgttcggca
+      481 tcgctcaggt ggagtgacaa cacggcggca aatttaattt tgcaggagat cggcggcgtg
+      541 gaaaatttca aggtggcact taaaaatatt ggcgacaaaa ctaccaaacc tgcgcgaaat
+      601 gaacctgaac ttaatctttt caatccaaaa gataatcgtg atactagcac gccgagacag
+      661 atggtaaaaa atttgcaagt ctatatattc ggcgatattt tgagcgacga caagaaaaaa
+      721 ctgctgattg attggatgag cgacaattcc ataaccgaca cgcttatcaa ggcaggaact
+      781 ccgcaaggtt ggaaagttat cgacaagagc ggttcaggcg attatggggc gcggaatgat
+      841 attgccgtga tttatccgcc caatcgcaaa cccattgtca tggcgataat gtcgcgccgc
+      901 acggaaaaaa atgcaaaatc tgacgacgct atgattgcgg aggcggcaaa acgaattttt
+      961 gataatttag tattttaaag gggcttgata gcatcggtat tgccgatggg cagagagggc
+     1021 catcacgcaa aaatatttcg ccaaacattt atatctcact caaacttcgc acacctgaaa
+     1081 cccttaaatt agaattaaaa agaaatcgag cctttacgaa agcagtttct aatatggcaa
+     1141 ttatggatat tacgga
+//
+
+LOCUS       KM113768                2074 bp    DNA     linear   ENV 23-OCT-2014
+DEFINITION  Bacterium enrichment culture clone cep-02 beta-lactamase class A
+            (blacep02) gene, complete cds.
+ACCESSION   KM113768
+VERSION     KM113768.1
+KEYWORDS    ENV.
+SOURCE      bacterium enrichment culture clone cep-02
+  ORGANISM  bacterium enrichment culture clone cep-02
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 2074)
+  AUTHORS   Udikovic-Kolic,N., Wichmann,F., Broderick,N.A. and Handelsman,J.
+  TITLE     Bloom of resident antibiotic-resistant bacteria in soil following
+            manure fertilization
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 111 (42), 15202-15207 (2014)
+   PUBMED   25288759
+REFERENCE   2  (bases 1 to 2074)
+  AUTHORS   Udikovic-Kolic,N., Wichmann,F., Broderick,N. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUL-2014) Department of Molecular, Cellular and
+            Developmental Biology, Yale University, 219 Prospect Street, New
+            Haven, CT 06511, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.0.5
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2074
+                     /organism="bacterium enrichment culture clone cep-02"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:1548702"
+                     /clone="cep-02"
+                     /environmental_sample
+                     /country="USA"
+     gene            603..1553
+                     /gene="blacep02"
+     CDS             603..1553
+                     /gene="blacep02"
+                     /note="confers resistance on Escherichia coli to
+                     beta-lactams"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="beta-lactamase class A"
+                     /protein_id="AIQ86552.1"
+                     /translation="MIVLNKFFNILHYKKAVPVVFLSCATLIGCSDSNTQSESLKQTK
+                     QTNQIKQETTGNDSFAKLEKEFDAKLGIYALDTDTNQTVTYQSDKRFAYASTHKALAV
+                     GVLLQKKSIEGLNQRVLYTREDLVNYNPITEKYVDTGMTLKELADASLRYSDNTAQNL
+                     ILKQLGGPSEFKKSLREIGDTVTNPEHFEPELNEVHPGDVHDTSTPKALATSLQAFTL
+                     GDVLSTEKRDLLIDWMKKNTTGDSLIRAGVPGGWEVADKTGSGSYGTRNDIAIIWPPN
+                     KKPIVLAILSNHDKEDAKYDDKLIAEATKIALDTLKTTNK"
+ORIGIN      
+        1 actgggaagc ggtacagaaa agctgatggt ttcaaccaag ggatacatga tgataggtga
+       61 tgaacaaatt gatgccagag ggctttacaa tatcaaatta tacgcccagt ttgcaaaaat
+      121 ctattggctt ttcttccttt ttttctggtt tcgaaagatg gcttgaatta catagagtta
+      181 atgaaggact atctgtcata aaccgaatga aacatttgaa ttttattcag attgcctccc
+      241 ctgaacacct ttttgattaa atttttttga aaatggattt ttacatttgc tattaaaaaa
+      301 agcttaaagc acttttttat caatttttat ttcaaagcta aatggacctc tacggttatc
+      361 attcaaagga gtgaacagtc gattcactcc ttactttttt gttaataact ttgttgttga
+      421 ttaaaatatt tttaaatgta tggaacaaac ttgttactta ggttgtctat taagtattcg
+      481 tataaaacag gtgtttatga taagttggat gcttgaagag tgatatccga tatactcttt
+      541 aattttattg gtatgtataa cacctagaaa aaccatatat tcttgaaaga ggtcgaaaat
+      601 gtatgatagt cttaaacaag ttttttaaca ttttacatta caaaaaggcg gtacctgtag
+      661 tatttctttc atgtgcaacg cttataggct gttccgatag taatactcaa tctgaatcac
+      721 ttaaacaaac gaaacaaaca aatcaaatca aacaagaaac tactggtaat gattcttttg
+      781 ctaaacttga aaaagaattt gatgctaaac tcggtattta tgcattggac actgatacga
+      841 atcaaaccgt tacatatcaa tcagataaac ggtttgcata cgcatctacc cacaaagctt
+      901 tagctgtggg agtactttta caaaagaaat caatagaagg tctaaatcaa agagttttgt
+      961 atactcgtga agatcttgtt aattacaatc caattacaga aaagtatgtt gatacaggta
+     1021 tgactctgaa agagcttgca gatgcttccc ttcgatatag tgataatact gcacaaaatc
+     1081 ttattcttaa acaattaggt ggacctagtg aattcaaaaa atcactgaga gaaataggag
+     1141 ataccgttac aaatcctgaa cattttgaac cagagttaaa cgaagtgcat ccaggagatg
+     1201 tacatgatac tagtacccca aaggcattag ctactagtct tcaggctttt acgctaggag
+     1261 atgtactttc aactgagaaa cgggatttat taatagattg gatgaaaaag aacactacgg
+     1321 gagacagctt aattcgtgct ggagttccag gaggatggga agtagctgat aaaacaggct
+     1381 cgggatctta tggaaccaga aatgatatcg caattatttg gccaccaaat aaaaagccaa
+     1441 ttgttcttgc gatactttct aatcatgata aagaggatgc taaatacgat gataagctta
+     1501 ttgcagaagc aaccaaaata gcgttagata ccttaaaaac tacaaataaa taataatagt
+     1561 aattagttat taaaattttt ctgtttttcc gtcacaaaac tgtggcggtc tttttatgta
+     1621 tttaaaaaag aatcgactta agtaaagaaa aaagatagaa acaatcccta ttcaatttat
+     1681 taagtaacaa caaatatacg ctttattgga tacttattgc atttgtgagg gtaggtaaaa
+     1741 tatcatcttt tttacataag taaaatattg aataccaaat gaactttaaa aattgcgcct
+     1801 aaattaaagg agagtacgtt atgaatacaa tcatgattgt agaagatgat atgaaaattg
+     1861 ctgaattact gggaactcat ataaaaaaat atggatacca aagtattatt atagaggatt
+     1921 ttgaaaatat cttagaaata tttcaagaga taaaaccaga tgtagtgcta ttagatgtaa
+     1981 atttacctaa ttttgatggt tattattggt gtcgccaaat acgagcaatt tctacttgtc
+     2041 caattgtatt tctatctgca aggagtggag agat
+//
+
+LOCUS       KM113769                1835 bp    DNA     linear   ENV 23-OCT-2014
+DEFINITION  Bacterium enrichment culture clone cep-03 beta-lactamase class C
+            (blacep03) gene, partial cds.
+ACCESSION   KM113769
+VERSION     KM113769.1
+KEYWORDS    ENV.
+SOURCE      bacterium enrichment culture clone cep-03
+  ORGANISM  bacterium enrichment culture clone cep-03
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1835)
+  AUTHORS   Udikovic-Kolic,N., Wichmann,F., Broderick,N.A. and Handelsman,J.
+  TITLE     Bloom of resident antibiotic-resistant bacteria in soil following
+            manure fertilization
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 111 (42), 15202-15207 (2014)
+   PUBMED   25288759
+REFERENCE   2  (bases 1 to 1835)
+  AUTHORS   Udikovic-Kolic,N., Wichmann,F., Broderick,N. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUL-2014) Department of Molecular, Cellular and
+            Developmental Biology, Yale University, 219 Prospect Street, New
+            Haven, CT 06511, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.0.5
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1835
+                     /organism="bacterium enrichment culture clone cep-03"
+                     /mol_type="genomic DNA"
+                     /isolation_source="cow manure"
+                     /db_xref="taxon:1548703"
+                     /clone="cep-03"
+                     /environmental_sample
+                     /country="USA"
+     gene            1..1185
+                     /gene="blacep03"
+     CDS             1..1185
+                     /gene="blacep03"
+                     /note="confers resistance on Escherichia coli to
+                     beta-lactams"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="beta-lactamase class C"
+                     /protein_id="AIQ86553.1"
+                     /translation="MLILKNGAPVYDKCFGTFTYEGQRKVTPDDLYDIASLTKTTATL
+                     LAVMKLYDEGKFGLTDPISKYVSALNGTRKGRITIEDLLYHQSGLPGSWPFYREAIND
+                     SSYTGGFFKARIDANHHLRVDQRLYVVDDFKYKEEYLSSAYSEEYPLQVAEYMYVSPA
+                     FPKRMLEMIASDKIPLRDRRYRYSCLNFVLLKEMVEKISGMPMDEYLEKEFYGPMGMK
+                     YTLYNPLRKYKSEQIVPTIQKDYLRNRKELRGYVHDEIAAFMGGVSGNAGLFSNAHDV
+                     AKVYQMLVDGGQYEGKRYLSLETCQLFMNKKSRISRRALGFDRPDPQPDKGPCADEAP
+                     KEVVGHTGFTGTCAWADPKNGLVFVFISNRVYPRPFDHKGLMTLKIRPRIQQLMYQAL
+                     KK"
+ORIGIN      
+        1 atattgattt tgaaaaatgg agcaccggta tatgacaagt gtttcggaac gtttacttat
+       61 gagggccaga gaaaagttac tccggatgat ttgtatgaca ttgcttcgtt gaccaaaaca
+      121 acggcgactc tcctggcagt catgaaacta tacgatgagg gaaagttcgg gttaacagat
+      181 cctatctcta aatatgtatc agccttgaat ggcactcgga aaggccggat tacgatagag
+      241 gatttattgt atcatcagtc gggattgccc ggttcttggc ccttttatcg ggaggctatc
+      301 aatgactcca gttatacggg tggttttttc aaggctcgga tagatgccaa ccaccatttg
+      361 cgagtggacc aacgcttgta tgtggtagat gatttcaagt ataaggaaga atatctatcg
+      421 tctgcgtatt cggaagaata tccattacag gtggcggagt atatgtatgt gtctcctgct
+      481 ttcccgaagc ggatgttgga gatgattgca tcagataaaa tacctcttcg ggaccgtcgg
+      541 tatcgatata gttgcttgaa ctttgtcttg ctgaaggaaa tggtggaaaa gattagcggg
+      601 atgccgatgg atgagtattt ggagaaggag ttttatggtc ctatgggaat gaagtatacg
+      661 ttgtataatc ctttgcggaa gtataagtca gaacagattg ttcctactat tcagaaggat
+      721 tatctacgta atcggaagga gttgagaggg tatgttcacg atgagatagc cgctttcatg
+      781 ggaggggttt ccggtaatgc cggtttgttc tcaaatgctc atgatgtggc taaagtgtat
+      841 cagatgctgg ttgatggagg acaatacgaa ggcaagcgat acttgagttt ggaaacttgt
+      901 caactcttta tgaataagaa atcgcgtatt agccgtagag cattgggctt tgaccgtccg
+      961 gatccacagc cggataaagg accatgtgca gatgaggctc cgaaagaagt ggtaggacat
+     1021 acaggcttta ctggaacttg tgcttgggcc gatccgaaga atggattggt gtttgttttt
+     1081 atcagtaacc gcgtttatcc tcgtccgttc gaccacaaag ggttgatgac attgaaaata
+     1141 cgtccgcgta tccaacaact tatgtatcaa gccctgaaga agtgaaagta tttagattaa
+     1201 atacaaatta gataaaataa tgataggggt attgccgatt aagcagaaaa aagtatatct
+     1261 ttgttccaaa caattagtac taataattaa ataattaaga aaatggctta cgtaattagt
+     1321 gacgattgta tcgcttgcgg tacttgtatc gatgaatgtc cagttggcgc aatctctgaa
+     1381 ggtgataagt attctatcga cccagatatg tgtacagaat gtggcacttg tgcagatgca
+     1441 tgtccgtctg aagcaattag cttgggctaa tacaatctag aaaagtatga caacggccgt
+     1501 ccttctcaga gggacggccg tctttttttt aaagacggtc atctttttga aaaagatggt
+     1561 gaggtttaaa aaaaatgccg tgacctttta tttatgggtc acggcattct tatttgatgt
+     1621 cggttgtctt cgattatttc aaggctgcca atgcttcctt gatacgacgc atcgcttcta
+     1681 caatgttttc gtctgaagtg gcataactca tgcggatgca ttcaggagca ccgaaggaag
+     1741 ttccgcctac gcatgctaca tgtcctactt ccaatagata catagcaagg tcgtcggcat
+     1801 tgttgatgac atggttgccg gctgattttc catag
+//
+
+LOCUS       KM113770                1791 bp    DNA     linear   ENV 23-OCT-2014
+DEFINITION  Bacterium enrichment culture clone cep-04 beta-lactamase class C
+            (blacep04) gene, partial cds.
+ACCESSION   KM113770
+VERSION     KM113770.1
+KEYWORDS    ENV.
+SOURCE      bacterium enrichment culture clone cep-04
+  ORGANISM  bacterium enrichment culture clone cep-04
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1791)
+  AUTHORS   Udikovic-Kolic,N., Wichmann,F., Broderick,N.A. and Handelsman,J.
+  TITLE     Bloom of resident antibiotic-resistant bacteria in soil following
+            manure fertilization
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 111 (42), 15202-15207 (2014)
+   PUBMED   25288759
+REFERENCE   2  (bases 1 to 1791)
+  AUTHORS   Udikovic-Kolic,N., Wichmann,F., Broderick,N. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUL-2014) Department of Molecular, Cellular and
+            Developmental Biology, Yale University, 219 Prospect Street, New
+            Haven, CT 06511, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.0.5
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1791
+                     /organism="bacterium enrichment culture clone cep-04"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:1548704"
+                     /clone="cep-04"
+                     /environmental_sample
+                     /country="USA"
+     gene            40..1197
+                     /gene="blacep04"
+     CDS             40..1197
+                     /gene="blacep04"
+                     /note="confers resistance on Escherichia coli to
+                     beta-lactams"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="beta-lactamase class C"
+                     /protein_id="AIQ86554.1"
+                     /translation="MTDTLNPGRLKMLAVCAALLAAGQSLAQDRLESIVSDAVRPVMH
+                     AQGIAGMAVAVTVNGKPQYFNYGVASKETGKPVTQDTLFEIGSVSKTYTATLIAYAQA
+                     TGKLALTDNASAVLPALRGSAFDHISVLQLATYSAGGLPLQFPAEADSADKMLGYYQQ
+                     WKPVYPVGSQRLYSNPSIGLSGYLAAQAMGQPFDDAMENTLLPKLGLKHTWLKVPQEQ
+                     MALYAQGYDKADKPVRVGPGALDAEAYGVKTSAADLIGFVQANLKPASLDKPLQQAIA
+                     LTHTGYYSVGDMTQGLGWEMYRYPVTLDGLLAGNSTAMAMQSHQVQWLNPPQAPSGNV
+                     LLNKTGSTGGFGAYVAYVPSKDMGVVILANKNYPNAERVKIAHQILSALAL"
+ORIGIN      
+        1 ctttccgata cggcgcgaca aaccaaagga gtgaaacctg tgacggacac cctcaatcca
+       61 ggcagattga agatgttagc ggtttgtgcc gcgttgctgg cggcaggcca gtcgcttgcg
+      121 caggatcgcc tcgaatcgat cgtcagcgac gccgtgcgtc ccgtcatgca cgcccagggc
+      181 attgccggca tggccgtggc cgtcaccgtc aacggcaagc cgcaatactt caactatggc
+      241 gtagcgtcga aagagaccgg caagccggtg acgcaagaca ccctgttcga gattggctcg
+      301 gtcagcaaaa cctacaccgc caccctcatc gcctacgccc aggccaccgg caaactggca
+      361 ttgaccgaca acgccagcgc ggtgctgccg gctttacgcg gcagcgcgtt cgaccacatc
+      421 agcgtgttgc aactggccac ctacagcgcc ggcggcctgc ccctgcaatt tcctgcagag
+      481 gcggattcgg ccgataagat gctcggctac taccagcagt ggaaaccggt atatcccgtc
+      541 ggcagccaac ggctgtattc gaatcccagc atcgggttat ccggctacct cgccgcccag
+      601 gccatggggc agcccttcga tgacgccatg gaaaacaccc tgctgcccaa gctcgggctg
+      661 aaacacacct ggctcaaggt gccgcaggag cagatggcgc tgtatgccca gggctacgac
+      721 aaggcggaca aacccgtgcg ggtcggaccg ggagcgctgg atgccgaagc ctacggggtg
+      781 aaaaccagcg cggcggattt gattggtttt gtccaggcca acctcaaacc ggccagcctg
+      841 gacaagccct tgcaacaggc tatcgccttg acccataccg gttactacag cgtcggtgat
+      901 atgacccagg gactggggtg ggagatgtac cgttacccgg tcacactgga tggtctgctg
+      961 gcgggtaact cgacagcgat ggccatgcag tcgcatcaag tgcagtggct gaatccgccg
+     1021 caagcgccgt cagggaatgt gttactcaac aaaaccgggt cgacgggtgg gttcggggct
+     1081 tatgtggcgt atgtgccgtc gaaggacatg ggggtcgtga ttctggccaa caagaattat
+     1141 ccgaatgcag agcgggtgaa gatagctcat cagatactga gcgctttggc cctgtaggag
+     1201 cgagcatgtc gaatcgtcgc accgtcgcga tggtcgtgaa cgataacgcg taaaaccaga
+     1261 tgccccgcgg cgccctcgag tttttcgcga gcatgctcgc tcctacagag gattagcgct
+     1321 attgcggggg gacgatgttg tccagcgccc gatttaccag tcactcccac ccactggaaa
+     1381 acctgtttcc agcgccaccc agactaatca tccggcatct ccggtggctt ggccggtttt
+     1441 gccggcttgg cgtttttggc ggccttggca gcccctttgg gcggtggggt ttcggcaacc
+     1501 ggcggtggcg tgggggcggc agcttccttc tcggtcgccg gcaaggcatc gatggtggcg
+     1561 aagattttct tcaggtcgac cgacttggat tcttcccctg agctttcaag tttcttctcg
+     1621 ccgtccttgc ccaccaggat cactttgggc aaggcgccgg cccccagttt cagcgcacgg
+     1681 atcaacgcca tggtgtcctg ttggccgagg tccttgccgt ccagttggcc ggacatgttc
+     1741 agcacgctgt acacccggat gttgcggtcg gcgacaccct gcttgttggc g
+//
+
+LOCUS       KM113771                1929 bp    DNA     linear   ENV 23-OCT-2014
+DEFINITION  Bacterium enrichment culture clone cep-05 beta-lactamase class C
+            (blacep05) gene, complete cds.
+ACCESSION   KM113771
+VERSION     KM113771.1
+KEYWORDS    ENV.
+SOURCE      bacterium enrichment culture clone cep-05
+  ORGANISM  bacterium enrichment culture clone cep-05
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1929)
+  AUTHORS   Udikovic-Kolic,N., Wichmann,F., Broderick,N.A. and Handelsman,J.
+  TITLE     Bloom of resident antibiotic-resistant bacteria in soil following
+            manure fertilization
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 111 (42), 15202-15207 (2014)
+   PUBMED   25288759
+REFERENCE   2  (bases 1 to 1929)
+  AUTHORS   Udikovic-Kolic,N., Wichmann,F., Broderick,N. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUL-2014) Department of Molecular, Cellular and
+            Developmental Biology, Yale University, 219 Prospect Street, New
+            Haven, CT 06511, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.0.5
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1929
+                     /organism="bacterium enrichment culture clone cep-05"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:1548705"
+                     /clone="cep-05"
+                     /environmental_sample
+                     /country="USA"
+     gene            237..1409
+                     /gene="blacep05"
+     CDS             237..1409
+                     /gene="blacep05"
+                     /note="confers resistance on Escherichia coli to
+                     beta-lactams"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="beta-lactamase class C"
+                     /protein_id="AIQ86555.1"
+                     /translation="MIISSAPRTGLTAAALSLFLAAPAQAADANAPLRAIVDQAVRPV
+                     IAEYDLPGVAVAVTVDGKASFFNYGLASREYQTPVSENTLFELGSISKTFTATLASYA
+                     QVTGKLSLEDHPGKYMPELKGSAIDKASVLNLGTYTAGGLPLQFPDDVSDDGMLAYFK
+                     QWKADAAPGTQRRYSNPSLGLFGHVAALSMGSGFAEAMEGRILPGLGMKHTHVRVPAG
+                     AMGDYAWGYDEANRPGRVNPGPLAAETYGIRSSAADMIRYLQANIDPSRLEAPLRRAV
+                     EGTHVGYFKIDGMVQGLGWEQYPYPVALAQLEAGNSQKMIREANPASALTPPQTPPPA
+                     TLFNKTGSTSRFGAYAAFVPAQKIGVVILANKNYPIAARVKAAHEILINLETRRAD"
+ORIGIN      
+        1 aatgggtcgg gatcctgcac ggccgctaca cctgcaaggc gcgcaagccg gagtgctgga
+       61 actgcatcca gcaagacctg tgcgactacc gccaaaaaac cccgatgcct gacggcctgt
+      121 aagcgccgcg aatacgccgc gccgcgcgcg cggcatccca gcgcttgacc gcattgcgac
+      181 acacgtcgca taatggtggc cgacgtcgca aacctccatc catcaaggaa aatcgcatga
+      241 tcatttcgtc cgcaccgcgc accggcctga cggcggccgc gctgtcctta ttcttggcgg
+      301 cgcccgccca ggccgccgac gccaacgccc cgctgcgcgc catcgtcgac caggcggtcc
+      361 gccccgtcat cgccgaatac gacctgcccg gcgtggccgt cgccgtcacg gtcgacggca
+      421 aggccagctt cttcaactac ggactggctt cgcgcgagta tcagacgccg gtcagcgaaa
+      481 acacgctgtt cgaactcggc tcgatcagca aaaccttcac cgccacgctg gcgtcatatg
+      541 cgcaggttac cggcaaactg tcgcttgaag atcatcccgg caaatacatg cccgagttga
+      601 aaggcagcgc gatcgacaaa gccagcgtgc tcaatctggg cacctacacg gccggcggcc
+      661 tgccgctaca gttccccgac gatgtgtcgg acgacggcat gctcgcctat ttcaaacagt
+      721 ggaaagccga cgcggcgcct ggcacgcagc gccgctactc gaatccgagc ctcggtctgt
+      781 tcggccatgt ggccgcgctg tcgatgggaa gtggcttcgc cgaggcgatg gagggccgca
+      841 tcctgcccgg gttgggaatg aagcacaccc acgtgcgcgt gccggccggc gcgatgggcg
+      901 attacgcgtg gggctatgac gaagcgaaca gaccgggccg cgtgaatcca ggcccgcttg
+      961 ccgcagaaac ctacggcatc cgttcatcgg ccgccgacat gatccgctac ctgcaggcga
+     1021 acatcgatcc aagccggttg gaggcgccgc tgcggcgcgc ggtcgaaggc acgcatgtcg
+     1081 gctattttaa aatcgatggg atggtgcagg ggctggggtg ggagcagtat ccctacccgg
+     1141 tcgcgctggc gcagctagag gcgggaaact cgcagaaaat gatcagggaa gccaatccgg
+     1201 caagcgcgct gacgccgccg caaacgccac cgccggcgac gctgttcaac aagaccggct
+     1261 cgacgtcgcg cttcggcgcg tatgcggcgt tcgtgccggc gcagaaaatc ggcgtcgtca
+     1321 tcctggcgaa caagaactac ccgatagcgg cgcgcgtcaa ggccgcccac gagatcctga
+     1381 taaatctgga gacacgtagg gcggattagg cggaacgccg taatcggcca tctaagagcc
+     1441 ctcgacggct caccaatggc cgattacgct tcgctaatcc tccctacgtg cctccctgcc
+     1501 cctcacgcgg cgtcatacca ataccagatt atcccggtga atcagctcgc ggccctcgac
+     1561 gaagcccagg accgcctcga tctcgctcga cggcttgcgc atgatgcggc gcgtctccgc
+     1621 gctggtgtag ttggacagcc cgcgcgccac cggcaagccg ctctcgttca cgcacgtgat
+     1681 ccccgcgccg cgcccgaact ccccctttac ttccaccacg ccgatcggca gcagcgactt
+     1741 gccctcgccg gtgagcttct gcaccgcgcc cgcgtcgagc accacctgcc ccgccgtatg
+     1801 cagatgatcg gccatccact gcttgcgcgc cgtcagatgc ccggtctgcg ccgccagctc
+     1861 ggtgccgatc gactcgccac cggccaggcg ctccagcaca ttatcctcgc gcccgtaggc
+     1921 gatcccgac
+//
+
+LOCUS       KM113772                1737 bp    DNA     linear   ENV 23-OCT-2014
+DEFINITION  Bacterium enrichment culture clone cep-06 beta-lactamase class B
+            (blacep06) gene, complete cds.
+ACCESSION   KM113772
+VERSION     KM113772.1
+KEYWORDS    ENV.
+SOURCE      bacterium enrichment culture clone cep-06
+  ORGANISM  bacterium enrichment culture clone cep-06
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1737)
+  AUTHORS   Udikovic-Kolic,N., Wichmann,F., Broderick,N.A. and Handelsman,J.
+  TITLE     Bloom of resident antibiotic-resistant bacteria in soil following
+            manure fertilization
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 111 (42), 15202-15207 (2014)
+   PUBMED   25288759
+REFERENCE   2  (bases 1 to 1737)
+  AUTHORS   Udikovic-Kolic,N., Wichmann,F., Broderick,N. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUL-2014) Department of Molecular, Cellular and
+            Developmental Biology, Yale University, 219 Prospect Street, New
+            Haven, CT 06511, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.0.5
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1737
+                     /organism="bacterium enrichment culture clone cep-06"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:1548706"
+                     /clone="cep-06"
+                     /environmental_sample
+                     /country="USA"
+     gene            871..1713
+                     /gene="blacep06"
+     CDS             871..1713
+                     /gene="blacep06"
+                     /note="confers resistance on Escherichia coli to
+                     beta-lactams"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="beta-lactamase class B"
+                     /protein_id="AIQ86556.1"
+                     /translation="MKVIASLILAAFATVANAQDREWSSPQKPFTIYGNTHYVGTGGI
+                     SAILVTSPQGHILVDGTTAKGAEVVAANIRTMGYKLEDVKYILSSHSHEDHAGGISAL
+                     QKLTGATVLAGTANVEAMRTGVSPKIDPQFGSLSNFPGSAKVRGVADGEVIKLGPLAV
+                     TAHSTPGHTPGGTSWTWQACEAGQCKNVAFVDSVTAVSADSYRFTDHPEVVAQLRGSF
+                     TTVESLACDIAIAAHPEVNDMWGRQQRAAKEGSVAYVDAKGCRTIVEAGRKRLETRLA
+                     SEKP"
+ORIGIN      
+        1 acggaccgcc atgttctgca agcagggtta ttccgcccgc tacgactaca agtctgactt
+       61 tgtaggtacc ttgtcctttg ccgccggcag ccacgcctgc gaaaaaatcg cccgaaaaaa
+      121 ctaagaccgc gcaccgttgc ttgccacgct tgcaaatcgg ttcggatcag cctatgattg
+      181 cgacaaatgt cacacaaagg ctaaaatggt cacaagcggt ttgttaagca gcatccccgg
+      241 catccggcac ggattcggca gtgcatctgc gctggttccg gtcgaactgg caccggtatg
+      301 ggaatcaagg ccggcaaagc gccaggtgca cggcacccgc gtcgccgcga ttcatgtgcc
+      361 gcagcagcag gcaggcgaag cagatggctt ccacaccgca gtcagcggcc tgccagtcag
+      421 catcatcaca gccgactgcg tacctttgct gttggcgcgt cgcgatggtt cgcaggtcgc
+      481 cgcagttcac gcgggttggc gcgggctgta tgacggcatt atccctgcgg cgctggccga
+      541 aatgggcgag ggcgctccgc ttgtcgccgc cgtcggcccg accatatgcg catcctgcta
+      601 cgaggtaagc gaagaactag cagaagattt cgccaggcac tttgatgctt tcccacgcga
+      661 ggtcgtcttg ccggtgtacc gccacctcga tctgcgcgcc atcgccgaat accagttgcg
+      721 cgctgccggc gtcaaggaaa tcgaacatgt cggcggctgc acatgctgcg cacgcgatgc
+      781 cgccggcgaa cacatttacc gcagttaccg gcgtggcgac cgtgggtcgc aaatgcactc
+      841 cggactgtac atcaccacca aaggagaaaa atgaaggtca tcgcatccct catcctggcc
+      901 gccttcgcga ctgtcgccaa cgcgcaagac cgcgaatgga gctcgccgca aaagccattc
+      961 acaatctacg gcaacacgca ctatgtaggc actggcggca tcagcgccat cctggtgact
+     1021 tcgccgcaag gccatatcct ggtcgacggc acaacggcga agggcgcaga agtcgtggca
+     1081 gccaacatcc gcacaatggg ctacaagctg gaggacgtga agtacatcct cagctcccac
+     1141 tcgcatgagg accatgcggg cggcatctcg gcgctgcaaa agctgaccgg cgccacggtg
+     1201 cttgccggca ctgccaacgt cgaagccatg cgcaccggtg tttcgccgaa aattgacccg
+     1261 caattcggca gcctgtcaaa cttccctgga tcggcaaaag tgcgcggcgt ggcagatggt
+     1321 gaagtgatca aacttggacc gctggcagta acagctcata gcacccccgg ccatactcca
+     1381 ggcggtactt cctggacctg gcaagcttgc gaagcaggtc aatgcaagaa cgtggcgttt
+     1441 gtcgacagcg tgactgccgt atcggccgac agctaccggt tcaccgacca ccccgaggtt
+     1501 gttgcccaac ttcgtggcag cttcaccaca gtcgaaagcc tcgcctgcga catcgcgatc
+     1561 gccgcgcatc cggaagtgaa cgacatgtgg ggccgccagc agcgcgcagc gaaagaaggc
+     1621 agcgtcgcct acgtcgacgc aaaaggctgc cgtaccatcg tcgaagccgg ccgcaagcgc
+     1681 ctcgaaaccc gcctggccag cgaaaagcct taattaactt gcctttggtt tcgccgg
+//
+
+LOCUS       KM113773                1118 bp    DNA     linear   ENV 23-OCT-2014
+DEFINITION  Bacterium enrichment culture clone cep-07 beta-lactamase class B
+            (blacep07) gene, complete cds.
+ACCESSION   KM113773
+VERSION     KM113773.1
+KEYWORDS    ENV.
+SOURCE      bacterium enrichment culture clone cep-07
+  ORGANISM  bacterium enrichment culture clone cep-07
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1118)
+  AUTHORS   Udikovic-Kolic,N., Wichmann,F., Broderick,N.A. and Handelsman,J.
+  TITLE     Bloom of resident antibiotic-resistant bacteria in soil following
+            manure fertilization
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 111 (42), 15202-15207 (2014)
+   PUBMED   25288759
+REFERENCE   2  (bases 1 to 1118)
+  AUTHORS   Udikovic-Kolic,N., Wichmann,F., Broderick,N. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUL-2014) Department of Molecular, Cellular and
+            Developmental Biology, Yale University, 219 Prospect Street, New
+            Haven, CT 06511, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.0.5
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1118
+                     /organism="bacterium enrichment culture clone cep-07"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:1548707"
+                     /clone="cep-07"
+                     /environmental_sample
+                     /country="USA"
+     gene            124..1044
+                     /gene="blacep07"
+     CDS             124..1044
+                     /gene="blacep07"
+                     /note="confers resistance on Escherichia coli to
+                     beta-lactams"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="beta-lactamase class B"
+                     /protein_id="AIQ86557.1"
+                     /translation="MAAGTVQAKTPAPVQDKPVDCDNCKEWNAPVKPFNIYGNSWYVG
+                     TAGLSAVLVTSPQGHILLDGALXQSAPLIVANIKAXGFRIEDVKYILNSHAHWDHAGG
+                     IAALQRASGXTVMASAAAAPVLQSGTNGKDDPQXQANPVVHVAKVRKVSLVGEGDTVK
+                     LGPLTLTAHMTPGHTPGGTTWTWTSCEGDRCLDVVYADSLNPYASGDFRYTGKGAGKG
+                     GTPDISASFEASIAKVAALPCDIIIPVHPGTTDVLGKAAKRSGTDNPLIDANACRAYA
+                     AEAGGLLAKRLAKERGVALPLEAKGAAHAH"
+ORIGIN      
+        1 cacacgtcgg gagccccagg ccgcagcatg atcccccccg gcggccaggc gggcgcccac
+       61 cttttacact aggagatgaa gatgacacta ttggcgaagt tgatgctggc tacggttgcg
+      121 accatggcgg ctggcacggt gcaggcgaag acccccgcac cggtgcagga taaacctgtc
+      181 gattgcgata attgcaagga atggaatgcg cccgtcaagc cgttcaatat ctatggcaat
+      241 agctggtatg tggggacggc cggcctgtcc gccgtgctgg tgacgagtcc gcaaggccat
+      301 atcctgctcg acggcgcgct gcsgcaatcg gcgcccctga tcgtggcgaa tatcaaggcg
+      361 stgggctttc gcatcgagga tgtgaaatac atcctcaatt cgcacgccca ttgggaccat
+      421 gckggcggca ttgccgcgct gcagcgggcc agcggcrcca cygtgatggc cagcgcagcg
+      481 gccgctccgg tgctgcaaag cggcaccaat ggcaaggatg atccgcaata scaggccaat
+      541 cccgtcgtgc atgtggccaa ggtgcgcaag gtcagcctgg tgggcgaggg cgataccgtc
+      601 aagctgggcc ctctgacctt gacggcccac atgacgcckg gccacacgcc gggcggcacg
+      661 acgtggacgt ggacctcgtg cgaaggcgac cgctgcctgg acgtcgtgta tgcggacagc
+      721 ctgaacccgt atgccagcgg cgatttccgc tatacaggca aaggcgcggg caagggtggc
+      781 acgcctgaca tttcggcctc gttcgaagcg agcatcgcca aggtggccgc cttgccatgc
+      841 gacatcatca tcccggtcca tccgggcacg acggacgtgc tgggcaaggc cgccaagcgc
+      901 agcggcacgg acaatcccct gatcgatgcg aatgcttgcc gcgcctatgc ggccgaagcg
+      961 ggcggcttgc tggccaagcg cctggcgaag gaacggggcg tcgcgctgcc tcttgaggcc
+     1021 aagggcgcgg cgcacgcgca ttaaacggtt ttaccctgac gcctgccgct atttttgcag
+     1081 gcgtttcagg aacaccgtca tttccttgac ggcttgca
+//
+

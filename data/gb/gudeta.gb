@@ -1,0 +1,647 @@
+LOCUS       KU167035                 909 bp    DNA     linear   ENV 03-JAN-2017
+DEFINITION  Uncultured bacterium carbapenem-hydrolyzing metallo-beta-lactamase
+            DHT2-1 (blaDHT2) gene, blaDHT2-1 allele, complete cds.
+ACCESSION   KU167035
+VERSION     KU167035.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 909)
+  AUTHORS   Gudeta,D.D., Bortolaia,V., Pollini,S., Docquier,J.D.,
+            Rossolini,G.M., Amos,G.C., Wellington,E.M. and Guardabassi,L.
+  TITLE     Expanding the Repertoire of Carbapenem-Hydrolyzing
+            Metallo-ss-Lactamases by Functional Metagenomic Analysis of Soil
+            Microbiota
+  JOURNAL   Front Microbiol 7, 1985 (2016)
+   PUBMED   28082950
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 909)
+  AUTHORS   Gudeta,D.D., Bortolaia,V., Pollini,S., Docquier,J.-D. and
+            Rossolini,G.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-NOV-2015) Department of Veterinary Disease Biology,
+            Section of Veterinary Clinical Microbiology, University of
+            Copenhagen, Faculty of Health and Medical Sciences, Stigbojlen 4,
+            Frederiksberg C, Denamark
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..909
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="agricultural soil"
+                     /db_xref="taxon:77133"
+                     /environmental_sample
+                     /country="Germany: Dossenhem"
+     gene            1..909
+                     /gene="blaDHT2"
+                     /allele="blaDHT2-1"
+     CDS             1..909
+                     /gene="blaDHT2"
+                     /allele="blaDHT2-1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="carbapenem-hydrolyzing metallo-beta-lactamase
+                     DHT2-1"
+                     /protein_id="APR64485.1"
+                     /translation="MSSIVRGVRAAVVASAISLAAAFACLPLAAADATREPVLPQSGR
+                     YEVPDSWRQPIAPVRIADHTWYIGTENLSAVLVTTPQGAVLIDGGMPQAADMLLQRMR
+                     DVGIAPGDLRWILVSHAHADHAGPVAKVKRATGARIAANAESAAMLARGGTDDIHFGD
+                     DITFPPAQADRLLQDDEVVQVGGIALTGHVTPGHTPGSTSWTWTDTKDGKPVRIAYAD
+                     SLSAPGYKLIGNPRMPRIVEMYEATFAKVRALPCDLLLTPHPDASGWTPADAANPHPS
+                     PKTCAAYADEMEAKFDAELAKQRAAK"
+ORIGIN      
+        1 atgtcatcca tcgttcgcgg cgttcgcgcc gccgtcgtcg catccgccat ttctcttgca
+       61 gccgcgttcg cctgcctgcc gctcgccgcg gcggatgcga cgcgcgagcc cgtcctcccg
+      121 caaagcggtc gctacgaagt gccggacagt tggcgccagc cgattgcccc ggtccgcatc
+      181 gccgaccaca cctggtacat cggcaccgag aacctgagtg cggtgctcgt cacgacgccg
+      241 cagggcgcgg tgctgatcga cggcggcatg ccgcaggccg cggacatgct gttgcaacgc
+      301 atgcgcgacg tcggcatcgc gcccggcgac ctgcgctgga tcctggtgtc gcacgcgcac
+      361 gcggaccatg ccggccccgt cgcgaaggtc aagcgcgcga ccggagcccg catcgccgcc
+      421 aacgccgaat ccgccgcgat gctcgcgcgc ggcggtaccg acgacatcca cttcggcgac
+      481 gacatcacct tcccgcccgc gcaggccgat cgcctgctgc aggacgacga agtcgtgcag
+      541 gtcggcggca tcgcgctcac cggtcacgtc acgcccgggc acacgccggg cagcacgagc
+      601 tggacgtgga ccgacacgaa ggacggcaag ccggtgcgca tcgcgtacgc ggacagcctg
+      661 tccgcgccgg gctacaagct catcggcaat ccgcgcatgc cgcgcatcgt cgagatgtac
+      721 gaggccacgt tcgcgaaggt gcgcgccctg ccctgcgacc tgctgctcac gccgcatccg
+      781 gatgcgagcg ggtggacgcc cgcggatgcg gcgaacccgc atccctcgcc gaaaacctgc
+      841 gcggcctacg ccgacgaaat ggaagcgaag ttcgacgccg aactcgcgaa acaacgtgcg
+      901 gcgaagtaa
+//
+
+LOCUS       KU167036                 837 bp    DNA     linear   ENV 03-JAN-2017
+DEFINITION  Uncultured bacterium carbapenem-hydrolyzing metallo-beta-lactamase
+            SPN79-1 (blaSPN79) gene, blaSPN79-1 allele, complete cds.
+ACCESSION   KU167036
+VERSION     KU167036.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 837)
+  AUTHORS   Gudeta,D.D., Bortolaia,V., Pollini,S., Docquier,J.D.,
+            Rossolini,G.M., Amos,G.C., Wellington,E.M. and Guardabassi,L.
+  TITLE     Expanding the Repertoire of Carbapenem-Hydrolyzing
+            Metallo-ss-Lactamases by Functional Metagenomic Analysis of Soil
+            Microbiota
+  JOURNAL   Front Microbiol 7, 1985 (2016)
+   PUBMED   28082950
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 837)
+  AUTHORS   Gudeta,D.D., Bortolaia,V., Pollini,S., Docquier,J.-D. and
+            Rossolini,G.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-NOV-2015) Department of Veterinary Disease Biology,
+            Section of Veterinary Clinical Microbiology, University of
+            Copenhagen, Faculty of Health and Medical Sciences, Stigbojlen 4,
+            Frederiksberg C, Denamark
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..837
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="agricultural soil"
+                     /db_xref="taxon:77133"
+                     /environmental_sample
+                     /country="Spain: Abanilla"
+     gene            1..837
+                     /gene="blaSPN79"
+                     /allele="blaSPN79-1"
+     CDS             1..837
+                     /gene="blaSPN79"
+                     /allele="blaSPN79-1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="carbapenem-hydrolyzing metallo-beta-lactamase
+                     SPN79-1"
+                     /protein_id="APR64486.1"
+                     /translation="MEEREMEMTKGSWMVAMAILGIAACAPAPAPQAATTRAVEVAGT
+                     PVIAPARADTLGDDIVIRHLAGRIWLHVTLSPDANRIPSNGLLVDEGDGVLLIDTAWD
+                     DEQTGRLAEWSLRRLGKPIRRSISTHFHDDRLGGIDTLRALGIDARALDLTVSKAREK
+                     GKASLPAIYMTVAQRARMDPAGFEVFHPGPGHSPDNIVVWFPAEGVLFGGCFVKGAES
+                     RDLGNLSDADVGRWPASVAAVLDRYPRASIVIPGHGAPGGLNLLSHTTALLAAPAHNG
+                     GG"
+ORIGIN      
+        1 atggaggaac gggagatgga gatgacgaag ggcagctgga tggtggccat ggcgatcctg
+       61 ggcatcgccg cgtgcgcgcc cgcgccggcg ccgcaggccg cgaccacgcg ggcggtcgag
+      121 gtggcgggga cgccggtgat cgcgccggcg agggcggaca cgctgggcga cgacatcgtg
+      181 atccggcacc tggcggggcg gatctggctg cacgtgacgc tctcccccga cgcgaaccgc
+      241 atcccctcca acggcctgct ggtggacgag ggcgacggcg tgctcctgat cgacaccgcg
+      301 tgggacgacg agcagaccgg ccgcctggcc gagtggagcc tgcgccgcct gggcaagccc
+      361 atccgccgct ccatctccac gcacttccac gacgaccggc tgggcggcat cgacacgctg
+      421 cgggcgctcg gcatcgacgc ccgcgcgctg gacctgacag tgtcgaaggc gcgggagaag
+      481 gggaaggcgt cgctgcccgc catctacatg acggtggcgc agcgcgcgcg gatggacccg
+      541 gcggggttcg aggtcttcca tcccggcccg ggccactcgc ccgacaacat cgtcgtctgg
+      601 ttcccggcgg agggcgtgct cttcggcggc tgcttcgtga agggcgccga atcgcgcgac
+      661 ctgggcaacc tctccgacgc cgacgtgggc cgctggcccg cctccgtcgc cgccgtcctc
+      721 gaccgctatc cccgcgcctc catcgtcatc cccggccacg gcgcccccgg cgggctgaac
+      781 ctgctgtcgc acactaccgc gctcctcgcc gcgccggcgc acaacggtgg cggctga
+//
+
+LOCUS       KU167037                 912 bp    DNA     linear   ENV 03-JAN-2017
+DEFINITION  Uncultured bacterium carbapenem-hydrolyzing metallo-beta-lactamase
+            CRD3-1 (blaCRD3) gene, blaCRD3-1 allele, complete cds.
+ACCESSION   KU167037
+VERSION     KU167037.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 912)
+  AUTHORS   Gudeta,D.D., Bortolaia,V., Pollini,S., Docquier,J.D.,
+            Rossolini,G.M., Amos,G.C., Wellington,E.M. and Guardabassi,L.
+  TITLE     Expanding the Repertoire of Carbapenem-Hydrolyzing
+            Metallo-ss-Lactamases by Functional Metagenomic Analysis of Soil
+            Microbiota
+  JOURNAL   Front Microbiol 7, 1985 (2016)
+   PUBMED   28082950
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 912)
+  AUTHORS   Gudeta,D.D., Bortolaia,V., Pollini,S., Docquier,J.-D. and
+            Rossolini,G.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-NOV-2015) Department of Veterinary Disease Biology,
+            Section of Veterinary Clinical Microbiology, University of
+            Copenhagen, Faculty of Health and Medical Sciences, Stigbojlen 4,
+            Frederiksberg C, Denamark
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..912
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="agricultural soil"
+                     /db_xref="taxon:77133"
+                     /environmental_sample
+                     /country="Denmark: Copenhagen"
+     gene            1..912
+                     /gene="blaCRD3"
+                     /allele="blaCRD3-1"
+     CDS             1..912
+                     /gene="blaCRD3"
+                     /allele="blaCRD3-1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="carbapenem-hydrolyzing metallo-beta-lactamase
+                     CRD3-1"
+                     /protein_id="APR64487.1"
+                     /translation="MFASLIALTLAAQQIIVPLGKTPRPIERPRAPIETAGPLWAEAC
+                     GDSTDWDQPAPPVRIHGNTYLVGTCGISAILVTGSDGHVLIDGGTEKGAEVIAANIRE
+                     LGFDLKDIKFLLISHEHFDHVGGIAQLQKLTGATLVASAPAAKVMNSGLPGTDDPQSG
+                     MHPPFAPANVGRVVKDSEDVRFGNLMLTAMTTPGHTPGALSWRWESCDGGVCRTMVYA
+                     DSLSPVSRDDYKFSGHPAYLAAYRASIAKVAATRCEILLTPHPSASAMKERMTGKQAL
+                     FDADGCRDYAAALTRRLDERLAKEKAK"
+ORIGIN      
+        1 atgttcgcta gcctgatcgc acttacgctc gccgcccagc aaatcatcgt cccgctcggc
+       61 aagacgcctc gcccgatcga acgcccgcgc gcaccgatcg agacggccgg tccgctatgg
+      121 gccgaggcat gcggcgattc caccgattgg gaccagcccg cgccgccggt gcgaatccat
+      181 ggcaacacct atctggtcgg cacctgcggc atttccgcga tcctcgtgac cggcagcgac
+      241 ggccacgtcc tgatcgacgg cgggacagag aagggcgccg aagtgatcgc cgccaatatc
+      301 cgcgagctcg gcttcgacct gaaggacatc aagtttctcc tcatcagtca tgagcatttc
+      361 gaccatgtcg gcgggatcgc gcagctacaa aaattgaccg gcgcaacgct ggtcgcgtcc
+      421 gccccggcag cgaaggtgat gaacagcggc ctgccgggca ccgacgaccc gcagtccggc
+      481 atgcacccgc ccttcgcccc cgcgaacgtc ggccgggtgg tgaaggacag cgaggatgtc
+      541 cgcttcggca atctgatgct gaccgcaatg accacgcccg gccatacgcc gggcgcgttg
+      601 agctggcgct gggagagttg cgacggcggg gtttgcagga cgatggtcta cgccgatagc
+      661 ctctcgcctg tcagccgcga cgattacaag ttttccggcc atccagccta tctcgccgcc
+      721 taccgcgcct cgatcgccaa ggtcgctgcc acccgctgcg aaatcttgct cacaccgcac
+      781 ccttcggcca gcgcgatgaa ggagcgcatg accggcaaac aggccttgtt cgatgccgac
+      841 ggctgccggg attatgccgc cgcgcttacc cggcgcctcg acgagcgact ggccaaggag
+      901 aaagcgaaat ga
+//
+
+LOCUS       KU167038                 957 bp    DNA     linear   ENV 03-JAN-2017
+DEFINITION  Uncultured bacterium carbapenem-hydrolyzing metallo-beta-lactamase
+            ALG6-1 (blaALG6) gene, blaALG6-1 allele, complete cds.
+ACCESSION   KU167038
+VERSION     KU167038.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 957)
+  AUTHORS   Gudeta,D.D., Bortolaia,V., Pollini,S., Docquier,J.D.,
+            Rossolini,G.M., Amos,G.C., Wellington,E.M. and Guardabassi,L.
+  TITLE     Expanding the Repertoire of Carbapenem-Hydrolyzing
+            Metallo-ss-Lactamases by Functional Metagenomic Analysis of Soil
+            Microbiota
+  JOURNAL   Front Microbiol 7, 1985 (2016)
+   PUBMED   28082950
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 957)
+  AUTHORS   Gudeta,D.D., Bortolaia,V., Pollini,S., Docquier,J.-D. and
+            Rossolini,G.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-NOV-2015) Department of Veterinary Disease Biology,
+            Section of Veterinary Clinical Microbiology, University of
+            Copenhagen, Faculty of Health and Medical Sciences, Stigbojlen 4,
+            Frederiksberg C, Denamark
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..957
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="field soil"
+                     /db_xref="taxon:77133"
+                     /environmental_sample
+                     /country="Algeria: Djelfa"
+     gene            1..957
+                     /gene="blaALG6"
+                     /allele="blaALG6-1"
+     CDS             1..957
+                     /gene="blaALG6"
+                     /allele="blaALG6-1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="carbapenem-hydrolyzing metallo-beta-lactamase
+                     ALG6-1"
+                     /protein_id="APR64488.1"
+                     /translation="MSHGIPCAPSSRMETQMVSKMAMAAILLLAGPTAAAEVTPTTPI
+                     VCSMCEGWNRPQKPFKIYGNTWYVGTNDLSALLVTSPNGHVLLDGALPQSAPLIEANI
+                     QALGFKLKDVKLILNSHEHFDHAGGIPALQRASGATVAASIRGAKVLRAGTVGKDDPQ
+                     FDPVKPFFLAKLEKVREVADGETLTAGDLRITAHYTPGHTPGGTSWTWTSCENGRCLN
+                     MVYADSLTPVSSEGFRFSGGNGAPDISSAFQATIDKVAALKCDVMVSNHPGFSQVMEK
+                     LAARTDANNTFIDPTGCRKYAAAASKRLANRLATEAKQKAAR"
+ORIGIN      
+        1 atgagccacg gcatcccgtg cgccccgagt tcaagaatgg agacccagat ggtttcgaag
+       61 atggcgatgg ccgcaatcct gctgctggcc ggcccgactg cagctgccga ggtcactccc
+      121 accacgccca tcgtgtgctc gatgtgcgaa ggctggaaca ggccgcagaa gcctttcaag
+      181 atctacggca acacctggta cgtcggaacc aacgacctgt cggcgctgct ggtcaccagc
+      241 cccaacggcc atgtcctgct cgacggcgcg ctgccgcagt cggcgccgct gatcgaagcg
+      301 aacatccagg cgctcggctt caagctgaag gacgtgaagc tgatcctcaa ctcgcacgag
+      361 cacttcgatc acgcaggcgg cataccggcc ctgcagcgcg ccagtggtgc gaccgtggcg
+      421 gcgagcatcc gcggggccaa ggtgctgcgc gcgggaaccg tgggcaagga cgatccgcag
+      481 ttcgacccgg tcaagccgtt cttcctggcg aagctcgaga aggtgcgtga agtggccgat
+      541 ggcgagacgc tgactgccgg cgacctgaga atcacggcgc actacacgcc gggccatacg
+      601 ccgggcggta ccagctggac ctggacctcg tgcgagaacg gccgctgcct gaacatggtg
+      661 tacgcggaca gcctcacgcc ggtgtcgagc gagggctttc ggttcagcgg cggcaacggc
+      721 gcccccgaca tctccagcgc cttccaggcc accatcgaca aggtcgcggc cctgaagtgc
+      781 gacgtgatgg tgtcgaacca tccgggcttc tcgcaggtca tggagaagct ggctgcgcgc
+      841 acggatgcga acaacacctt catcgatccg accggctgcc ggaagtatgc ggcggccgcc
+      901 tcgaagcggc tggcgaaccg gctggccacg gaggcgaagc agaaggccgc caggtaa
+//
+
+LOCUS       KU167039                 888 bp    DNA     linear   ENV 03-JAN-2017
+DEFINITION  Uncultured bacterium carbapenem-hydrolyzing metallo-beta-lactamase
+            ALG11-1 (blaALG11) gene, blaALG11-1 allele, complete cds.
+ACCESSION   KU167039
+VERSION     KU167039.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 888)
+  AUTHORS   Gudeta,D.D., Bortolaia,V., Pollini,S., Docquier,J.D.,
+            Rossolini,G.M., Amos,G.C., Wellington,E.M. and Guardabassi,L.
+  TITLE     Expanding the Repertoire of Carbapenem-Hydrolyzing
+            Metallo-ss-Lactamases by Functional Metagenomic Analysis of Soil
+            Microbiota
+  JOURNAL   Front Microbiol 7, 1985 (2016)
+   PUBMED   28082950
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 888)
+  AUTHORS   Gudeta,D.D., Bortolaia,V., Pollini,S., Docquier,J.-D. and
+            Rossolini,G.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-NOV-2015) Department of Veterinary Disease Biology,
+            Section of Veterinary Clinical Microbiology, University of
+            Copenhagen, Faculty of Health and Medical Sciences, Stigbojlen 4,
+            Frederiksberg C, Denamark
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..888
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="field soil"
+                     /db_xref="taxon:77133"
+                     /environmental_sample
+                     /country="Algeria: Djelfa"
+     gene            1..888
+                     /gene="blaALG11"
+                     /allele="blaALG11-1"
+     CDS             1..888
+                     /gene="blaALG11"
+                     /allele="blaALG11-1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="carbapenem-hydrolyzing metallo-beta-lactamase
+                     ALG11-1"
+                     /protein_id="APR64489.1"
+                     /translation="MAASAAVSLVVFLFVFVFTFAHAQDQPASWAQPQKPVRIFGNTW
+                     YVGTRGLSAILITSPTGAVLIDGAVREAASDIASNITSLGVRLEDIKLIVNSHAHNDH
+                     AGAIAELQRRTGATVAALPWSAEALRSGRKHQGDPQFESPTSPPDRVANVKTIQDGEV
+                     LRAGGVEVTAHKTAGHTPGGTTWTWRSCEENRCVDIVYADSLTAVSADGFRFTDNKTY
+                     PQAIDDFNKGYAFLRSASCDILVTPHPEASDFWGRIAKRDAGERDALIDRSQCARYAD
+                     RADAQLQKRLATERAERPK"
+ORIGIN      
+        1 atggccgcct cggccgccgt atcgctcgtc gtgttcctgt tcgtgttcgt gtttacgttc
+       61 gcgcacgcgc aggatcagcc ggcctcgtgg gctcagccgc agaagcccgt tcgcatcttc
+      121 ggcaacactt ggtacgtagg cacgcgcggg ctgagcgcca ttctcatcac gtcgcccacc
+      181 ggcgccgtgc tcatcgacgg agcggtgcgt gaagcggcgt ccgatatcgc cagcaacatc
+      241 acgtcgcttg gcgtacggct cgaggacatc aaactgatcg tcaattcgca tgcgcacaac
+      301 gatcacgccg gcgcgattgc ggaactacag cggcggacgg gcgccacggt ggccgcgctg
+      361 ccgtggagcg cggaggcgct gcgaagcgga cggaagcatc agggcgatcc gcagttcgaa
+      421 tcaccaacgt cacctcccga ccgcgtcgcc aacgtcaaga cgatccagga tggcgaggtg
+      481 ctgcgtgccg gaggcgtgga ggtcacggcg cacaagaccg ccggccatac gccgggcggc
+      541 acgacatgga cgtggcgctc gtgcgaggag aacaggtgcg tcgacatcgt gtatgccgac
+      601 agcctgaccg ccgtttcggc cgatgggttc cgcttcaccg acaacaaaac gtatccgcag
+      661 gcgatcgacg atttcaacaa aggctacgcg ttcctgcgat ccgcgagctg cgacatcctg
+      721 gtgacgccgc atccggaagc ctcggacttc tggggccgca tcgccaagcg cgacgccgga
+      781 gagcgcgatg cgctgatcga tcgctcgcag tgcgcgcgtt atgccgatcg cgccgatgcg
+      841 cagttgcaga aacgcctggc gacggagcgc gcggagcgcc cgaaatga
+//
+
+LOCUS       KU167040                 873 bp    DNA     linear   ENV 03-JAN-2017
+DEFINITION  Uncultured bacterium carbapenem-hydrolyzing metallo-beta-lactamase
+            ESP-2 (blaESP) gene, blaESP-2 allele, complete cds.
+ACCESSION   KU167040
+VERSION     KU167040.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 873)
+  AUTHORS   Gudeta,D.D., Bortolaia,V., Pollini,S., Docquier,J.D.,
+            Rossolini,G.M., Amos,G.C., Wellington,E.M. and Guardabassi,L.
+  TITLE     Expanding the Repertoire of Carbapenem-Hydrolyzing
+            Metallo-ss-Lactamases by Functional Metagenomic Analysis of Soil
+            Microbiota
+  JOURNAL   Front Microbiol 7, 1985 (2016)
+   PUBMED   28082950
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 873)
+  AUTHORS   Gudeta,D.D., Bortolaia,V., Pollini,S., Docquier,J.-D. and
+            Rossolini,G.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-NOV-2015) Department of Veterinary Disease Biology,
+            Section of Veterinary Clinical Microbiology, University of
+            Copenhagen, Faculty of Health and Medical Sciences, Stigbojlen 4,
+            Frederiksberg C, Denamark
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..873
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="field soil"
+                     /db_xref="taxon:77133"
+                     /environmental_sample
+                     /country="Norway: Svalbard"
+     gene            1..873
+                     /gene="blaESP"
+                     /allele="blaESP-2"
+     CDS             1..873
+                     /gene="blaESP"
+                     /allele="blaESP-2"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="carbapenem-hydrolyzing metallo-beta-lactamase
+                     ESP-2"
+                     /protein_id="APR64490.1"
+                     /translation="MKKLTLILSLIIAFFGYAQTVTEPTNHSAEWSQPYEPFRIVGNL
+                     YYVGTYDLASYLIVTEKGNILINTGLADSYPQIKANIEKLGFKYKDTKILTLTQAHFD
+                     HMGAMADIKAETGAKLYVDEADAAELKSGGKSDYELGKYGVTFKPLTPDFLLKNNGKI
+                     KLGNTTLTLLHHPGHTKGSCSFIFETKDGNRKYKVVIANMPSIIIDHKFSDVKTYPSI
+                     QKDYAYTLEAMKKLDFDVWVASHASQFDLHKKRKEGDAYNPKLFMDKENYFKRLKDLE
+                     DDYLEKVKEENKPE"
+ORIGIN      
+        1 atgaaaaaac ttaccctaat actttcactg atcattgcct ttttcggata tgcacaaacc
+       61 gtaacagaac caaccaatca ttctgcagaa tggtcgcaac cttacgagcc attcagaatt
+      121 gtcgggaatt tgtattacgt tggaacttat gatttggctt cgtatctcat tgtgacggaa
+      181 aagggaaata tccttatcaa cacaggtttg gcggattctt atcctcaaat aaaagcgaat
+      241 atcgagaaac tcggattcaa atacaaagac accaaaatcc tgactttgac acaagcgcat
+      301 tttgaccata tgggcgcaat ggccgatatc aaagcggaaa ccggcgcaaa actttatgta
+      361 gacgaagcag atgctgcgga actgaaatca ggcggaaaat cggattacga actgggaaaa
+      421 tatggtgtga ctttcaaacc cttaacgccg gattttcttc tgaaaaataa tggtaaaata
+      481 aaattaggaa ataccacctt gaccttgctt catcatcctg gtcacacaaa aggttcgtgc
+      541 agttttatct tcgaaaccaa agatggaaat cgaaaatata aagttgtgat cgccaatatg
+      601 ccatccatca tcatcgatca taaattttct gatgtgaaaa cttatccttc aattcagaaa
+      661 gattatgctt acactttgga ggcgatgaaa aaactggatt tcgatgtttg ggtagcttcg
+      721 cacgccagcc aattcgatct tcataaaaaa agaaaagaag gcgatgctta caacccgaaa
+      781 ctatttatgg ataaagagaa ttattttaaa agactgaaag atttggaaga tgattatctg
+      841 gagaaagtga aagaagaaaa taaaccagaa taa
+//
+
+LOCUS       KU167041                 861 bp    DNA     linear   ENV 03-JAN-2017
+DEFINITION  Uncultured bacterium carbapenem-hydrolyzing metallo-beta-lactamase
+            PEDO-1 (blaPEDO) gene, blaPEDO-1 allele, complete cds.
+ACCESSION   KU167041
+VERSION     KU167041.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 861)
+  AUTHORS   Gudeta,D.D., Bortolaia,V., Pollini,S., Docquier,J.D.,
+            Rossolini,G.M., Amos,G.C., Wellington,E.M. and Guardabassi,L.
+  TITLE     Expanding the Repertoire of Carbapenem-Hydrolyzing
+            Metallo-ss-Lactamases by Functional Metagenomic Analysis of Soil
+            Microbiota
+  JOURNAL   Front Microbiol 7, 1985 (2016)
+   PUBMED   28082950
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 861)
+  AUTHORS   Gudeta,D.D., Bortolaia,V., Pollini,S., Docquier,J.-D. and
+            Rossolini,G.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-NOV-2015) Department of Veterinary Disease Biology,
+            Section of Veterinary Clinical Microbiology, University of
+            Copenhagen, Faculty of Health and Medical Sciences, Stigbojlen 4,
+            Frederiksberg C, Denamark
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..861
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="field soil"
+                     /db_xref="taxon:77133"
+                     /environmental_sample
+                     /country="Norway: Svalbard"
+     gene            1..861
+                     /gene="blaPEDO"
+                     /allele="blaPEDO-1"
+     CDS             1..861
+                     /gene="blaPEDO"
+                     /allele="blaPEDO-1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="carbapenem-hydrolyzing metallo-beta-lactamase
+                     PEDO-1"
+                     /protein_id="APR64491.1"
+                     /translation="MKIKFIFCLLLFPLFVFSQNVQEPTDTPKEWSAAYAPFRIVGNV
+                     YYVGTYDLACYLITTPKGNILINTGLRSSAAQIKKNVELLGFNFKDIKILLTTQAHYD
+                     HLGAMAEIKKLTGAKMMVDEKDASVMKDGGRTDYALGNGKTTYAPIIPDRLLKDGDQI
+                     QLGNTSIVMLHHPGHTKGSCSFMLKTKDETRDYSVLIANMPSIVTEKKFSEIPAYPQI
+                     EKDYAYTLSSLKKLSFDIWLSSHASQFCLHEKHKPGDKYNPTAFIDRAGYDKVLNSLQ
+                     LEFDKKIGKK"
+ORIGIN      
+        1 atgaaaatta aatttatttt ttgcctcttg ctttttccgc tctttgtatt ttcacaaaat
+       61 gtacaagaac ctaccgatac gccaaaagag tggtcggctg cttatgcccc attccgcatt
+      121 gttgggaatg tttattatgt tggcacttac gatctggcct gctaccttat taccactccg
+      181 aaaggaaata tactgatcaa taccggactg cgttcctcgg ctgcgcagat caaaaaaaac
+      241 gtggaacttt tgggctttaa ctttaaagac atcaaaatcc tgctgaccac acaggcacat
+      301 tacgaccatt tgggtgctat ggcggagatc aagaaactta ctggtgcaaa aatgatggtt
+      361 gatgaaaaag atgccagtgt gatgaaggat ggcggccgta cggattacgc actgggtaac
+      421 ggaaaaacaa cctacgctcc tattatacca gaccgtttat taaaggatgg agatcagatc
+      481 cagctcggaa ataccagtat tgtaatgctc caccaccccg gccatactaa aggatcatgc
+      541 agttttatgc ttaaaactaa agatgaaaca agagactatt cggtgctgat tgcgaatatg
+      601 cccagtattg ttaccgaaaa aaagttttct gaaataccag cttatccgca aattgaaaaa
+      661 gattacgcct atactttaag ttcgctcaaa aaattatcat ttgatatctg gttgtcgtct
+      721 catgcaagcc agttttgtct gcacgagaaa cataaacctg gcgataaata taatcctacc
+      781 gcttttatag atcgtgcagg atacgataag gtattaaaca gccttcagct cgaatttgat
+      841 aaaaagattg gcaagaaata g
+//
+
+LOCUS       KU167042                 870 bp    DNA     linear   ENV 03-JAN-2017
+DEFINITION  Uncultured bacterium carbapenem-hydrolyzing metallo-beta-lactamase
+            GRD33-1 (blaGRD33) gene, blaGRD33-1 allele, complete cds.
+ACCESSION   KU167042
+VERSION     KU167042.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 870)
+  AUTHORS   Gudeta,D.D., Bortolaia,V., Pollini,S., Docquier,J.D.,
+            Rossolini,G.M., Amos,G.C., Wellington,E.M. and Guardabassi,L.
+  TITLE     Expanding the Repertoire of Carbapenem-Hydrolyzing
+            Metallo-ss-Lactamases by Functional Metagenomic Analysis of Soil
+            Microbiota
+  JOURNAL   Front Microbiol 7, 1985 (2016)
+   PUBMED   28082950
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 870)
+  AUTHORS   Gudeta,D.D., Bortolaia,V., Pollini,S., Docquier,J.-D. and
+            Rossolini,G.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-NOV-2015) Department of Veterinary Disease Biology,
+            Section of Veterinary Clinical Microbiology, University of
+            Copenhagen, Faculty of Health and Medical Sciences, Stigbojlen 4,
+            Frederiksberg C, Denamark
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..870
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="field soil"
+                     /db_xref="taxon:77133"
+                     /environmental_sample
+                     /country="Denmark: Amagerfaelled"
+     gene            1..870
+                     /gene="blaGRD33"
+                     /allele="blaGRD33-1"
+     CDS             1..870
+                     /gene="blaGRD33"
+                     /allele="blaGRD33-1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="carbapenem-hydrolyzing metallo-beta-lactamase
+                     GRD33-1"
+                     /protein_id="APR64492.1"
+                     /translation="MAAMAAVAAVLLGVFAFAHAQDQPALWTQPQQPVRIIGNAWYVG
+                     TRGLSAILITSPTGAVLIDGAMRESADDIAKNITSLGVRLEDVKLIVNSHAHNDHAGG
+                     IAELQRRTGATVAALPWSAEALRSGRKHQGDPQFDTQTPPPDRVPKVKTIRDGEALHA
+                     GGVTITAHKTGGHTPGSTSWTWRSCEENRCVDIVYADSITAVSADGFRFTDNKTYPQA
+                     IDDFNKGYAFLRSASCDILVTPHPEASDFWGRIAKRDAGERDALIDRSQCARYADRAD
+                     AQLQKRLATERAK"
+ORIGIN      
+        1 atggccgcca tggccgccgt ggctgccgta ctgctcggcg tgtttgcatt cgcgcacgcg
+       61 caggatcagc cggccttgtg gactcaaccg cagcagcccg ttcgcatcat tggcaacgcc
+      121 tggtacgtcg gcacgcgcgg gctgagcgcc attctcatca cgtcgcccac cggcgccgtg
+      181 ctcatcgacg gagcgatgcg tgaatcggcg gacgatatcg ccaagaacat cacgagcctc
+      241 ggtgtacggc tcgaggacgt caagctgatc gtcaattcgc atgcgcacaa cgatcatgct
+      301 ggcgggatcg cggaacttca gcggcgtacg ggcgccacgg tggccgcgct gccctggagc
+      361 gcggaggcgc tgcgaagcgg acggaagcat cagggcgatc cgcagttcga cacacaaacg
+      421 cctcctcccg atcgtgtccc caaggtcaaa acgattcggg atggcgaggc gcttcatgcc
+      481 ggtggcgtga cgatcacggc gcacaagacc ggcggccaca cgccaggcag cacgtcatgg
+      541 acgtggcgct cgtgcgagga gaaccggtgc gtcgacatcg tgtatgccga cagcatcact
+      601 gccgtctcgg cggatggatt ccgcttcacc gacaacaaga cgtatccgca ggcgatcgac
+      661 gacttcaaca agggctacgc gttcctgcga tcggcgagtt gcgacatcct ggtgacaccg
+      721 caccccgaag cctcggactt ctgggggcgg atcgccaaac gtgacgccgg agagcgcgat
+      781 gcgctgatcg atcgctcgca gtgcgcgcgc tatgccgatc gtgccgacgc gcaactccag
+      841 aaacgcctcg cgacggagcg cgcgaaatga
+//
+
+LOCUS       KU167043                 726 bp    DNA     linear   ENV 03-JAN-2017
+DEFINITION  Uncultured bacterium carbapenem-hydrolyzing metallo-beta-lactamase
+            GRD23-1 (blaGRD23) gene, blaGRD23-1 allele, complete cds.
+ACCESSION   KU167043
+VERSION     KU167043.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 726)
+  AUTHORS   Gudeta,D.D., Bortolaia,V., Pollini,S., Docquier,J.D.,
+            Rossolini,G.M., Amos,G.C., Wellington,E.M. and Guardabassi,L.
+  TITLE     Expanding the Repertoire of Carbapenem-Hydrolyzing
+            Metallo-ss-Lactamases by Functional Metagenomic Analysis of Soil
+            Microbiota
+  JOURNAL   Front Microbiol 7, 1985 (2016)
+   PUBMED   28082950
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 726)
+  AUTHORS   Gudeta,D.D., Bortolaia,V., Pollini,S., Docquier,J.-D. and
+            Rossolini,G.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-NOV-2015) Department of Veterinary Disease Biology,
+            Section of Veterinary Clinical Microbiology, University of
+            Copenhagen, Faculty of Health and Medical Sciences, Stigbojlen 4,
+            Frederiksberg C, Denamark
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..726
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="field soil"
+                     /db_xref="taxon:77133"
+                     /environmental_sample
+                     /country="Denmark: Amagerfaelled"
+     gene            1..726
+                     /gene="blaGRD23"
+                     /allele="blaGRD23-1"
+     CDS             1..726
+                     /gene="blaGRD23"
+                     /allele="blaGRD23-1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="carbapenem-hydrolyzing metallo-beta-lactamase
+                     GRD23-1"
+                     /protein_id="APR64493.1"
+                     /translation="MKQILIFLLAVFIPTSFVFAGDPLPDLKIKQLDDGVYLHTSFQV
+                     FSGVVMGSNGLVVLDHNDAYIVDTPWSAEDTEKLLSWIKANGFSVKGSISTHSHDDRT
+                     AGIALLNSKAIPTYASKMTNGFLEKAGKAQAKNSFDSKDFWWVKDQVEVFYPGAGHAP
+                     DNLVVWLPKQKILFGGCLIRAKEAKNLGNVADAVIGEWPRSAEKLQEKYGNAKVVVPG
+                     HGEVGDVSLLEHTKELAAASARK"
+ORIGIN      
+        1 atgaagcaaa tattaatttt tctgttagcg gtattcattc cgacaagctt tgtttttgct
+       61 ggtgatccgc tgccagattt gaaaatcaag cagctggatg acggcgttta tctgcatacg
+      121 tctttccagg tttttagtgg ggttgtgatg ggctcgaatg gattggtggt gctggatcac
+      181 aatgatgcct atatcgtcga tacgccatgg tctgcggaag acacggaaaa gcttctgagt
+      241 tggattaagg cgaatggctt ttccgttaaa ggcagcattt cgacccattc gcacgatgat
+      301 cgaaccgccg gtattgcatt gctcaattcg aaagccattc ccacatacgc ttcgaaaatg
+      361 accaatggat ttcttgagaa agccggtaag gcgcaggcca aaaattcatt cgatagcaag
+      421 gatttctggt gggtaaaaga ccaagtggaa gtcttctacc ccggtgcagg tcacgcaccc
+      481 gacaatttgg ttgtgtggct gcccaagcaa aaaattctat ttggcggctg tctgattcgc
+      541 gcaaaagaag ctaaaaatct tggcaatgtc gccgatgcag ttattgggga gtggcctagg
+      601 tcggccgaaa aactgcagga aaaatatgga aacgccaagg tcgtcgttcc ggggcacggt
+      661 gaggttggcg atgtatcgtt gttggagcac acaaaggagc tggctgcggc gagtgctaga
+      721 aaataa
+//
+

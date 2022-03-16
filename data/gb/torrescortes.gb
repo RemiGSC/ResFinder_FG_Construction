@@ -1,0 +1,1765 @@
+LOCUS       FN640464                2951 bp    DNA     linear   ENV 12-APR-2011
+DEFINITION  Uncultured bacterium lpxB gene for putative lipid-A-disaccharide
+            synthase and bla gene for beta-lactamase class A, clone Ap6-8w.
+ACCESSION   FN640464
+VERSION     FN640464.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1
+  AUTHORS   Torres-Cortes,G., Millan,V., Ramirez-Saad,H.C., Nisa-Martinez,R.,
+            Toro,N. and Martinez-Abarca,F.
+  TITLE     Characterization of novel antibiotic resistance genes identified by
+            functional metagenomics on soil samples
+  JOURNAL   Environ. Microbiol. 13 (4), 1101-1114 (2011)
+   PUBMED   21281423
+REFERENCE   2  (bases 1 to 2951)
+  AUTHORS   Martinez-Abarca,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-DEC-2009) Martinez-Abarca F., CSIC, Grupo de Ecologia
+            Genetica, Profesor Albareda n 1 18008, Granada, SPAIN
+FEATURES             Location/Qualifiers
+     source          1..2951
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="rhizosphere of Mammillaria carnea"
+                     /db_xref="taxon:77133"
+                     /clone="Ap6-8w"
+                     /clone_lib="metagenome expression library in bacteriophage
+                     lambda ZAP phagemid vector"
+                     /environmental_sample
+                     /country="Mexico:Tehuacan-Cuicatlan"
+                     /lat_lon="17.74 N 96.98 W"
+                     /collection_date="10-Mar-2006"
+     gene            343..1518
+                     /gene="lpxB"
+     CDS             343..1518
+                     /gene="lpxB"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative lipid-A-disaccharide synthase"
+                     /protein_id="CBI71170.1"
+                     /db_xref="GOA:E4WMC4"
+                     /db_xref="InterPro:IPR003835"
+                     /db_xref="UniProtKB/TrEMBL:E4WMC4"
+                     /translation="MGERISLMIVAGEASGDAHAAALVRALKESEPHVDFQFFGATGQ
+                     KMRAGGVVSIVDSDSLSILGLAEIGRALPRFWQAYSALKRAAESARRCVVLVDCDLSE
+                     LHVPSPRGLRVIYYISPQLWAWRGYRVRNIRRDVDLLLTILPFEKGWYDRRGVSHVEF
+                     VGHPLAGTVQARTIREEFCQRHELDETRPVISLLPGSRHKELERILPVMLEATGLLSH
+                     KRSDLQFIIAIAPGRAPEEALAHVRRARLRGLALPDTIRVVQGETREVLAASRAAAIT
+                     SGTATLEAALLGIPHVIVYKESLLNWHILGRLIDTEHYGLTNLIAGERVATELIQNDL
+                     NGERLAEELEMLLEDERNRATRLRLKEAVSNLGEGGASKRAAEAILRAVREWRSDRS"
+     gene            complement(1523..2482)
+                     /gene="bla"
+     CDS             complement(1523..2482)
+                     /gene="bla"
+                     /function="ampicillin resistance gene"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="beta-lactamase class A"
+                     /protein_id="CBI71171.1"
+                     /db_xref="GOA:E4WMC5"
+                     /db_xref="InterPro:IPR000871"
+                     /db_xref="InterPro:IPR001466"
+                     /db_xref="InterPro:IPR012338"
+                     /db_xref="UniProtKB/TrEMBL:E4WMC5"
+                     /translation="MKRIFPAYILLTAFLLACSSNATTQNANQSNKPAAAQEAKADDK
+                     QNRELQKQIEQIASAARGRVGVHAVVLETGESVSLDEQGRFPMQSVYKFPIGMAVLAQ
+                     VDAGKLKLDERVRVEKSEYVREGMHSPLRDKNPNEAEVSVRELLRLAVSESDGTASDV
+                     LFRLAGGSEAITRYLSDLKVTEIIVADTEKEIGQDWDTQYRNWASPKGAVMLLRAFHE
+                     GRGLSAESRALLLKLMTDTPTGPKRLKGLLPKGTVVAHKTGTSGANASGISAATNDIG
+                     IVTLPNGRHLAIAVFVSDSPADLTTREGVIAKVAKAAWDQWGK"
+ORIGIN      
+        1 acaagacaga ccactanaag agccgcnacn aaaagcgcag atgatgcgcn cangangctg
+       61 tanggggata aaaccttgng caanggacct ggcctttgac ctctggaaga gtanagcgcc
+      121 gcgcagcacc tctggttgaa ccgggagcgt aaaanggcgg cgcgctcaag ctccgaataa
+      181 ttttgagaac gcgccagatg ctaacacaag aaaaagggaa aagggaaaag agaaaagctg
+      241 taactcgtga atanaaaaag cggttttctc aatttacgat gtcacgattc gcgatttatg
+      301 ccctttgcct tttgcctttc acattcttat gatgccgaat cgatgggcga gcgcatcagt
+      361 ttaatgattg tggcgggcga ggcttcgggt gatgcgcacg ccgcggcgct cgttcgcgct
+      421 ctgaaagaga gcgagccgca cgtggacttt caatttttcg gcgctacggg ccagaagatg
+      481 cgcgcgggcg gcgtcgtttc catagtcgat tcagattctc tctctatact ggggctggca
+      541 gagatcgggc gcgctctgcc gcgattctgg caagcctata gcgcgctcaa gcgcgcggcc
+      601 gagagcgctc gccgatgcgt cgtgctggtt gactgcgact tatctgagct gcacgtgcct
+      661 tcacctcgag gcctgcgcgt catctattac ataagcccgc agctctgggc gtggcgcggg
+      721 tatcgcgtgc gcaacatacg gcgcgacgta gatcttctgc tcacgattct cccgtttgaa
+      781 aagggctggt atgaccgacg cggcgtctct cacgtagagt tcgtgggcca cccgctcgcg
+      841 ggcacagtcc aggcccgcac cattcgcgaa gagttctgtc aaagacatga gcttgacgag
+      901 acgcggccgg ttatctcact tcttcctggc agccgccata aagagcttga gcgaatcctg
+      961 cccgtaatgc tcgaagctac gggcttgttg tctcacaagc gaagtgatct acagttcatc
+     1021 atagccatcg cgccaggacg tgcgcccgaa gaagcgttgg cgcacgttcg ccgcgcgcgt
+     1081 ctaagaggtc tagcgcttcc cgatacaatc agagtcgtgc agggcgagac gcgcgaggtg
+     1141 ctcgccgcat cccgtgcggc ggcgataacc tccggcacgg ccacattgga agccgcgctt
+     1201 ctgggcatcc cccatgtcat cgtctataaa gagtcgctcc tgaactggca catactcggc
+     1261 cgcctcatag acacagagca ttacgggctg acaaatctga ttgcgggcga gcgcgttgcg
+     1321 acagagctga ttcagaacga tttgaacgga gagagactgg cggaagaatt agagatgctc
+     1381 cttgaagatg agcgcaatcg tgcgacgcgc ttgcgactta aagaggccgt aagcaatcta
+     1441 ggcgaaggcg gcgcatcaaa gcgtgccgcc gaagcaatcc tgcgagccgt tcgagagtgg
+     1501 agaagcgacc gctcgtaacc ttttactttc cccactggtc ccacgcagcc ttagcgactt
+     1561 tggcaatcac gccctcgcgc gtggttagat cggccggaga atcggaaacg aaaacggcta
+     1621 tggccagatg gcgaccgttc ggcagcgtca ctattcctat atcgttggtc gcggcgctga
+     1681 tgccgctagc gtttgctcca gatgttccgg tcttgtgcgc gacgactgtg cccttaggca
+     1741 aaagtccttt cagccttttc ggtccggtag gggtgtcagt catcaatttc agcaagagcg
+     1801 ccctgctctc tgcggagagc ccgcgcccct catggaatgc gcgtagaagc ataactgctc
+     1861 ccttgggcga agcccagttg cgatactgag tgtcccagtc ctgccctatc tctttctccg
+     1921 tgtcggctac gataatctct gtgaccttaa ggtcgctgag gtatctggtg attgcttcgc
+     1981 tgccgcccgc cagtctgaac agcacatcgc tcgccgtacc gtccgattca gagacagcta
+     2041 atcgcagcaa ctcgcgcacg ctcacctcag cttcgttcgg atttttgtct cgcaaggggc
+     2101 tgtgcatgcc ctctctaacg tattcgctct tttcaacgcg cacgcgctcg tcaagcttta
+     2161 gctttccggc atctacttgc gcgagtacag ccatgccaat cgggaactta taaacgctct
+     2221 gcataggaaa tcggccctgc tcatccaggg agacggattc acccgtttcc agcacgaccg
+     2281 catgaacgcc cacgcgcccg cgtgccgctg aagctatctg ctctatctgt ttttgcagct
+     2341 cgcggttctg cttatcatcc gcctttgctt cctgagcagc ggcgggcttg tttgattgat
+     2401 tagcattttg agtcgtggcg ttgctggagc aggccagtag gaaagctgta agcagaatgt
+     2461 aagccggaaa tattcttttc ataaggactg actccaaatt gaggaaattt tacgctcccc
+     2521 tttgatctaa ggtagcagcg atgttgaaag cattatcaag agggcgctta catcccttca
+     2581 tattctccta ttaaacgtcc gtccacatag acgcgatact tctgctttct gagtcccgca
+     2641 aaaaagagct ttcgctcctt ttcaatcctg accaggtggc gttcgttcgt gccgacctca
+     2701 aactcatatt tcttgacgag cgaaagggag aacatgcgta gctcgttaat cacctcgcgg
+     2761 ttgtcaacct tgatgctcag aagtccaatc atctggttgt agtccagact gaccgtgtgc
+     2821 ttctcttgtt cgcccacctc aaaggagaat tgcatctcac cggtctcctt attttttctc
+     2881 gtcaagccgt tcgaggattt ccgccatctg gcggcgtaat gcttcagctc ttcgcgcatc
+     2941 tgcggcagac g
+//
+
+LOCUS       FN640465                8046 bp    DNA     linear   ENV 25-JUL-2016
+DEFINITION  Uncultured bacterium ORF1 (partial), ORF2, ORF3, ORF4, AAC3 gene,
+            ORF6, ORF7, ORF8 and ORF9 (partial), clone Gm8-3.
+ACCESSION   FN640465
+VERSION     FN640465.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1
+  AUTHORS   Torres-Cortes,G., Millan,V., Ramirez-Saad,H.C., Nisa-Martinez,R.,
+            Toro,N. and Martinez-Abarca,F.
+  TITLE     Characterization of novel antibiotic resistance genes identified by
+            functional metagenomics on soil samples
+  JOURNAL   Environ. Microbiol. 13 (4), 1101-1114 (2011)
+   PUBMED   21281423
+REFERENCE   2  (bases 1 to 8046)
+  AUTHORS   Martinez-Abarca,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-DEC-2009) Martinez-Abarca F., CSIC, Grupo de Ecologia
+            Genetica, Profesor Albareda n 1 18008, Granada, SPAIN
+FEATURES             Location/Qualifiers
+     source          1..8046
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="rhizosphere of Mammillaria carnea"
+                     /db_xref="taxon:77133"
+                     /clone="Gm8-3"
+                     /clone_lib="metagenome expression library in bacteriophage
+                     lambda ZAP phagemid vector"
+                     /environmental_sample
+                     /country="Mexico:Tehuacan-Cuicatlan"
+                     /lat_lon="17.74 N 96.98 W"
+                     /collection_date="15-Sep-2005"
+     CDS             complement(<1..>978)
+                     /note="ORF1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71172.1"
+                     /db_xref="UniProtKB/TrEMBL:E4WMC6"
+                     /translation="KDSTGPAISLSSFQLMASLLVGRQVYQITARSGHPTDYGTSRGK
+                     SSRLRRTGNVRGPCFAPTFAPRSGLECFLRAVVLLPAIVLMFLFAWLPAVHCRLLRAL
+                     FELRMCRRGNRDQGIDLNFDPNDWLREHQLIGAAVVWQEINGDLRAHSGWTTAEKKNL
+                     YDAFWKARLDEEIGIPAAPDDATPESAGRPDGTWCPRTLAWKIFIAHIAQTLAVENAR
+                     WTGWSLTTYPGEQLSMLLDSRTLFHLDLAGGRYGINQVIHGAVTPGDPVRTFRFLQGL
+                     GPAAVTSEEVIARLLDWCRLNLLHYFYSLTPENCLNHWGYSGYPPVERMI"
+     CDS             1051..1482
+                     /function="putative TPR repeat protein"
+                     /note="ORF2"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71173.1"
+                     /db_xref="GOA:E4WMC7"
+                     /db_xref="InterPro:IPR006597"
+                     /db_xref="InterPro:IPR011990"
+                     /db_xref="UniProtKB/TrEMBL:E4WMC7"
+                     /translation="MPGKNRRRLNNQALEREQFQRVLRAAERGNLEAQHDLAAFYATD
+                     ETLGIKDEAKAVEWYTKAAKKGHGQSQYDLGFMLLLGEGTQKDVAKGLWWMKRAVANG
+                     SRDAARLLSDIYAQGLFGVEASSEKAAYWERGARSRESRIY"
+     CDS             2361..2723
+                     /note="ORF3"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71174.1"
+                     /db_xref="InterPro:IPR009875"
+                     /db_xref="UniProtKB/TrEMBL:E4WMC8"
+                     /translation="MTNRAPSSFSNRRRYPRIKYSLEVDWGPTPACTHKGRVTTLSVG
+                     GCFLQTKVEVAKEGLIFIRLLLAPESATVMEGIVWGRVAYHLPGVGLGIEFKKLLPGY
+                     AEHIQDIVAFHLESGEDA"
+     CDS             3105..3902
+                     /function="putative MOSC domain protein/uncharacterized
+                     Fe-S protein"
+                     /note="ORF4"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71175.1"
+                     /db_xref="GOA:E4WMC9"
+                     /db_xref="InterPro:IPR005302"
+                     /db_xref="InterPro:IPR005303"
+                     /db_xref="InterPro:IPR011037"
+                     /db_xref="InterPro:IPR015808"
+                     /db_xref="UniProtKB/TrEMBL:E4WMC9"
+                     /translation="MTTIGTVESLWRYPVKSMRGAEVAEAFMGFSGVYGDRCYAFKNS
+                     AARKGFPYLNANVQQQMLLCCPQFRYPDRASKPPNLIEAESIAPGVTPANGDAEDMAL
+                     DVVTPSGETIPVDDPALIKLLRAGIGEKNQLKLVRSDRALTDCRPVSLIGLQTVRQIE
+                     SELGMPLDKRRFRANIYFDYASGGGGFAEDDLVGRRLRIGSKATVMVLERDPRCRMIS
+                     LDPDTGEHNPEVLRKVAQAHAAFAGVYCAVLVEGLVKKGDLIELVLD"
+     gene            complement(4029..4526)
+                     /gene="AAC3"
+     CDS             complement(4029..4526)
+                     /gene="AAC3"
+                     /function="confers resistance against gentamycin
+                     antibiotic"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="gentamycin 3-N-acetyltransferase"
+                     /protein_id="CBI71176.1"
+                     /db_xref="GOA:E4WMD0"
+                     /db_xref="InterPro:IPR000182"
+                     /db_xref="InterPro:IPR016181"
+                     /db_xref="UniProtKB/TrEMBL:E4WMD0"
+                     /translation="MASQYYVHHLGQDDSELMNALLSVFGAAFNEVETYVGKRPGPEY
+                     IRRLLGSDYFIALAALEDNEVVGGIAAYHLKKFEQERKEIYISDLAVAEEHRRKGIAT
+                     GLIRKLRKIAAARGAYVIFVQADTGVEDEPAIALYTKLGVREDVLHFDIAVEDGDDAA
+                     AHANE"
+     CDS             complement(4704..5132)
+                     /function="putative GCN5-related N-acetyl transferase"
+                     /note="ORF6"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71177.1"
+                     /db_xref="GOA:E4WMD1"
+                     /db_xref="InterPro:IPR000182"
+                     /db_xref="InterPro:IPR016181"
+                     /db_xref="UniProtKB/TrEMBL:E4WMD1"
+                     /translation="MNRKISLAESEQSIIDCYLVMSELRPHIKRSEFVSTVKRLGEVA
+                     GYRLAYLADGGVKAVAGFRISEWLAGGRYLEIEDLVSISGERSKGYGGELFDWLVRHA
+                     EENGCNQIRLVSRVTRLDAHRFYLNKRMIIEAYYFSRQLK"
+     CDS             complement(6454..6831)
+                     /function="putative glyoxalase/bleomycin resistance
+                     protein/dioxygenase"
+                     /note="ORF7"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71178.1"
+                     /db_xref="InterPro:IPR004360"
+                     /db_xref="UniProtKB/TrEMBL:E4WMD2"
+                     /translation="MFSIECLDHVALLVKDLERSVEWYTRVLGLKRHYAEAWDIPVVL
+                     YAGTTGVALFPANSKVSSINPRQAIVMQHFAFRVSRADFEEAQRDFQRRDIKYEFQDH
+                     DVAHSIYIYDPDGYEVELTTYDL"
+     CDS             complement(6963..7553)
+                     /function="predicted Tellurite resistance protein"
+                     /note="ORF8"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71179.1"
+                     /db_xref="InterPro:IPR015985"
+                     /db_xref="UniProtKB/TrEMBL:E4WMD3"
+                     /translation="MWDERFSVEEYAYGTVPNDFLVEKVGCIPKGKVLSLAEGEGRNA
+                     VFLAQQGYAVTAVDSSLAGLNKARKLAEENRVAVEFIHADLADYDLGENKWDAVVSIF
+                     CPLPSQLRKELYKKVVAALKPDGVFLLEAYTPAQLKHGTGGGNSVDVMQTKESLRIEL
+                     AGLKFKHLTELERNVMEGVFHTGIGSVVQAIATKEI"
+     CDS             complement(7767..>8045)
+                     /function="putative glyoxalase/bleomycin resistance
+                     protein/dioxygenase"
+                     /note="ORF9"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71180.1"
+                     /db_xref="InterPro:IPR004360"
+                     /db_xref="UniProtKB/TrEMBL:E4WMD4"
+                     /translation="ILNRDELAILELRGGTHLVLFRAEGKPEAGPVSVFDFMVEDIEA
+                     AHAGMQKAGLHVTAICEDNLAGHLWFEVTDPDGYVLKVFSSHTGGRPV"
+ORIGIN      
+        1 gatcatcctt tccacgggcg ggtagccgga atagccccag tgattaagac aattctcggg
+       61 cgtgagggaa tagaaatagt gtagaagatt gaggcgacac caatccagaa ggcgcgcgat
+      121 tacctcttcc gacgttacag ccgctggacc aagcccctga agaaagcgga aagtccgcac
+      181 ggggtcgccg ggagtaaccg ctccgtggat tacctggttg attccatatc ttccgccggc
+      241 taaatccagg tggaataacg tacggctgtc taacaacata gacaactgct cgccgggata
+      301 ggttgtcagc gaccagcccg tccaacgtgc gttctccacg gccagggttt gcgcgatatg
+      361 agctataaag attttccacg ctaaagttcg cgggcaccac gtgccgtcgg ggcggcccgc
+      421 ggattccggc gtcgcatcat caggggcagc cggaattcca atctcttcat ccagcctggc
+      481 tttccagaaa gcatcataga gatttttctt ctctgccgta gtccaacccg aatgcgcgcg
+      541 aaggtcccca ttaatctctt gccagacaac tgccgcgccg attaattgat gctctctgag
+      601 ccaatcattg gggtcgaaat ttaaatcaat accctgatcc ctgttgcccc tccgacacat
+      661 gcgaagctcg aataatgccc gcagcagtcg gcaatgaacg gcagggagcc atgcgaacag
+      721 gaacatcaaa acaattgccg ggagcagaac gacggcacga agaaagcatt ctaatccgct
+      781 tctgggagca aaggtgggag cgaaacatgg ccctctcacg ttacctgtcc tccttaatct
+      841 gctagacttt ccccgcgaag tgccgtaatc agtaggatga cctgaccgcg cagttatctg
+      901 atagacctga cgcccgacca aaaggctagc catcaactga aaggatgaaa gactgattgc
+      961 tggtccggtt gaatccttca cctttgacct ttaccggaaa gaaagggctc aagatgcaga
+     1021 aaaaggatag cacaaagccg aaggaggggc atgccaggca aaaaccgtcg aaggctgaat
+     1081 aatcaagccc tggaacggga acaatttcag agggtgctga gggccgccga aaggggtaac
+     1141 cttgaagctc agcatgacct tgcggctttc tatgccactg atgagacact cggaattaaa
+     1201 gacgaagcta aagccgtaga atggtatacg aaggctgcga agaaggggca cggccaatcg
+     1261 caatatgatc ttggcttcat gctcctgctg ggggaaggga cgcagaagga cgtagcgaag
+     1321 ggcttgtggt ggatgaaaag ggctgttgct aacggaagca gggatgccgc aagacttctc
+     1381 tctgacatct acgcacaggg tttgtttgga gttgaagcca gttctgagaa ggccgcttat
+     1441 tgggagagag gagcgcgcag tcgcgaaagc agaatctact aattcgaggg gcagacagct
+     1501 ttaacattac ctaagcataa agcgtataca atgttcgata gtttatcctt caaggacgca
+     1561 aggccgatag ctctcatgaa aaaagctatc atgattctgc tcatgctttg cttcgtgaca
+     1621 gcccttgtct ccggccatcg tgcgtattat caggtacgaa gcctggacct acagttgact
+     1681 gcgcccattc tccgaaacgg atcggtcatt caaattgcgg tggctggttc cggtaggaca
+     1741 accatcgacg tgcgactgga gttgattcag gacgctcact ctgagactct ggcgttgaag
+     1801 cgattgcctg gcaacgattg ggcctccttt gacccgcgct ctactagcgg ctcttacagg
+     1861 gtgatgctca cgccggacct cttggcacgt ttccagacgg ggcctgcgaa ggtgcgggct
+     1921 attgctacgg ggcggccgca gtggacgcgt ttgccgccgc cggaggtgag ggaaataacc
+     1981 gtggagatag agaactattg agcgtgggta tgggttgaga atgtaaatta cagacgcaat
+     2041 ttatccgtcg gcgctgtcca ggcgcgcact caaccgaccc ttaattagcc cggatttcat
+     2101 ctttaatgtt agctgctggc ctgttaattc gagcgttatg ctgctaactt gaaatatatg
+     2161 cttcccggcg gctgcaaagc gcaatcacag aacgacctgt tatatcctca taggactcag
+     2221 gctttgatag acagccttga agggtgtgac cggggggcct gttttgagca tctgttttta
+     2281 caataagccg accatacttg cctctcagga gatgcctgaa agccatttta tgttcgcggc
+     2341 gctcccggta aaatagtgac atgacaaatc gcgctccttc atcattcagt aaccgccgta
+     2401 gatacccgcg cattaaatat tctctggagg tcgattgggg gccgacgccc gcctgcacgc
+     2461 ataagggccg ggtcacgacg ttgagcgtcg ggggctgctt tctacagacc aaggttgagg
+     2521 tcgctaaaga ggggctgatc ttcatccgcc ttttattagc gccggagagc gcaaccgtaa
+     2581 tggaagggat tgtctgggga cgggtcgcgt atcatctgcc gggggtagga ttgggaatcg
+     2641 agttcaagaa gttgctgccg ggttacgcag agcacataca ggacatagtg gcatttcatc
+     2701 tggagagcgg cgaggacgct taaatacgcg gcatgaaaac tgattcaacc cgagcgcggg
+     2761 cagtgtttca gtttgaataa ctgattcgct cacatctcag gtttcatcca ggcccgtgag
+     2821 ccatgcgaat acaagaaaag cggcatagag tattgcgatt gaagagaagc ccagcatgag
+     2881 gactagaaga gctataacaa tgcgtagcag gacgcctttc atggtgagag cttaacatcg
+     2941 gtccgaacag gctaacaata tcggagattt cccggctgaa ctgctacccg agcgcccgtg
+     3001 ggtgcttgtc ttttatcgct aacctgaatg cctgacatga tatttaccgg aaggttaatc
+     3061 cgggcgttag ctgcccacgg agaatgcctc ggagctaatt gagaatgacg actatcggga
+     3121 ctgtcgaaag cttatggcgc tatccggtta aaagtatgcg cggcgcggaa gtggccgaag
+     3181 cttttatggg attttcgggc gtatatggcg accgctgcta cgccttcaaa aattccgccg
+     3241 cccgcaaagg cttcccttat ttgaacgcta atgtgcagca gcagatgctg ctctgttgtc
+     3301 cgcaattccg ttacccggac cgagcatcga aaccaccgaa tttgatagaa gcagagagca
+     3361 tagcgcccgg cgtcacccct gcaaacggtg atgcagaaga tatggcgtta gatgttgtaa
+     3421 cgccgtcggg tgaaaccatt cccgtagatg atccggcact tataaaacta ctccgtgcgg
+     3481 gcataggcga aaagaatcaa ctgaaactcg tacgctcgga ccgcgcttta accgattgcc
+     3541 gcccggtttc gctaatcggc ctgcaaaccg ttcggcagat tgaatcggaa ttgggaatgc
+     3601 cgcttgataa gcggcgtttt cgagcaaaca tctatttcga ttatgcgtcc gggggcggcg
+     3661 gatttgctga agatgattta gtcggtcgcc gcctgcgtat aggctcgaag gcgacggtga
+     3721 tggttcttga gcgcgacccg cgctgtagga tgatctcgct cgacccggac acgggtgagc
+     3781 acaaccctga agttttacgg aaggtcgcac aggcgcatgc tgcctttgcc ggcgtttatt
+     3841 gtgctgtatt ggtagaaggt ctggtgaaaa aaggcgatct catcgagctg gtcctggact
+     3901 gatgctcccg tggtagttcg cagctttcgg gttgagcaaa taactgagca tcatattcgc
+     3961 agataccggg ccggaatatg catggcacca gctgcccggg gcttcaggcc atctctcctt
+     4021 attcctggtt attcgttagc atgagccgca gcgtcatcgc cgtcttccac tgctatatca
+     4081 aaatgcagaa catcctcacg tactcccagc ttggtgtata acgcaatggc tggctcatcc
+     4141 tcgacgcccg tatcggcctg tacgaagatt acgtaagccc cgcgagcggc tgcaatcttc
+     4201 ctgagcttcc ggatcaagcc tgttgctatt cctttgcgcc tgtgctcttc cgcgacagcc
+     4261 agatcggaga tatagatttc cttgcgttcc tgctcgaact tttttaggtg gtaggcggcg
+     4321 attccgccta cgacctcgtt gtcctcgagc gccgccaaag ctatgaagta gtcgctgccc
+     4381 aggagcctgc gtatatattc ggggcccggc cgctttccaa cataggtctc cacttcattg
+     4441 aaggccgcgc cgaacactga caaaagggcg ttcatcaact ctgagtcatc ctgcccgagg
+     4501 tgatgaacgt agtactgaga agccatagat gcgattacct cccgggccgc acagcgcccg
+     4561 aattaccccg gcggcgcgaa accattcaac tttgaaaggg taaatcaatg ataaaaggca
+     4621 ggcagccgcc gctccggtcg aaatacttat caggcggcgc accgataata cggctcgact
+     4681 tttcatctat accgaaacga tattcatttt aactgccgcg aaaaataata tgcctctata
+     4741 atcatgcgct tgttcagata aaaacggtgc gcatcaagcc tggtcacacg cgagaccagc
+     4801 cggatttgat tacagccgtt ttcttcggca tgcctgacca gccagtcgaa caactcaccg
+     4861 ccatatcctt ttgaacgctc gccgctaatc gagacgaggt cctcaatctc aagatatctg
+     4921 ccgccggcaa gccattccga tattctaaat ccggccacgg ctttgacccc gccgtcagct
+     4981 agataagcca gcctatagcc tgcaacctca ccaagccttt tgactgtcga gacgaattca
+     5041 ctacgcttta tatgagggcg cagttcagac atcaccagat agcaatctat aatcgactgc
+     5101 tcgctctcgg ccaaagatat ttttctgttc atctcgaatc aaatattaca tcgactgttc
+     5161 tatcagatat gaagacgctc agcgccagaa tcaaccccgg cgcggcatga agcattctat
+     5221 cagagccgcg aaatagatga tgaaggccat tcaatctgcg cccccgttta catgagttgt
+     5281 tggacgccgg gctgccactg tacacttctc tacggagggg agcggtggtc ttttatctta
+     5341 tatcttcgcc ggctcataag atgctcaggt atattctata catgctcgtt ttactcgcac
+     5401 tgatgaacgc aggcccatgc ttcgctcagc agcctcccca gccgccgttg gagccggcta
+     5461 aggtacagga actcattcgc ctggctaatc ttagagtaag cgagtacaaa gccgggttta
+     5521 aagacctcac cgccgacgag gaacagaagg tagaagaata cgacagcgaa ggcaaactca
+     5581 agcggcaacg gcggattgtt tcagacttga ttatctatca gtctcaatta gatgcatccg
+     5641 tggcggccga gtaccgctac gtgcgcgagg ttgacggcgt ggcggtcgca aagcgagaag
+     5701 agaggctggt gaatctcttc aatcgattag ccaaagcgga ttccgtcaag aaagagctcg
+     5761 accggattag ccgcgagggc cagaggtata atcacaagta tagtctcttc ggccatactc
+     5821 taaatcaggg ggtaatgctg gatgagagtc tgcgctcgtc ttttcagttt gcggacgcgg
+     5881 gccgcgaccg gattaacgga cgggatgtgg ttgttcttca gtatcagcag gtttcgcaac
+     5941 accccggcat caacaccgag ctcacgctgc cttccaggtt aaaaggggct gagccgctct
+     6001 ttcgagggcg gctgtggttg gatgccgaga cagcgcaaat ctggcgcgaa gaacgggagt
+     6061 tgaccctgcg cctcagcgcg ttgaaccatt ctctagtcct ctggagattc gagttcgaat
+     6121 acgttgaaag ccgtttcgga atgctaacgc cgaagcggat agtctggagc tactatgaca
+     6181 gaggacgaac cggagcgaag aatgtgcctg aacttttgtt gggtggaaaa gtaagcttcg
+     6241 agtacagcag tttccgtcgt tttaatgtca gttcgccaga tgctactgtt aacccgccgg
+     6301 caaaaccata aggcatatac cgcccgaatc aaccccggcg gggcatacgg catttaatct
+     6361 tcagacgata ttttgatgat gaaggcatag agtccacgct cccgttggat gagctgttag
+     6421 gggacggccc aggcttcagc acacaagagg cagctatagg tcatatgtag taagttcaac
+     6481 ctcgtatcca tccgggtcat agatgtatat ggagtgtgcg acatcgtggt cctgaaactc
+     6541 atacttgata tcacggcgct ggaaatccct ttgcgcttcc tcaaagtcag cgcggctgac
+     6601 cctgaaggca aagtgctgca tcacaatcgc ctggcggggg ttaatagatg atactttaga
+     6661 attagccggg aaaagcgcga ccccggtagt tccggcatac agaacgacgg gaatgtccca
+     6721 ggcctcggca tagtgacgtt tcaggccaag cacacgcgtg taccactcaa cggaacgctc
+     6781 caaatccttc accagcaaag caacatggtc tagacactcg atgctgaaca tagcaacctt
+     6841 ccccctccaa attaagtgag ccgccgaaag cccgcattat taaccgggcg cggcaaacag
+     6901 taacaacaat aaaggctcgc ccatgaaagc ccggccgtgc cgcgctgggg ttgaattagt
+     6961 tattatattt ctttagtggc gatagcctga actacagagc ctatgccggt atgaaaaacg
+     7021 ccctccatta cattacgctc aagctcggtt agatgcttaa acttcaggcc ggccaactca
+     7081 attcttaaag actctttagt ctgcatcacg tctacagagt ttcctccgcc agttccatgc
+     7141 ttcagctgag ccggagtata agcctcaagc agaaaaaccc cgtccggttt cagcgccgca
+     7201 accaccttct tatacagctc ttttcttaac tgagagggta atggacaaaa tatagatacg
+     7261 actgcgtccc atttattctc gcctaaatca taatctgcca aatcggcatg aataaactct
+     7321 acggcgaccc ggttctcctc ggccaatttt ctggccttat tcaaaccggc cagagatgaa
+     7381 tctacagcgg ttacagcata gccctgttgc gccaggaaaa cggcatttcg tccttcgccc
+     7441 tctgccaggc tgagaacttt gccttttgga atacagccta ctttctctac caaaaaatcg
+     7501 ttcgggactg tgccatacgc atactcttct acactaaatc tttcatccca catctttatt
+     7561 ctccaattgt gggccgccac atttgatgcc aaagaaatag aacgcacgca ttaacccggc
+     7621 gggaactatt gtatcaagcc ttcaggtcct gcgaatgaaa ggcaggctga ttgtcgctcc
+     7681 cgtcggctga gcggttaggc gcgcacctct tgatgattcc ttccaaacga caaccctgca
+     7741 ctatcttacc cggctcgcaa gccgcatcac acgggccgcc cccctgtatg gctcgaaaat
+     7801 acttttagca cgtagccatc cgggtctgtg acctcaaacc agaggtggcc cgcaaggtta
+     7861 tcttcacaga tggccgtcac atgtagcccg gccttctgca tcccggcgtg agcggcttca
+     7921 atatcttcga ccataaaatc aaagacgctc acaggcccgg cctcgggctt gccctcggcc
+     7981 cgaaacagca cgaggtgcgt gccaccacgc aattccagta tggccagttc atcacgattc
+     8041 aggatc
+//
+
+LOCUS       FN640466                3033 bp    DNA     linear   ENV 25-JUL-2016
+DEFINITION  Uncultured bacterium partial ORF1 and bla gene for beta-lactamase
+            class A, clone ApE1w.
+ACCESSION   FN640466
+VERSION     FN640466.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1
+  AUTHORS   Torres-Cortes,G., Millan,V., Ramirez-Saad,H.C., Nisa-Martinez,R.,
+            Toro,N. and Martinez-Abarca,F.
+  TITLE     Characterization of novel antibiotic resistance genes identified by
+            functional metagenomics on soil samples
+  JOURNAL   Environ. Microbiol. 13 (4), 1101-1114 (2011)
+   PUBMED   21281423
+REFERENCE   2  (bases 1 to 3033)
+  AUTHORS   Martinez-Abarca,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-DEC-2009) Martinez-Abarca F., CSIC, Grupo de Ecologia
+            Genetica, Profesor Albareda n 1 18008, Granada, SPAIN
+FEATURES             Location/Qualifiers
+     source          1..3033
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="loamy soil collected from the Zaidin
+                     Experimental Station"
+                     /db_xref="taxon:77133"
+                     /clone="ApE1w"
+                     /clone_lib="metagenome expression library in bacteriophage
+                     lambda ZAP phagemid vector"
+                     /environmental_sample
+                     /country="Spain:Granada"
+                     /lat_lon="37.17 N 3.59 W"
+                     /collection_date="01-Sep-2005"
+     CDS             <1..515
+                     /function="putative N-acetymuramyl-L-alanine amidase,
+                     negative regulator of AmpC, AmpD"
+                     /note="ORF1"
+                     /codon_start=3
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71181.1"
+                     /db_xref="UniProtKB/TrEMBL:E4WMD5"
+                     /translation="YTDNGTVPGISGACDKDMYNGSVTSLVNNWVAKSTTQPPGAVIV
+                     DNSSGGFSASANWSTGTSAADKYGPDYRYRSTQSVSDPAVWTANLPSSKTYNVYAWWS
+                     QGSNRSATAPYIVAHSSGSATVYMNQQTNGGSWRLLGSWPMNAGSNQVSLSCWTTAGY
+                     VVIADAIKWE"
+     gene            complement(727..1764)
+                     /gene="bla"
+     CDS             complement(727..1764)
+                     /gene="bla"
+                     /function="ampicillin resistance gene"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="beta-lactamase class A"
+                     /protein_id="CBI71182.1"
+                     /db_xref="GOA:E4WMD6"
+                     /db_xref="InterPro:IPR000871"
+                     /db_xref="InterPro:IPR001466"
+                     /db_xref="InterPro:IPR012338"
+                     /db_xref="UniProtKB/TrEMBL:E4WMD6"
+                     /translation="MVSLVVRSCSVAAVAVGLLFPACAAPVGATATTAPVAELDSVPQ
+                     VSSGRLGVAILDFQTSKTYHINGKDRFPMQSVFKAMSAVVVMREVDEGKLTLDQEIPV
+                     GPDDISVYWSPIAEEFKGTTQTYTVRELLEKSVGMSDNTAADVLMELTGGPQAVTQLL
+                     KDAGIEGVRVDRYERQFQAELEGLPPFELGEVINRKAFVEAAKAVPAEVKRPILERYV
+                     AGKDERDTATPLGAVDFLVKLQEGKLLSAESTRVLLQIMTDVKTGAGRLKAGLPEGSK
+                     LAHKTGTGGDILGVNTATNDIGIATLPDGRKFAVAVFLTGSKESEEKRDAIHADVVRQ
+                     FVDQLLAEAKE"
+ORIGIN      
+        1 aatacactga caatggaacc gtgccgggga ttagcggcgc ctgcgataaa gacatgtata
+       61 atggcagtgt aaccagcctg gtgaacaact gggttgcgaa atcaaccacg cagcccccgg
+      121 gcgccgtgat cgtcgacaac agcagtggtg gcttctcggc ctccgccaat tggtcaaccg
+      181 gcacctcagc agccgacaaa tacggtcctg actacagata ccgcagtacc caatccgtaa
+      241 gtgacccggc tgtgtggact gcaaacctgc ccagcagcaa gacctacaat gtttacgcat
+      301 ggtggagcca gggatcaaac cgttcggcaa cggctcccta tatcgtggcg cactcgtcgg
+      361 gtagcgcaac cgtctacatg aaccagcaga ctaacggggg atcctggcgg ttgctcggca
+      421 gttggcccat gaacgccggc agcaaccagg ttagcctgtc ctgctggacg accgccgggt
+      481 acgtcgtaat agcagatgcc attaagtggg aatgattaaa gcagcaaggt agactcgtaa
+      541 agcattactc gccagctttg ggtaactaaa gctggcgagt ttttttataa tggtggtagt
+      601 gaagccttcc tcaattcgta gcgctttgga agttatctgt cccctcctgc ctttcttttc
+      661 tttgcgtact ttgcgccttt gcgttaaaat ctcgctattc tttcgccacc cgcgcgtagc
+      721 atccgtttac tctttcgctt ccgccagcag ctgatctaca aactgccgca ccacgtctgc
+      781 gtggatggcg tctcgcttct cttccgactc cttcgacccc gtcagaaaca ccgccacggc
+      841 gaacttccgc ccgtccggca gggttgcgat cccgatgtcg ttcgtcgctg tgttcacgcc
+      901 caggatgtcg ccgccggtgc ccgtcttatg cgccagctta ctgccctcgg gcaatccagc
+      961 ttttagtctc ccagccccag tcttcacatc cgtcatgatc tgcagcagca cccgcgtcga
+     1021 ttctgccgag agcagcttgc cctcctgcag cttcaccagg aaatccacgg cgcccagggg
+     1081 agtggccgta tcgcgctcat ccttgccagc cacgtagcgt tccaatatcg ggcgctttac
+     1141 ctcagccggc accgccttcg ccgcttcgac aaatgctttt cggttgatca cctcacccag
+     1201 ctcaaacggc ggcaggcctt ccagttccgc ctggaactgc cgctcatagc ggtctacccg
+     1261 cacgccctca ataccggcat ccttcagcaa ctgcgtcacc gcctgcggac cgcccgtcag
+     1321 ttccatcagc acatccgccg cggtgttatc gctcatgccc actgacttct ccagtagttc
+     1381 acgaaccgta tatgtctgcg tggtaccttt aaattcctcc gcgatgggac tccagtaaac
+     1441 cgagatatca tctggcccca ccggaatctc ctgatccagc gtcagcttcc cctcatccac
+     1501 ctcccgcatc accaccaccg ccgacatcgc cttaaacacg ctctgcatcg ggaaccgatc
+     1561 tttgccgttt atgtgatacg ttttcgacgt ctggaaatcc agaatcgcca cgcctaagcg
+     1621 accactgcta acttgcggca cgctgtctaa ctcggcaacg ggggcagtgg tggcggtggc
+     1681 gccgacaggc gcagcgcagg cgggaaacag cagaccgact gcaacagcag caacggaaca
+     1741 ggaacgaaca accaacgaga ccatcaaaca acctttcaat aaaggggagt gtaaggtctg
+     1801 acaaaaaaag ttccgcagag ttctgcccgg actggatgga agcacataga gcccgaactg
+     1861 atctatgtct aagcgtgatc ctgattttca agcaggcatc ttaccgtccg aatacagcac
+     1921 ttggtatatg atgcagggca catcacactc cgcgggggta tgtgtcgcgg gcctccccag
+     1981 cccggtggac aaggtgggaa atggcgtggg cctaccaacc gccgtggcca actgttccat
+     2041 cacggtaaat aagcttccga acccccgttc gtccgaatac tcgcgagtga aagtttagcc
+     2101 cgtacacttc tccaccactt tttgcgttct acgcgcccta agtagtcgca taacaatact
+     2161 gtcagccgct ttcgcacttc ggtcccatgc gccaaaggtg cgaaacaact tagcctgggg
+     2221 tgaagaccgc caagcggtcg caaccccatg tcaaattgcc cctccggtcc cagctctgaa
+     2281 ggagcgatac agtagctgtt atcgagctac ctaagcatcg ccagcttttc aatcagaaag
+     2341 gcagacttac cccggcagac tgtccgcggg ctgagagccc ggaactaccc ggtgcgtcta
+     2401 caccactggg gtagacggga ggtacactct gccgcttgcc cgtcagccac cccatccggt
+     2461 aaaatctctt tccttactct tcgtcccttt gtgcctctgt gttatgcatt tgcttccatc
+     2521 taatccgtcc accctctgca actcacacca gccgccgcag tcccgatcaa atcctcagcg
+     2581 gcacagccgc accacaactc ataattcata attcgattaa gagtcattaa gcgtcaataa
+     2641 gggtcattgc gggaattccc aactcccatt tcctctgctc agctcgctcc attaaaatcc
+     2701 atccaaccgg agcagagacc catgaaacaa cagaaacagc ccaggaagca aacccgcaaa
+     2761 aaacgcaccg acgacttcga catcaacgcc cccatccccc actccgacgg tccgtacctc
+     2821 ctgcgcagct atttcatgac cccggaccca tcatcgaagc cgtcgacacc ggcgtccgcc
+     2881 tgccagacga cggcctcacc cccgagcagc gccgcatgcg ctatctttca aatgcgattc
+     2941 ctacgctcga atcacgccgc cagcccatcg aatcgcagct ggtcaggccg catgctatcg
+     3001 cgaacctcaa agtggcactc taccgaccag ccg
+//
+
+LOCUS       FN640467                5579 bp    DNA     linear   ENV 25-JUL-2016
+DEFINITION  Uncultured bacterium ORF1 (partial), ORF2, bla gene, ORF4, ORF5 and
+            ORF6 (partial), clone ApE14.
+ACCESSION   FN640467
+VERSION     FN640467.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1
+  AUTHORS   Torres-Cortes,G., Millan,V., Ramirez-Saad,H.C., Nisa-Martinez,R.,
+            Toro,N. and Martinez-Abarca,F.
+  TITLE     Characterization of novel antibiotic resistance genes identified by
+            functional metagenomics on soil samples
+  JOURNAL   Environ. Microbiol. 13 (4), 1101-1114 (2011)
+   PUBMED   21281423
+REFERENCE   2  (bases 1 to 5579)
+  AUTHORS   Martinez-Abarca,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-DEC-2009) Martinez-Abarca F., CSIC, Grupo de Ecologia
+            Genetica, Profesor Albareda n 1 18008, Granada, SPAIN
+FEATURES             Location/Qualifiers
+     source          1..5579
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="loamy soil collected from the Zaidin
+                     Experimental Station"
+                     /db_xref="taxon:77133"
+                     /clone="ApE14"
+                     /clone_lib="metagenome expression library in bacteriophage
+                     lambda ZAP phagemid vector"
+                     /environmental_sample
+                     /country="Spain:Granada"
+                     /lat_lon="37.17 N 3.59 W"
+                     /collection_date="01-Sep-2005"
+     CDS             complement(<1..186)
+                     /note="ORF1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71183.1"
+                     /db_xref="UniProtKB/TrEMBL:E4WMD7"
+                     /translation="MDRSLDIYIGWDSREPIAYEVAKSTILKNASIPVNVHPIVLQDL
+                     VDKGAYTRDVDPLASTEF"
+     CDS             378..944
+                     /note="ORF2"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71184.1"
+                     /db_xref="GOA:E4WMD8"
+                     /db_xref="InterPro:IPR012853"
+                     /db_xref="UniProtKB/TrEMBL:E4WMD8"
+                     /translation="MKNLAGHILILTGPPGSGKSTVAELLVAAAGIPAVHLHSDDFWH
+                     YIKSGLIQPYLPEAHAQNETVIDVLASAAKGYAKGGFFVVVDGIIGPWFLEPFRASTV
+                     PLHYIVLRPLLDETIERCRLRGGNTLTDPGPISALHQQFSSLGELENHAIDTAGLNPA
+                     QTLGAIKAALFDSGYYLEPSLVKPHRQH"
+     gene            complement(922..2064)
+                     /gene="bla"
+     CDS             complement(922..2064)
+                     /gene="bla"
+                     /function="ampicillin resistance gene"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="beta-lactamase"
+                     /protein_id="CBI71185.1"
+                     /db_xref="GOA:E4WMD9"
+                     /db_xref="InterPro:IPR001466"
+                     /db_xref="InterPro:IPR001586"
+                     /db_xref="InterPro:IPR012338"
+                     /db_xref="UniProtKB/TrEMBL:E4WMD9"
+                     /translation="MIPKTAAVLTASLFATCASVTLSHAADDANRVKSFVDAAIQPVM
+                     EKNTIPGMAVGVIADGKSYIFEYGVTSKDTGKAVTASTIFEIGSISKTFVVTLATYAQ
+                     ANGQLSLSDPASKYLPALKGTEFGKVPLYHLGTHTPGGFPLQVPDNIKNDDQMMSYLK
+                     NWKPAYKAGTTRTYANPSIGMLGVIAAKSMNEDFTALMEGTLFPALGLASTYINVPKS
+                     KMKDYAQGYTSKDKPARVNKAVLSSEAYGVKTTAPDMVRFMQANMNMVKLENKLQRAI
+                     ADTHRGYFKVGAMTQDLLWEQYNYPVSLNALRLGNSREISSKPVPVEQIDPPIAPRSD
+                     VWINKTGSTNGFGAYVAFVPEKKIGIVILANKYYPNEERINAAYEV"
+     CDS             2175..3044
+                     /function="predicted transcriptional regulator LysR
+                     family"
+                     /note="ORF4"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71186.1"
+                     /db_xref="GOA:E4WME0"
+                     /db_xref="InterPro:IPR000847"
+                     /db_xref="InterPro:IPR005119"
+                     /db_xref="InterPro:IPR011991"
+                     /db_xref="UniProtKB/TrEMBL:E4WME0"
+                     /translation="MVRPFLPLNGLRAFEASARHLSFTRAAIELYVTQAAVSQQVKSL
+                     ETRLGVQLFQRLPRGLKITAEGEALLPVVTGSFDQLANTLERIEGGHVRELLFLGAVG
+                     TFAVGWLLPRLPDFQRQFPFVDVRLSTNNNRVDTAAEGLDFAIRFGDGSWHGTEATRL
+                     FEAPLSPLCIPELAEKLHEPADIANQPLLRSYRKDEWSRWFEAAGVAASPQLSKGIVF
+                     DSSLAMMEAALQGLGIALAPPSMFSRQLSSGAIKQPFQTSISLGSYWLTRLQSRLPTP
+                     AMEAFSGWIAAQI"
+     CDS             complement(3356..4339)
+                     /function="predicted dihydrodipicolinate synthase"
+                     /note="ORF5"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71187.1"
+                     /db_xref="GOA:E4WME1"
+                     /db_xref="InterPro:IPR002220"
+                     /db_xref="InterPro:IPR005263"
+                     /db_xref="InterPro:IPR013785"
+                     /db_xref="InterPro:IPR020624"
+                     /db_xref="InterPro:IPR020625"
+                     /db_xref="UniProtKB/TrEMBL:E4WME1"
+                     /translation="MTGYSGSIVGSGKIMNQLNSHRFSGLITALVTPFKDNAVDYPAL
+                     ENLVEWQIQSGVDGLVVCGTTGEAPTLHWDERLKIIKACVSKAKGRVSIIVGTGTNST
+                     DLTVSHTCSAAACGADAALIVTPYYNKPSQEGLARHFETVAASTTLPIIAYSVPSRTG
+                     VEFTVNTLDRLAQIPSIIGIKDATGNEKGAEQLRCIFGDRFLLLSGSDETACTFNLSG
+                     GDGFISVISNVLPHIYVALRDACRQDDWSTATYIDKKLQPIYRAFALDTNPCPVKYAL
+                     KHRREMSDDVRLPLVPVSADTAANIRQALDHMGSDGRNPECLSLPTLAWRV"
+     CDS             4794..>5579
+                     /function="putative adenylate/guanylate cyclase"
+                     /note="ORF6"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71188.1"
+                     /db_xref="UniProtKB/TrEMBL:E4WME2"
+                     /translation="MSEVDVLFATLRQAADPQAVECIENVVRHGSDRDLNRINALAFA
+                     DTHHLDQEKTIAALLHAARIGAFEMTWNVLCPGCGGVLDSGASLKGVVHETYHCALCA
+                     AGYEPTLDEMVEVTFTVSPRVRRIAAHDSDRLPPLEYYRQIFFSSGVDLPEDFEVRFA
+                     RIQLEIIELDPGEKAFVSLQLPAQFVIIFDAVTHSAQFIDVKGEPTDERQTLSMVISR
+                     AHALNETITLRPGLLRLTLENHTDRRVIPNVCIAGDELHDLLGR"
+ORIGIN      
+        1 gaattccgtt gaagcgagcg ggtcgacatc tcgcgtataa gcgcccttat caacaagatc
+       61 ctgcaacaca atcgggtgta cattcaccgg aatcgatgcg tttttaagga tggtggattt
+      121 tgctacctca tatgcgatgg gttcgcggga atcccagcct atgtagatat caagtgacct
+      181 atccatgatt cttcctttgc atgtttgatt ttgctgccat gctgcgtttg gcgagaaaat
+      241 tgtttatatg accgaaatag tcaagtcatg gtgtagttcg cgcagcatgc aactgtgagt
+      301 atgttttttt catgccatga gcggaaaacg attggcttct gagattggta tgaaaggaaa
+      361 tccgtttcga ggaccacatg aaaaatttgg ctggccatat cctgattcta acggggcctc
+      421 cgggctccgg caaaagcacc gtggcggagt tacttgttgc ggcagcgggc attccagcgg
+      481 ttcatctgca ttcggatgat ttttggcatt atattaaaag cggcctaatt caaccctatc
+      541 ttccggaagc acatgcgcaa aacgaaactg tcattgatgt tttggcaagt gcggcaaagg
+      601 gctacgccaa aggcggtttc ttcgtcgtag tggacgggat catcggacct tggttcctgg
+      661 agccatttcg cgcctccact gtgccgcttc actatatcgt tttacgaccg ctcctggacg
+      721 agacgattga gcgatgccgt ctgcgcggcg gtaatacgct gaccgatccc gggccgatca
+      781 gcgccttgca tcagcagttt tcatcgctgg gcgagcttga aaaccacgct atcgacacgg
+      841 cagggctgaa ccctgcccag acgctgggag ctataaaagc cgcgcttttt gacagcggat
+      901 attatttgga gcctagcttg gtcaaacctc ataggcagca ttgatacgct cttcattcgg
+      961 gtaatatttg tttgccagaa tgacaatgcc gatcttcttt tcgggaacga aagccacata
+     1021 ggccccaaaa ccattggttg aaccagtctt gttgatccaa acatcagaac gcggtgctat
+     1081 gggaggatcg atctgttcaa caggcactgg ctttgaagaa atttctctcg aatttcccaa
+     1141 tcggagggca tttaaggaaa cagggtaatt atattgttcc cataataaat cctgggtcat
+     1201 tgcaccgacc ttgaaatatc ccctatgcgt atccgcaatt gcccgttgga gcttgttctc
+     1261 cagcttgacc atgttcatat ttgcctgcat gaaacggacc atatccggcg cagtggtctt
+     1321 cactccatag gcttccgagg acagaacggc cttgtttacg cgggcaggct tgtctttgct
+     1381 cgtgtagccc tgtgcgtagt ctttcatttt gctcttgggc acattgatat aggtgctggc
+     1441 aagaccaagc gccggaaata atgtgccttc catcaatgca gtgaaatcct cattcatgct
+     1501 ctttgcagct atgacaccga gcatcccaat gctcggattg gcataggtac gggtcgtgcc
+     1561 ggccttatag gcaggcttcc aattcttcag atagctcatc atctgatcgt cattcttgat
+     1621 attgtccggc acctgcaaag gaaagccgcc gggcgtatgg gtgcctaaat ggtaaagcgg
+     1681 caccttgcca aattcagtgc ccttcaaagc tggcagatat ttgctcgccg ggtctgacag
+     1741 agaaagctga ccattggctt gcgcataggt tgccaatgtc acgacgaacg tcttgctgat
+     1801 cgatccgatc tcaaaaatgg tcgaagccgt aaccgctttt cctgtatctt tagaagtaac
+     1861 gccatattca aatatatagg actttccgtc ggcgatgacg ccgacagcca tgccgggtat
+     1921 agtgtttttc tccataacag gctggattgc agcgtctacg aaagacttaa ccctgttcgc
+     1981 atcatcggca gcgtggctga gtgttacaga tgcacaggtc gcaaaaagag aagctgtcag
+     2041 aaccgcagca gttttcggta tcatcgttcg aaattccttg tctcggttag ctaccggtca
+     2101 aatgtctatt ggcactgtga tcacaagaca aacgatgata tctggtatct gacataagaa
+     2161 aaactaggtc aatcatggtt cgcccctttc ttcctctgaa tggccttcgg gcctttgaag
+     2221 cctctgcacg gcacctgagc ttcacgcggg cagctattga actttatgtg acgcaagcgg
+     2281 ccgtcagcca acaggtgaaa agcctcgaaa cgcggctggg cgtacagctt ttccagcgcc
+     2341 ttcctcgggg gttgaaaatc accgcagagg gagaagccct gctgcctgtc gtgacgggct
+     2401 cttttgatca gctggccaat acgcttgagc gaatagaggg cgggcacgtg cgtgagctgc
+     2461 tttttctggg cgctgtcggg acatttgcgg tgggttggct gttgcctcga ttgccggatt
+     2521 tccagcggca atttcccttt gtcgacgtcc gtctttcaac caacaataat cgcgttgata
+     2581 ccgcagcgga aggactggat tttgccatcc ggttcggtga cggctcctgg cacggaacag
+     2641 aagctacacg cctcttcgag gcgccgctat caccgctttg cattccggaa ttagcggaga
+     2701 aactgcatga accggcggat attgccaatc agcctctgtt gcgaagctac cgcaaggatg
+     2761 aatggagccg atggtttgag gcggcgggcg ttgctgcctc gccgcaactc agcaaaggga
+     2821 tcgtatttga ttcatcgctc gccatgatgg aggctgcgct gcaaggtctc gggatcgcgc
+     2881 ttgcccctcc atcaatgttt tcgcggcagc tttcatccgg cgcaatcaag cagcctttcc
+     2941 agacgtcaat ttcgctgggg agctattggt tgacgcggct gcaatcgcgc ctccccaccc
+     3001 cggctatgga agccttttcc gggtggattg cagcgcagat ttagggcgat ctttcggtac
+     3061 tggatcagtg attcaggtct ttccaggggt cggccaaaag gcaggcttct tcgcccacac
+     3121 accataccga acccggctcg cgatttgttt cgctttccgc aaagtgaata gcggctcctt
+     3181 gatcgacgaa tatgccgccc acccgttttt tccggtcgca aacgatccaa tcgccagcaa
+     3241 gattccggcc aaccagaaac cggcaatttg gggttaattt cggagtattg tcagtaaagt
+     3301 gtttcatctg ctgcacaccg gattaagccg gcagtcctgt tgatcggatg attggtcaga
+     3361 cacgccaggc caaggttggc aaagacaggc attccggatt acggccatcc gatcccatat
+     3421 ggtccaaagc ctgccggatg ttcgccgccg tatcagcgct cacaggaacg agcgggagcc
+     3481 ggacatcatc gctcatttca cgccgatgct tcaaagcata tttcaccgga catggattgg
+     3541 tatccaatgc gaaggcccgg tagatcggtt gcagcttttt gtcgatatag gtggcggttg
+     3601 accaatcgtc ctgccgacag gcatcgcgca gagcgacata tatgtgcggc aacacgttcg
+     3661 agataacgga gatgaagcca tcacctccgg aaaggttgaa tgtacatgcg gtctcgtcgc
+     3721 taccagacag cagcaaaaaa cgatctccga aaatacaccg cagctgctct gcgcctttct
+     3781 cattgccggt agcatctttg atgccgataa tcgatgggat ttgagcgaga cgatccagcg
+     3841 tattgaccgt aaactccacg cccgtcctcg aagggacgct gtaggcgatg attggcagtg
+     3901 tcgtgctggc cgccacagtc tcgaaatgcc gggcaagtcc ctcctgactg ggtttattgt
+     3961 agtacggggt aacaataaga gcggcatctg caccgcaggc ggctgcagaa caagtatgcg
+     4021 atactgtcaa gtctgtactg ttggtgccgg tgccaacaat gatcgatacc cgtcccttcg
+     4081 ccttggaaac gcacgcttta atgatcttga ggcgctcatc ccaatgcaag gttggcgcct
+     4141 cccccgttgt tccgcagacc accaagccat ccacgcctga ttggatttgc cattcaacca
+     4201 gattttcaag cgcgggatag tcgaccgcat tgtctttgaa cggggtaaca agcgcggtga
+     4261 taagaccgct gaaacgatga gaattgagct gattcataat tttccctgac ccgacaatcg
+     4321 atccggaata gccggtcatt gtcggcctat tgaagtgagc gtcgtttgac ggtgaggccc
+     4381 ggtcctaaag tgcctgcaaa cgcaggatga cggccacaat gagcaaagat gtgagggtca
+     4441 gaaatgtcgc tgcctgcaac aggatgccag gcgcaggttg agggtgtttt tgcccgttat
+     4501 gagaaggcgt attcatgctg tgaactccat ttttgtcaca gccggaaaat agaaggataa
+     4561 gggtcgggtt tcgatgctga gttagggccc gacccgtaaa gaaacaataa gtttccatcg
+     4621 caatgaacgg gcatggaatg caagcgcaaa tataaaaatg ccgtccgtcg tgaaggacaa
+     4681 agtcgcccgg gcgagtggta tccacgccta tagatttcta ttgggaagct cccgtgttat
+     4741 gatcccggtc ctggcgtcgt ccgccgtggg ttctgcacac ggagactagt ctaatgagcg
+     4801 aagtggacgt actttttgcg accctgcgac aagcggctga cccgcaggcg gtcgagtgca
+     4861 tcgagaacgt cgtcaggcat ggctcggatc gcgatctcaa tcgcatcaat gcgctcgcct
+     4921 tcgccgatac gcaccatctc gatcaagaga aaaccattgc agcgcttctc catgcagccc
+     4981 gcataggtgc gttcgagatg acctggaacg tgctttgccc gggatgcggc ggcgtacttg
+     5041 acagcggcgc atccctcaaa ggggtcgtcc acgagactta ccattgtgcg ctctgtgcgg
+     5101 ccggatatga gccgaccctc gacgagatgg tcgaggtcac attcacggtc agcccgagag
+     5161 tacgcaggat tgccgcccac gattccgatc ggctacctcc gcttgagtat taccgccaga
+     5221 tattcttcag ctccggagtt gacctgccgg aggacttcga agttcggttc gcacgcatcc
+     5281 agctggagat aatcgagctt gatccgggcg aaaaggcttt cgtctcgctg caattgccgg
+     5341 cgcaattcgt gattatcttc gatgcggtaa cgcactcggc gcagttcatc gacgtgaagg
+     5401 gcgagccgac cgacgaacgt caaaccctct cgatggtcat cagtcgggcg catgcgctga
+     5461 acgaaacgat taccctccgt cctggcttgc tacggctcac gctggagaac cataccgatc
+     5521 gcagagtgat accgaatgtc tgcatcgcag gagatgaact gcatgatctt ctgggccgc
+//
+
+LOCUS       FN640468                1775 bp    DNA     linear   ENV 25-JUL-2016
+DEFINITION  Uncultured bacterium partial ORF1 and partial ACC3 gene for
+            aminoglycoside 3'-N-acetyltransferase, clone GmE1.
+ACCESSION   FN640468
+VERSION     FN640468.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1
+  AUTHORS   Torres-Cortes,G., Millan,V., Ramirez-Saad,H.C., Nisa-Martinez,R.,
+            Toro,N. and Martinez-Abarca,F.
+  TITLE     Characterization of novel antibiotic resistance genes identified by
+            functional metagenomics on soil samples
+  JOURNAL   Environ. Microbiol. 13 (4), 1101-1114 (2011)
+   PUBMED   21281423
+REFERENCE   2  (bases 1 to 1775)
+  AUTHORS   Martinez-Abarca,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-DEC-2009) Martinez-Abarca F., CSIC, Grupo de Ecologia
+            Genetica, Profesor Albareda n 1 18008, Granada, SPAIN
+FEATURES             Location/Qualifiers
+     source          1..1775
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="loamy soil collected from the Zaidin
+                     Experimental Station"
+                     /db_xref="taxon:77133"
+                     /clone="GmE1"
+                     /clone_lib="metagenome expression library in bacteriophage
+                     lambda ZAP phagemid vector"
+                     /environmental_sample
+                     /country="Spain:Granada"
+                     /lat_lon="37.17 N 3.59 W"
+                     /collection_date="01-Sep-2005"
+     CDS             <1..862
+                     /function="putative glycosyl transferase family protein"
+                     /note="ORF1"
+                     /codon_start=2
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71189.1"
+                     /db_xref="GOA:E4WME3"
+                     /db_xref="InterPro:IPR002213"
+                     /db_xref="UniProtKB/TrEMBL:E4WME3"
+                     /translation="VLASPLPGFTPTREFASPMVPFRSVGPFNRLSHSVMANGGEAIF
+                     RRMISEWRVSELELGPRPASKLRPSATLYAYSTSVLPRPADWPDSVAVTGYWVLDDNR
+                     DWHPEPALQAFLDAGESPVYVGFGSMPALEPAKLTAMVIDALGRAGKRGVLATGGGAI
+                     HDQRASANVHFIDGAPHDRLFPLMAACIHHGGAGTTGASLRAGKPTVICPFFGDQPFW
+                     ARRLHELEVGPAPMEMKKLTTAWLADAITEVTSNGTFAANATRIGAELRSEQGVASAI
+                     AFLQRRKLLM"
+     gene            complement(1071..>1775)
+                     /gene="AAC3"
+     CDS             complement(1071..>1775)
+                     /gene="AAC3"
+                     /function="gentamycin resistane gene"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="aminoglycoside 3'-N-acetyltransferase"
+                     /protein_id="CBI71190.1"
+                     /db_xref="GOA:E4WME4"
+                     /db_xref="InterPro:IPR003679"
+                     /db_xref="UniProtKB/TrEMBL:E4WME4"
+                     /translation="GKWAGTRGADMIIAALRDAVVLGYGAAYADWQGMDDVLADDAVF
+                     NDPALRPEIPPFDPKTSRATRDNGSFPELLRTTPGALRSGSPGASCVAIGGRAEWFVA
+                     DHALDYGYGPDSPFGELVAAEGKVLMLGAPLDTMTLLHHAEHLADIPSKRIRRYEAPI
+                     LIEGETVWRQFEEFDTSDPVVASLPDDYFALIVEEFLGTGRGVRGNVGAATSVLVPAA
+                     EIVPFGVQWLETRFRK"
+ORIGIN      
+        1 agtactcgct tcacccttgc cgggcttcac gccgacgcgg gaattcgcca gcccgatggt
+       61 gccgttccgg tctgtcgggc cgttcaaccg gctgagtcac agcgtcatgg cgaatggcgg
+      121 cgaggccatc ttccgcagga tgatcagtga atggcgcgta tcagagcttg agcttgggcc
+      181 gcggcctgcg agcaaacttc gccccagcgc caccctctac gcctacagca ccagcgtgct
+      241 gccccgcccg gccgactggc ccgacagcgt tgcggtgacc ggatactggg tcctcgacga
+      301 caatcgcgac tggcaccccg agccggcgct tcaggcgttc ctcgatgccg gggagtcccc
+      361 ggtttatgtc gggttcggca gcatgcctgc gctcgaaccg gccaaactga cagcgatggt
+      421 gatcgacgcg ctcggccgtg ccggcaagcg tggcgttctg gcgacaggcg gcggagcaat
+      481 tcacgaccaa cgggcctcgg ccaatgtcca tttcatcgac ggcgcgccgc acgatcgcct
+      541 gttcccactg atggcagcct gcatccacca tggcggcgcc ggcaccactg gcgcctccct
+      601 ccgggccggc aaacccacgg ttatctgccc attcttcggc gaccaaccgt tctgggcgcg
+      661 gcgactgcac gagcttgagg tcggcccggc accgatggaa atgaagaaac tcaccaccgc
+      721 atggcttgcc gacgcgatca ccgaagtcac aagcaacggg acgttcgcag ccaacgcgac
+      781 aaggatcggc gccgagctgc gttcagagca gggtgtcgcc agcgcgatcg ccttccttca
+      841 acgccggaaa ctgctgatgt agggtcagtt tgagcaacga ggcttcatag ccgagtgcaa
+      901 cggcggttgt gtcacctccc cccttgcggg ggggtcaggg tgggggggtg cgcatgcatc
+      961 gagacggtgt ccgaagcatc cgacccaacc ccaacgtcac tggcctatca ccccccaccc
+     1021 ctgtcccctc cccgtaatgg ggagggagac ccgactgaga gccgcgcggc ctacttccga
+     1081 aaccgggtct ccagccactg caccccgaac ggcacgatct ccgccgccgg caccagcacc
+     1141 gaggtcgccg cgccaacatt cccccgcaca ccccggccgg tgcccaaaaa ctcctcgacg
+     1201 atcagcgcga aatagtcgtc gggcaaactc gcgaccaccg ggtccgacgt gtcgaattct
+     1261 tcgaactgcc gccacacggt ttcgccctcg atgaggatcg gcgcctcgta gcgcctgatg
+     1321 cgcttgctcg gaatgtcggc caggtgctcg gcgtggtgca gcagggtcat ggtgtcgagc
+     1381 ggcgcgccga gcatcagcac cttgccttcg gccgccacca gctcgccgaa gggcgagtcc
+     1441 gggccgtagc catagtcgag cgcatgatcg gcaacgaacc actcggcacg accaccgatg
+     1501 gcgacgcagg atgcgccggg gctgccgctg cgcaacgcgc cgggcgtcgt gcgcagcaat
+     1561 tcgggaaagc tgccgttgtc gcgggtggcg cgcgaggtct tgggatcgaa gggcgggatt
+     1621 tccggacgca gggccgggtc gttgaagacc gcatcatcgg ccagcacgtc gtccatgccc
+     1681 tgccagtcgg cataggcagc accgtacccg aggacgacgg catcgcgcag tgcggcaatg
+     1741 atcatgtcgg cgccgcgagt accggcccac tttcc
+//
+
+LOCUS       FN640469                4428 bp    DNA     linear   ENV 25-JUL-2016
+DEFINITION  Uncultured bacterium ORF1 (partial), ORF2, ORF3, ORF4, ORF5 and
+            ORF6 (partial), clone CmE1.
+ACCESSION   FN640469
+VERSION     FN640469.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1
+  AUTHORS   Torres-Cortes,G., Millan,V., Ramirez-Saad,H.C., Nisa-Martinez,R.,
+            Toro,N. and Martinez-Abarca,F.
+  TITLE     Characterization of novel antibiotic resistance genes identified by
+            functional metagenomics on soil samples
+  JOURNAL   Environ. Microbiol. 13 (4), 1101-1114 (2011)
+   PUBMED   21281423
+REFERENCE   2  (bases 1 to 4428)
+  AUTHORS   Martinez-Abarca,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2009) Martinez-Abarca F., CSIC, Grupo de Ecologia
+            Genetica, Profesor Albareda n 1 18008, Granada, SPAIN
+FEATURES             Location/Qualifiers
+     source          1..4428
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="loamy soil collected from the Zaidin
+                     Experimental Station"
+                     /db_xref="taxon:77133"
+                     /clone="CmE1"
+                     /clone_lib="metagenome expression library in bacteriophage
+                     lambda ZAP phagemid vector"
+                     /environmental_sample
+                     /country="Spain:Granada"
+                     /lat_lon="37.17 N 3.59 W"
+                     /collection_date="01-Sep-2005"
+     CDS             complement(<1..222)
+                     /function="putative reductase"
+                     /note="ORF1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71191.1"
+                     /db_xref="InterPro:IPR005025"
+                     /db_xref="UniProtKB/TrEMBL:E4WME5"
+                     /translation="MSKLKIAVIISSTRPTRFGELPAKWIADKVNERPELQAEIVDLR
+                     DFDLPFFDEMASNAWMPSANPEAVRWQNKI"
+     CDS             complement(501..1706)
+                     /function="Bcr/CflA subfamily drug resistance transporter,
+                     chloramphenicol resistance gene"
+                     /note="ORF2"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71192.1"
+                     /db_xref="GOA:E4WME6"
+                     /db_xref="InterPro:IPR004812"
+                     /db_xref="InterPro:IPR011701"
+                     /db_xref="InterPro:IPR016196"
+                     /db_xref="InterPro:IPR020846"
+                     /db_xref="UniProtKB/TrEMBL:E4WME6"
+                     /translation="MNPTILRAALVLGLLSAIGPFAIDMYLPALPAIGASLGADTAGV
+                     QASLMAFMAAIAVCQLFYGPVSDMVGRKPPLYFGLALFTAGGIACALAPSIEWLVVAR
+                     FVQGIGACAAMALPRAIVRDGYTGADAAQLQSLLMLVFSVSPILAPLGGSLIVQFGDW
+                     RVIFYAVAGIGLLGILLVAFFLKETRPASARLESSVGSAIKGYGVLLRDRNFLGLSMI
+                     GAFGMASFMAYLANSSFILIDHYGLNPTQYSIMFSINAVSFIGVSQLTGVLTRRYGLN
+                     AVVRTAVNGFILVMVALAAVFALGVDRLDVLAALLFVGYGFLGLVIPTTAVLALEEHG
+                     AIAGTASALMGTLQLVTAAVVMGIVGSFFDGTARPMVLGIAACAIVAFALTRLTIKRS
+                     RAPLAAAAE"
+     CDS             1891..2538
+                     /function="putative transcriptional regulator TetR"
+                     /note="ORF3"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71193.1"
+                     /db_xref="GOA:E4WME7"
+                     /db_xref="InterPro:IPR001647"
+                     /db_xref="InterPro:IPR009057"
+                     /db_xref="InterPro:IPR012287"
+                     /db_xref="InterPro:IPR015893"
+                     /db_xref="UniProtKB/TrEMBL:E4WME7"
+                     /translation="MSQIELLPTERAFPRAVAKRQAILDAAKRAFVREGVSAAGIDAI
+                     AIEAGVSRQTVYNQIGDKDQLFIAVVEDVTARSSASLMQVLHSFPDKPDNLEQALTDF
+                     AAGLLGRCMCDIDGRALASLMEREAHRWPHLFSAWKEYGPGKDWPVIAAVFAKLGRDG
+                     YLEIDDPSLVARHFMALINADLPKDQGMCTRPTEAAVQKAAKAGVATFLRAFGKR"
+     CDS             complement(2686..3429)
+                     /function="putative pyridoxal phosphate biosynthethic
+                     protein, PdxJ"
+                     /note="ORF4"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71194.1"
+                     /db_xref="GOA:E4WME8"
+                     /db_xref="InterPro:IPR004569"
+                     /db_xref="InterPro:IPR013785"
+                     /db_xref="UniProtKB/TrEMBL:E4WME8"
+                     /translation="MTLLSVNLNAVAQLRNRRDLPWPSVVGMARVVLDAGASGVTVHP
+                     RPDERHIRRSDVFDLSALLRDEYPEAEFNIEGYPSEDFIALIETVNPQQVTLVPDDPA
+                     QATSDHGWDFHANNNFLTSVVQKLKQPGRRISLFCDPDAGAKGISAAKATGADRVELY
+                     TGPYGGCYDDPARAEAELAALADTAAAAHAAGLGLNAGHDLTLENLPAFQAAVKGVDE
+                     ASIGHGLTADALLMGFPEAVRRYREVLEG"
+     CDS             complement(3525..4079)
+                     /function="putative acetolactate synthase 3 regulatory
+                     subunit"
+                     /note="ORF5"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71195.1"
+                     /db_xref="GOA:E4WME9"
+                     /db_xref="InterPro:IPR002912"
+                     /db_xref="InterPro:IPR004789"
+                     /db_xref="InterPro:IPR019455"
+                     /db_xref="UniProtKB/TrEMBL:E4WME9"
+                     /translation="MNAHLQPTGSAYFLTKETQEIERHTLSVLVDNEPGILARVVGLF
+                     SARGYNIESLTVSETEHGRRLSRITVVVIATPKTLTQIKLQLERLVPVHKVHDLTAEG
+                     ASLERELALIKVAGSGDHRAETLRLADAFRAQIVDASVESFVFEVTGKPAKIDSFIAL
+                     MQPLGLVEVVRTGLAAISRGPQGM"
+     CDS             complement(4243..>4428)
+                     /function="acetolactate synthase, large subunit,
+                     biosynthetic type"
+                     /note="ORF6"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71196.1"
+                     /db_xref="UniProtKB/TrEMBL:E4WMF0"
+                     /translation="ELDAAIAEMLDYDGPVLFYVLVEKDENCLPMIPSGKPHNEIILP
+                     DTANLGSIIDEKGRQLV"
+ORIGIN      
+        1 gatcttgttc tgccagcgaa cggcttccgg attggccgaa ggcatccagg cattggacgc
+       61 catttcgtca aagaacggca ggtcgaagtc gcgcagatcg acgatctcag cctgcaattc
+      121 ggggcgctcg ttgaccttgt cggcgatcca cttggcaggc agttcaccaa agcgggtcgg
+      181 gcgggtggac gagataatga cggcaatctt gagtttggac attggagccc tccttggtaa
+      241 caaatcgtaa ctgaggcgat atatgtgcct ttaacgaaag ctggcaagga ggcactattt
+      301 ggtggtgcgg ggacaccaat tgtccttagg cacatttatg taagcattgg tgggagctgg
+      361 gttttttgtg gttaggacac cagatctgcc ctaatcaagc cgctccgtca gcttatccct
+      421 gacgcactgt tcgacctgct atgacagtgg tgcaggactg gagtggcgat gagggcgccg
+      481 gcaatgccgg caccccatgc ttattcggct gctgccgcca gcggcgcgcg cgaccgcttg
+      541 atggtcaggc gtgtcagcgc aaaggcgacg atggcacagg ccgcgatacc cagcaccatg
+      601 ggccgtgccg taccatcaaa gaagctgccg acaatgccca tcaccaccgc agccgtcacc
+      661 agctgcagcg tacccatcag ggccgacgcc gtgccggcaa tggcgccatg ctcttcgagc
+      721 gccagcactg cagtggtcgg gatcaccagg cccaggaagc cgtagcccac gaacagcagt
+      781 gcggcgagca catcgagccg atcaacgccc aaggcaaaga ccgccgccag cgccaccatc
+      841 accaggatga agccattgac cgccgtgcgc accacggcat tgaggccata gcgccgggtc
+      901 agcacgcccg tcagctgcga cacgccgata aacgacaccg cattgatcga gaacatgatg
+      961 ctgtattgcg tcgggttcag cccataatgg tcgatcagga taaaggacga attggccaga
+     1021 taagccatga agctcgccat cccgaaggcg ccgatcatcg acaggcccag gaagttacgg
+     1081 tcccgcaaca gcacaccata gcccttgatc gcgctgccga cgctgctttc cagccgcgcc
+     1141 gaagccgggc gggtttcctt gaggaaaaac gccaccagca gaatgccgag caggccaatg
+     1201 ccggccacgg cataaaagat cacgcgccag tcgccgaact gcacgatcag gctgccgccc
+     1261 agcggcgcca ggatcggcga caccgagaaa accagcatca gcaggctctg caattgcgca
+     1321 gcatccgcgc cggtatagcc atcgcgcacg atggcgcgcg gcaatgccat ggcggcacag
+     1381 gcgccaatgc cctgcacgaa acgggccacg accagccatt cgatcgaggg ggcaagcgcg
+     1441 caggcaatgc cgccggcggt gaacagcgcc aggccgaaat acagcggcgg cttgcgcccg
+     1501 accatgtcgc tgaccgggcc gtagaacaac tggcagaccg caatggcggc catgaaagcc
+     1561 atgaggctgg cctgtacgcc ggcagtgtcg gcaccaaggc tggcgccgat agccggcaaa
+     1621 gccggcagat acatatcgat ggcgaaggga ccgatggccg acagcaagcc gagcaccagc
+     1681 gccgcgcgca ggattgttgg gttcattttc gaatacctct cggccgccgc cgaagccacg
+     1741 agccgcacat tgggaaaagc tgttcggcgc ggtggggagg cacggcagcc gatgacccga
+     1801 tattggacac aagtgtaaaa tcagtcaagc accggcgtca aatatttttg acaatgttgt
+     1861 aaaattaggc atttcgtgta tggtgaagcc atgagtcaga tcgagctgct gcccaccgaa
+     1921 agagcctttc cccgcgccgt cgccaagcgg caggcgattc tggatgcggc caagcgcgct
+     1981 tttgtccgcg agggcgtcag cgcggccggc attgacgcca tcgccatcga ggccggcgtt
+     2041 tcgcggcaga ccgtctacaa ccagatcggc gacaaggatc agctcttcat cgccgtggtc
+     2101 gaggacgtca ccgcccgctc cagcgcctcg ctgatgcagg tgctgcacag ctttcccgac
+     2161 aagcccgaca atctcgaaca agccctgacc gatttcgccg cgggcctgct gggccgctgc
+     2221 atgtgcgaca tcgatggccg cgccctcgcc tcattgatgg agcgcgaagc ccatcgctgg
+     2281 ccccacctgt tcagcgcctg gaaggaatat ggtcccggca aggactggcc ggtcatcgcc
+     2341 gcagtcttcg ccaagctcgg ccgcgacggc tatctcgaga tcgacgatcc cagcctggtc
+     2401 gcgcgccatt tcatggcact gatcaacgcg gaccttccca aggatcaggg catgtgcacc
+     2461 cgccccacgg aggccgcggt ccaaaaggcc gcgaaagcgg gggtggcgac gttcctgcga
+     2521 gcgtttggaa agcgctaagc ttcctcagca gagcccgtaa ggccctcact agacctcatg
+     2581 gtgagcctgt cgaaccacga ggtcgtggca cgcttcattc ccacaaccac taagctcgtc
+     2641 acccacccac tgtagcgggt cagcgcgggg gattgaaggc ctagcctacc cctccaacac
+     2701 ttcccgatac cgccgcaccg cctccgggaa ccccatcagc agcgcatcgg ccgtcagccc
+     2761 atgcccgatc gaggcttcat ccacgccctt cactgcggcc tggaacgctg gcaaattctc
+     2821 cagcgtcaga tcatgcccgg cattgagccc cagccccgcc gcatgcgccg ccgcagccgt
+     2881 atcggccagc gcggccagct ccgcctcagc ccgcgccgga tcatcatagc acccgccata
+     2941 aggcccggta taaagctcga cccgatccgc accggtggcc ttggccgcac tgatcccctt
+     3001 ggcgcctgca tcgggatcac agaacagcga aatccgccgg cccggctgct tgagcttttg
+     3061 caccaccgag gtcaggaaat tgttgttggc gtggaaatcc cagccatggt ccgacgtcgc
+     3121 ctgcgccgga tcgtccggca ccagcgtcac ctgctgcgga ttgacggtct cgatcaacgc
+     3181 gatgaaatcc tcgctcggat aaccctcgat attgaactcg gcctcgggat attcatcccg
+     3241 cagcagcgcc gaaagatcga acacatcact gcgccggata tgccgctcgt ccggccgcgg
+     3301 atgcacggtc acgccgctgg cacccgcatc gagcaccacc cgggccatgc ccaccacgct
+     3361 cggccacggc agatcacgcc ggttgcgaag ctgggcgacg gcattgagat tgacggaaag
+     3421 cagggtcatg gcggggactc gaaaaatgct atccctgcca tataccagac tgggcgcgcc
+     3481 gcccaatcga accttgtgat gacagccatc aataagcggc tgccttacat cccctgcgga
+     3541 ccacgcgaga tcgcggccag cccggtccgc accacttcga ccagcccaag cggctgcatc
+     3601 agggcgatga agctgtcgat cttggccggc ttgccggtga cttcgaacac gaagctctcg
+     3661 acactagcgt caacgatctg cgcgcggaag gcatcggcca ggcgcagcgt ttcggcgcga
+     3721 tgatcgcccg aacccgccac cttgatcagc gccagctcgc gctccagcga agcgccctcg
+     3781 gcggtcaggt cgtgcacctt gtgcaccggc acgaggcgct cgagctgcag cttgatctgg
+     3841 gtgagggtct tgggcgtggc gatgacgacg acggtgatgc gactaagtcg ccgcccatgt
+     3901 tccgtctcgc tgacggtcag gctttcgata ttatagccgc gcgccgagaa caggccgacg
+     3961 acgcgagcga gaatccccgg ctcgttatcg accagaaccg acagagtatg ccgctcgatc
+     4021 tcctgggttt ccttggtcag aaaataagcc gagccggtag gctgcaaatg tgcgttcatt
+     4081 ttttggttcc tcaaggcttt ggcaaatcgc ttcaaccacc tcggtgtcat tccggcgtag
+     4141 gccggaatcc atgctgtgtt ctatccgctc actggatggc gcggatcgcc ttcagcatgg
+     4201 accccggccg gcgccggggt gacacggtgg atgtggcagc aatcacacca actgccgtcc
+     4261 cttctcatcg atgatcgagc ccagattcgc cgtatccggc aaaatgatct cgttatgcgg
+     4321 cttgcccgat gggatcatcg gcaggcagtt ttcgtctttc tcgaccagta cgtagaacag
+     4381 caccggaccg tcataatcga gcatttcggc aatcgccgcg tcgagctc
+//
+
+LOCUS       FN640470                4003 bp    DNA     linear   ENV 25-JUL-2016
+DEFINITION  Uncultured bacterium ORF1 (partial), ORF2, ORF3, ORF4 (partial) and
+            ORF5, clone CmE6.
+ACCESSION   FN640470
+VERSION     FN640470.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1
+  AUTHORS   Torres-Cortes,G., Millan,V., Ramirez-Saad,H.C., Nisa-Martinez,R.,
+            Toro,N. and Martinez-Abarca,F.
+  TITLE     Characterization of novel antibiotic resistance genes identified by
+            functional metagenomics on soil samples
+  JOURNAL   Environ. Microbiol. 13 (4), 1101-1114 (2011)
+   PUBMED   21281423
+REFERENCE   2  (bases 1 to 4003)
+  AUTHORS   Martinez-Abarca,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2009) Martinez-Abarca F., CSIC, Grupo de Ecologia
+            Genetica, Profesor Albareda n 1 18008, Granada, SPAIN
+FEATURES             Location/Qualifiers
+     source          1..4003
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="loamy soil collected from the Zaidin
+                     Experimental Station"
+                     /db_xref="taxon:77133"
+                     /clone="CmE6"
+                     /clone_lib="metagenome expression library in bacteriophage
+                     lambda ZAP phagemid vector"
+                     /environmental_sample
+                     /country="Spain:Granada"
+                     /lat_lon="37.17 N 3.59 W"
+                     /collection_date="01-Sep-2005"
+     CDS             complement(<1..606)
+                     /function="putative transcriptional regulator TetR"
+                     /note="ORF1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71197.1"
+                     /db_xref="GOA:E4WMF1"
+                     /db_xref="InterPro:IPR001647"
+                     /db_xref="InterPro:IPR009057"
+                     /db_xref="InterPro:IPR012287"
+                     /db_xref="InterPro:IPR015893"
+                     /db_xref="UniProtKB/TrEMBL:E4WMF1"
+                     /translation="MFLVMEVSHIHPFIAGMQRGQTAKCRAILDAATEIFVEHGVAAA
+                     SIDTIASRAGVSRQTVYNQFGDKEKVFTAVVEDVTRRSSAQLLATLGTFPDKPENLET
+                     ELTAFATRLVGRCMCDSDGTALRKLIEVEGQRYPELFETWKEYGPGKSWPALAARLAK
+                     LAHDGFLDIDDVNLAARQFMALVNADLPNTYHLGVRLTETEI"
+     CDS             796..2013
+                     /function="subfamily drug resistance transporter,
+                     chloramphenicol and tetracycline resistance"
+                     /note="ORF2"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71198.1"
+                     /db_xref="GOA:E4WMF2"
+                     /db_xref="InterPro:IPR004812"
+                     /db_xref="InterPro:IPR006162"
+                     /db_xref="InterPro:IPR011701"
+                     /db_xref="InterPro:IPR016196"
+                     /db_xref="InterPro:IPR020846"
+                     /db_xref="UniProtKB/TrEMBL:E4WMF2"
+                     /translation="MNAQIVKAAVVLGLLSVIGPLAIDMYLPALPAIGADLEAGVAEV
+                     QQTLMAYMAAIAVCQLLYGPISDMYGRKPPIYFGIGLYVVASLGAAWAPSIEWLTVFR
+                     FLQGVGACASMSLPRAIVRDGYTGAQAAQLMSLLMLVFSISPILAPLSGSIVLQFGDW
+                     RVMFYVMAVVGVLSLLLLMFGLKETRPKEARLESSLGGALSAYWTLLRDWRFIGLSLI
+                     GAFGMASFMAFLGNSSFVYIEHYGLTPTLYSLAFSVNAVSFFAVSQATGYLVGRFGLP
+                     RVVRVAVGGYVTAMLALLALFLLGVDSIWALAILMFIAFGFLGLVLPSTGVLAMEEQG
+                     EIAGSASALMGTLQMVIASVVMGIVGAFADGTAMPMVIGFAACALAALAITLVTLRRN
+                     SGSEPAAVAAPAE"
+     CDS             2187..2651
+                     /note="ORF3"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71199.1"
+                     /db_xref="UniProtKB/TrEMBL:E4WMF3"
+                     /translation="MSFREKTAWIAVLTTLVVWGYYFFTVWSGIQGRALDGAALWTLF
+                     LISMGITVVLMLGLNLIATRKRLSDFGRAPDELERQMEDGATRVTKTLFEWMVMGIAL
+                     ACVIWGRDVAAAFPGDPVGSLAIIIANALLFAGVTTNVLSEIIVIVRFRMID"
+     CDS             <2651..2878
+                     /function="putative XREfamily transcriptional regulator"
+                     /note="ORF4"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71200.1"
+                     /db_xref="GOA:E4WMF4"
+                     /db_xref="InterPro:IPR001387"
+                     /db_xref="InterPro:IPR010982"
+                     /db_xref="UniProtKB/TrEMBL:E4WMF4"
+                     /translation="MAAPPISNSIRRLRFDHGEMTQQELADRIGMTRQTIAAIEQNKY
+                     SPSLEAAFRIAEVFGVPIGDVFQWKADQPKG"
+     CDS             2936..3886
+                     /function="putative alcohol dehydrogenase zinc binding
+                     domain protein"
+                     /note="ORF5"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71201.1"
+                     /db_xref="GOA:E4WMF5"
+                     /db_xref="InterPro:IPR002085"
+                     /db_xref="InterPro:IPR011032"
+                     /db_xref="InterPro:IPR013149"
+                     /db_xref="InterPro:IPR013154"
+                     /db_xref="InterPro:IPR016040"
+                     /db_xref="UniProtKB/TrEMBL:E4WMF5"
+                     /translation="MRAAVYKKYGPPDVVTIQDVPKPIPGKHDLLVRMVATSVTSGDA
+                     RLRAFNIPKPFAIPGRLAIGIFGPRNKVLGAEFAGTVEAVGKAVTKFRPGDRVFGIDV
+                     YGCHAEYKLVREDECVTLMPEGLAFEGAASVPFGGVTALDFFNRAGIKPGQKVLINGA
+                     SGCVGAYAVQLARHFGAEVTSVCSAGNAELVRSLGAHRVIDYAVTDFAAEDQVYDLIM
+                     DTAGTASFARCEPVLAPYGALLTVLGVPEDMFRRPKGGKRIIGGVSAERPEDLRLLAE
+                     LLATGKIRPVVDRTYRLEDIRDAYAYVDTGRKRGSVVVTI"
+ORIGIN      
+        1 gatctccgtc tcggtgaggc ggacgccaag gtggtaggtg ttgggcaggt cggcgttgac
+       61 cagcgccatg aactggcggg ccgcgaggtt gacgtcgtcg atgtcgagga acccgtcatg
+      121 cgccagcttg gccagccggg cggcgagggc gggccatgac ttgccggggc cgtattcctt
+      181 ccacgtctcg aacagttccg ggtagcgctg gccctcgacc tcgatgagct tgcgcaaggc
+      241 agtgccatcc gagtcgcaca tgcagcggcc gacgagccgc gtggcgaagg cggtgagctc
+      301 ggtctcgagg ttttcgggtt tatcggggaa cgttccgagc gtagccagaa gctgcgcgct
+      361 cgatcggcgg gtcacatcct cgaccacggc agtgaagact ttctccttgt cgccgaactg
+      421 gttgtagacc gtctgccgcg agacaccggc gcggctggca atggtgtcga tcgaagcggc
+      481 ggcgacgccg tgctcgacga aaatctcggt ggcggcatcg aggatcgcgc ggcatttggc
+      541 ggtctgtccg cgctgcatac ccgcaatgaa cgggtggatg tggctcactt ccataacgag
+      601 gaacataatg ggacttgacg ttttggacaa gactgtccaa aactgattgg acagtggtgt
+      661 ccattattgt ggacgcacct gggtcacatt cgcctgccgg gatctccccc gacgggccag
+      721 attttccgag cccgcgaccg acttgcgccg tgacgctttc gtcggccgcc gctcgatttg
+      781 tttgggaaca aagctatgaa cgcgcaaatc gtcaaggcgg cggtggtcct cggactgctg
+      841 tcggtgatcg gccctctggc catcgatatg tacctgccgg cgctgccggc catcggcgcc
+      901 gacctcgaag ccggcgtcgc cgaagtgcag cagacgctga tggcctatat ggccgccatc
+      961 gccgtctgcc agctgctcta cggccccatc agcgacatgt acgggcgcaa gccgccgatc
+     1021 tatttcggca tcgggcttta cgtcgtcgcc tcgctcggcg cggcgtgggc gccgagcatc
+     1081 gagtggctca ccgtcttccg cttcctgcag ggggtgggcg cctgtgcctc gatgtcgctg
+     1141 ccgcgcgcca tcgtgcgtga cggctatacc ggggcccagg cggcacagct gatgagtctc
+     1201 ctgatgctcg tcttctcgat ctcgccgatc ctggcgccgc tctcgggcag catcgtgctg
+     1261 cagttcggcg actggcgcgt gatgttctac gtcatggccg tggtcggggt gttgtcgctg
+     1321 ctgctcctga tgttcggtct caaggagacg cggccgaagg aagcccggct cgagtcgagc
+     1381 ctgggcggtg ccctcagcgc ctactggacg ctgctgcgtg actggcgctt catcgggctc
+     1441 agcctgatcg gtgccttcgg catggcgagc ttcatggcgt tcctcggcaa ttcgagcttc
+     1501 gtctatatcg agcattacgg tctgacgccg acgctctaca gcctcgcctt ctcggtgaat
+     1561 gcggtgagct tctttgccgt ctcgcaggcc accggctacc tcgtcggccg cttcggcctg
+     1621 ccgcgggtag tccgggttgc ggtgggcggc tatgtcaccg ccatgctggc gctgctcgcg
+     1681 ctcttcctcc tcggtgtcga cagcatctgg gcgctggcga tcctgatgtt catcgccttc
+     1741 ggcttcctcg gtctcgtgct gccatccacc ggcgtcctgg caatggaaga gcagggcgag
+     1801 atcgccggtt cggcctctgc gctgatgggc acgctgcaga tggtcatcgc ctccgtggtg
+     1861 atgggtatcg tcggagcctt cgccgacggc accgcaatgc cgatggtgat cggctttgcc
+     1921 gcctgtgcct tggcggcact ggccatcacg ctggtcacgt tgcgtcgcaa cagcggctcg
+     1981 gagccagcag cagtcgctgc cccggccgag taagacttca tcccatgcag gatggcgggc
+     2041 gcggaggaaa gtccgcgccc atttcgtttg cgggcgtgac gaaaagcgat ctatggaaga
+     2101 aatctacgcc atgatgttaa agatactaga cacaacgtta gaaatgatag atatgaggcg
+     2161 caagaaattt ggcatggagc gtcttgatgt ccttccgaga gaaaaccgcc tggatcgccg
+     2221 ttctcaccac gctcgtcgtg tgggggtact atttcttcac cgtctggagc ggcatccagg
+     2281 ggcgggcgct cgatggcgcg gcgctgtgga cgctgttcct catctcgatg ggcatcacgg
+     2341 tggtgctgat gctcgggctc aacctgattg cgacacgcaa gaggctctcc gacttcggcc
+     2401 gtgcgcccga tgaactcgaa cgtcagatgg aggatggcgc gacgcgcgtc accaagacgc
+     2461 tgttcgagtg gatggtcatg ggcatcgcgc tggcttgcgt catctggggc agggacgtcg
+     2521 ctgccgcctt tccaggcgat ccagtgggca gcctcgccat catcatcgcc aatgcgctgc
+     2581 tgtttgccgg tgtgacgacg aacgtcctca gcgagatcat cgtcatcgtc cgcttccgga
+     2641 tgatcgactg atggccgcgc ctccgatttc aaacagcatt cgtcggctgc gattcgacca
+     2701 cggcgagatg acgcagcagg aacttgccga tcgcatcggc atgacgcggc agaccatcgc
+     2761 cgccatcgag cagaacaaat actcgccctc gctcgaggcc gccttccgca tcgccgaggt
+     2821 cttcggcgta ccgatcggcg acgtctttca atggaaggcc gaccagccca agggctgaca
+     2881 gccgatccac cccaacatac cgagactgaa cccgcacccc ttgaaggagg atgccatgag
+     2941 agctgctgtc tataagaagt acggaccgcc ggacgtcgtt acgatccagg acgtccccaa
+     3001 accaattccc ggcaaacatg acctgctggt gcggatggtg gcgacctcgg tcacctccgg
+     3061 cgatgcccgc ttacgcgcct tcaacatccc gaagccgttc gctattccgg gacgcctcgc
+     3121 catcggcatc ttcgggccac gcaacaaggt gctgggcgcc gagttcgccg gcacggtcga
+     3181 ggccgtcggt aaggccgtga cgaagttccg gccgggcgac cgggtcttcg gcattgacgt
+     3241 ctatggctgc cacgccgagt acaagctggt gcgcgaggac gagtgcgtca cgttgatgcc
+     3301 ggaaggcctg gcgttcgagg gtgcggcaag cgtgccgttc ggcggcgtga cggcgctgga
+     3361 tttcttcaac cgggccggga tcaaacccgg gcagaaggtg ctgatcaacg gcgcgtctgg
+     3421 ctgcgtcggc gcctatgccg tgcaactggc ccggcacttt ggcgccgagg tcaccagcgt
+     3481 ctgcagcgcc ggcaacgcgg aactggtgcg ctcgctcggc gctcatcgcg tcatcgatta
+     3541 cgccgtgact gatttcgctg ccgaagacca ggtttacgac ctgatcatgg atacggccgg
+     3601 aacggcgtcc ttcgcccgat gcgagccagt gctggcgccc tacggcgctc tgctcaccgt
+     3661 gctcggtgtc cccgaagaca tgttccgccg gcccaagggc ggcaaacgca tcatcggcgg
+     3721 cgtatccgcc gagcgtcccg aggaccttcg cttgctggcg gagctattgg caaccgggaa
+     3781 gatccgaccg gtggtcgacc ggacctatcg gctcgaggat atccgcgacg cctatgccta
+     3841 tgtcgacacc ggccggaaac gcggctctgt cgtggtgacg atctagctct tgggcacatc
+     3901 tgggcagaca aagggaacgg tggcggtggt atagaactcg tccaccttgt cgctgccgag
+     3961 ctggagttgc aggtgcaact cactactgtt caccgagatg atc
+//
+
+LOCUS       FN640471                2336 bp    DNA     linear   ENV 25-JUL-2016
+DEFINITION  Uncultured bacterium ORF1 (partial), ORF2, folA gene and HflK gene
+            (partial), clone TmE1.
+ACCESSION   FN640471
+VERSION     FN640471.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1
+  AUTHORS   Torres-Cortes,G., Millan,V., Ramirez-Saad,H.C., Nisa-Martinez,R.,
+            Toro,N. and Martinez-Abarca,F.
+  TITLE     Characterization of novel antibiotic resistance genes identified by
+            functional metagenomics on soil samples
+  JOURNAL   Environ. Microbiol. 13 (4), 1101-1114 (2011)
+   PUBMED   21281423
+REFERENCE   2  (bases 1 to 2336)
+  AUTHORS   Martinez-Abarca,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2009) Martinez-Abarca F., CSIC, Grupo de Ecologia
+            Genetica, Profesor Albareda n 1 18008, Granada, SPAIN
+FEATURES             Location/Qualifiers
+     source          1..2336
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="loamy soil collected from the Zaidin
+                     Experimental Station"
+                     /db_xref="taxon:77133"
+                     /clone="TmE1"
+                     /clone_lib="metagenome expression library in bacteriophage
+                     lambda ZAP phagemid vector"
+                     /environmental_sample
+                     /country="Spain:Granada"
+                     /lat_lon="37.17 N 3.59 W"
+                     /collection_date="01-Sep-2005"
+     CDS             <1..232
+                     /function="putative UDP-glucose 4-epimerase"
+                     /note="ORF1"
+                     /codon_start=2
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71202.1"
+                     /db_xref="UniProtKB/TrEMBL:E4WMF6"
+                     /translation="IVHLCIEKDRLGFQVFNAVNDTITALEPTRPFLERWAPGTPIVG
+                     EIGEFEAPISNRKIREVLGFAESHDWRKYVTR"
+     CDS             332..1126
+                     /function="putative thymidilate synthase"
+                     /note="ORF2"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71203.1"
+                     /db_xref="GOA:E4WMF7"
+                     /db_xref="InterPro:IPR000398"
+                     /db_xref="UniProtKB/TrEMBL:E4WMF7"
+                     /translation="MKQYLDLLRHVMETGTDRGDRTGKGTRSIFGYQMRFDLAEGFPV
+                     LTTKKLHLRSIIHELLWFLKGDTNVAYLTENGVSIWDEWADEKGELGPVYGYQWRSWP
+                     APDGRHIDQISQLIEGLKVNPNSRRHIVSAWNVGQLDEMALPACHCLFQFYVADGKLS
+                     CQLYQRSADVFLGVPFNIASYALLTMMVAQVTGLKPGDFVHTLGDTHIYSDHFEQAKL
+                     QLTRTPKALPTMRINPAVKDIFSFRFEDFALEGYEADPHIKAAVAV"
+     gene            1123..1653
+                     /gene="folA"
+     CDS             1123..1653
+                     /gene="folA"
+                     /function="trimethoprim resistance gene"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Dhfr dihydrofolate reductase"
+                     /protein_id="CBI71204.1"
+                     /db_xref="GOA:E4WMF8"
+                     /db_xref="InterPro:IPR001796"
+                     /db_xref="InterPro:IPR012259"
+                     /db_xref="InterPro:IPR017925"
+                     /db_xref="UniProtKB/TrEMBL:E4WMF8"
+                     /translation="MSKPRLVIIAAVSRNGVIGRDGDMPWRLSTDLKRFKALTLGKPV
+                     IVGRKTFDSFGGRPLPGRPHVVVTRNPDFHYEGVDVAASLDEALKIAGRRAEEAGADE
+                     IFVLGGGEIYAQAIRIADMLRVTHVETDISDGDTVFPAIDAAVFEKIDEVAVPVGEKD
+                     SYPTRFATYARRTATN"
+     gene            1794..>2336
+                     /gene="HflK"
+     CDS             1794..>2336
+                     /gene="HflK"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative hydrolase serine protease transmembrane
+                     subunit K protein"
+                     /protein_id="CBI71205.1"
+                     /db_xref="GOA:E4WMF9"
+                     /db_xref="InterPro:IPR001107"
+                     /db_xref="InterPro:IPR001972"
+                     /db_xref="InterPro:IPR020980"
+                     /db_xref="UniProtKB/TrEMBL:E4WMF9"
+                     /translation="MPWSNQNGGGGGPWGGGGGNNQGPWGQGPNRPRGGGGSGGPPDL
+                     EDIIRRSQDRLRGVMPGGFNGGAFAIVLIVIIAFLAFQSVYTVQPDERGVELRFGRPK
+                     DEISMPGLHFHFWPFESVEIVKVTEQQQNIGAARGSSSNAGWMLTGDQNIVNVQFSVL
+                     FTVTDPKAYLFNLEGPASTLQ"
+ORIGIN      
+        1 gatcgtgcat ctctgcatcg agaaggaccg cttgggcttc caggtcttca acgcggtcaa
+       61 cgacacgatc acggcgcttg agccgacccg gccgttcctc gagcgctggg cgcccggcac
+      121 gcccatcgtc ggcgagatcg gcgaattcga ggctccgatc agcaaccgca agatcaggga
+      181 ggtcctgggt ttcgccgaga gccacgattg gcgcaaatac gtcaccaggt gattggcgcc
+      241 gctaaaacgg gggaaagcca tcaaacgaga ttggtcgggc cgagctatgc tactatatga
+      301 ttccatgacg atggaatcgg cggcctgacc catgaaacaa tatctcgatc ttctccggca
+      361 tgtgatggaa accggcaccg accggggcga ccggaccggc aagggcaccc gctcgatatt
+      421 cggctatcag atgcgcttcg acctcgcaga aggttttccg gtcctgacga ccaagaaatt
+      481 gcatctgaga tcgatcatcc acgagctcct gtggttcctg aagggcgata cgaacgtcgc
+      541 ctatctgaca gagaacggcg tctcgatctg ggatgaatgg gctgacgaga agggcgaact
+      601 tggccccgtc tacggctacc agtggcgctc ctggcccgcc cccgacggcc gccatatcga
+      661 ccagatttcg caattgatcg aaggcctcaa ggtcaacccc aattcgcgcc ggcatatcgt
+      721 gtcggcctgg aacgtcggcc agctcgacga gatggcgctg ccggcctgcc attgcctgtt
+      781 ccagttctac gtcgccgacg gcaagctctc ctgccagctc taccagcgct ccgccgacgt
+      841 tttcctcggc gtgccgttca acatcgcgtc ctacgcgctg ctgacgatga tggttgccca
+      901 ggtgacgggg ctgaagcccg gcgacttcgt ccacacgctc ggcgatacgc atatctactc
+      961 ggatcacttc gagcaggcga agctgcaact gacccgtact ccgaaagcgc tgcccaccat
+     1021 gcgcatcaat cctgcggtaa aggacatctt ctccttccgc ttcgaggatt ttgcgctgga
+     1081 agggtatgag gccgatccgc atatcaaggc ggcggtggcg gtgtgagcaa gccccgtctc
+     1141 gtcatcatcg ccgccgtctc gcggaacggc gtcatcggcc gcgatggcga catgccctgg
+     1201 aggctttcca ccgatctcaa gcgcttcaag gcgctaacct tgggcaaacc ggtcatcgtc
+     1261 gggcgcaaga ctttcgacag tttcggcggc agacctctcc cgggccggcc gcatgtggtc
+     1321 gtcacgcgca atccggattt ccactacgaa ggcgtcgatg tggccgcatc cctcgacgag
+     1381 gcactgaaga ttgccggccg cagggccgag gaggccggag ccgacgagat cttcgtgctg
+     1441 ggcggcggcg agatttacgc ccaggcgatc aggatcgcag acatgctgcg cgttacccat
+     1501 gtcgaaaccg acatttcgga cggcgatacg gtctttccgg ccatcgatgc ggcggtgttc
+     1561 gagaagatcg atgaggttgc cgttccggtg ggcgagaagg acagttatcc gacccgtttc
+     1621 gccacttatg cccgccgaac cgcgacaaac tgaaacattt cgtgaccgtt gaacgggaag
+     1681 ttattgaacc tgcgttgaaa gcaggtcggc gcatccctat aacgggcaat agccagacga
+     1741 ctgccgcacg gcagggtcgc ggtttgggag cgaatacgaa caaagaggtt ttgatgccct
+     1801 ggagcaatca gaatggtggc ggcggcggtc cttggggcgg cggtggcggt aataatcaag
+     1861 ggccctgggg acagggaccg aaccgcccac gcggcggcgg gggcagcggc ggtccgcccg
+     1921 acctcgaaga catcataagg cgcagccagg accggctgcg tggcgtaatg cccggcggct
+     1981 tcaacggtgg cgccttcgcg atcgttctca tcgtgattat tgccttcctc gccttccagt
+     2041 ccgtctatac ggtccagccg gacgagcgcg gggtcgaact gcgtttcggc cgcccgaagg
+     2101 acgaaatctc catgccgggc ctgcatttcc atttctggcc gttcgaatcc gtcgagatcg
+     2161 tcaaggtcac cgaacagcag cagaatatcg gcgcggctcg gggctcaagc tccaatgccg
+     2221 gctggatgct gaccggcgac cagaacatcg tcaacgttca gttctcggtt ctgttcaccg
+     2281 tgaccgatcc gaaggcctat ctcttcaatc tggaaggccc ggcttcgacg ctgcag
+//
+
+LOCUS       FN640472                1844 bp    DNA     linear   ENV 12-APR-2011
+DEFINITION  Uncultured bacterium Hflk gene for phydrolase serine protease
+            transmembrane subunit K protein and folA gene for Dhfr
+            dihydrofolate reductase, clone TmE5.
+ACCESSION   FN640472
+VERSION     FN640472.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1
+  AUTHORS   Torres-Cortes,G., Millan,V., Ramirez-Saad,H.C., Nisa-Martinez,R.,
+            Toro,N. and Martinez-Abarca,F.
+  TITLE     Characterization of novel antibiotic resistance genes identified by
+            functional metagenomics on soil samples
+  JOURNAL   Environ. Microbiol. 13 (4), 1101-1114 (2011)
+   PUBMED   21281423
+REFERENCE   2  (bases 1 to 1844)
+  AUTHORS   Martinez-Abarca,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2009) Martinez-Abarca F., CSIC, Grupo de Ecologia
+            Genetica, Profesor Albareda n 1 18008, Granada, SPAIN
+FEATURES             Location/Qualifiers
+     source          1..1844
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="loamy soil collected from the Zaidin
+                     Experimental Station"
+                     /db_xref="taxon:77133"
+                     /clone="TmE5"
+                     /clone_lib="metagenome expression library in bacteriophage
+                     lambda ZAP phagemid vector"
+                     /environmental_sample
+                     /country="Spain:Granada"
+                     /lat_lon="37.17 N 3.59 W"
+                     /collection_date="01-Sep-2005"
+     gene            complement(124..1239)
+                     /gene="Hflk"
+     CDS             complement(124..1239)
+                     /gene="Hflk"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="phydrolase serine protease transmembrane subunit
+                     K protein"
+                     /protein_id="CBI71206.1"
+                     /db_xref="GOA:E4WMG0"
+                     /db_xref="InterPro:IPR001107"
+                     /db_xref="InterPro:IPR001972"
+                     /db_xref="InterPro:IPR010201"
+                     /db_xref="UniProtKB/TrEMBL:E4WMG0"
+                     /translation="MPWESNGGGGGRNNNGGPWGQAPGGGGGGPRRPGGGNTPNLEDI
+                     LNRGRDQFRGGVPGGRWAIIGGVLALVAFWGLTRLHDQPAGSRRPAAVRYAQARTLGS
+                     GLHFHLWPIETVERATTTVNQTQIGAANASGQRSNSGASDGLMLSGDQNIVNVQFSVF
+                     WAINEPVAYLFNVRDQEAMVRYAAESAMREVVGRRPAQDIYSDDRSGISIEVLNITQD
+                     ILESYGLGVSINQILIENAGPPSEVIDAFNEVQRARQDETRLQEEARSYANTLLGDAR
+                     GRAAALREEAAAYTNRVVQEATGEAERFNSIYAEYVNAPEVTRKRLFLETMEQVLGDS
+                     QKVMIESGAGASGVLPYLPLPELRPNPGASTTTTTGN"
+     gene            complement(1300..1824)
+                     /gene="folA"
+     CDS             complement(1300..1824)
+                     /gene="folA"
+                     /function="trimethoprim resistance gene"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Dhfr dihydrofolate reductase"
+                     /protein_id="CBI71207.1"
+                     /db_xref="GOA:E4WMG1"
+                     /db_xref="InterPro:IPR001796"
+                     /db_xref="InterPro:IPR012259"
+                     /db_xref="InterPro:IPR017925"
+                     /db_xref="UniProtKB/TrEMBL:E4WMG1"
+                     /translation="MTIRIAMIAGVAENGVIGSHQTIPWRIPSDFAYFKRTTLGKPIV
+                     MGRKQYETVGKPLPGRTNIVITRQQGYQPDGVLVFTDVEEAMKKAADIARADGVDEIM
+                     VIGGGDLYRQLMDRADRLYISHIDLAPEGDVLFPPIDPLEWAVVDLPEVEPSPKDEAT
+                     YRVKVYERRKASAH"
+ORIGIN      
+        1 gatctggccg aagcgcatga cgatggcctg ttcgcgctcg ttgacgacgt agatggtcga
+       61 gaagaacaca taaagcgccg cgacgatgac tacgccgata ataatcagac gattttgcat
+      121 ggcttagttc cccgtcgtcg ttgtcgtgga agcgcccggg tttggacgca actccggcag
+      181 cggcagatag ggcaacacgc ccgaggctcc cgcaccggat tcgatcatga ccttttggga
+      241 atcgcccaga acctgttcca tggtttcaag gaacaggcgc ttgcgcgtca cttccggagc
+      301 attgacgtat tcggcgtaga tggagttgaa gcgctccgcc tcaccggttg cttcctgcac
+      361 gacccggttg gtgtaggccg cggcttcttc ccgcagggcg gcagcccgcc cacgcgcatc
+      421 acccagaagg gtattggcat aggagcgagc ttcttcctga aggcgcgttt cgtcctgacg
+      481 agcacgctgc acttcattga aagcgtcgat aacttccgaa ggcgggcctg cgttttcgat
+      541 caggatctgg ttgatgctga cacccaggcc gtagctctcc agaatgtcct gggtgatgtt
+      601 caacacttca atggaaatgc ctgaacggtc atcactataa atgtcctgcg caggacgacg
+      661 gccgacaact tcgcgcatag cgctttccgc cgcataccga accatggctt cctggtcgcg
+      721 tacgttgaac aggtaggcta ccggctcatt gatggcccag aataccgaaa actgcacatt
+      781 gacgatgttc tgatcgccgg acagcatcag gccatcgctg gcgccggaat tgctccgctg
+      841 gccgctggcg ttggctgcac cgatctgggt ctggttgacc gttgtggtcg cgcgctcaac
+      901 cgtttcaatt ggccaaagat ggaaatgcag accggacccg agagttcggg cttgggcgta
+      961 ccgaaccgca gctggacgcc gacttcctgc gggttgatcg tgtaaccgag tgagacccca
+     1021 aaaggccacg agcgccagca caccaccgat aatggcccag cgtcccccgg gaacaccgcc
+     1081 tcggaactgg tccctgccgc gattgagaat atcttcgagg ttgggcgtgt ttccaccccc
+     1141 tggacggcgt ggtccacccc cgccgccgcc gggcgcttgc ccccaggggc cgccattatt
+     1201 attgcggcca cctccgcctc cgttactctc ccacggcatc gcgtcccttt cggtatagtc
+     1261 gtttcgttga ggacttatat aggcaagcgc gctgcgcgat caatgcgcgg aagctttacg
+     1321 ccgctcgtac actttgacgc ggtaggttgc ctcgtccttg ggactgggtt cgacttccgg
+     1381 caaatctact accgcccact ccagcgggtc gatcggcggg aagagcacat ccccctccgg
+     1441 cgcaaggtcg atatggctga tatagagccg gtcggcccgg tccatcagct ggcgatatag
+     1501 atcgccacca ccgatgacca tgatctcgtc gacaccgtcg gctcgcgcga tgtcagcggc
+     1561 ctttttcata gcctcctcca catccgtgaa caccaggacg ccatccggct ggtacccctg
+     1621 ctgccgggtg atgacgatat tggtgcggcc aggcaagggc ttgcctacag tttcatattg
+     1681 cttgcgcccc atgacaatgg gttttccgag cgtcgtccgt ttgaaatagg caaagtcgga
+     1741 cggaatgcgc cagggtatag tttggtggct gccgatcacg ccgttctcgg caaccccggc
+     1801 gatcatcgcg atcctgattg tcatgccgcc cccagtttct gcag
+//
+
+LOCUS       FN640473                3396 bp    DNA     linear   ENV 25-JUL-2016
+DEFINITION  Uncultured bacterium ORF1 (partial), folA gene, ORF3 and ORF4,
+            clone TmE25.
+ACCESSION   FN640473
+VERSION     FN640473.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1
+  AUTHORS   Torres-Cortes,G., Millan,V., Ramirez-Saad,H.C., Nisa-Martinez,R.,
+            Toro,N. and Martinez-Abarca,F.
+  TITLE     Characterization of novel antibiotic resistance genes identified by
+            functional metagenomics on soil samples
+  JOURNAL   Environ. Microbiol. 13 (4), 1101-1114 (2011)
+   PUBMED   21281423
+REFERENCE   2  (bases 1 to 3396)
+  AUTHORS   Martinez-Abarca,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2009) Martinez-Abarca F., CSIC, Grupo de Ecologia
+            Genetica, Profesor Albareda n 1 18008, Granada, SPAIN
+FEATURES             Location/Qualifiers
+     source          1..3396
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="loamy soil collected from the Zaidin
+                     Experimental Station"
+                     /db_xref="taxon:77133"
+                     /clone="TmE25"
+                     /clone_lib="metagenome expression library in bacteriophage
+                     lambda ZAP phagemid vector"
+                     /environmental_sample
+                     /country="Spain:Granada"
+                     /lat_lon="37.17 N 3.59 W"
+                     /collection_date="01-Sep-2005"
+     CDS             complement(<2..358)
+                     /function="protease subunit hflK, trimethoprim resistance
+                     gene"
+                     /note="ORF1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71208.1"
+                     /db_xref="UniProtKB/TrEMBL:E4WMG2"
+                     /translation="MPWESNGGGGGRNNNGGPWGQTPGGGNNPRRPGGGNTPSLEDIL
+                     NRGRDQFKGGVPGGRWALIGGALAIVAFWALNSIYTIDESEVGVELRFGAPKPELSQA
+                     GLHFHLWPVETVERATI"
+     gene            complement(420..926)
+                     /gene="folA"
+     CDS             complement(420..926)
+                     /gene="folA"
+                     /function="trimethoprim resistance gene"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Dhfr dihydrofolate reductase"
+                     /protein_id="CBI71209.1"
+                     /db_xref="GOA:E4WMG3"
+                     /db_xref="InterPro:IPR001796"
+                     /db_xref="InterPro:IPR012259"
+                     /db_xref="InterPro:IPR017925"
+                     /db_xref="UniProtKB/TrEMBL:E4WMG3"
+                     /translation="MIVGVAKNGVIGSDQTIPWRVPSDMAFFKRTTMGKPVVMGRKQY
+                     ETVGKPLPGRTNIVITRQQDYQPEGVLVFHDIDSALQRAREIAQADGVDEIMIIGGGE
+                     LYAQLMSRADRLYVSHIDLSPPGDVRFPAIAPEQWTVVDLPEVAPSPRDEATYRVKVY
+                     ERRRDAAH"
+     CDS             complement(941..1432)
+                     /function="putative acetyl transferase, GNAT family"
+                     /note="ORF3"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71210.1"
+                     /db_xref="GOA:E4WMG4"
+                     /db_xref="InterPro:IPR000182"
+                     /db_xref="InterPro:IPR016181"
+                     /db_xref="UniProtKB/TrEMBL:E4WMG4"
+                     /translation="MTNDLTIRSATADDAALIVQFVAALAAYEKLSHEAKATEADITR
+                     DLFGADPRVFCEIAEWQGRPVGFTLWFYTYSTFQGRHGIWLEDLFVDPSLRGKGIGKA
+                     LLVNLARRCVTEGLGRFEWWVLDWNEPSIEFYKSPGVGVDARTKWTKVRVDGDALRRL
+                     GAS"
+     CDS             complement(1539..2543)
+                     /note="ORF4"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71211.1"
+                     /db_xref="UniProtKB/TrEMBL:E4WMG5"
+                     /translation="MRFLLVCGALLVAAPVLANDTSAVLTTGGLEFITNQDIVMESEE
+                     LFISKEEIRVVYQFRNTGDVDQNILVAFPMPDIVPNFWSPVAFPMGPDDNLFEFETTL
+                     NGVPVDATLHEYAYAFGVDRTKLLKQLGLPIVPISEAASAATDALDDETTAELLHMGL
+                     VTPDEFDQGQGWEKHYWPAWTYKATYTWEGDFPAGETVEVVHTYKPSVGGTVGVSFLS
+                     EPYEDYDPATEYKTKYCTDEGFLDAVRATMTSPDEPYSAPFTESWISYILTTGGNWGG
+                     GAISKFRLVVDKGSTDNLVSFCGDGIKKIGPTTFEMVKTDFWPQRELDILILERRPDQ
+                     "
+ORIGIN      
+        1 gtatggtagc gcgctccacc gtctcgacgg gccacagatg gaaatgcagg ccggcctggg
+       61 acagctcggg ctttggcgca ccgaagcgca actcgacacc cacttcactt tcgtcgatcg
+      121 tatagatcga gttcagcgcc cagaacgcga cgatggcgag ggcaccaccg atcagtgccc
+      181 agcgaccgcc gggaacgcca cccttgaatt ggtcgcgacc acggttgaga atatcctcga
+      241 ggctgggcgt attgccacca ccgggacgcc gcggattgtt accgccacca ggtgtctggc
+      301 cccagggtcc gccattatta ttgcggccac ccccgcctcc gttactctcc cacggcatcg
+      361 cgtccctttc ggataatttc gtttcgttgt ggacttatat aggcaaggtc ctcacgcgat
+      421 caatgcgcgg cgtctcgccg ccgctcgtac actttgacgc ggtaggtcgc ctcgtccctg
+      481 ggcgacggcg cgacctcggg caggtcgacc accgtccact gctcgggcgc aatggcggga
+      541 aaccgcacgt ctccgggtgg gctgagatcg atatgggaaa cataaagccg gtctgctctg
+      601 ctcatcagtt gggcataaag ctcgcccccg ccgatgatca tgatttcgtc aacgccatct
+      661 gcctgggcga tttcccgcgc ccgttgcaga gcggagtcga tgtcatggaa caccagaacg
+      721 ccctctggct gatagtcctg ctggcgggtg atcacgatat tggttcggcc gggaagcggc
+      781 ttgcccaccg tctcatattg cttacggccc atcacgacgg gtttgcccat tgtggttcgt
+      841 ttaaaaaacg ccatgtccga cggcacccgc catggaatgg tctggtcgct gccgataacg
+      901 ccgtttttgg cgaccccgac gatcatggcg atcctgatgg tcacgacgca cccagcctgc
+      961 gcaacgcgtc gccgtcgacc cgcaccttgg tccacttcgt ccttgcatcc acgcccaccc
+     1021 ctgggctctt gtagaactcg atgctcggct cattccagtc gagcacccac cattcaaagc
+     1081 gccccagccc ctcggtcacg cagcgccgcg ccaggttgac cagcaaggcc ttgccaatac
+     1141 ccttgccgcg cagagacggg tcgacgaaca ggtcctcgag ccagatgccg tgccgcccct
+     1201 ggaaggttga ataggtataa aaccacagcg taaagccgac cggcctgccc tgccattcgg
+     1261 cgatctcgca gaacaccctg gggtcggcgc cgaacaggtc gcgcgtgata tcggcctccg
+     1321 tggccttcgc ctcgtggctc agcttttcat aggccgcgag ggccgcgacg aactgcacaa
+     1381 tgagcgcggc atcgtcggca gtggcggagc ggattgtgag atcgttggtc atggaaacct
+     1441 atagtggcac gacctcgcgg ttcgacaagc tcaccatgag gtctactcga atttgcagta
+     1501 gccctcatcc tgagcctgtc gagggacgag ggcgtggctc attggtcggg ccgccgctcg
+     1561 aggatcagga tatccagctc cctctgcggc cagaaatcgg tcttgaccat ttcgaacgtg
+     1621 gttgggccga tcttcttgat gccatcgcca cagaaggaca ccagattgtc ggtgctgccc
+     1681 ttgtccacca cgagccggaa cttgctgata gcgccgccgc cccagttgcc gccggtggtc
+     1741 aggatgtagg aaatccagct ctcggtgaag ggcgccgaat agggttcgtc cgggctggtc
+     1801 atggtggccc tgaccgcgtc gaggaagccc tcgtcggtgc agtatttggt cttgtactcg
+     1861 gtcgccgggt cataatcctc atagggctcg ctgaggaagc tgacgcccac cgtgcccccg
+     1921 acgcttggct tataggtgtg gaccacctcg acggtctcgc cagccgggaa gtcgccttcc
+     1981 caggtatagg tcgccttata ggtccaggcc ggccagtagt gcttttccca accctgcccc
+     2041 tggtcgaatt catctggcgt caccagcccc atatgcagca gttcggcggt ggtttcgtca
+     2101 tcgagtgcgt cggtcgccgc gctcgccgcc tcgctgatgg gcacgatcgg caggccaagc
+     2161 tgcttcagca gctttgtgcg gtcgacgccg aaggcatagg catattcatg cagcgtcgcg
+     2221 tcgaccggca caccgttcaa ggtcgtctcg aactcgaaca gattgtcatc aggccccatc
+     2281 ggaaaggcca ccggcgacca gaaattgggc acgatatcgg gcatcgggaa ggccacaaga
+     2341 atattctggt ccacatcgcc cgtattgcgg aactgataga cgacccggat ttcctctttc
+     2401 gagatgaaca gctcttcgct ctccatcacg atgtcctggt tggtgatgaa ttcgagcccg
+     2461 ccggtcgtca gcaccgccga cgtgtcattg gcgagaacag gagccgcaac cagcagcgcg
+     2521 ccgcaaacca gcaaaaatct catcccatcc tcccgaatga ccggcaccgc taaccgacat
+     2581 catcatctat catggcggca ttcccgcgga agcgggaatc cattcttgcc ggaccatccg
+     2641 caggagattc ccgctttcgc gggaatgaca cggccaatgg gttgagcagc ggctaaaccg
+     2701 cgacggccgc cttgatatgc ggatgcggat cgtaaccctc gaacgcaaag tcctcgaaca
+     2761 cgaaatcctc gagccgcgtc accgcaggat tgatcttgag cactggcaat ggccgcggct
+     2821 cccgcgtcag ctgcaattgc gcctgctcga agtggttcga ataaagatgc acgtcgccaa
+     2881 aggtgtggac gaaatcgccg acttcgagcc cagtcacctg cgccaccata tgcgtcagca
+     2941 gcgcgtagga cgcgatgttg aacggcacgc ccaagaacgt atccgccgaa cgctggtaga
+     3001 gctggcagct caacttgcca ttggccacgt agaactggaa caggcagtgg cacggcggca
+     3061 acgccatctc atccacctcg gccggattcc aggccgaaac gatatgccgc cgcgaatccg
+     3121 gcttgctgcg gatgctctcg atcacattgg caatctggtc gatcttgcgc ccgtcaggag
+     3181 cgggccagct ccgccactgc gaaccataga ccggcccgag atcgccattc tcgtcggccn
+     3241 attcatccca nattttgacg ccgcgctcct gcagccagcg cacattggtc tcgccgcgga
+     3301 tgaaccacaa angctcatag acgatcgact tgaggtgcag cttcttggtc gtcagcagcg
+     3361 gaaagccctg cgaaaggtca accgcatctg gtagcc
+//
+
+LOCUS       FN640474                1490 bp    DNA     linear   ENV 25-JUL-2016
+DEFINITION  Uncultured bacterium partial ORF1 and ORF2, clone Tm8-3.
+ACCESSION   FN640474
+VERSION     FN640474.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1
+  AUTHORS   Torres-Cortes,G., Millan,V., Ramirez-Saad,H.C., Nisa-Martinez,R.,
+            Toro,N. and Martinez-Abarca,F.
+  TITLE     Characterization of novel antibiotic resistance genes identified by
+            functional metagenomics on soil samples
+  JOURNAL   Environ. Microbiol. 13 (4), 1101-1114 (2011)
+   PUBMED   21281423
+REFERENCE   2  (bases 1 to 1490)
+  AUTHORS   Martinez-Abarca,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-DEC-2009) Martinez-Abarca F., CSIC, Grupo de Ecologia
+            Genetica, Profesor Albareda n 1 18008, Granada, SPAIN
+FEATURES             Location/Qualifiers
+     source          1..1490
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="rhizosphere of Mammillaria carnea"
+                     /db_xref="taxon:77133"
+                     /clone="Tm8-3"
+                     /clone_lib="metagenome expression library in bacteriophage
+                     lambda ZAP phagemid vector"
+                     /environmental_sample
+                     /country="Mexico:Tehuacan Cuicatlan"
+                     /lat_lon="17.74 N 96.98 W"
+                     /collection_date="15-Sep-2005"
+     CDS             complement(<1..612)
+                     /function="two-component response regulator protein"
+                     /note="ORF1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71212.1"
+                     /db_xref="GOA:E4WMG6"
+                     /db_xref="InterPro:IPR001789"
+                     /db_xref="InterPro:IPR011006"
+                     /db_xref="UniProtKB/TrEMBL:E4WMG6"
+                     /translation="MNSFGYRPPVAARGGSGESLRRPLERRQDTNVHSGSTERARILI
+                     VEDQDDVRRMLATALGIEGHIVDEASSAAEGLRCLQQTRYNLVLSDYAMPGGTGTSML
+                     HQATEQGLMNGTVALIVTAHPEVRELENIEVISKPLDLDNFLEQVRRILANSDGTSSQ
+                     PALSPASPRPGVRSNRHRVELVLYVSSASPTSVQARRNLERLLE"
+     CDS             complement(678..1427)
+                     /function="short-chain dehydrogenase/reductase SDR,
+                     confers resistance against Trimethoprim antibiotic"
+                     /note="ORF2"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CBI71213.1"
+                     /db_xref="GOA:E4WMG7"
+                     /db_xref="InterPro:IPR002198"
+                     /db_xref="InterPro:IPR002347"
+                     /db_xref="InterPro:IPR016040"
+                     /db_xref="UniProtKB/TrEMBL:E4WMG7"
+                     /translation="MMTTTLAGQGALITGGRRIGAAIAVALARQGLNVALSFNRSRAE
+                     AERTARAIEATGARAFIYQADLSVPAEAETLVAKAATDLGRLDILLNMASVYTSIPFE
+                     QTDERVWNSVIDVDLKAAFLCSRAAVPHLLKQRGGKIINFTDWVARSGRPRYKGYLPY
+                     YVAKHGVIGLTEALALELAEHGILVNAIAPGPIRAPEGTSDEELKAVEAATPLGRWGG
+                     EEEIVSAVLFLLDNDFITGETMRIDGGRHLR"
+ORIGIN      
+        1 ctcgagcagc cgctccaggt tgcggcgagc ctggacagag gtcggggacg ccgagctcac
+       61 gtacagcacg agctcgacac ggtggcggtt gctgcgcacg cccggccgcg gcgatgcggg
+      121 cgagagggcc ggctgactgg acgtgccgtc gctgttcgcc agtatccggc gcacctgttc
+      181 gaggaagttg tccagatcga ggggcttgct gatgacttcg atgttctcca gctcccgcac
+      241 ttcggggtgg gcggtcacga tgagcgcgac ggtgccgttc atcaggccct gctcggtcgc
+      301 ctgatgcagc atcgaagtgc cggtcccgcc cggcatggcg taatcgctca gaacgagatt
+      361 gtacctcgtc tgttgcaggc acctgagacc ttcggctgca ctgctcgcct cgtcgacaat
+      421 gtgcccttcg atgccgagcg cggttgccaa catgcgccgc acgtcgtcct gatcctcgac
+      481 gatgagaatg cgagcccgct ctgtactacc cgaatgcacg ttcgtgtcct gccgtcgttc
+      541 gagcggccgg cgcaggctct ccccgctacc gccgcgggcc gcaacaggcg gccggtaccc
+      601 gaaagaattc atacgtctgc ctatcggctg cacccggtgc atcgcatacg caaatcctca
+      661 gcaagagcac tgccgactca tctgaggtgc cggccaccgt cgattcgcat cgtctcgcca
+      721 gtgatgaaat cgttatccag gaggaaaagc acggctgaga cgatttcctc ctcgccgccc
+      781 cagcgtccca gaggtgtggc cgcctcgacg gccttgagtt cctcgtcgga ggttccctcg
+      841 ggcgcccgga tgggccccgg tgctatggcg ttcaccagga tcccgtgctc cgcaagctcc
+      901 agcgcgagcg cctccgtcag gccgatgacg ccgtgcttgg ccacgtagta aggaaggtat
+      961 cccttgtaac ggggtcggcc gctgcgcgcc acccagtcgg tgaagttgat gatcttgccg
+     1021 ccccgctgtt tcaggaggtg cggcaccgcc gctctggaac acaggaacgc ggctttcaaa
+     1081 tcgacgtcga tgaccgagtt ccagacccgc tcgtccgtct gctcgaacgg aatcgacgtg
+     1141 tagacggacg ccatattcag caggatatcg aggcgcccca gatctgtcgc cgccttcgca
+     1201 accagcgtct cggcctcggc gggaactgac aggtccgcct ggtagatgaa ggcccgagcc
+     1261 ccggtggctt cgatggcccg ggcggtgcgc tcggcctcgg cgcgcgagcg gttgaaggag
+     1321 agcgcgacgt tcagaccttg ccgcgcgagc gcgacggcaa tcgccgcccc gatgcggcgg
+     1381 ccgcccgtga tcagtgcgcc ctgtcccgcc aaggtggtcg tcatcattcg acgtattctg
+     1441 tcatccgcct ccaaccggac gccacgtcga ggaaggggcg cgacgagatc
+//
+

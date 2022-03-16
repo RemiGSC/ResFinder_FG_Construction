@@ -1,0 +1,714 @@
+LOCUS       GU720994                1200 bp    DNA     linear   ENV 25-MAY-2010
+DEFINITION  Uncultured bacterium clone A12 class V aminotransferase-like gene,
+            partial sequence.
+ACCESSION   GU720994
+VERSION     GU720994.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1200)
+  AUTHORS   Parsley,L.C., Consuegra,E.J., Kakirde,K.S., Land,A.M., Harper,W.F.
+            Jr. and Liles,M.R.
+  TITLE     Identification of diverse antimicrobial resistance determinants
+            carried on bacterial, plasmid, or viral metagenomes from an
+            activated sludge microbial assemblage
+  JOURNAL   Appl. Environ. Microbiol. 76 (11), 3753-3757 (2010)
+   PUBMED   20382816
+REFERENCE   2  (bases 1 to 1200)
+  AUTHORS   Parsley,L.C., Consuegra,E.J., Kakirde,K.S., Land,A.M., Harper,W.F.
+            Jr. and Liles,M.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-2009) Biological Sciences, Auburn University, 101
+            Life Sciences Building, Auburn, AL 36849, USA
+FEATURES             Location/Qualifiers
+     source          1..1200
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="activated sludge aeration basin"
+                     /db_xref="taxon:77133"
+                     /clone="A12"
+                     /environmental_sample
+                     /country="USA: H.C. Morgan Water Pollution Control
+                     Facility in Auburn, AL"
+                     /collection_date="Jun-2006"
+     misc_feature    <1..>1200
+                     /note="similar to class V aminotransferase"
+ORIGIN      
+        1 ttgccagggg taggcgttgc tcgggtactc ctgatcccac agcacgagct cgtccccggg
+       61 cgcaagcggc agacccagcg ccacctgcga cagcgccgcg gcgcaggtgt gaaacatcgc
+      121 gacgtcggcc ggccgggcgc cgcacagccg cgcgtacacg gcgcgcgcgc ggccgtagtc
+      181 ggcaaacagc tcgtcgacgg caaaccagcc gcgggcgagg nnctgcgcgg cgcgctcgat
+      241 ggcctgccgg gncggccggt acatgggcgc gatgcccgcc gtgttcaaaa ggaccgcgtc
+      301 ggcgtccagg tcaaactcgg cgcgcagccg cgcccgcagc cccgccaggt cagattgctc
+      361 accctcgctc atggngggac atcctacccg cgcgcgcggg gtcttacttc ttatttagcg
+      421 gcagcaccgc cgcgcccagg atgtggcngt cggactctgc ctgcaccagc acgaccgcgc
+      481 gcagtggcgc gcggggnctt acttcttatt tagcggcagc accgccgcgc ccaggatgtg
+      541 gccgtcggac tctgcctgca ccagcacgac cgcgcgcagc gcctcgggct tccaccccgc
+      601 ctccaggcgc agcggcacct gggcggcgta gctgtcgccg cgcaccatgc ccagggtctt
+      661 gagggtgcgc accaccggcg cgtggctcag cgtccgcccg gagttctcgc cgcgcgtcac
+      721 cttggtgcta aggccgctct cggtgatcgc caagagcacc gccgccccct gcggcttgct
+      781 cggcgccatc acctgcaccg ccagcagatc gccctgccgc ttgagctgca ccgccgcctg
+      841 gctcggccgc ttcgccgcca tggtcaccgc cgccgcggcg ccgctgcggt tagagccaag
+      901 gacatcgatc tgcccgtcga ccaccagctg cggcgtgtag ttgcgggtgc ccagccagtt
+      961 ggtgtagcgc acctgccgcg ccgtgtactc agcggacgag aacggatcgc gccagccgag
+     1021 gtagttccca gtagtcgacg tgcagctcga gcgccaccag ctgctggccg tccacctggc
+     1081 cggcggcatc gagctgcgcc agnaccgtat cggccgacgg acagctcgag cagccctcgg
+     1141 acgagaacag ctccagcacc accggggcgc gcgccngntc ggtnggnttg acctcggccg
+//
+
+LOCUS       GU720995                 848 bp    DNA     linear   ENV 25-MAY-2010
+DEFINITION  Uncultured bacterium clone D10 PBP class C beta-lactamase-like
+            gene, partial sequence.
+ACCESSION   GU720995
+VERSION     GU720995.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Parsley,L.C., Consuegra,E.J., Kakirde,K.S., Land,A.M., Harper,W.F.
+            Jr. and Liles,M.R.
+  TITLE     Identification of diverse antimicrobial resistance determinants
+            carried on bacterial, plasmid, or viral metagenomes from an
+            activated sludge microbial assemblage
+  JOURNAL   Appl. Environ. Microbiol. 76 (11), 3753-3757 (2010)
+   PUBMED   20382816
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Parsley,L.C., Consuegra,E.J., Kakirde,K.S., Land,A.M., Harper,W.F.
+            Jr. and Liles,M.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-2009) Biological Sciences, Auburn University, 101
+            Life Sciences Building, Auburn, AL 36849, USA
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="activated sludge aeration basin"
+                     /db_xref="taxon:77133"
+                     /clone="D10"
+                     /environmental_sample
+                     /country="USA: H.C. Morgan Water Pollution Control
+                     Facility in Auburn, AL"
+                     /collection_date="Jun-2006"
+     misc_feature    <1..>848
+                     /note="similar to PBP class C beta-lactamase"
+ORIGIN      
+        1 aagaaaacct gatggacgag atcggngctt cgagcacgtg gcgctggnat ggctatgaaa
+       61 acncccnacg tcgttctcga cggccagatc atccagtccg tcancggcgg tggtcacngg
+      121 ggcggcggga tgttcattaa tgcctacgac atggcgagat ttgggttgct caccgcgagc
+      181 ggaggaaaat ggcgcgacaa gcagatactc tccgacgccc ttatgancca ngntcnaact
+      241 ccnacattcn nccagccgcc gtacggattt atgaattggt cncttcatac cgataagaag
+      301 ctcctatcca aatgctccgg cctctgccnc aatnaccccg ctgatcatac cggcagacat
+      361 tcggcatttt gcggtcgcgc ttcgggatca gcggattttg tcagatcgtt ttcgtcggta
+      421 gctgcttgat gattcttaac acgatcgggt ggncacatgt cggagcaccc aatacntccg
+      481 atcgnttttg atttctactt ttggcccatt ttctatttgc cggaatcgct tgcntccgtt
+      541 ggtcacggag ccaatattct catcgccccg nccgncggat tgacgcctnt tttntcgttg
+      601 gnctcnccta ntgcncgttn nnaaagttta ctaggtaacg anccctcact cgaaagtant
+      661 agattcccgt cattagaatt gccgatgtgt ccacatcgag tcaggtgtaa acttttcttc
+      721 atngagcgac gccaaaaaga gcgtcagcac gaggagaaat tatgaaancc naagtgtcng
+      781 ctgngantac aaaggttgaa aagatcgtgg canctccgcc aaancattgg nccngtgatg
+      841 gatttcac
+//
+
+LOCUS       GU720996                1836 bp    DNA     linear   ENV 25-MAY-2010
+DEFINITION  Uncultured bacterium clone E5 O-methyltranferase-like gene, partial
+            sequence.
+ACCESSION   GU720996
+VERSION     GU720996.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1836)
+  AUTHORS   Parsley,L.C., Consuegra,E.J., Kakirde,K.S., Land,A.M., Harper,W.F.
+            Jr. and Liles,M.R.
+  TITLE     Identification of diverse antimicrobial resistance determinants
+            carried on bacterial, plasmid, or viral metagenomes from an
+            activated sludge microbial assemblage
+  JOURNAL   Appl. Environ. Microbiol. 76 (11), 3753-3757 (2010)
+   PUBMED   20382816
+REFERENCE   2  (bases 1 to 1836)
+  AUTHORS   Parsley,L.C., Consuegra,E.J., Kakirde,K.S., Land,A.M., Harper,W.F.
+            Jr. and Liles,M.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-2009) Biological Sciences, Auburn University, 101
+            Life Sciences Building, Auburn, AL 36849, USA
+FEATURES             Location/Qualifiers
+     source          1..1836
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="activated sludge aeration basin"
+                     /db_xref="taxon:77133"
+                     /clone="E5"
+                     /environmental_sample
+                     /country="USA: H.C. Morgan Water Pollution Control
+                     Facility in Auburn, AL"
+                     /collection_date="Jun-2006"
+     misc_feature    <1..>1836
+                     /note="similar to O-methyltranferase"
+ORIGIN      
+        1 aggcctgaat gaatcaagct tgaatttctc taggtgagac tggaacgcca tggaaatctc
+       61 gcctcgtcat tgccgtcctg gtcgggacgc ctccggcgat ccctgacttg cccagcaaac
+      121 ggcgcaactc ttccgcaaaa cacatgtggg tctcgatcac gattggggcc tccatcacgg
+      181 tacctggagc gtggtgcggc agatgtatcc cgaagctaac attcccgtgc agctgctaaa
+      241 cattgattac cacaagccag cacactatct ctatgagaca tgcgacagcc gcttactcaa
+      301 ctattacaac gttgttttcg ctttggggca agggggggtg ttctcatcgg cgagatcgtc
+      361 ctttggagcg gcaaggttct cgacgacgca gaagatgagg atactcatgc tcttcacgat
+      421 tacaatcgag acattccggc cgacgatcgc gtcgagaaca tactgctccc gatccgtgac
+      481 ggtttgatgg ttgttacaaa acgataatga tgatcatacc ggcagacatt cggcattttg
+      541 cggtcgcgtt cgggatcagc ggattttgtc agatcgtttt cgtcggtagc tgcttgatga
+      601 ttcttagcac gtcgggtggg catatgtcgg agcacccaat atttccgatc gtttttgatt
+      661 tctacttttg acccattttc tatttgccgg aaacgcttgc atacgttgtt cacggagcca
+      721 atattctcat cgccccgatt gtcggattga tgtactcttt tctcgttggc ctaatttact
+      781 gcgcgttccg aatgcttacg aggtaacgat ctctctctct caagcattag attcccgcca
+      841 ttagaattgc cgatgtgtcc acatcgagcc gggcgtcgtc ttttcttagt atcgcgacgc
+      901 aaaaagagcg tcatcacgac ggagaaatta tgaaagctaa atgtatgctg ggactcaaag
+      961 ggtgaaaagt cgtatctcag cgacgaagct ttcgcgtctg ggatgcattc attgtctgtg
+     1021 ctatcttctc gtatgtgctg ataaagacga agcatgatga ctgtctgttt gtcgatcatg
+     1081 ttgcgtaata tttaagactg ctgactgcac tcaggcatcg ggccaatgtc ccccgtggtt
+     1141 tcgaaacgga catcgttgat cagggaaggt cgttcatgaa gttgcgacgt cgattccggt
+     1201 gaggtcaata acttctgaca gggagcgcct tttgccattg ttatcttgag gtgaaaaccg
+     1261 gccggggacg ttcactggcc ttagctaata cgcggagatt tgactgacga attcgagttc
+     1321 aggctatggc ggtgattcga tattggtagc caatgtcttc gcgaataagc aagcccagtc
+     1381 tccccaaata aatttctgaa catgagcgat atctaaaaga attcgtccgt cggagagctg
+     1441 ttgcgccggg aacggatttc acgtaaaaaa agctcatgca gacctcgaaa tttctatcag
+     1501 ccatgggcgc acttgcggca gtgattctgc ctttgcaggt gccagcgggt ccggataacg
+     1561 cggagcaggc gtaaatgcgc gaagtgcttc ggcgcatgat gcaagagtcc actgccaccc
+     1621 aaacgggggc ggtgaccact gactacccag ccgaaactgc cgccccgcct tcgtcggtgg
+     1681 tggttaccgc ggcaagcccg ggaatgccga cggtggtggc cctactcgtg acgcctgccc
+     1741 gccggcggtt ttcgggaacc tgaacctcaa gggtatccgg acctgttgcg aacccaactt
+     1801 tagaatgttg aacctgttcc accatctcaa attaac
+//
+
+LOCUS       GU720997                1380 bp    DNA     linear   ENV 25-MAY-2010
+DEFINITION  Uncultured bacterium clone A4 chloramphenicol
+            acetyltransferase-like gene, partial sequence.
+ACCESSION   GU720997
+VERSION     GU720997.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1380)
+  AUTHORS   Parsley,L.C., Consuegra,E.J., Kakirde,K.S., Land,A.M., Harper,W.F.
+            Jr. and Liles,M.R.
+  TITLE     Identification of diverse antimicrobial resistance determinants
+            carried on bacterial, plasmid, or viral metagenomes from an
+            activated sludge microbial assemblage
+  JOURNAL   Appl. Environ. Microbiol. 76 (11), 3753-3757 (2010)
+   PUBMED   20382816
+REFERENCE   2  (bases 1 to 1380)
+  AUTHORS   Parsley,L.C., Consuegra,E.J., Kakirde,K.S., Land,A.M., Harper,W.F.
+            Jr. and Liles,M.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-2009) Biological Sciences, Auburn University, 101
+            Life Sciences Building, Auburn, AL 36849, USA
+FEATURES             Location/Qualifiers
+     source          1..1380
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="activated sludge aeration basin"
+                     /db_xref="taxon:77133"
+                     /clone="A4"
+                     /environmental_sample
+                     /country="USA: H.C. Morgan Water Pollution Control
+                     Facility in Auburn, AL"
+                     /collection_date="Jun-2006"
+     misc_feature    <1..>1380
+                     /note="similar to chloramphenicol acetyltransferase"
+ORIGIN      
+        1 cggatcgatg gctatcagca tgaccgggta aagtccgact gcagtatagg tgtgggatat
+       61 ggttggtatg gttgtggttt gaacagggga tccatctcca aaatgccatt cataggtttt
+      121 cgcatttgca atggtgtcag taaataatac atccrgtggt acacaaccgg cggtatcacg
+      181 gggaacacca ttaatagaag attggatatt tccttttaca ccggaaaggt tcatcgcgat
+      241 cttcaccatg gccaggttac attgtgcacc ggtagtgctt crgttggtag gtgcccagga
+      301 tccgagtgta gtaggatagc gtggctgaac cccattgggt tcaagattac agtttgcaca
+      361 tattgcctga tagatcactc catcgctgtt aaagcggctg gtaccaccat ctacgtgatc
+      421 gcatccacca ttcaccgcat ttgcctcccc gaaaaagctg gcaaacaaca aacgggttgc
+      481 attcttttca atgactatga aataaaaatc tttgccgtcc gtggatgatt tgatcgcatc
+      541 cggaggtaac aggaagtccg ctcgcgcctg cactgttgaa ccagcncctg gttccataaa
+      601 agcctcccca gcccgagata tatacatttt cacaacggtc cacaagaaag gccaccggtg
+      661 agatattagg ggtggaggaa cccgtgccga aaacagatgt mtaaacaaaa gctgctgagg
+      721 tccttctgcr gttttccaaa aaattgtttt tcctgcagca cttccgaaga caggtgtacc
+      781 tgctgtaaca ggccaggttc cggtggtttg tcccatcaca tagggaaacc cattcttgtc
+      841 saactgaatr ccatatacct ggtcacctcc ggatgttccg ataaaggtgg aacgaaggag
+      901 gttattrcca ttgctgctga tcactgctat aaacccatcc acacctccct ggttggtagg
+      961 gccaaccgta cctgcccttg ggccgggaaa actggcatcg ctctcggtac caccggctgt
+     1021 atagatatct ccattgggag caatggtcac cacataggcc gcatcatttc cagttccacc
+     1081 gagataagtg gagaataatg accgtactca gggaaggatt aagcttgatc aaaaccgcat
+     1141 cctgttcccc tcccggagaa gattgaaatg gagaaccgac caccgggaaa ttattagcgg
+     1201 ctgtgccaag agtggaatta gtacaggatg caacataaac attgcctgcc ccatcgaggt
+     1261 taacctcact tcttccatca tccccataat tacgcatcag cgaggtggta cctaattggc
+     1321 ctgttctctg aaaaatattc aactccatca tttgccgtac ctccgatccg cttagatccg
+//
+
+LOCUS       GU720998                1897 bp    DNA     linear   ENV 25-MAY-2010
+DEFINITION  Uncultured bacterium clone A5 chloramphenicol
+            acetyltransferase-like gene, partial sequence.
+ACCESSION   GU720998
+VERSION     GU720998.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1897)
+  AUTHORS   Parsley,L.C., Consuegra,E.J., Kakirde,K.S., Land,A.M., Harper,W.F.
+            Jr. and Liles,M.R.
+  TITLE     Identification of diverse antimicrobial resistance determinants
+            carried on bacterial, plasmid, or viral metagenomes from an
+            activated sludge microbial assemblage
+  JOURNAL   Appl. Environ. Microbiol. 76 (11), 3753-3757 (2010)
+   PUBMED   20382816
+REFERENCE   2  (bases 1 to 1897)
+  AUTHORS   Parsley,L.C., Consuegra,E.J., Kakirde,K.S., Land,A.M., Harper,W.F.
+            Jr. and Liles,M.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-2009) Biological Sciences, Auburn University, 101
+            Life Sciences Building, Auburn, AL 36849, USA
+FEATURES             Location/Qualifiers
+     source          1..1897
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="activated sludge aeration basin"
+                     /db_xref="taxon:77133"
+                     /clone="A5"
+                     /environmental_sample
+                     /country="USA: H.C. Morgan Water Pollution Control
+                     Facility in Auburn, AL"
+                     /collection_date="Jun-2006"
+     misc_feature    <1..>1897
+                     /note="similar to chloramphenicol acetyltransferase"
+ORIGIN      
+        1 gcggcggtga aggcataccg ggcaagcgcc tgacgcgcag ccacgacagc ggcgccgcgg
+       61 gcgtgatcgc cacggcctgg gcttgacacg aagctgcgag gccctgccac ggtaccctag
+      121 ctcgcgcgct ccctccctcc gcaccctgcg acagtcgcac caagttgacg ttcgagcccg
+      181 gaggcgtgtc gttgcctaca tgaaccgctt gtcggccggc gcccgcgcag ttgtccattc
+      241 actgaagcac gaatgtgatg ctcatgcgcg cttcgggcag atcgggatcg ctgtcaccgc
+      301 aatcgtcgct cacggtgact gagcttggcc tgctgaagac gggcagcacg gtgctgctgg
+      361 ggtgttaggc agacgccgtc gcggactgcg ccgcggctgc gggcgcagca ccgccgaatc
+      421 gcatggctcg cgggagcagg ggggggcgtt agtagaccca acgcgctgtc ttgccaacgt
+      481 tggcgcctct ccatccccat cagcggacag cattggacag gtgagaaaca tccagagttg
+      541 gagaagatca ctgtggtgat aggatgcgga gccatgggag ggagtatggc cgccgacgat
+      601 cttgactggg tgagaacgat acaggagccg attgcccgtg aagcgatgca catcctcagt
+      661 gatcttatcg ggcaatttga tctcggcaga tccggaactc tcagggtaag tggctacgcg
+      721 cacaacgcac cggaatacgc tctcatagga caaaacgacc actggctcaa caggcgaacg
+      781 caggtagctg aaatgcttgt tgctcgcggc gtccttgaaa gggctgaggc tcgctttgtc
+      841 ggcggatacg caggagctgg agccgaaacc ggcgacttcc tgttcgcggt tgcgaacgag
+      901 caggtcgtgc gccgggttca cgctgctttc gaggaacgat tcaagccgag tcgaaggccc
+      961 tctccggcga ccaatacgcc acgggtaata ccggtgcccc cgccaacgca gggaccggcg
+     1021 cccccagcga cctcagcagc aactacgagt ggagagggat ttggaagtcc gattccacat
+     1081 caatccacga atacggtgca tctgggattc tggctaaact tccgagccac gcttggcaaa
+     1141 gggctcgcat gggttgctat cggtctgata gtgctgctga tcttcttcgt tgctgcgcgg
+     1201 atgattcccg gtttcggtga cctcgtgata agtgtcattg aggccaccgc agataagtcc
+     1261 ggcggagtca gagggcgata ggacgcaggg aaagtagtgg actacggaca gctccatgaa
+     1321 gcgacaacct ttgctatccg cccgagatcc ttgatcaaat tccgcaacgc cgatcagggg
+     1381 cgcccaagtt gcgcagcctg aaggaccggt cgggctgata cccttggagt tccaccagag
+     1441 gagcaggact cttcacgagg tcgtggggga tgtcgaaaga atgttctgag ttgggatcga
+     1501 gggcgagacc gcagatcgaa gcctggaagg acttatgcga acttgtatag cgagagtgat
+     1561 tggctgccgt caggcgcgtt aggcgcctac gggtatcgcg agcggatcgc gggaagtcga
+     1621 gccaagatgt ccgactctat tgactatcgt gatgccttcc aggtagacgc cgtcagtatg
+     1681 aagttggaat cggcgggccc ctctcaagcc caaagccgat gggagggagc tgtgaggcag
+     1741 catggccttt ccgaggggca atgcgtttgc ctgcggcgcc acctcgcctc cacagcaccg
+     1801 ataggtggta tgtgccgcat gatcgaccta agtggggcag cctttcacgt tcggtacatg
+     1861 gatccaggtg tcgccctcgg aggcgggcnt ggccact
+//
+
+LOCUS       GU720999                2163 bp    DNA     linear   ENV 25-MAY-2010
+DEFINITION  Uncultured bacterium clone A7 chloramphenicol
+            acetyltransferase-like gene, partial sequence.
+ACCESSION   GU720999
+VERSION     GU720999.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 2163)
+  AUTHORS   Parsley,L.C., Consuegra,E.J., Kakirde,K.S., Land,A.M., Harper,W.F.
+            Jr. and Liles,M.R.
+  TITLE     Identification of diverse antimicrobial resistance determinants
+            carried on bacterial, plasmid, or viral metagenomes from an
+            activated sludge microbial assemblage
+  JOURNAL   Appl. Environ. Microbiol. 76 (11), 3753-3757 (2010)
+   PUBMED   20382816
+REFERENCE   2  (bases 1 to 2163)
+  AUTHORS   Parsley,L.C., Consuegra,E.J., Kakirde,K.S., Land,A.M., Harper,W.F.
+            Jr. and Liles,M.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-2009) Biological Sciences, Auburn University, 101
+            Life Sciences Building, Auburn, AL 36849, USA
+FEATURES             Location/Qualifiers
+     source          1..2163
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="activated sludge aeration basin"
+                     /db_xref="taxon:77133"
+                     /clone="A7"
+                     /environmental_sample
+                     /country="USA: H.C. Morgan Water Pollution Control
+                     Facility in Auburn, AL"
+                     /collection_date="Jun-2006"
+     misc_feature    <1..>2163
+                     /note="similar to chloramphenicol acetyltransferase"
+ORIGIN      
+        1 ctgactcatg caggtcgagc atgaccgtag ggtgccagtc gtaataaata ttgaaaatgt
+       61 tttttgtcag ttgttgggat acctggatcc catcccggtt attatcatga aatacatact
+      121 tgccccagta aggtggtgaa taccggaagc catcgtcaaa attttttctt gctttggaat
+      181 agcggtaata ccagtctacc tgtttatctc ggccatcagg ttctgcaacg ggattaatta
+      241 tgactataac gttctcccgg atctttttaa tgtcgtcagt attgtctgtg ataagccggt
+      301 aggcaagttc catcagcatt tcaggcgaac ccatttcagt ggagtgtaat cctccgttca
+      361 agtaaaaaac aggcttggtg ctattgatga tctggttagg gtccatcgta cctactttcc
+      421 tgggatctgc cagaagggat aattgatctt tgaaaaattc cggtcgtttc atcgcatctt
+      481 cattacctat catcaccagg tttatggcac ggccttcttc tgatgtgcca gtttgatgta
+      541 cagatatcag tgaagaaacc tctgccagtt ttttataata attatagatc tctgtagttc
+      601 ggtgcatcac accaggtgcg ccaataatgg ttccgaaata tttttccgga gaggggatct
+      661 ttgggtcagt aaccaggtta agcacggagg aaggaagaaa ccttttgtcg gtcgtatact
+      721 cttttatctt ttgattgtag ttttcatcaa tttgctgagc cgatagatga atgcctgtta
+      781 gctgtacaat cagcaataag cataataatg gcagtaaccg tgcagatatc atgatagttg
+      841 gttttttagt attaggtaat tctacctgat gtaaaagttg ctgtttagga ttgacttcag
+      901 gccatcaggt ttttaattgt tctttataga ctgttcaatt atcttcataa gttcccccat
+      961 tttactgtca tccatccatc gggtgacaac aacaaggcca tgctcattgt cgatcacaat
+     1021 ataattgcct ccggcgccat tggcataata aatatccggg gaaacatctt tccatttttt
+     1081 actgttattc atccaccaca tatagccata atccttgaag gcgctggatg gctggtgaac
+     1141 ggccctcacc catttttccg agatcaactg ctgtgttctc cattttccct ttcttaggaa
+     1201 cagcaatcca aacctggcct ggtcaagcgt actgataaaa aggccgccac cgtggtgacc
+     1261 gcccccgctt accgattgca tcattagtcc gtcaatattt ataaaggagt tgtcgtaccc
+     1321 ataccagcgc caggtggtgg atgcgcctat tggatccatg atcttttcct tgagtaccat
+     1381 aggcaatggt tttctaaaaa cctgcaacag ggaataggcc attacattta ccctaacatc
+     1441 gttgtattta aagaaactac caggttcatt aagcttcctg tttttccaat cgtcaatacc
+     1501 accttcctta ggaggacgat ctgcccaatc tgcgaggtca aacagggttc cgctccaatc
+     1561 cgaagactgg gtgagtaaat gctcccagct gatctttgaa ttgtgttctc cggcaaatgt
+     1621 cccgtcccag acataattat atactttatc tgaaacgttt cttattagtc cttcatcaat
+     1681 ggccagtccg gcaatagtgg aaagaaagct tttggtcaca ctgtttgtca tatccactct
+     1741 gttcacatca ccccattgtg ctacgatgta cccattcatt attattaatc cggccggtcc
+     1801 acctctgtct tttgtgggac cgattatttt aaaatcaggt tcattcccat aggcttttaa
+     1861 ggtggcgata cgcagatccc tgtcaaattt gttttcattg gcgactgcaa atctgactgc
+     1921 gctatccaat agtgttttat ccatcatcat ttcagccgcg gttttcacct gccagatgct
+     1981 atctggataa taagtggttt gggcactgga tgaaaaaaag ccgaagctga aaagggccag
+     2041 gaataattta tttctcatat tttaattata cattattagg ggttaacccc ttattgatta
+     2101 gaggaattgt aagtgggtca ttatcctgac ttcttagctt ttgctgattc aacgagtagc
+     2161 cta
+//
+
+LOCUS       GU721000                1740 bp    DNA     linear   ENV 25-MAY-2010
+DEFINITION  Uncultured bacterium clone A9 chloramphenicol
+            acetyltransferase-like gene, partial sequence.
+ACCESSION   GU721000
+VERSION     GU721000.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1740)
+  AUTHORS   Parsley,L.C., Consuegra,E.J., Kakirde,K.S., Land,A.M., Harper,W.F.
+            Jr. and Liles,M.R.
+  TITLE     Identification of diverse antimicrobial resistance determinants
+            carried on bacterial, plasmid, or viral metagenomes from an
+            activated sludge microbial assemblage
+  JOURNAL   Appl. Environ. Microbiol. 76 (11), 3753-3757 (2010)
+   PUBMED   20382816
+REFERENCE   2  (bases 1 to 1740)
+  AUTHORS   Parsley,L.C., Consuegra,E.J., Kakirde,K.S., Land,A.M., Harper,W.F.
+            Jr. and Liles,M.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-2009) Biological Sciences, Auburn University, 101
+            Life Sciences Building, Auburn, AL 36849, USA
+FEATURES             Location/Qualifiers
+     source          1..1740
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="activated sludge aeration basin"
+                     /db_xref="taxon:77133"
+                     /clone="A9"
+                     /environmental_sample
+                     /country="USA: H.C. Morgan Water Pollution Control
+                     Facility in Auburn, AL"
+                     /collection_date="Jun-2006"
+     misc_feature    <1..>1740
+                     /note="similar to chloramphenicol acetyltransferase"
+ORIGIN      
+        1 tgtactcgcg acgcccccca gatcaaagcc atcggccgaa tggtcgaacg tctcgtcgcc
+       61 agcgctcgac gctgacattt ggaacaattc gtcccgagag atcccggaga cgcgcgtccc
+      121 gagatccctc gggccaaatt atttctaaaa gctcaggtat tcacttgctg gcaaggggtg
+      181 ggtccgctta gatcctgagc ccatatggcg ctcaaagaac tgacccctga acagatccgc
+      241 gattggtccc tcgagaagaa agacgagtgg tggctgaaaa atgtctacaa aggagacatg
+      301 ccccagctca acgctcgttc ggcgatcacg gggatgatct tgggcggcat cctgagcctg
+      361 accaacctct atgtcggcat gaaaaccggc tggaccctgg gcgtcggcgt ctcatcggtc
+      421 attttgtcct tcgcgatgtt caagctcttt gatcgcctga aaatcggcaa agagatgacc
+      481 attctcgaaa acaacgccat gcaatcggtc gccacgagcg cgggttacat gaccgcgccg
+      541 ctcgtgagct cgattccggc gtacatgctc gtgacgggca aggtgattcc gatgggcgtg
+      601 acgctcgtgt ggatcatcct gctttcgatc ctgggcgtgc tttatgcctt tccgctgaag
+      661 aagcgtttca tcaacgacga gcagcttccg ttccctgaag gttacgccgc cggcgtcgtc
+      721 atgagcaacc tgcactcgga cgacggcaag gacggcatct tgaaagccaa gctcctcggc
+      781 gcgtccgccg ggcttgccgc cgtcatcgaa gccatccgtg acgagacgtt catggaaggc
+      841 attaaggcga aggccctcgc tattcccgaa tactgggacg agttcattta taagttctgg
+      901 accccgtcga ttctcggcac gcctctcaag gatctgacga tccgttggga aacctccatt
+      961 ctcatgctcg gctcgggcgg cctgatcggg atcaaaaccg gcgtctcgct cctcatcggc
+     1021 gcggtcatca actactggat cctggcgccg atcatgattc acgaaggcgt gattcccggc
+     1081 tcgggcttca agaacatcac gatgtggtcg ctctggggcg gtgtcgccat gatgacgacg
+     1141 gcctctctct attcgttctt ctcgcgtccc gagatcattc tctcggcgtt caagaagatg
+     1201 agcaccaaga agggctcaaa aaagaaagac gtcctcgccg acatcgaact tccgatgaac
+     1261 atcttcgtca tcgggatccc cgtcgtcggc ctcctgtgtg tgatcttcgg tcacatctac
+     1321 ttcgatttcg ggatcatgga aggcctcatc gccatcccgc ttacgtacgt cttcaccttg
+     1381 attgccgtga attcgacggg cctcacctcg atcaccccgg gcggcgcgct cggcaagctc
+     1441 acgcagctca cctactcggt gatctcgccc ggcaacgtcc cgaccaacat catggcggcc
+     1501 gggatcaacg gcgaagtcgg cctcaatgcc tcgaacctcc tgatggacat caagccgggc
+     1561 tatcttctcg gcgcgaaacc ccgccagcaa gcggtcggtc acgtcctcgg aatcttcgcc
+     1621 ggcggcgtgg cgtgcgttcc ggtctactac gcgctcttca acaacaacct ggcgatgctc
+     1681 acgagcgaaa agatgccgat gccgggcgcc gtctcctggt aaagcggtcg ccgaagcgct
+//
+
+LOCUS       GU721001                 873 bp    DNA     linear   ENV 25-MAY-2010
+DEFINITION  Uncultured bacterium clone A10 chloramphenicol
+            acetyltransferase-like gene, partial sequence.
+ACCESSION   GU721001
+VERSION     GU721001.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 873)
+  AUTHORS   Parsley,L.C., Consuegra,E.J., Kakirde,K.S., Land,A.M., Harper,W.F.
+            Jr. and Liles,M.R.
+  TITLE     Identification of diverse antimicrobial resistance determinants
+            carried on bacterial, plasmid, or viral metagenomes from an
+            activated sludge microbial assemblage
+  JOURNAL   Appl. Environ. Microbiol. 76 (11), 3753-3757 (2010)
+   PUBMED   20382816
+REFERENCE   2  (bases 1 to 873)
+  AUTHORS   Parsley,L.C., Consuegra,E.J., Kakirde,K.S., Land,A.M., Harper,W.F.
+            Jr. and Liles,M.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-2009) Biological Sciences, Auburn University, 101
+            Life Sciences Building, Auburn, AL 36849, USA
+FEATURES             Location/Qualifiers
+     source          1..873
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="activated sludge aeration basin"
+                     /db_xref="taxon:77133"
+                     /clone="A10"
+                     /environmental_sample
+                     /country="USA: H.C. Morgan Water Pollution Control
+                     Facility in Auburn, AL"
+                     /collection_date="Jun-2006"
+     misc_feature    <1..>873
+                     /note="similar to chloramphenicol acetyltransferase"
+ORIGIN      
+        1 gtcggatgca gcgccctgcc cgcgatgcgc accccgtcga tgcggccatt gaacagcgcg
+       61 aaaggcgccg gctggccgtt ggccatggtt tcgccgcagc cggcggcaaa ccgcatcggc
+      121 gtgccggcgg caatggtcca ttccgaatcc agccgcctgg tgccgaaaat atagtgcagg
+      181 ggatcggtgg gagaatcgag cgggaagttg ggatcggtca gcagcacgtc gtaaacgcgc
+      241 cattcgccgg ttgccgcgtc gaaggatgcg cccagcatgg tccaatggtt cggctggatg
+      301 aagcgggaag tgcgcagctt gaagaactgg ccattgccct tgcccaccca cagggcgccc
+      361 tcgccgcgct catctatgcc gatcgcccag ccggcctttt tggtctggtc ccattgcgag
+      421 gcgacaaatt gcggcccctt gccgggcaag gtgggcttga tcagcgccat caccgagaag
+      481 ctttgctttg ccaccgccga gggcgatgtc cggtcgaagg tcacatagga acctgcccag
+      541 accttctgtt cgctgcccgg ataggagcgt gcgaaatcgg ccgccaccgg atcgacccgg
+      601 aaacggcccg cgccggacag ggtgtcgcca ttgatcaccc gcaccagcga tgccttgtaa
+      661 tcgcccggcg cgtaagtgct ggcgtaaaac gtgatcttct cgcccggccg caccgtgatc
+      721 tgatcgctat agccgacaat ggtcttgttc gacttggcca aggtcagggc atggccttta
+      781 tcggcatcgg tcaccgcgcg gcggggacgg gcggtgagac tggtcagggc ttgcgccggg
+      841 cgcctcgcca gagcggcaag cgccgagacc gca
+//
+
+LOCUS       GU721002                1080 bp    DNA     linear   ENV 25-MAY-2010
+DEFINITION  Uncultured bacterium clone B4 chloramphenicol
+            acetyltransferase-like gene, partial sequence.
+ACCESSION   GU721002
+VERSION     GU721002.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1080)
+  AUTHORS   Parsley,L.C., Consuegra,E.J., Kakirde,K.S., Land,A.M., Harper,W.F.
+            Jr. and Liles,M.R.
+  TITLE     Identification of diverse antimicrobial resistance determinants
+            carried on bacterial, plasmid, or viral metagenomes from an
+            activated sludge microbial assemblage
+  JOURNAL   Appl. Environ. Microbiol. 76 (11), 3753-3757 (2010)
+   PUBMED   20382816
+REFERENCE   2  (bases 1 to 1080)
+  AUTHORS   Parsley,L.C., Consuegra,E.J., Kakirde,K.S., Land,A.M., Harper,W.F.
+            Jr. and Liles,M.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-2009) Biological Sciences, Auburn University, 101
+            Life Sciences Building, Auburn, AL 36849, USA
+FEATURES             Location/Qualifiers
+     source          1..1080
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="activated sludge aeration basin"
+                     /db_xref="taxon:77133"
+                     /clone="B4"
+                     /environmental_sample
+                     /country="USA: H.C. Morgan Water Pollution Control
+                     Facility in Auburn, AL"
+                     /collection_date="Jun-2006"
+     misc_feature    <1..>1080
+                     /note="similar to chloramphenicol acetyltransferase"
+ORIGIN      
+        1 tcggccagct gccaccasgt ttgcgagcag gcctcgtcga acgggttgtc gcccgattcg
+       61 gtggccagca gcgtcgccca ggcgcccatg taacgcgcca gcggctcgca ttggtcccac
+      121 agcggggtac cggtgtacag gtgcagcacg gcttcggcat cgcaatgcag gtcgagcacg
+      181 atatcggcat cacaggaaag gcgcatcagc gtgtggcgca tgctgtcgag ttccgtttcc
+      241 ggtgcagcct catcgagggc gcggcgcatg gcgcggcgca ccaggtattt gttctcgtcg
+      301 gcacgggcag tgagctcgcc ttcgagccct gccgcgatca tcggaaacag ggcgggatag
+      361 tgccggttat agttttcacc cgaggcgatt tcgaatcgcc cgatctggtt gcgcaacagc
+      421 gtctgcgaaa gtccgagcgg gttggccacc ggcacgacca cgatttcgcc acggatcttg
+      481 ccggctgcgt ccagtgcggc cagccgcagc cgcaggtggt gtgccaccag catgccgggc
+      541 aattcatcgg cgtgcaggga cgcctgcaca tagacttttt cgccgctgcc ggcctcacmg
+      601 tagtggaaac tgaccagttc gcgttgtgtg ccgagataag tggagagcag ggggtggtga
+      661 tttgttttca tgggaccgta tcggttgccg gaagtaaggg atcaggcgcg tgatgccatc
+      721 ggcaccaacc agcgcctttc cgcgagatgg aacaggccga ccaggacaaa ggtcaggcaa
+      781 agataaaagg ccgcggcggt gagaaacgcc tcgaacggca ggtagtactt cgagttggtt
+      841 tcgcgcgcag caccggtgat gtcggccagc gtgacgatac tcgccagcga ggtgccgtgc
+      901 agcatcatga tcacttcgtt gctgtaggca tgcagggagc ggcgcagcgc ggaaggcagc
+      961 aggatgcggc gatacagcgt gccggtatcc atgcccatgg cgcgcgccgc ctccacctcg
+     1021 ccgtggctgg tggcggcgat ggcgccggcg atgatttcgg tggtgtaggc gcaggttatt
+//
+
+LOCUS       GU721003                 558 bp    DNA     linear   ENV 25-MAY-2010
+DEFINITION  Uncultured bacterium plasmid clone mllc.D09 IS10 transposase-like
+            gene, partial sequence.
+ACCESSION   GU721003
+VERSION     GU721003.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 558)
+  AUTHORS   Parsley,L.C., Consuegra,E.J., Kakirde,K.S., Land,A.M., Harper,W.F.
+            Jr. and Liles,M.R.
+  TITLE     Identification of diverse antimicrobial resistance determinants
+            carried on bacterial, plasmid, or viral metagenomes from an
+            activated sludge microbial assemblage
+  JOURNAL   Appl. Environ. Microbiol. 76 (11), 3753-3757 (2010)
+   PUBMED   20382816
+REFERENCE   2  (bases 1 to 558)
+  AUTHORS   Parsley,L.C., Consuegra,E.J., Kakirde,K.S., Land,A.M., Harper,W.F.
+            Jr. and Liles,M.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-FEB-2010) Biological Sciences, Auburn University, 101
+            Life Sciences Building, Auburn, AL 36849, USA
+FEATURES             Location/Qualifiers
+     source          1..558
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="activated sludge aeration basin"
+                     /db_xref="taxon:77133"
+                     /clone="mllc.D09"
+                     /environmental_sample
+                     /plasmid="unnamed"
+                     /country="USA: H.C. Morgan Water Pollution Control
+                     Facility in Auburn, AL"
+     misc_feature    <1..>558
+                     /note="similar to IS10 transposase"
+ORIGIN      
+        1 tcgcaaggtc ggctagaaat tggtcatgag ctttctttga acattgctct gaaagcggga
+       61 acgctttctc ataaagagta acagaacgac cgtgtagtgc gactgaagct cgcaatacca
+      121 taagccgttt ttgctcacgg atatcagacc agtcaacaag tacaatgggc atcgtattgc
+      181 ccgaacagat aaagctagca tgccaacggt atacagcgag tcgctctttg tggaggtgac
+      241 gattacctaa caatcggtcg attcgtttga tgttatgttt tgttctcgct ttggttggca
+      301 ggttacggcc aagttcggta agagtgagag ttttacagtc aagtaaggcg tggcaagcca
+      361 acgttaagct gttgagtcgt tttaagtgta attcggggca gaattggtaa agagagtcgt
+      421 gtaaaatatc gagttcgcac attttgttgt ctgattattg atttttggcg aaaccatttg
+      481 atcatatgac aagatgtgta tctaccttaa cttaatgatt ttgataaaaa tcattagggg
+      541 attcatcagt accgggcg
+//
+
+LOCUS       GU721004                 675 bp    DNA     linear   ENV 25-MAY-2010
+DEFINITION  Uncultured bacterium plasmid clone mllc.H09 TEM beta-lactamase-like
+            gene, partial sequence.
+ACCESSION   GU721004
+VERSION     GU721004.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 675)
+  AUTHORS   Parsley,L.C., Consuegra,E.J., Kakirde,K.S., Land,A.M., Harper,W.F.
+            Jr. and Liles,M.R.
+  TITLE     Identification of diverse antimicrobial resistance determinants
+            carried on bacterial, plasmid, or viral metagenomes from an
+            activated sludge microbial assemblage
+  JOURNAL   Appl. Environ. Microbiol. 76 (11), 3753-3757 (2010)
+   PUBMED   20382816
+REFERENCE   2  (bases 1 to 675)
+  AUTHORS   Parsley,L.C., Consuegra,E.J., Kakirde,K.S., Land,A.M., Harper,W.F.
+            Jr. and Liles,M.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-FEB-2010) Biological Sciences, Auburn University, 101
+            Life Sciences Building, Auburn, AL 36849, USA
+FEATURES             Location/Qualifiers
+     source          1..675
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="activated sludge aeration basin"
+                     /db_xref="taxon:77133"
+                     /clone="mllc.H09"
+                     /environmental_sample
+                     /plasmid="unnamed"
+                     /country="USA: H.C. Morgan Water Pollution Control
+                     Facility in Auburn, AL"
+     misc_feature    <1..>675
+                     /note="similar to TEM beta-lactamase"
+ORIGIN      
+        1 ggcagagtac ttggtctgac agtttaccaa tgctataatc agtgaggcac ctatctcagc
+       61 gatctgtcta tttcgttcat ccatagttgc ctgactcccc gtcgtgactg ggaaaaccct
+      121 ggcgaagggc ttaccatctg gccccagtgc tgcaatgata ccgcgagacc cacgctcacc
+      181 ggctccagat ttatcagcaa taaaccagcc agccggaagg gccgagcgca gaagtggtcc
+      241 tgcaacttta tccgcctcca tccagtctat taattgttgc cgggaagcta gagtaagtag
+      301 ttcgccagtt aatagtttgc gcaacgttgt tgccattgct acaggcatcg tggtgtcacg
+      361 ctcgtcgttt ggtatggctt cattcagctc cggttcccaa cgatcaaggc gagttacatg
+      421 atcccccatg ttgtgcaaaa aagcggttag ctccttcggt cctccgatcg ttgtcagaag
+      481 taagttggcc gcagtgttat cactcatggt tatggcagca ctgcataatt ctcttactgt
+      541 catgccatcc gtaagatgct tttctgtgac tggtgagtac tcaaccaagt cattctgaga
+      601 atagtgtatg cggcgaccga gttgctcttg cccggcgtca atacgggata ataccgcgcc
+      661 acatagcaga acttt
+//
+
+LOCUS       GU721005                 197 bp    DNA     linear   ENV 25-MAY-2010
+DEFINITION  Uncultured bacterium plasmid clone mllc.F06 aminoglycoside
+            phosphotransferase-like gene, partial sequence.
+ACCESSION   GU721005
+VERSION     GU721005.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 197)
+  AUTHORS   Parsley,L.C., Consuegra,E.J., Kakirde,K.S., Land,A.M., Harper,W.F.
+            Jr. and Liles,M.R.
+  TITLE     Identification of diverse antimicrobial resistance determinants
+            carried on bacterial, plasmid, or viral metagenomes from an
+            activated sludge microbial assemblage
+  JOURNAL   Appl. Environ. Microbiol. 76 (11), 3753-3757 (2010)
+   PUBMED   20382816
+REFERENCE   2  (bases 1 to 197)
+  AUTHORS   Parsley,L.C., Consuegra,E.J., Kakirde,K.S., Land,A.M., Harper,W.F.
+            Jr. and Liles,M.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-FEB-2010) Biological Sciences, Auburn University, 101
+            Life Sciences Building, Auburn, AL 36849, USA
+FEATURES             Location/Qualifiers
+     source          1..197
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="activated sludge aeration basin"
+                     /db_xref="taxon:77133"
+                     /clone="mllc.F06"
+                     /environmental_sample
+                     /plasmid="unnamed"
+                     /country="USA: H.C. Morgan Water Pollution Control
+                     Facility in Auburn, AL"
+     misc_feature    <1..>197
+                     /note="similar to aminoglycoside phosphotransferase"
+ORIGIN      
+        1 gccgtcgggc agctcgcctt gagcctggcg aacagttcgg ctggcgcgag cccctgatgc
+       61 tcttcgtcca gatcatcctg atcgacaaga ccggcttcca tccgagtacg gggatcctct
+      121 agagtcgacc tgcaggcatg caagcttggc gtaatcatgg tcatagctgt ttcctgtgtg
+      181 aaattgttat ccgctaa
+//
+

@@ -1,0 +1,220 @@
+LOCUS       KU886208                2024 bp    DNA     linear   ENV 22-JUL-2020
+DEFINITION  Uncultured bacterium clone TMU6 integron integrase gene, partial
+            cds, and D-alanine-D-alanine ligase 6 gene, complete cds.
+ACCESSION   KU886208
+VERSION     KU886208.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 2024)
+  AUTHORS   Rahman,M.A., Mullany,P. and Roberts,A.P.
+  TITLE     D-cycloserine resistance genes in saliva metagenomic DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2024)
+  AUTHORS   Rahman,M.A., Mullany,P. and Roberts,A.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-MAR-2016) Department of Microbial Diseases, UCL
+            Eastman Dental Institute, 256 Gray's Inn Road, London, London
+            WC1X8LD, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2024
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="saliva"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:77133"
+                     /clone="TMU6"
+                     /environmental_sample
+                     /collection_date="10-Oct-2013"
+                     /collected_by="Md. Ajijur Rahman"
+     mobile_element  1..2024
+                     /mobile_element_type="integron"
+     CDS             <1..768
+                     /codon_start=1
+                     /transl_table=11
+                     /product="integrase"
+                     /protein_id="ARE68326.1"
+                     /translation="SSQNQALAALLFLYKNILGLTIKTPENIVRAKKPKKLPAVMTRE
+                     ETAKIFSLLPENDYGLLIRLLYGTGMRLMEALRLRIQDIDFGKSEITVHCGKGAKDRK
+                     TVLPVSLKFPLQKHMEKVRLIHEADCKEGFGSVPLPFALAKKYPNASKAWAWQWVFPQ
+                     ARRWRNKETGEQGRHHIDPSVIQRTLHEAVLRSGIPKPIGCHTFRHSFATHLLEAGYD
+                     IRTIQELLGHSDVKTTMVYTHVLNRGGLGIQSPIDRM"
+     regulatory      863..868
+                     /regulatory_class="minus_35_signal"
+                     /note="Putative gene cassette promoter, Pc1"
+     misc_recomb     872..936
+                     /note="primary recombination site attI"
+     regulatory      878..883
+                     /regulatory_class="minus_35_signal"
+                     /note="Putative gene cassette promoter, Pc2"
+     regulatory      885..890
+                     /regulatory_class="minus_10_signal"
+                     /note="Putative gene cassette promoter, Pc1"
+     regulatory      901..906
+                     /regulatory_class="minus_10_signal"
+                     /note="Putative gene cassette promoter, Pc2"
+     misc_feature    927..2024
+                     /note="gene cassette TMU6"
+     CDS             967..2001
+                     /codon_start=1
+                     /transl_table=11
+                     /product="D-alanine-D-alanine ligase 6"
+                     /protein_id="ARE68327.1"
+                     /translation="MKVVVLAGGLSPERDVSLSSGALIANALIENGHSVFLLDLLIGT
+                     DKKFEELSFLTKDSIDRYEYIIPPEEPNLIELHQKYPDQIGKGVLSICKQADVVFIAL
+                     HGSIGENGQLQSIFEMQSIKHTGSSYFGCMLAMDKDISKKIATIEGISTAKWKTYSLS
+                     EVNLDTIKRETKIPCVVKPLSCGSSIGISIVKTEEELLNALRVAKKYEDSILIEDMIK
+                     GREVSCGIVGDKALPVIEIIPKSGFYDYKNKYQKGLSNEIWPAEIDRSIEKTIQAFSY
+                     KMHKALRLGYYSRSDFIIRDNEEIVYLETNTLPGMTPTSLLPQEARVSGITYNELCNQ
+                     IVHNAIKIEG"
+ORIGIN      
+        1 tcaagccaaa atcaggctct tgcggctctt ttgtttctat ataaaaacat attaggctta
+       61 actataaaga ctcctgaaaa tatagtccgt gccaaaaagc ccaaaaagct gcctgccgta
+      121 atgacccgtg aggaaactgc aaagatattc tctcttttgc ctgaaaacga ttacgggctc
+      181 cttattcgct tgctttacgg aactggaatg cggcttatgg aagccttgcg gttaaggatt
+      241 caggatattg attttgggaa aagcgaaatt acggtacact gcggaaaggg tgcgaaagac
+      301 cgtaaaaccg tacttcctgt ttctcttaaa tttccgcttc aaaaacatat ggaaaaagtc
+      361 cgccttatac atgaggcaga ctgcaaggaa ggtttcggtt cggtgccgct tccgtttgct
+      421 cttgcaaaaa aatatcccaa tgccagtaag gcttgggcat ggcagtgggt gtttcctcaa
+      481 gcacgccgat ggcgtaacaa agaaaccggc gagcaggggc gccaccatat cgatccttcg
+      541 gttattcagc gtactctgca tgaagccgtt ttgaggtcag gtatccctaa accaatcggc
+      601 tgtcacactt tccgccactc atttgcaacg cacctgcttg aagccggcta cgatatccgc
+      661 accatccaag agcttctcgg ccacagcgat gttaaaacta ctatggttta cacccatgtc
+      721 ctaaaccgcg gcggactagg cattcaaagc cctatcgaca ggatgtgatc tttcttttct
+      781 ccgtttagtg aggataggcc taatctgcca gcggttcatt tatccgattt gtatttatgg
+      841 tagaaaggtg tgtttttttg ttttgcagca gtttagattg caaattattg gtttttatgc
+      901 tatagtgagg aagggtcgaa gggatgttaa ccttacaaaa taaatactaa tcataggtgg
+      961 tgtaaaatga aggtagtagt acttgctgga ggattaagtc ctgaaagaga tgtatcttta
+     1021 tcatcaggag cattaattgc aaatgcatta atcgaaaatg ggcatagtgt ttttctttta
+     1081 gatttactaa taggaactga taaaaaattt gaagaattat catttttaac aaaagattca
+     1141 atagatcgat atgagtatat tataccacca gaagagccaa atcttattga attgcatcaa
+     1201 aagtatcctg atcaaatcgg aaaaggtgta ctgagcattt gtaaacaagc agatgttgtg
+     1261 tttattgcat tacatggttc aataggtgaa aatggtcagc tacaatcaat ttttgaaatg
+     1321 caatcaatta aacacacagg atcaagttac tttggctgta tgttggcgat ggataaagat
+     1381 atatcaaaaa aaattgcaac tattgagggt atttctacag caaaatggaa aacttattca
+     1441 ttatcagaag ttaatcttga tacaataaag agagaaacaa aaataccttg tgttgttaaa
+     1501 ccacttagtt gtggttctag tattgggata tcaatagtta aaaccgaaga agaattattg
+     1561 aatgcattaa gagttgcgaa aaaatatgaa gatagtattt tgattgaaga tatgatcaaa
+     1621 gggagagaag tgtcatgtgg tatagttgga gataaggcat taccggtaat tgaaataatt
+     1681 ccaaagtcag gattttatga ttataaaaat aagtatcaaa aaggattatc caacgaaata
+     1741 tggcctgctg aaatagatag aagcattgag aaaacaatac aggcattttc atataaaatg
+     1801 cataaagctt taagactagg ttattattca cgatcagatt ttattattcg agataatgaa
+     1861 gaaattgttt atttggagac caatacattg cctggaatga ctccaacgag tttattgcct
+     1921 caagaagcaa gagtatctgg aattacatat aatgaattat gtaatcaaat tgtacataat
+     1981 gcaataaaaa ttgaaggcta acactcgcta caacctgaca ttgc
+//
+
+LOCUS       KU886209                2024 bp    DNA     linear   ENV 22-JUL-2020
+DEFINITION  Uncultured bacterium clone TMU7 integron integrase gene, partial
+            cds, and D-alanine-D-alanine ligase 7 gene, complete cds.
+ACCESSION   KU886209
+VERSION     KU886209.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 2024)
+  AUTHORS   Rahman,M.A., Mullany,P. and Roberts,A.P.
+  TITLE     D-cycloserine resistance genes in saliva metagenomic DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2024)
+  AUTHORS   Rahman,M.A., Mullany,P. and Roberts,A.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-MAR-2016) Department of Microbial Diseases, UCL
+            Eastman Dental Institute, 256 Gray's Inn Road, London, London
+            WC1X8LD, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2024
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="saliva"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:77133"
+                     /clone="TMU7"
+                     /environmental_sample
+                     /collection_date="10-Oct-2013"
+                     /collected_by="Md. Ajijur Rahman"
+     mobile_element  1..2024
+                     /mobile_element_type="integron"
+     CDS             <1..768
+                     /codon_start=1
+                     /transl_table=11
+                     /product="integrase"
+                     /protein_id="ARE68328.1"
+                     /translation="SSQNQALAALLFLYKNILGLTIKTPENIVRAKKPKKLPAVMTRE
+                     ETAKIFSLLPENDYGLLIRLLYGTGMRLMEALRLRIQDIDFGKNEITVHCGKGAKDRK
+                     TVLPVSLKFPLQKHMEKVRLIHEADCKEGFGSVPFPFALAKKYPNASKAWAWQWVFPQ
+                     ARRWRNKETGEQGRHHIDPSVIQRTLHGAVLRSGIPKPIGCHTFRHSFATHLLEAGYD
+                     IRTIQELLGHSDVKTTMVYTHVLNRGGLGIQSPIDRM"
+     regulatory      863..868
+                     /regulatory_class="minus_35_signal"
+                     /note="Putative gene cassette promoter, Pc1"
+     misc_recomb     872..936
+                     /note="primary recombination site attI"
+     regulatory      878..883
+                     /regulatory_class="minus_35_signal"
+                     /note="Putative gene cassette promoter, Pc2"
+     regulatory      885..890
+                     /regulatory_class="minus_10_signal"
+                     /note="Putative gene cassette promoter, Pc1"
+     regulatory      901..906
+                     /regulatory_class="minus_10_signal"
+                     /note="Putative gene cassette promoter, Pc2"
+     misc_feature    927..2024
+                     /note="gene cassette TMU6"
+     CDS             967..2001
+                     /codon_start=1
+                     /transl_table=11
+                     /product="D-alanine-D-alanine ligase 7"
+                     /protein_id="ARE68329.1"
+                     /translation="MKVVVLAGGLSPERDVSLSSGALIANALIENGHSVFLLDLLIGT
+                     DKKFEELSFLTKDSIDRYEYIIPPEEPNLIELHQKYPDQIGKGVLSICKQADVVFIAL
+                     HGSIGENGQLQSIFEMQSIKHTGSSYFGCMLAMDKDISKKIATIEGISTAKWKTYSLS
+                     EVNFDTIKRETKIPCVVKPLSCGSSIGISIVKTEEELLNALRVAKKYEDSILIEDMIK
+                     GREVSCGIVGDKALPVIEIIPKSGFYDYKNKYQKGLSNEICPAEIDRSIEKTIQAFSY
+                     KMHKALRLGYYSRSDFIIRDNEEIVYLETNTLPGMTPTSLLPQEARVSGITYNELCNQ
+                     IVHNAIKIEG"
+ORIGIN      
+        1 tcaagccaaa atcaggctct tgcggctctt ttgtttctat ataaaaacat attaggctta
+       61 actataaaga ctcctgaaaa tatagtccgt gccaaaaagc ccaaaaagct gcctgccgta
+      121 atgacccgtg aggaaactgc aaagatattc tctcttttgc ctgaaaacga ttacgggctc
+      181 cttattcgct tgctttacgg aactggaatg cggcttatgg aagccttgcg gttaaggatt
+      241 caggatattg attttgggaa aaacgaaatt acggtacact gcggaaaggg tgcgaaagac
+      301 cgtaaaaccg tacttcctgt ttctcttaaa tttccgcttc aaaaacatat ggaaaaagtc
+      361 cgccttatac atgaggcaga ctgcaaggaa ggtttcggtt cggtgccgtt tccgtttgct
+      421 cttgcaaaaa aatatcccaa tgccagtaag gcttgggcat ggcagtgggt gtttcctcaa
+      481 gcacgccgat ggcgtaacaa agaaaccggc gagcaagggc gccaccatat cgatccttcg
+      541 gttattcagc gtactctgca tggagctgtt ttaaggtcag gtatccctaa accaatcggc
+      601 tgtcacactt tccgccactc atttgcaacg cacctgcttg aagccggcta cgatatccgc
+      661 accatccaag agcttctcgg ccacagcgat gttaaaacta ctatggttta cacccatgtc
+      721 ctaaaccgcg gcggactagg cattcaaagc cctatcgaca ggatgtgatc tttcttttct
+      781 ccgtttagtg aggataggcc taatctgcca gcggttcatt tatccgattt gtatttatgg
+      841 tagaaaggtg tgtttttttg ttttgcagca gtttagattg caaattattg gtttttatgc
+      901 tatagtgagg aagggtcgaa gggatgttaa ccttacaaaa taaatactaa tcataggtgg
+      961 tgtaaaatga aggtagtagt acttgctgga ggattaagtc ctgaaagaga tgtatcttta
+     1021 tcatcaggag cattaattgc aaatgcatta atcgaaaatg ggcatagtgt ttttctttta
+     1081 gatttactaa taggaactga taaaaaattt gaagaattat catttttaac aaaagattca
+     1141 atagatcgat atgagtatat tataccacca gaagagccaa atcttattga attgcatcaa
+     1201 aagtatcctg atcaaatcgg aaaaggtgta ctgagcattt gtaaacaagc agatgttgtg
+     1261 tttattgcat tacatggttc aataggtgaa aatggtcagc tacaatcaat ttttgaaatg
+     1321 caatcaatta aacacacagg atcaagttac tttggctgta tgttggcgat ggataaagat
+     1381 atatcaaaaa aaattgcaac tattgagggt atttctacag caaaatggaa aacttattca
+     1441 ttatcagaag ttaattttga tacaataaag agagaaacaa aaataccttg tgttgttaaa
+     1501 ccacttagtt gtggttctag tattgggata tcaatagtta aaaccgaaga agaattattg
+     1561 aatgcattaa gagttgcgaa aaaatatgaa gatagtattt tgattgaaga tatgatcaaa
+     1621 gggagagaag tgtcatgtgg tatagttgga gataaggcat taccggtaat tgaaataatt
+     1681 ccaaagtcag gattttatga ttataaaaat aagtatcaaa aaggattatc caacgaaata
+     1741 tgtcctgctg aaatagatag aagcattgag aaaacaatac aggcattttc atataaaatg
+     1801 cataaagctt taagactagg ttattattca cgatcagatt ttattattcg agataatgaa
+     1861 gaaattgttt atttggagac caatacattg cctggaatga ctccaacgag tttattgcct
+     1921 caagaagcaa gagtatctgg aattacatat aatgaattat gtaatcaaat tgtacataat
+     1981 gcaataaaaa ttgaaggcta acactcgctt caacctgaca ttgc
+//
+

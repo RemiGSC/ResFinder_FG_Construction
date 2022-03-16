@@ -1,0 +1,399 @@
+LOCUS       KF791056                3919 bp    DNA     linear   ENV 14-DEC-2013
+DEFINITION  UNVERIFIED: Bacterium enrichment culture clone pAMP genomic
+            sequence.
+ACCESSION   KF791056
+VERSION     KF791056.1
+KEYWORDS    ENV; UNVERIFIED.
+SOURCE      bacterium enrichment culture clone pAMP
+  ORGANISM  bacterium enrichment culture clone pAMP
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 3919)
+  AUTHORS   Berman,H.F. and Riley,L.W.
+  TITLE     Identification of novel antimicrobial resistance genes from
+            microbiota on retail spinach
+  JOURNAL   BMC Microbiol. 13 (1), 272 (2013)
+   PUBMED   24289541
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 3919)
+  AUTHORS   Berman,H.F. and Riley,L.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-SEP-2013) Infectious Disease and Immunity, University
+            of California, Berkeley, 530E Li Ka Shing Center, Berkeley, CA
+            94720, USA
+COMMENT     GenBank staff is unable to verify sequence and/or annotation
+            provided by the submitter.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..3919
+                     /organism="bacterium enrichment culture clone pAMP"
+                     /mol_type="genomic DNA"
+                     /isolation_source="retail host"
+                     /host="baby spinach"
+                     /db_xref="taxon:1433136"
+                     /clone="pAMP"
+                     /environmental_sample
+ORIGIN      
+        1 cgttcattta tcttctttaa agcccggcac ttcacgtatt tttatgtctg tcggcagtga
+       61 cgaaggccat gagaaacaat ccattcagcg gaatatgctc cagaatacaa agcaagtgca
+      121 ccaaagttta aaagaaaaag gcttcactga agagcaactg tgtctttcaa ttgaaaaagg
+      181 ggcggtgcac caccgcaagt acttctgcaa acagttcatc atcgcgctca aatggctata
+      241 cggaaaaaac cgctcaaccc tatgagcggt ttttttcatg ctttctgcaa tacaggtttt
+      301 aattcaaaac gattcagcat atagccaaac aaagcagcca gtatctgctg aaacagcatg
+      361 ccgatgacaa cgggaacggc aacctgagac gggaagaacg taacggcaag aactgcgccg
+      421 gcactgatat ttctcatgcc tcccgtaaaa ataagagata caatttcctc ctggcgcctt
+      481 ttcatcattt tcccgatcag ccatgcagcg gcatagcctg ttaacgcgat aaagaaaacc
+      541 gtcaaagcta ttcctatgaa tctcaaatca accgctttga aataaggagc aatcgctgaa
+      601 ctgttaatcg caatcacagc catcaggcaa agctttgaaa aaggtgacag cgcactgctc
+      661 acagatgcag ttctttcggg agatgatatc tgattaaaca gcatgcccag aaaagaagga
+      721 atcacgacca tcacaatcag ccctttcatc attccccaca catccatatg aacctgagcg
+      781 ccggcaagca atgaaaggct cagcggtacg attagcggtg acagcacagt atcaactaag
+      841 ataattgaaa gcgtcaaacc gacgttccct ttgtacatcg ctgcccaaat caagcttgta
+      901 atccccgtag gaatcacaac agccaatgtt aaaccggtga tcgtcaaagg atcaccttta
+      961 aaaatcatgc ttgctattgc cgcgtttatt ttcaatacca cggaatttgt tccggtgggt
+     1021 ctgctttcgg atatcggtag cagtttttcc atgcaaacgg cgcaggtcgg cctgatgctg
+     1081 accatttatg cctgggtggt ggcgctgatg tcactgccga tgatgctgct gacgcgaaat
+     1141 gttgagcgtc gtctgctgtt aattgtgatt tttgtgctgt ttattgccag ccatgccctt
+     1201 tcatcagtgg cgtgggactt caccacgctg gtggcatcac gtattggcat tgcgttttcg
+     1261 cacgccattt tctggtcgat taccgcctcg ctggcgatcc gcgtcgcccc tccggggaaa
+     1321 aagactcagg cactgagtat gctggcgacg ggaaccgcac tggccatggt gctgggtctg
+     1381 cccattggcc gtatgatcgg ccagctaatg ggctggcgca ttacgtttgc ggttatcggc
+     1441 ctggtggcgc tggttaccct gctgctgctg gtaaaactgc tgcctcagct ccccagtgag
+     1501 cataccggat cattaaaaag cgttccgatg ctgttccgcc gtccggcgct ggtggcattg
+     1561 tatatcctga ttgccgcgac ggtaacggcg cactacacgg catacagtta tattgagcca
+     1621 tttattcaga gtgtggcggc actgagcggc ggattcacaa cgttcctgct gttgattttt
+     1681 ggcgcggcag gcattgtcgg cagtgttctg ttcagccttt acggcaataa atacccggcg
+     1741 acatttttac tgggtgccat tggtttaatc accttgtcga tgttatcgct gtatgtgtcg
+     1801 gcaacccata cgctggcgat ttctaccctt tgcattatct gggggatggc aatgatgatt
+     1861 attggcctcg cggtgcaggt gcgcgtgtta gcgctggcac cggatgccac cgatgtggcg
+     1921 atgtcactgc tttccggcat ttataatatt ggtatcggtg cgggtgcgct gttgggtaat
+     1981 caggtgagct tgcatctgaa tatggcgagt gtcggttatg tggggggcac aatcggtatc
+     2041 ttgtcgctgc tgtggtgcgc atggagtatg aagcgttatc cgcagctgcg gttgaatggc
+     2101 tgatgcacgc cccgctatgg ggcgtgcctt aatctgttat gtcagcgact ttaaggccat
+     2161 ttccgcaacg tgtgccagca catcctggcg gctcttcgcg ttaacatcat actgcgtaaa
+     2221 ataaatcgcc ataatcaacg gtgctttacc cggaggccag atcagtgcca catcattggt
+     2281 ggtgccatag ccgccacttc cggttttatc gccgatcgcc caacccgccg gtaacgccgc
+     2341 cgcaatcgct ttcttaccgg tggtgttacc cttcagccag gcgataagct gttgctgctg
+     2401 tggcggcttc agcccatccc tgacggtcag tctttgcacg ctgtgtgcca tatgtaatgg
+     2461 cgtggtggta tcacgcacat cgccaggaat ggcggtattc agcgtgggtt cgttacggtc
+     2521 aagtcgcgtg acactgtcac ccatactcag ggcgaggcgg gtgattgctg ctggcccgcc
+     2581 aacccatgtc agcaatacat tcgcagcaag attgtcactg tactgaatag cggcgctgca
+     2641 cagatcgctc accgtcattc ccgccggatg cttttccgtc accggcatgt aactcagatg
+     2701 atccgccggc gtccagtgca gcacctgctg catcagttca ggccgtgact cactgcgttt
+     2761 taacacggcg gcaaccagta acagcttaaa ggtactgcac agcgcaaaac gctcatcacc
+     2821 gcgataactc aggccaaagc caccggcgct gtcgagcagc gccagcccga tacgaccatt
+     2881 cacctgtttt tccagcgcgg caagttgacg ttgcagggtg tcatccgcag caaatgcagc
+     2941 aaacggtggc agtgacgccg tcagtgcgaa tgccgccccg gcgatcagca actgacgtcg
+     3001 ttgaactgaa aaattcatag catccctttt cagtgaaaaa tttatttcaa tccgcgctgc
+     3061 tgcaacatcg gctcaatagc cggatcgtga ccccgccagt cgtggtaaag ctgtttcaga
+     3121 tcttcgctgt taccgcgtga cagcaccttg tcacggaagc gctgaccatt ttcacgcgtc
+     3181 agcccgccgt gctcctcaaa ccaggcgaac ccatcatcgg ccagcatctc ggtccacaga
+     3241 taggcgtaat acccggcggc atagccgttg ccccagatgt gctggaagta gctggaacgg
+     3301 taacgcggcg gcacggcgtg cagagcaata tgctctttgg tcagtgcgct ctgctcaaac
+     3361 ctatccgcct gctgcagcgg ctgcccgtca cgcagactgt gccagtgtaa atccagcagc
+     3421 gcggcagcca gcagttcgct catgtcatag cctttgttaa agttgccggc acgcagcatt
+     3481 ttgtcacgca gtgcggctgg catgggctct ccactctggt agtggcgggc aaagtggttg
+     3541 aacacctgcg cgtgactggc ccagtgctcg ttaaactgcg acggaaactc cacaaagtca
+     3601 cggggggttt ccgtccccga aaggcccgga taacgctggt cggcaaacat accgtgcagc
+     3661 gcatgaccaa attcgtggaa catcgtaatc acatcatccc atgacagcag cgcgggctgt
+     3721 ccggccaggg gtttactgaa gttggcaacg ttataaatga ccggttttgt tcccagcagt
+     3781 ctggactgct caacaaagtt gcccatccag gctccgccgc ctttgttatc acgcttgaac
+     3841 cagtcagcgt agaacagtgc cagcggggtg ccgtccttat ccagcacttc atacactttc
+     3901 acatccgggt gatacaccg
+//
+
+LOCUS       KF791057                2419 bp    DNA     linear   ENV 14-DEC-2013
+DEFINITION  UNVERIFIED: Bacterium enrichment culture clone pAZT genomic
+            sequence.
+ACCESSION   KF791057
+VERSION     KF791057.1
+KEYWORDS    ENV; UNVERIFIED.
+SOURCE      bacterium enrichment culture clone pAZT
+  ORGANISM  bacterium enrichment culture clone pAZT
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 2419)
+  AUTHORS   Berman,H.F. and Riley,L.W.
+  TITLE     Identification of novel antimicrobial resistance genes from
+            microbiota on retail spinach
+  JOURNAL   BMC Microbiol. 13 (1), 272 (2013)
+   PUBMED   24289541
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 2419)
+  AUTHORS   Berman,H.F. and Riley,L.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-SEP-2013) Infectious Disease and Immunity, University
+            of California, Berkeley, 530E Li Ka Shing Center, Berkeley, CA
+            94720, USA
+COMMENT     GenBank staff is unable to verify sequence and/or annotation
+            provided by the submitter.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2419
+                     /organism="bacterium enrichment culture clone pAZT"
+                     /mol_type="genomic DNA"
+                     /isolation_source="retail host"
+                     /host="baby spinach"
+                     /db_xref="taxon:1433137"
+                     /clone="pAZT"
+                     /environmental_sample
+ORIGIN      
+        1 tgacgttgtg tcaactccgg cagacgtgcc gcgttttttg tgggcttctt tgtatgaatc
+       61 tgactgctgc cagtcttgaa aggctctttc ggtttcccac atggtcagaa tgacataggt
+      121 gtcactgtca agcggacgca gtacgcgaat cgcttcaaaa ccgggctcgt tttcgacttt
+      181 tcccgctctg tttttaaatc tgttttcaaa cagcggacgt ccttcctgag tgacggcaat
+      241 attgttcaat actgcaaaac cgggatgctt catctctccg gcttggtcaa tgacttcata
+      301 agcgtggggt gcctggaaaa ctgtatctcc gtttgtttcg tggatcaaaa ttgcgttttc
+      361 ctgcccctgc atcaaaagga tattttctga gggatgcttc tttacgatcg tttttaaaaa
+      421 atcggctgtc ccatatgtaa tataaacctt catatcagcc acctcctgct tgctagtata
+      481 tcaaaacaat ggtataagtt tctattggcg agtgcttcga acataattcc aaacaatttt
+      541 tcccatacta cctttagaaa ggcgaggtga gtttatgttt aaggtacaga aaaagaaact
+      601 atttataccg atcattattt tagtgttaac tgcttttctc gctttaatag gatatatttc
+      661 aattattttt ctcgggcatt atgtcataga tgaaaagaag ctgattcttc atgcctcttc
+      721 taaaattgtg gatcaaaacg gagatgaggt tgcaagcctg tatacagaaa atcgcgagcc
+      781 ggtctcgatc aatgagattc cgaagcaggt cagagaagcg tttatcgctg ttgaggataa
+      841 acggttctat gagcatcacg gcattgatgt gaaatctgtc ggaagggccg tgtaccgcga
+      901 tatattagca ggcggaaagg tggaaggcgg aagcacgatc acccagcagc ttgccaaaaa
+      961 tatttttctg acacatgaca aaacgttttt aagaaaaaca aaagaagtga tcattgcgat
+     1021 caaccttgaa cgggattaca gcaaggacaa gctgctggaa atgtatttga atcagcttta
+     1081 cttcggacat ggggtctacg gcatacaagc ggcatcccac tattatttta ataaagaagt
+     1141 aaaagatttg actgtatctg aaggggcggt tttggctgct attccgaagg cgccttctac
+     1201 gtattctcct gttttgcatc ctgataaaaa taaggagcgg cgtgatacga ttctcggcat
+     1261 gatgaatgac caaggctaca tcagtgcgaa agacgctgtc agcgcgcagg gccgaacgct
+     1321 tgggctgcac gtaaagaaac agtcggaaac tccctggttt gacagctata ttgaccttgt
+     1381 gattgaagag gcggaggaca agtactcgat ttccggagag cagctccttc aaggcggata
+     1441 cacgatcaag gtgccgctgg attccaagct gcagaagatg gcttatcagg tgatgaagca
+     1501 gggaagctat tatcctggaa ctgatcaaaa tgctgaagga agcgcggtct ttatcaataa
+     1561 caagacaggc ggtgtggaag cggcgatcgg cggaagagat tacacagcca aaggatataa
+     1621 ccgcgtcaca gctgtccgcc agccgggttc cacatttaag ccgcttgcag tatacggacc
+     1681 ggcgatgcag gaaaagaaat ttaagccata ttctctattg aaagatgagc tgcaatccta
+     1741 cggagattat acgccgaaaa actatgacag ccggtatgag ggcgaagtga ccatgtctga
+     1801 cgccattacg tacagcaaaa acgcgccggc tgtctggacg ctgaatgaga tcggcgtcga
+     1861 aacaggaaaa tcttatttga aagcaaacgg cattgatatc cctgatgaag gccttgccct
+     1921 cgctctcggc ggcttggaaa aaggcgtttc accgcttcag cttgccggcg cgttccatac
+     1981 atttgcagcg aatggaatgt atactgagcc gtactttatt tctagcataa tggatgaaga
+     2041 cggagaaaca attgccgatc ataaagaaga aggaaagcgg gtattcagca agcagacgtc
+     2101 ctggaatatg acaagaatgc tgcagcaggt ggtcaaaaag ggaacggcca cgtccggcac
+     2161 ctatcacgga gacctggcgg gaaaaaccgg ttccacgtct tatacaggcg tctctggcgc
+     2221 gacaaaggac gcctggtttg ccggctatac gccgaaaata accggagcta tctggatggg
+     2281 ctatgacaaa acggatcaaa accattattt aaaaggcggc agcgcgtatc cgacgagact
+     2341 gtttaaggat attttgacac aggcaggaga aaccggttct gtgtttacaa agcctaaaaa
+     2401 cgtcaaagaa acgaatcaa
+//
+
+LOCUS       KF791058                1558 bp    DNA     linear   ENV 14-DEC-2013
+DEFINITION  UNVERIFIED: Bacterium enrichment culture clone pCIP genomic
+            sequence.
+ACCESSION   KF791058
+VERSION     KF791058.1
+KEYWORDS    ENV; UNVERIFIED.
+SOURCE      bacterium enrichment culture clone pCIP
+  ORGANISM  bacterium enrichment culture clone pCIP
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1558)
+  AUTHORS   Berman,H.F. and Riley,L.W.
+  TITLE     Identification of novel antimicrobial resistance genes from
+            microbiota on retail spinach
+  JOURNAL   BMC Microbiol. 13 (1), 272 (2013)
+   PUBMED   24289541
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1558)
+  AUTHORS   Berman,H.F. and Riley,L.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-SEP-2013) Infectious Disease and Immunity, University
+            of California, Berkeley, 530E Li Ka Shing Center, Berkeley, CA
+            94720, USA
+COMMENT     GenBank staff is unable to verify sequence and/or annotation
+            provided by the submitter.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1558
+                     /organism="bacterium enrichment culture clone pCIP"
+                     /mol_type="genomic DNA"
+                     /isolation_source="retail host"
+                     /host="baby spinach"
+                     /db_xref="taxon:1433138"
+                     /clone="pCIP"
+                     /environmental_sample
+ORIGIN      
+        1 ggatacacag caaacactcc tcttttatta aaagaacgtt tgttcttatt tttgatttga
+       61 ctataccatg gtctcaatgg gtctcaaatc aaaaatctaa aaaagagtca atgtggcaga
+      121 gaagaaaaca gggcaaatag acgaccgctt gttcgccaat ctttgataca ctggtaaagg
+      181 cagaaccagt gtaaaaggaa gaaggggaca tgaatgaaaa agcaacagct gattcagtta
+      241 ccggagttac cgagtcgttt gacgccggaa agatttgcgg acgtcgaaat cgatgacccg
+      301 tacctgtacc aaacgattta tgaaaaagag acgttgccga ttgagttgac ggaccggttg
+      361 gatgccaacc aagtctgctt tcggaatatt tcgttcgcgg gtctcgtctt tgaacgggcg
+      421 acgtttgaaa acgttcggtt tgaacagtgt gatttgacgg ggtgtcaatt tcaggacagc
+      481 cgtttccatc gtgtcgtctt tgaggattgt cgtttgaccg gcgtccaatt tgaaacgaac
+      541 acgattgacc atgtgacggt caaaggatgt caggcgaatt atgcgcaaat catccgcacg
+      601 gcattacgtc atgtctcgat tgaacagacg gcgatgcggg aaagtcattt tttcgagatg
+      661 aaaccgattg atttacggtt cgatgaggtc gatttgacgg agagtcaatg ggtggagact
+      721 gcgttgcagg gacttgatct gcggcacgcc gacctgtccg gtctgacaat cgacccgcgg
+      781 ttcctgccgg gggcgatcgt cacggaaact caggcgatta cgttcgcacg attgctggga
+      841 ctcgtcattc caagccacga ctaaaaaaac gaagtccact ttcccggatc agaccgggag
+      901 ggtggacttc gtttttattt tagaaggaaa tcgtttcgcc gtcatccgga atgaggaaat
+      961 gagcggacag atgatgggca gccaggaaat cagcaatcat gtcacggcgc agcagacaat
+     1021 gattgacgga ttcgaggtgc gagacgatga tcgtcgcctc agcggcggct tgatgaacag
+     1081 cgagtaaatc gcgctgggac atcgtaatcg gttcaccggt caggaattga gcggcaccgc
+     1141 tgttgacgac gatgatgtca ggcgcatact gttcgatggc ggtttcgacc tcatcacacc
+     1201 aaatcgtatc gccggtgata tagagtgtcg gctcgtcggg gtgcgccaag acgatgccgg
+     1261 agaccgttcc catccgttga ccgatttcac cgaccccgtg ttgccctgat gtgtgagaga
+     1321 ctcggatgtc gccaagcgtc aatccattct caaacgacga gacgttcgtg aatccggctt
+     1381 cgcggatcgt cgctgcgtcc gcctcgtttt gggcgtaaag cggaatctgt tttggcaaaa
+     1441 gttccttcgc cgcttcatca aagtggtcgg catgcagatg cgtcacgaaa atcgcatcgg
+     1501 gatcaagtaa cgttgagacg tcgaccggta agtcaacgag cggattcggg acggcgac
+//
+
+LOCUS       KF791059                2596 bp    DNA     linear   ENV 14-DEC-2013
+DEFINITION  UNVERIFIED: Bacterium enrichment culture clone pTRM genomic
+            sequence.
+ACCESSION   KF791059
+VERSION     KF791059.1
+KEYWORDS    ENV; UNVERIFIED.
+SOURCE      bacterium enrichment culture clone pTRM
+  ORGANISM  bacterium enrichment culture clone pTRM
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 2596)
+  AUTHORS   Berman,H.F. and Riley,L.W.
+  TITLE     Identification of novel antimicrobial resistance genes from
+            microbiota on retail spinach
+  JOURNAL   BMC Microbiol. 13 (1), 272 (2013)
+   PUBMED   24289541
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 2596)
+  AUTHORS   Berman,H.F. and Riley,L.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-SEP-2013) Infectious Disease and Immunity, University
+            of California, Berkeley, 530E Li Ka Shing Center, Berkeley, CA
+            94720, USA
+COMMENT     GenBank staff is unable to verify sequence and/or annotation
+            provided by the submitter.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2596
+                     /organism="bacterium enrichment culture clone pTRM"
+                     /mol_type="genomic DNA"
+                     /isolation_source="retail host"
+                     /host="baby spinach"
+                     /db_xref="taxon:1433139"
+                     /clone="pTRM"
+                     /environmental_sample
+ORIGIN      
+        1 tgaatcgcct ggttgccggt cctggcagca aagcctatgg ccgtctgacc gtcatggcgc
+       61 aatattactg ccaggtgatc ccggtgctgg aagtgccacc agaatccttt accccggcac
+      121 cgaaagtcga ttccgccgtg gtgcgtctga tgccttatgc gcagatccct cacccggttg
+      181 acgatattcg tgccctgagt cgcatcacca cagaagcttt cggcaaacgt cgtaagacgc
+      241 tgcgtaacag tctgggtcat ctgttctctg ccgacgcgct ggcagaaatg gagattgatc
+      301 cgacgctacg tgcggagaat atcagcgttg cacaatattg ccgtctggcg aactggttga
+      361 ctgcgcatcc tcagccgcag gagaactgag tatgaacaat acgcccaaag tctgtgttca
+      421 ggtgcaaagt gcttacgtcg cgtcgcagtc tgcacctgat gaagaacgtt acgtgtttgc
+      481 ttacaccatc actgttcgta atctggggcg tatcccggtt cagctcatcg gccgttactg
+      541 gttaataacc aacggtaacg gccgtgaaac cgaagttcag ggtgaaggcg tggtgggcga
+      601 acagccacac atcgaacccg gcggcgagtt tcagtacacc agcggagcga tactcgaaac
+      661 cccaatgggc accatgcagg gccactatca gatgctcgat gccgatggtg agtccttcgt
+      721 cgttgatatc ccggtcttcc gtctggccat tgccacccat attcattaaa ccggcctttt
+      781 tgcatgagca cttatttaat cggtgatgtt cacnggttgc tacgacgagt tgcgttcgct
+      841 gctttgatca ggcgcagttt gacccggcgt ccgatcagct ctggctgacc ggagacctgg
+      901 tggctcgtgg gcctgcgtca ctggaagttc tgcgttttgt gcgttatctg ggcgactgcg
+      961 tcagactggt gctgggcaac catgacctgc atctgctggc ggtgtatgcc ggtatcagcc
+     1021 gcaataaacc caaagatcgt atcacgccgc tactggaagc ccctgacgct gatctgctga
+     1081 tcaactggct tcgtcgtcag ccgttgcttc aggttgatga agaaaaaaag ctggtcatgg
+     1141 cccatgccgg gataaccccg cagtgggaca ttgaaacggc acaaagctgc gcacgtgaag
+     1201 tggaagccgt actgagcagt gatacttatc cgctgtttct cgatgccatg tacggagata
+     1261 tgcctaacaa ctggtccccc gagctgacgg ggctggcccg cttacgcttc agcaccaatg
+     1321 ccctgacgcg gatgcgtttt tgcttcccga acggccaact ggacatgatt gcgaaagagg
+     1381 ctccggacag tgctcctccg ccgttaaaac cgtggttcaa cattcccgga gtcgtaccgc
+     1441 gcgattatac catcgtgttt ggtcactggg cttcgctgga aggaaaaggt acaccagaag
+     1501 ggattattgc cctggatacc ggctgctgct ggggaggtac gctgaccatg ctgcgctggg
+     1561 aagataagcg tgtatttact caggtgtcga accgcgaacg ataacagagc ccaggtcggg
+     1621 cggaccggta cagcgtgtcc gccccggcca gttaacggcg atctaaaatc tcgaagcaga
+     1681 agctgtggga gttcttctca tccgcatcat ggaattcgct gaacacggac tgccattcat
+     1741 ccggttcata gtccgggaaa tgggtgtccc cttccacttc tgcatcaata tgcgtcagat
+     1801 acaggcggtc tgcgcgcggc agtaattgtt cataaatacg cccaccgccg atcaccatca
+     1861 gttcctcaac atcccctgcc gttttcagcg cctcctcaat cgaggttacc caggtcaccc
+     1921 cggctgcatc gcctttctgg ctgctgataa caatgttcag acgccctggc agcggacggc
+     1981 caattgattc ccaggtgcga cggcccatga ccactggctt gttgagggtg tgcttcttaa
+     2041 accacgccag gtcggcaggc aagtgccagg gcatggcgtt ttccatccca ataacgcggt
+     2101 cagccgcaag ggctgcaatc aggctaatca tcatatcaaa ctcagcaggg ggtaaaattg
+     2161 gcgccatgat acgtaaaggc gaaactttcg tcgataggta agcggaggat attcggtaaa
+     2221 ggtttttcag tgtatcggtt acatcacctt ccgcctattt ttcgccgcac aaaacaagga
+     2281 gacatggtag aatctgccgc tcaatccgct aaagaccgcc actatgttag aaaccagctt
+     2341 attcgtcgcc acgattgtgg tgctgggcat gctctccccc ggccctgact tttttctgat
+     2401 tatcaaaaac gccgcacgtt accgtcgcag cgccgcgctg atgagcgcat taggcgtaaa
+     2461 ctgtgccgtt gccacccata tggcttactg cgtggccggg ctggccgtgg tcatcaccac
+     2521 aacgccgtgg ctgtttatgc tgctgaaata tgccggtgcc gcctatctga tttatatcgg
+     2581 catacaggcg acgaat
+//
+
+LOCUS       KF791060                1169 bp    DNA     linear   ENV 14-DEC-2013
+DEFINITION  UNVERIFIED: Bacterium enrichment culture clone pSXT DHFRA-like
+            gene, complete sequence.
+ACCESSION   KF791060
+VERSION     KF791060.1
+KEYWORDS    ENV; UNVERIFIED.
+SOURCE      bacterium enrichment culture clone pSXT
+  ORGANISM  bacterium enrichment culture clone pSXT
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1169)
+  AUTHORS   Berman,H.F. and Riley,L.W.
+  TITLE     Identification of novel antimicrobial resistance genes from
+            microbiota on retail spinach
+  JOURNAL   BMC Microbiol. 13 (1), 272 (2013)
+   PUBMED   24289541
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1169)
+  AUTHORS   Berman,H.F. and Riley,L.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-SEP-2013) Infectious Disease and Immunity, University
+            of California, Berkeley, 530E Li Ka Shing Center, Berkeley, CA
+            94720, USA
+COMMENT     GenBank staff is unable to verify sequence and/or annotation
+            provided by the submitter.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1169
+                     /organism="bacterium enrichment culture clone pSXT"
+                     /mol_type="genomic DNA"
+                     /isolation_source="retail host"
+                     /host="baby spinach"
+                     /db_xref="taxon:1433140"
+                     /clone="pSXT"
+                     /environmental_sample
+     misc_feature    139..651
+                     /note="similar to DHFRA"
+ORIGIN      
+        1 cagcttgatt cgtcgcagac gcacggtttc tgtcagccag agtttttgca gcgggttcag
+       61 tgcagtcacg cgccgtcctg ttgagcaagt gaggttggag cataaccgct aggtcttggc
+      121 tctggtattc tcgtcgccat gaaaaaaact ctccctttaa gcctgatcgc agccctcggt
+      181 gaaaaccgcg tgatcggcgt cgataacagc atgccctggc atttgccggg ggatttcaaa
+      241 tatttcaagg ccaccaccct tggcaagcca atcatcatgg ggcgcaagac ctgggattct
+      301 ctgggtcgac cgctgcctgg gcgcttgaac ctggtggtca gccgtcagac cgatcttaag
+      361 cttgaaggtg cggaagtttt tccgtcactc gatgccgccg tggcgcgggc tgaagcttgg
+      421 gcgctggagc agggcgtgga tgagttgatg ctgatcggtg gcgcgcagct gtatgcgcag
+      481 gggctggagc aggcggatcg gttatatctc acgcgcgtgg cgctgagtcc ggaaggggat
+      541 gcgtggtttc cggagtttga tacgaaccag tggacgttgg tttccaatct gccaaaccca
+      601 gccgaaggtg ataagccggc ttacaacttc gaagtctggg aaaaagtcta aaagcatcgg
+      661 gggcgagccc cctcccacat tgaagtgcat tccaaatgtg ggagggggct tgcccccgat
+      721 gacggtctat caggcctgcg ctaactccgc atgctcatcc gcatccaaca acgccttgtc
+      781 cgtctgcccc atgatctggc tggtaattgc ccctgccgtc atcgaaccat tcacgttcaa
+      841 cgccgtacgg cccatgtcga tcagcggctc cacggaaatc agcagcgcca ccagtgagac
+      901 cggcaagccc atggccggca gcacgatcag cgcggcaaac gtcgcaccgc ctcccacgcc
+      961 agcaacaccg gccgaactca gggtcacaat cgccaccagg gtcgcgatcc atagcgggtc
+     1021 caacgggttg atgcccacgg tcggcgccac catcaccgcc aacatggccg ggtagaggcc
+     1081 ggcgcaaccg ttctggccga tggtcgcgcc gaacgaagca gcgaaaccgg caatggattg
+     1141 cggaatgccg aggcggcgag tctgcgcct
+//
+

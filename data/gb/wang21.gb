@@ -1,0 +1,155 @@
+LOCUS       MW234455                 915 bp    DNA     linear   ENV 23-JAN-2021
+DEFINITION  Uncultured bacterium clone 3 class A beta-lactamase (bla) gene,
+            complete cds.
+ACCESSION   MW234455
+VERSION     MW234455.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 915)
+  AUTHORS   Wang,X.R., Lian,X.L., Su,T.T., Long,T.F., Li,M.Y., Feng,X.Y.,
+            Sun,R.Y., Cui,Z.H., Tang,T., Xia,J., Huang,T., Liu,Y.H., Liao,X.P.,
+            Fang,L.X. and Sun,J.
+  TITLE     Duck wastes as a potential reservoir of novel antibiotic resistance
+            genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 915)
+  AUTHORS   Wang,X.R., Lian,X.L., Su,T.T., Long,T.F., Li,M.Y., Feng,X.Y.,
+            Sun,R.Y., Cui,Z.H., Tang,T., Xia,J., Huang,T., Liu,Y.H., Liao,X.P.,
+            Fang,L.X. and Sun,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-NOV-2020) South China Agricultural University,
+            National Risk Assessment Laboratory for Antimicrobial Resistance of
+            Animal Original Bacteria, 483 Wushan Road, Tianhe District,
+            Guangzhou, Guangdong 510642, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Velvet v. (Zerbino and Birney, 2008);
+                                     Phrap v.
+                                     (http://www.phrap.org/phredphrapconsed.htm
+                                     l)
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..915
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="duck wastes"
+                     /db_xref="taxon:77133"
+                     /clone="3"
+                     /environmental_sample
+                     /PCR_primers="fwd_name: DWA3-F, fwd_seq:
+                     ttttttgggctagcaggaggaattcccaatttgccaaacgttagtgg, rev_name:
+                     DWA3-R, rev_seq:
+                     cgccccagctggcaattccgacgtcccgtgttagtggcagtttttcta"
+     gene            1..915
+                     /gene="bla"
+     CDS             1..915
+                     /gene="bla"
+                     /note="blaDWA3"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="class A beta-lactamase"
+                     /protein_id="QQW39433.1"
+                     /translation="MNRLFQLTVLLLLFVTSCKTPSYKTDLLRNKIEQILSDKNAVVG
+                     VSIIGNNGKDTLSLNGDKRFPMQSVFKFHIALAVLSEIDKGKLSLDQKIEISKDELLP
+                     EDFWSPLRDENPNGGTFTIERLIQYSVSHSDNTACDVLIRLIGTPKTVEEYIKKSGIN
+                     DIQITYNEEQMQAKWENMFQNWTTPKAASQTLKLFYENKSNLLSQSSYDFFWKTNKET
+                     TTGKNRIRGQLPEGTVVAHKTGWSGTNKETGITAAVNNIGIVFLPNGEYFIISVFVSE
+                     SKEDFDTNEKIIADIAKATYDFYTTTEK"
+ORIGIN      
+        1 atgaatagac tttttcaatt gacagtttta ctattattat tcgttacaag ttgtaaaact
+       61 ccctcctaca agacagactt actgcgaaat aaaattgagc aaatattatc cgacaaaaac
+      121 gcagtagttg gagtttcaat aattggtaac aatggaaaag acacactttc gctaaacgga
+      181 gacaagcgat ttcctatgca aagcgtattt aagttccaca tagcattagc tgtattatcg
+      241 gaaattgaca aaggaaaact ttccttagac caaaaaattg agattagcaa agatgaactt
+      301 ttaccggaag atttttggag ccctcttaga gacgaaaacc ctaatggtgg aacttttact
+      361 attgaaagac taattcaata ttccgtttct catagcgaca atactgcttg tgatgtttta
+      421 atacggctaa taggaacacc taaaacggtt gaagaataca ttaaaaaaag tggcataaat
+      481 gatatacaaa tcacttataa cgaagaacaa atgcaggcta agtgggaaaa tatgtttcag
+      541 aattggacta caccaaaagc agcaagccaa actcttaaat tattttatga gaataaaagc
+      601 aatttgcttt cacaaagtag ttatgacttt ttttggaaaa cgaataaaga gacaacaact
+      661 ggtaaaaacc gtataagggg gcaattgcca gaaggaacag ttgttgctca caagacaggt
+      721 tggtcaggga caaacaaaga aacaggaatt actgccgcag ttaacaatat tggtatcgtt
+      781 tttttaccta atggcgaata ctttatcata agtgtatttg taagtgaatc aaaagaagat
+      841 tttgacacaa atgaaaaaat tatagcagac attgcaaaag caacttatga cttttacaca
+      901 acaactgaaa aatag
+//
+
+LOCUS       MW234456                 891 bp    DNA     linear   ENV 23-JAN-2021
+DEFINITION  Uncultured bacterium clone 4 class A beta-lactamase (bla) gene,
+            complete cds.
+ACCESSION   MW234456
+VERSION     MW234456.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 891)
+  AUTHORS   Wang,X.R., Lian,X.L., Su,T.T., Long,T.F., Li,M.Y., Feng,X.Y.,
+            Sun,R.Y., Cui,Z.H., Tang,T., Xia,J., Huang,T., Liu,Y.H., Liao,X.P.,
+            Fang,L.X. and Sun,J.
+  TITLE     Duck wastes as a potential reservoir of novel antibiotic resistance
+            genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 891)
+  AUTHORS   Wang,X.R., Lian,X.L., Su,T.T., Long,T.F., Li,M.Y., Feng,X.Y.,
+            Sun,R.Y., Cui,Z.H., Tang,T., Xia,J., Huang,T., Liu,Y.H., Liao,X.P.,
+            Fang,L.X. and Sun,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-NOV-2020) South China Agricultural University,
+            National Risk Assessment Laboratory for Antimicrobial Resistance of
+            Animal Original Bacteria, 483 Wushan Road, Tianhe District,
+            Guangzhou, Guangdong 510642, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Velvet v. (Zerbino and Birney, 2008);
+                                     Phrap v.
+                                     (http://www.phrap.org/phredphrapconsed.htm
+                                     l)
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..891
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="duck wastes"
+                     /db_xref="taxon:77133"
+                     /clone="4"
+                     /environmental_sample
+                     /PCR_primers="fwd_name: DWA4-F, fwd_seq:
+                     ttttttgggctagcaggaggaattcccgattatgcagttctaggc, rev_name:
+                     DWA4-F, rev_seq:
+                     cgccccagctggcaattccgacgtccgtaggcgtgtccgacaac"
+     gene            1..891
+                     /gene="bla"
+     CDS             1..891
+                     /gene="bla"
+                     /note="blaDWA4"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="class A beta-lactamase"
+                     /protein_id="QQW39434.1"
+                     /translation="MRIGLMKTVLNFFVVFFLAVFPSIAPADDDNSLIKTVERIADEL
+                     GARVGFSAYDVESDQHWEYHADQRFAMSSTFKTLACAALLQRVDAGQENLDRKVSFSE
+                     SDLVTYSPVTEKYAGGQALGLSDLCEAALTMSDNTAANLILRVLGGPAQVTSFARGLG
+                     DGVTRLDRWETELNEAAPGDQRDTTTPNAMVKNLQSLLLGDALSVKSRDQLRDWLERN
+                     QVADGLFRAVVPEGWIVADRTGAGGFGSRSITAIIWPPERQPIIVALYLTETEASFSK
+                     RNDAIAEIGRALILTVNLGR"
+ORIGIN      
+        1 atgagaattg gtttgatgaa aacagtttta aatttttttg tggtgttttt tcttgcggta
+       61 tttccatcaa ttgcacctgc tgatgatgat aactccctta tcaaaacggt agagcgaatt
+      121 gctgacgagc taggcgctcg ggtgggtttt agtgcttatg atgtggagtc tgatcagcac
+      181 tgggaatatc acgccgacca gcgatttgcg atgtccagta cgtttaaaac gcttgcttgt
+      241 gccgccctgc ttcaacgggt cgatgcggga caagagaatc tcgacagaaa ggtgagtttt
+      301 tcagagtcag atctcgttac ctactcccct gtcacggaga aatacgctgg cggtcaagcc
+      361 ttgggccttt ctgatctttg tgaggcagct ctgacaatga gcgacaatac agctgcaaac
+      421 ttaattttgc gagtcctggg cggcccggca caagttacat cgttcgccag aggtttgggg
+      481 gatggtgtaa cacgtcttga tcgctgggaa acggaactca atgaggctgc accaggcgat
+      541 caaagagata ccacaactcc aaatgcgatg gtgaagaatc ttcagagttt gctgttaggc
+      601 gacgcattat ctgtaaaatc tagagatcaa ctacgggact ggcttgagag aaaccaggtt
+      661 gcagatggac tttttagggc tgttgtacct gaaggctgga ttgttgcaga tcgaactggg
+      721 gctggaggtt tcgggtcgcg atctataaca gccataattt ggccaccgga gcgccagcct
+      781 atcatagtgg ctttatacct tacggaaact gaggcttctt tctcaaaaag aaatgacgct
+      841 attgcggaga taggtagagc gttaattttg acggtgaact taggccggta a
+//
+

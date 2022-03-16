@@ -1,0 +1,1356 @@
+LOCUS       MN017279                 759 bp    DNA     linear   ENV 23-JUN-2019
+DEFINITION  Uncultured bacterium clone 1N26 subclass B1 metallo-beta-lactamase
+            gene, complete cds.
+ACCESSION   MN017279
+VERSION     MN017279.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 759)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Sewage effluent from an Indian hospital harbors novel
+            carbapenemases and integron-borne antibiotic resistance genes
+  JOURNAL   Microbiome (2019) In press
+REFERENCE   2  (bases 1 to 759)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2019) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: metaSPAdes v. 3.8.1
+            Sequencing Technology :: Illumina; PacBio
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..759
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="hospital effluent"
+                     /db_xref="taxon:77133"
+                     /clone="1N26"
+                     /environmental_sample
+                     /note="metagenomic"
+     CDS             1..759
+                     /codon_start=1
+                     /transl_table=11
+                     /product="subclass B1 metallo-beta-lactamase"
+                     /protein_id="QDC28528.1"
+                     /translation="MKFFIKPFLSIIFFAVFSNCTSTKQLVFKPKEIYKTNDLIVSQI
+                     SENSFIHISYLQTNDFGNVACNGLIVRDNNEAIIFDTPTNDKSAEELIKWVKEKLNCK
+                     INAVIPTHFHDDCLGGLKAFNNDNIPSYANFKTVELAKENKYEIPKNSFEDSIILRVG
+                     NKNVIVKFFGEGHTKDNVVAYFPSENVIFGGCLIKELKASKGYLGDANVAEWSNTVEK
+                     VKAEYPNVKIVVPGHGNYGDKKLLDYTIKLFKTQ"
+ORIGIN      
+        1 atgaaatttt ttattaaacc ctttttaagc ataatatttt ttgcagtatt ttcaaattgc
+       61 acttctacaa aacaattggt attcaaacca aaagaaattt ataaaacaaa cgatttaatt
+      121 gttagtcaaa tttctgaaaa ttccttcata cacatttcat atttacaaac aaatgacttt
+      181 ggtaatgtgg cttgcaatgg acttattgtg cgagataaca atgaggcaat tatttttgat
+      241 acgccaacca atgataaaag tgcagaagaa ttaatcaaat gggtaaaaga aaaattaaat
+      301 tgtaaaataa acgctgttat accaactcat tttcacgatg actgtttagg tggattgaaa
+      361 gcatttaata atgataacat tccttcatat gctaatttta aaaccgttga acttgcaaaa
+      421 gaaaataaat atgaaattcc aaaaaacagc tttgaagact caattatttt aagagttgga
+      481 aataaaaatg ttattgtcaa atttttcgga gaaggacata caaaagacaa tgttgtagct
+      541 tattttccca gcgaaaatgt aatatttggt ggttgtttaa taaaagagct aaaagcaagc
+      601 aaaggttatt tgggagatgc aaatgtagca gaatggtcaa atacagttga aaaagttaaa
+      661 gcagagtatc caaatgtgaa aattgttgtt ccaggacacg gaaattacgg tgacaaaaaa
+      721 ttacttgact atacaataaa actattcaaa acacaataa
+//
+
+LOCUS       MN017281                 732 bp    DNA     linear   ENV 23-JUN-2019
+DEFINITION  Uncultured bacterium clone 1N32 subclass B1 metallo-beta-lactamase
+            gene, complete cds.
+ACCESSION   MN017281
+VERSION     MN017281.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 732)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Sewage effluent from an Indian hospital harbors novel
+            carbapenemases and integron-borne antibiotic resistance genes
+  JOURNAL   Microbiome (2019) In press
+REFERENCE   2  (bases 1 to 732)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2019) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: metaSPAdes v. 3.8.1
+            Sequencing Technology :: Illumina; PacBio
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..732
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="hospital effluent"
+                     /db_xref="taxon:77133"
+                     /clone="1N32"
+                     /environmental_sample
+                     /note="metagenomic"
+     CDS             1..732
+                     /codon_start=1
+                     /transl_table=11
+                     /product="subclass B1 metallo-beta-lactamase"
+                     /protein_id="QDC28529.1"
+                     /translation="MWKMVIFICSVCYSSLVSGQKLMISEINDSTFVYTTYNTYKNQQ
+                     VPANGLLKVTSTGVVMIDTPWDTTQFQPLLDSISSRFQKPVNLVIATHAHDDRTAGLD
+                     FYKKKGIPTFTSRATAQICFENEAPQPEFTFLKDTVFNLNGTLIQTYFPGAGHAPDNI
+                     VIWFPNDKVLFGGCFLKSTDATDLGNLSDANLGAWPFAISNVKDRYENARVIIPGHGS
+                     WEHNAIKHTQKLLRQRLRSRIFKKK"
+ORIGIN      
+        1 atgtggaaga tggtgatatt catatgttct gtatgttaca gttctttggt aagcggacaa
+       61 aagctaatga tttccgaaat caatgacagt actttcgttt ataccacata caacacctat
+      121 aagaatcaac aagttccggc caatggtttg ctaaaagtaa caagtactgg agttgtaatg
+      181 atcgacacac cctgggacac cacgcaattc caacccttgt tggatagtat ttccagccgt
+      241 tttcaaaaac ctgtaaattt agtgatcgct acacatgcac acgatgatcg cacagctggc
+      301 ttggattttt acaagaagaa aggaatccca actttcactt ctcgggctac tgcacaaata
+      361 tgttttgaaa acgaagcgcc acaaccagaa ttcacttttc tgaaagacac cgtgtttaat
+      421 ttgaacggga ctttgatcca gacttatttt cccggcgccg gacatgcgcc cgacaatatc
+      481 gtaatctggt ttccaaatga caaagtgctt ttcggaggtt gttttttaaa gtcgacagac
+      541 gcaacagatc ttggaaatct ctccgacgcc aatttaggtg cttggccttt cgcaatttcg
+      601 aatgtgaagg atcgatacga gaatgccaga gtcattatcc ctggacatgg aagttgggaa
+      661 cataacgcaa tcaaacacac tcaaaaatta ttgcgtcaac gacttcgttc gcgtattttc
+      721 aagaaaaaat aa
+//
+
+LOCUS       MN017282                 741 bp    DNA     linear   ENV 23-JUN-2019
+DEFINITION  Uncultured bacterium clone 1N4 subclass B1 metallo-beta-lactamase
+            gene, complete cds.
+ACCESSION   MN017282
+VERSION     MN017282.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 741)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Sewage effluent from an Indian hospital harbors novel
+            carbapenemases and integron-borne antibiotic resistance genes
+  JOURNAL   Microbiome (2019) In press
+REFERENCE   2  (bases 1 to 741)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2019) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: metaSPAdes v. 3.8.1
+            Sequencing Technology :: Illumina; PacBio
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..741
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="hospital effluent"
+                     /db_xref="taxon:77133"
+                     /clone="1N4"
+                     /environmental_sample
+                     /note="metagenomic"
+     CDS             1..741
+                     /codon_start=1
+                     /transl_table=11
+                     /product="subclass B1 metallo-beta-lactamase"
+                     /protein_id="QDC28530.1"
+                     /translation="MRATIFFITFMFQLMNLFGQKSNAKLNIEQLTGDFYIYTTYNTY
+                     EGSRLPANGMYLVTNEGVVLFDTPWDTTQFQPLLDSIKFKHNKNVTFCIATHWHGDRT
+                     EGLEYYKQQGIKTFTTQLTDDWSKKNKGKRAEFIMTKDTVFTFGNYAFETYYPGEGHT
+                     ADNIIVWFSKEKILYGGCLIKGADAKNLGYLGDANVNEYETTLLSVQNKCPDPKFIIV
+                     SHSDWKSLYALKHSIQLAHKLKRKSLPK"
+ORIGIN      
+        1 atgcgagcaa ctatattctt cattactttt atgttccaac tgatgaatct ttttggacag
+       61 aaaagtaatg ctaaacttaa cattgaacag ttgacgggcg acttctacat ttataccacc
+      121 tacaacactt acgaaggaag tcgattacct gctaatggta tgtatctcgt tacaaacgag
+      181 ggtgttgttt tgtttgatac gccttgggat actacgcaat tccaaccttt gctcgatagt
+      241 ataaaattca aacacaacaa gaatgttacg ttttgcattg caacgcattg gcatggcgat
+      301 agaaccgaag gacttgaata ttacaagcaa caaggcatta aaaccttcac cacgcaactc
+      361 accgatgatt ggagtaaaaa gaataaggga aagcgggctg agttcataat gacaaaggat
+      421 actgttttca cttttgggaa ttatgcattt gaaacctatt accctgggga aggacacacg
+      481 gccgataata ttatcgtttg gtttagcaaa gagaaaatac tttacggtgg ttgcttaatc
+      541 aaaggagcag atgctaaaaa tctgggctat ttaggcgatg caaatgtgaa tgaatacgaa
+      601 acaacactat taagtgtaca gaataaatgt ccggatccaa aatttattat tgtatcccat
+      661 agcgattgga agagtttata cgcattgaag cattctattc aattagcgca taaactgaaa
+      721 cgaaaatcat tacctaaata a
+//
+
+LOCUS       MN017283                 753 bp    DNA     linear   ENV 23-JUN-2019
+DEFINITION  Uncultured bacterium clone 1N59 subclass B1 metallo-beta-lactamase
+            gene, complete cds.
+ACCESSION   MN017283
+VERSION     MN017283.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 753)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Sewage effluent from an Indian hospital harbors novel
+            carbapenemases and integron-borne antibiotic resistance genes
+  JOURNAL   Microbiome (2019) In press
+REFERENCE   2  (bases 1 to 753)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2019) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: metaSPAdes v. 3.8.1
+            Sequencing Technology :: Illumina; PacBio
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..753
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="hospital effluent"
+                     /db_xref="taxon:77133"
+                     /clone="1N59"
+                     /environmental_sample
+                     /note="metagenomic"
+     CDS             1..753
+                     /codon_start=1
+                     /transl_table=11
+                     /product="subclass B1 metallo-beta-lactamase"
+                     /protein_id="QDC28531.1"
+                     /translation="MHFQRKYFLIILLSLVSIFLHAQEQNTIKLTDDIELVKLTKNVY
+                     QHISYYTSPQYGRFPSNGLIYIIEDKAFLFDTPMSNEMTKILVNYIESDLKKKIIGFI
+                     PNHWHDDCIGGLDFINSKNITSYANQMTIDIAKQKNLPLPQIGFNDSLILKFDKVRIE
+                     CFYPGPAHAKDNIVVWLPDEKVLFAGCMCKEMASKSLGNIADADLNNWPEAIITLINR
+                     YKDVNFVIPGHGKCGGTELLYHTAELLKQNIK"
+ORIGIN      
+        1 atgcattttc aaaggaaata ttttctgata attcttttat cacttgtaag tattttttta
+       61 catgctcagg agcaaaatac tataaaactt actgatgaca tcgaattagt gaagttaact
+      121 aaaaatgtct atcaacatat ttcttattat acatcacctc aatacggacg atttccgtcc
+      181 aatgggctga tctatattat agaggataaa gcattcctgt ttgacactcc gatgtcaaat
+      241 gaaatgacta aaatattggt aaactatata gaatctgatc ttaaaaaaaa gataatcggt
+      301 tttattccaa atcattggca tgatgattgt atcggaggac tggatttcat caatagtaag
+      361 aatattacat cttatgctaa tcagatgact atagatattg caaagcaaaa aaatcttcca
+      421 ttgccacaaa ttggttttaa tgatagcctt atcctaaaat ttgataaagt cagaatagaa
+      481 tgtttttatc ccggacctgc tcatgctaag gacaatatag ttgtgtggtt acctgatgaa
+      541 aaagtgcttt tcgcagggtg tatgtgcaaa gaaatggctt ctaaaagtct gggcaatatt
+      601 gctgatgcag atctaaataa ttggcctgaa gcaatcatta cattgataaa caggtataaa
+      661 gatgttaatt ttgtgattcc aggtcatggc aaatgtggag gaacagaatt attatatcat
+      721 acggctgagt tgctcaaaca aaatattaaa taa
+//
+
+LOCUS       MN017284                 738 bp    DNA     linear   ENV 23-JUN-2019
+DEFINITION  Uncultured bacterium clone 1N6 subclass B1 metallo-beta-lactamase
+            gene, complete cds.
+ACCESSION   MN017284
+VERSION     MN017284.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 738)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Sewage effluent from an Indian hospital harbors novel
+            carbapenemases and integron-borne antibiotic resistance genes
+  JOURNAL   Microbiome (2019) In press
+REFERENCE   2  (bases 1 to 738)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2019) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: metaSPAdes v. 3.8.1
+            Sequencing Technology :: Illumina; PacBio
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..738
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="hospital effluent"
+                     /db_xref="taxon:77133"
+                     /clone="1N6"
+                     /environmental_sample
+                     /note="metagenomic"
+     CDS             1..738
+                     /codon_start=1
+                     /transl_table=11
+                     /product="subclass B1 metallo-beta-lactamase"
+                     /protein_id="QDC28532.1"
+                     /translation="MRQITVLFILLITRLFSQAQSNGKALEITHLTGDFYIYTTYNDY
+                     RGSKVSANGTYLVTDDGVAMFDTPWDTTQFQPLLDSIQQRHNKPVVMCIATHFHEDRT
+                     GGLEYYNRQGIKTFTTVLTDELSQKNNHKRAKFLIVNDTVFSLGNYKFETFYPGQGHS
+                     PDNIVIWFEDQRILHGACLIKSIYDKTLGYLGDANKTDYAATIRKVMAKYINPSYVIT
+                     GHGDWTHVRALKHTLAMAEKLHRKSSR"
+ORIGIN      
+        1 atgcgccaga ttacagtatt gtttatttta cttattacac ggctattcag ccaggctcaa
+       61 agcaatggaa aggcactgga gattacccac cttaccggcg acttttatat ttacactacc
+      121 tacaatgatt atagaggcag taaagtgtct gccaacggta cttatctggt aaccgatgac
+      181 ggtgtagcta tgtttgatac cccttgggat accacacagt ttcagccctt gctggatagt
+      241 atacaacaga ggcataataa accggtggta atgtgtattg ctacgcattt tcacgaggat
+      301 cgtaccggtg gtttggagta ctacaaccgt cagggtatta aaacatttac taccgtgcta
+      361 accgatgaac ttagccaaaa gaataaccat aaaagggcta agtttttaat cgtaaacgat
+      421 actgtgttta gccttggtaa ttataagttt gaaacttttt accccggtca gggccatagc
+      481 ccggataaca ttgtaatatg gtttgaagac caacggatat tgcacggagc atgtcttata
+      541 aaaagcatat acgataaaac actaggctat cttggcgatg ccaataaaac agattatgcc
+      601 gctacgataa gaaaagtaat ggcaaagtat attaacccaa gctatgtaat aaccggccac
+      661 ggagattgga cccatgtacg ggcactaaag cacacgctgg ctatggcaga gaagctacac
+      721 aggaaaagca gccggtag
+//
+
+LOCUS       MN017285                 804 bp    DNA     linear   ENV 23-JUN-2019
+DEFINITION  Uncultured bacterium clone 1N7 subclass B1 metallo-beta-lactamase
+            gene, complete cds.
+ACCESSION   MN017285
+VERSION     MN017285.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 804)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Sewage effluent from an Indian hospital harbors novel
+            carbapenemases and integron-borne antibiotic resistance genes
+  JOURNAL   Microbiome (2019) In press
+REFERENCE   2  (bases 1 to 804)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2019) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: metaSPAdes v. 3.8.1
+            Sequencing Technology :: Illumina; PacBio
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..804
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="hospital effluent"
+                     /db_xref="taxon:77133"
+                     /clone="1N7"
+                     /environmental_sample
+                     /note="metagenomic"
+     CDS             1..804
+                     /codon_start=1
+                     /transl_table=11
+                     /product="subclass B1 metallo-beta-lactamase"
+                     /protein_id="QDC28533.1"
+                     /translation="MRNIFVLIVTFLISCVCLAQKEIILSPELKISRLTDEVWVVTHS
+                     FPWESNSLIVRASDNELVLIDTPYTDDATEQVLQFINKEIKPKNITAVLTGFHIDNLG
+                     GTRCLLQHQIPVYGSDRTCKLIDERSAATQKQILSWLQKPEQAKYREVYAEMKFSKPN
+                     HIFPIEKGLLLKKGNLSFDVYFPGESHSPDNLTVYIKELKLLFGGCMIKSMESPNLGF
+                     TGDANMNEWPVSVKKVQEKYPDAKWVIPHHGNWGGVDLLQHTIDLFKNH"
+ORIGIN      
+        1 atgagaaaca ttttcgttct aatcgttact tttctaatca gttgcgtttg tttggcacag
+       61 aaagagataa ttttaagtcc ggagttaaaa ataagtcggt tgactgatga agtttgggta
+      121 gtgacgcatt cttttccctg ggaatcgaac tcgctgattg tgagagcgtc agacaacgaa
+      181 cttgttttaa tcgacacacc atacaccgat gacgcgaccg aacaggtttt gcagttcatc
+      241 aacaaagaaa taaaaccgaa gaacataacc gctgttttaa ccggatttca tatcgacaac
+      301 ctgggcggaa caagatgctt acttcagcac caaataccgg tttacggatc agaccgcacc
+      361 tgtaaattga tcgacgagcg gtcggcagct acccaaaaac aaatcctttc gtggctgcaa
+      421 aaaccggagc aggcaaagta tcgggaagta tatgccgaaa tgaaattttc gaagcctaat
+      481 catattttcc cgattgaaaa aggactgcta ctgaaaaagg gcaatctgag ctttgatgtg
+      541 tattttcccg gcgaatcaca ttctcccgat aacctcacgg tttacattaa agaattgaaa
+      601 ctgctgtttg gcggttgtat gataaaatcg atggaaagcc caaaccttgg atttaccggc
+      661 gatgccaata tgaacgaatg gccggtttca gtgaaaaaag ttcaggaaaa ataccccgat
+      721 gcaaaatggg tgattccgca ccacggaaat tggggcgggg tggatttgtt acaacacacg
+      781 attgatcttt ttaagaatca ttga
+//
+
+LOCUS       MN017286                 756 bp    DNA     linear   ENV 23-JUN-2019
+DEFINITION  Uncultured bacterium clone 1N8 subclass B1 metallo-beta-lactamase
+            gene, complete cds.
+ACCESSION   MN017286
+VERSION     MN017286.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 756)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Sewage effluent from an Indian hospital harbors novel
+            carbapenemases and integron-borne antibiotic resistance genes
+  JOURNAL   Microbiome (2019) In press
+REFERENCE   2  (bases 1 to 756)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2019) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: metaSPAdes v. 3.8.1
+            Sequencing Technology :: Illumina; PacBio
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..756
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="hospital effluent"
+                     /db_xref="taxon:77133"
+                     /clone="1N8"
+                     /environmental_sample
+                     /note="metagenomic"
+     CDS             1..756
+                     /codon_start=1
+                     /transl_table=11
+                     /product="subclass B1 metallo-beta-lactamase"
+                     /protein_id="QDC28534.1"
+                     /translation="MKTLLFVLTFLYCGNLYSQNTLSPKEFKPIEVYHSESLIIIQIS
+                     DNAFLHTSYLQTNDFGNVPCNGMVVRNSNEVVVFDTPTNNKSAEDLIKFIKENLHCKI
+                     NAIIPTHFHDDCLGGLASFHKLKIPSFGNFNTIESAKANNVVAPQNGFKDSLKLSLGN
+                     TYAIVKYFGQGHTKDNVVGYFPSENVLFGGCLIKELDATKGYLGDANVGEWSNTVEKV
+                     KQQYPNVKIVIPGHGEIGGKELLDYTIKLFKTN"
+ORIGIN      
+        1 atgaaaacac ttctttttgt tctaaccttt ttatactgtg gaaatttata ttcccaaaat
+       61 acgttgagtc ccaaagaatt taagcccatt gaagtttatc attctgaaag tttgattatc
+      121 attcaaattt ctgataatgc atttttgcat acttcatatt tacaaacaaa tgattttgga
+      181 aatgttccct gtaacgggat ggtagttagg aatagcaatg aagtggttgt attcgataca
+      241 cctaccaata ataaaagtgc tgaagattta atcaaattca taaaggaaaa ccttcactgt
+      301 aaaataaatg caattatacc cactcacttt cacgatgatt gtttaggggg tttagcctca
+      361 tttcataagt taaaaatccc ttcattcgga aattttaata ccatcgaatc agcgaaagca
+      421 aacaatgttg ttgcaccaca aaatgggttt aaggattctc ttaaattaag tcttggaaac
+      481 acttatgcta ttgtaaaata ttttggtcaa ggacatacaa aggacaatgt tgttggatat
+      541 tttcccagtg aaaatgtatt atttggcggc tgtttaatta aagaacttga tgcaacaaaa
+      601 ggatatttgg gagatgccaa tgttggagaa tggtcaaata ctgttgagaa agtgaaacaa
+      661 caatatccta atgttaaaat tgtaattcct ggtcacggag aaattggggg taaagaattg
+      721 cttgattata ctataaaatt atttaagaca aattag
+//
+
+LOCUS       MN017287                 750 bp    DNA     linear   ENV 23-JUN-2019
+DEFINITION  Uncultured bacterium clone 1N9 subclass B1 metallo-beta-lactamase
+            gene, complete cds.
+ACCESSION   MN017287
+VERSION     MN017287.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 750)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Sewage effluent from an Indian hospital harbors novel
+            carbapenemases and integron-borne antibiotic resistance genes
+  JOURNAL   Microbiome (2019) In press
+REFERENCE   2  (bases 1 to 750)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2019) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: metaSPAdes v. 3.8.1
+            Sequencing Technology :: Illumina; PacBio
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..750
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="hospital effluent"
+                     /db_xref="taxon:77133"
+                     /clone="1N9"
+                     /environmental_sample
+                     /note="metagenomic"
+     CDS             1..750
+                     /codon_start=1
+                     /transl_table=11
+                     /product="subclass B1 metallo-beta-lactamase"
+                     /protein_id="QDC28535.1"
+                     /translation="MKFQLQILVFICSAFVISCGSSRKATETKGQLYKSEDLVINQIS
+                     PNAFVHTSFLQTNDFGLVPCNGLIVRDKNEVVIFDTPENDKSAEELIKWISNKLNCKI
+                     IAVIPTHFHADCLGGLNTFTKYKIPSYAYFKTIEFAKENKVAVPEISFKDSLILKVGN
+                     KEVIAKFFGEGHTKDNVVGYFPSEQIMFGGCLIKELNATKGYLGDANTKDWSSTVLKV
+                     KSAYPNVKIIVPGHGNYGDQKLLDYTIQLFK"
+ORIGIN      
+        1 atgaaatttc aattacaaat tttagtattt atatgttcag cttttgtaat aagttgtggt
+       61 tcttcaagaa aagccactga aacaaaagga caattatata aatcagaaga tttagtgatt
+      121 aatcaaattt ctccaaatgc ttttgttcat acctctttct tacaaacaaa tgattttggc
+      181 ttagttccat gtaatggact tattgttaga gataaaaatg aagtcgtaat ttttgatacg
+      241 cctgaaaatg acaaaagtgc tgaagaatta ataaaatgga tttcaaataa attaaactgt
+      301 aaaataattg ctgtaattcc aacacacttt catgcggatt gtttaggtgg attgaataca
+      361 tttactaaat acaaaattcc ttcttatgct tatttcaaga ctattgagtt tgctaaagaa
+      421 aataaagttg cagttcctga aataagtttt aaagattcgt tgattttaaa agttggcaat
+      481 aaagaagtta ttgcaaaatt ttttggagaa ggacatacaa aagacaatgt tgtgggctat
+      541 ttccctagtg aacagattat gtttggaggt tgcttaatta aggaattaaa tgccacaaaa
+      601 ggttatttgg gagatgctaa tactaaagat tggtcatcaa ctgttttaaa agtgaaatct
+      661 gcttatccaa atgtaaaaat tattgtacca ggacatggaa attatggcga ccagaaatta
+      721 ctcgactata caattcagct ttttaaatag
+//
+
+LOCUS       MN017288                 726 bp    DNA     linear   ENV 23-JUN-2019
+DEFINITION  Uncultured bacterium clone 1N27 subclass B1 metallo-beta-lactamase
+            gene, complete cds.
+ACCESSION   MN017288
+VERSION     MN017288.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 726)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Sewage effluent from an Indian hospital harbors novel
+            carbapenemases and integron-borne antibiotic resistance genes
+  JOURNAL   Microbiome (2019) In press
+REFERENCE   2  (bases 1 to 726)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2019) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: metaSPAdes v. 3.8.1
+            Sequencing Technology :: Illumina; PacBio
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..726
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="hospital effluent"
+                     /db_xref="taxon:77133"
+                     /clone="1N27"
+                     /environmental_sample
+                     /note="metagenomic"
+     CDS             1..726
+                     /codon_start=1
+                     /transl_table=11
+                     /product="subclass B1 metallo-beta-lactamase"
+                     /protein_id="QDC28536.1"
+                     /translation="MRNIISTIALLFGVLPVFGQTTEAKLKIAPLTGNFYVYTTYNTY
+                     EGHQIPANGMYLVTTEGVVLFDTPWDTTQFQPLLDSIQLKHQKNVLLCVATHWHSDRT
+                     EGLEYYRQQGIQTFTTELTDKLSRQNGKKRAEFLMTKDTVFNVGTYEFEMYYPGEGHT
+                     ADNIVIWFHKEKILYGGCLIKGTDADNLGYLGDANVSAYKTTLKNVRKKCPNPKYIIV
+                     SHSDWDNTHSLKHSIKLARKLGR"
+ORIGIN      
+        1 atgcgtaata tcatatcaac tattgcatta ttattcggag tgctgccggt tttcggacag
+       61 acaacggaag caaaactgaa aattgctcct ctgaccggta atttttatgt ctacacgact
+      121 tacaatacct acgaaggcca tcagattccg gccaatggaa tgtatctcgt tactacagaa
+      181 ggggtggttt tgtttgatac gccctgggat accacgcagt ttcaaccttt gctggatagc
+      241 atacaactta aacatcagaa aaatgtactg ctgtgtgtcg cgacgcactg gcacagcgac
+      301 cgcaccgaag gtctggagta ttacagacag caggggattc aaacattcac tacggagctc
+      361 acggataaac tatccagaca aaacggtaaa aaaagagcgg aatttctgat gacaaaagat
+      421 acggtcttta atgtcggcac atacgaattt gaaatgtatt atccgggaga aggacacacc
+      481 gcggacaata tcgtcatctg gttccataaa gaaaaaatcc tctacggcgg ctgcctgatt
+      541 aaaggcacgg atgccgataa tttaggctat ctgggagatg caaacgtttc ggcctacaag
+      601 acgacactga agaacgtccg gaaaaaatgt cccaatccga agtatattat tgtctcccac
+      661 agtgattggg ataatacaca ctccctgaaa cattcgataa agctggcgcg gaagttaggt
+      721 agataa
+//
+
+LOCUS       MN017289                 912 bp    DNA     linear   ENV 23-JUN-2019
+DEFINITION  Uncultured bacterium clone 3N14 subclass B3 metallo-beta-lactamase
+            gene, complete cds.
+ACCESSION   MN017289
+VERSION     MN017289.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 912)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Sewage effluent from an Indian hospital harbors novel
+            carbapenemases and integron-borne antibiotic resistance genes
+  JOURNAL   Microbiome (2019) In press
+REFERENCE   2  (bases 1 to 912)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2019) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: metaSPAdes v. 3.8.1
+            Sequencing Technology :: Illumina; PacBio
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..912
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="hospital effluent"
+                     /db_xref="taxon:77133"
+                     /clone="3N14"
+                     /environmental_sample
+                     /note="metagenomic"
+     CDS             1..912
+                     /codon_start=1
+                     /transl_table=11
+                     /product="subclass B3 metallo-beta-lactamase"
+                     /protein_id="QDC28537.1"
+                     /translation="MPGAGRPRSTHRTRHGGRGMKRILIAAAALVALPAQAQGPASWT
+                     TPTAPFKVADNLYYVGSAGISVWLITTPQGHILIDGGMPGAAVQIEKSITELGFKPKD
+                     VKLLLATHAHIDHVGGTADLKADTGAQLVAMAQDKAALETGTYPGSEDVKALNFKPAK
+                     VDRVIRDGEVLALGGVKLTAHLTPGHTAGCTTWTFPVTDQGRKLDALLYCSTSVAANR
+                     LVSKTRGPQYPGIVDDYRKAFAKLKTLKADMFLAPHAEQFGLDAKRTKLGQGPNPFVD
+                     PTELQTRVAASEADFRRDLARQEEAAK"
+ORIGIN      
+        1 ctgccgggtg ctgggcgtcc gcgaagcacc caccgaaccc gccacggagg tcgcggcatg
+       61 aaacgcatcc tgatcgccgc cgccgccctc gtcgccctgc cggcccaggc ccaggggccg
+      121 gcgtcctgga ccacgcccac cgcgcccttc aaggtggcgg ataacctgta ctatgtcggc
+      181 tcggccggta tctcggtctg gctgatcacc acgccccagg gccacatcct catcgatggc
+      241 ggcatgccgg gcgcggccgt ccagatcgag aagagcatca ccgaactggg cttcaagccc
+      301 aaggacgtga agctgctgct ggccacccac gcccacatcg accacgttgg cggaaccgcc
+      361 gacctgaagg ccgataccgg cgcgcagctg gtggcgatgg cgcaggacaa ggccgccctg
+      421 gagaccggga cctatcccgg ctctgaggac gtgaaggcgc tgaacttcaa gccggccaag
+      481 gtcgaccgcg tgatccgcga tggggaggtc ctcgccttgg gcggcgtcaa gctgacggcg
+      541 cacctgacgc cgggccacac cgccggctgc acgacctgga cgtttcccgt gaccgaccag
+      601 ggccgcaagc tggacgcgct gctctattgc agcaccagcg tcgccgccaa tcggctggtc
+      661 tcgaagaccc gcggcccgca atatcccggc atcgtcgacg actaccgcaa ggccttcgcc
+      721 aagctgaaga ccctgaaggc tgacatgttc ctggcccccc acgccgagca gttcggcctg
+      781 gacgccaagc gcacgaaact gggccagggc ccgaacccgt tcgtcgatcc caccgaactg
+      841 cagacccgcg tcgcggcgtc ggaggcggac ttccgccgcg acctcgcccg ccaggaggag
+      901 gccgcgaaat ga
+//
+
+LOCUS       MN017291                 972 bp    DNA     linear   ENV 23-JUN-2019
+DEFINITION  Uncultured bacterium clone 3N33 subclass B3 metallo-beta-lactamase
+            gene, complete cds.
+ACCESSION   MN017291
+VERSION     MN017291.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 972)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Sewage effluent from an Indian hospital harbors novel
+            carbapenemases and integron-borne antibiotic resistance genes
+  JOURNAL   Microbiome (2019) In press
+REFERENCE   2  (bases 1 to 972)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2019) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: metaSPAdes v. 3.8.1
+            Sequencing Technology :: Illumina; PacBio
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..972
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="hospital effluent"
+                     /db_xref="taxon:77133"
+                     /clone="3N33"
+                     /environmental_sample
+                     /note="metagenomic"
+     CDS             1..972
+                     /codon_start=1
+                     /transl_table=11
+                     /product="subclass B3 metallo-beta-lactamase"
+                     /protein_id="QDC28538.1"
+                     /translation="MRPLRRLCCGLRRRAGCQRGNPRDSWRQKLLTPIPFMRLILLLS
+                     LVLLSSSDTSAQPSSWMEPFPAHTIAGNLHYVGSKDLASYLVTTPEGHILINSSFEDS
+                     VPLIRQSVEDLGFKFGDIKILLISHAHSDHCAGSARIIRETGAKYFVMEQDADSVEKG
+                     GATKLRLKASYTQFTPARVDRRLKDGDEVTLGGTTLVARLTPGHTPGCTTWTLKAGGL
+                     NAVIIGSPNVNPGYILVNNQGYPGIAQDYERCFRVLKSLPVDLFLGAHGGYYDLTDKH
+                     RRLLVAGVSNPFVDPEGYKRYVEDRETAFLTELARQQKLKAAGQPNR"
+ORIGIN      
+        1 ctgcgcccac ttcgccggct gtgctgcgga cttcgacgcc gtgctggatg ccagcgcgga
+       61 aacccacgcg attcctggcg gcaaaaatta ctgaccccca ttccgttcat gcgtctcatc
+      121 ctgctgctgt ctctcgtcct gctttcaagc agcgacacaa gcgcccagcc ttcgtcttgg
+      181 atggagccct tccccgccca cacgattgca ggcaatcttc attatgtcgg ctccaaagat
+      241 ctggcctcct atctggtgac cacgccggaa ggccacatcc tgatcaacag cagcttcgaa
+      301 gattcggtgc ccttgatccg ccaaagcgtc gaggacctgg gattcaagtt cggcgacatc
+      361 aagattctgc tcatcagtca tgcccactcc gatcactgcg ccggcagcgc caggatcatc
+      421 cgcgaaacgg gagcaaagta tttcgtcatg gagcaggatg cggattctgt ggaaaaaggt
+      481 ggtgccacca agttacgtct gaaggcctcc tacacccagt tcaccccggc ccgggtggac
+      541 cgacgcctga aggatggcga tgaggtcacg ctgggtggca ccacgcttgt cgctcggctg
+      601 acgcccggcc acactccggg ctgcaccacc tggacgctga aggcaggcgg attgaacgcg
+      661 gtcatcatcg gcagccccaa cgtcaatccc ggctacatcc tggtgaacaa ccaggggtac
+      721 ccaggcatcg cccaggacta tgagcgctgc tttcgcgtcc tcaaaagtct gccagtggac
+      781 ctgtttctcg gcgctcacgg tggctactac gaccttaccg acaaacatcg caggctcctc
+      841 gtcgccgggg ttagcaatcc ctttgtcgat cccgaaggtt acaagcgcta tgtcgaggat
+      901 cgtgaaacgg cctttctgac ggagcttgcc aggcagcaaa agctcaaagc cgccggccaa
+      961 cctaaccgat ga
+//
+
+LOCUS       MN017297                 915 bp    DNA     linear   ENV 23-JUN-2019
+DEFINITION  Uncultured bacterium clone 3N8 subclass B3 metallo-beta-lactamase
+            gene, complete cds.
+ACCESSION   MN017297
+VERSION     MN017297.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 915)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Sewage effluent from an Indian hospital harbors novel
+            carbapenemases and integron-borne antibiotic resistance genes
+  JOURNAL   Microbiome (2019) In press
+REFERENCE   2  (bases 1 to 915)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2019) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: metaSPAdes v. 3.8.1
+            Sequencing Technology :: Illumina; PacBio
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..915
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="hospital effluent"
+                     /db_xref="taxon:77133"
+                     /clone="3N8"
+                     /environmental_sample
+                     /note="metagenomic"
+     CDS             1..915
+                     /codon_start=1
+                     /transl_table=11
+                     /product="subclass B3 metallo-beta-lactamase"
+                     /protein_id="QDC28539.1"
+                     /translation="MQMEQAMFGKLALSALALLLLGAAPAPLADRPGASKDIAKACGT
+                     RDGWAEPAPPAHIHGQTWYVGTCGITVVLVDTGAGLVLIDTGPQEAVPHVLASIRALG
+                     FDPKRIRWILSTHEHFDHVGGLAAMQRETGADVVTGPFIGDALRSGRPFPDDPQAAEL
+                     AEKPMEPVKVTRTLRDNGSVFTSDPRFTAHATPTHSPGSTSWTWRSCDQDGCKTIAYA
+                     DSNSTISSDGYRFSDNPRRISSARYGLGRIAAMPCDILITPHPGSSNLLERLSGRGTL
+                     VDAGACKAYAESGMKRLDQRLEKEGPAK"
+ORIGIN      
+        1 atgcaaatgg agcaagctat gttcggtaaa ctcgcgctgt ccgccctcgc cctgctgctg
+       61 ctcggcgcgg cccctgctcc gctggcggac cgccccggcg cgagcaagga tatcgccaag
+      121 gcctgcggca cccgcgatgg ctgggccgaa ccggccccgc ccgcccatat ccatggccag
+      181 acctggtacg tcggcacctg cgggatcacc gtggtcctgg tcgataccgg cgccgggctg
+      241 gtgctgatcg acaccggccc gcaggaagcc gtgccgcacg ttctggccag tatccgggcg
+      301 ctggggttcg atccgaagcg gatccgctgg atcctttcca cccacgagca tttcgaccat
+      361 gtcgggggcc tcgccgcgat gcagcgggaa accggcgccg atgtggtaac cggaccgttc
+      421 atcggcgatg cgctgcgcag cggccggcct ttccccgatg atcctcaagc agcggagctg
+      481 gccgaaaagc cgatggagcc ggtcaaggtt acccgcaccc tgcgtgacaa cggcagtgtg
+      541 ttcacgtccg atccgcgctt caccgcccat gccacaccga cccattcgcc cggatcgacc
+      601 agctggacct ggcgcagctg cgatcaggac ggctgcaaga ccatcgccta tgccgatagc
+      661 aacagcacca tttcctccga tggctaccgc ttcagcgaca atccgcgccg gataagcagc
+      721 gcgcgctatg gcctggggcg gatcgccgcc atgccctgcg acatcctgat caccccgcat
+      781 cccggcagca gcaacctgct ggaacgcctg tccggccgtg ggacgctggt cgatgccggg
+      841 gcgtgcaagg cctatgccga gtccgggatg aagcggctcg atcagcggct ggagaaggaa
+      901 ggcccggcga agtga
+//
+
+LOCUS       MN017280                 771 bp    DNA     linear   ENV 23-JUN-2019
+DEFINITION  Uncultured bacterium clone 2N30 subclass B2 metallo-beta-lactamase
+            (bla) gene, complete cds.
+ACCESSION   MN017280
+VERSION     MN017280.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 771)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Sewage effluent from an Indian hospital harbors novel
+            carbapenemases and integron-borne antibiotic resistance genes
+  JOURNAL   Microbiome (2019) In press
+REFERENCE   2  (bases 1 to 771)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2019) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: metaSPAdes v. 3.8.1
+            Sequencing Technology :: Illumina; PacBio
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..771
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="hospital effluent"
+                     /db_xref="taxon:77133"
+                     /clone="2N30"
+                     /environmental_sample
+                     /note="metagenomic"
+     gene            1..771
+                     /gene="bla"
+     CDS             1..771
+                     /gene="bla"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="subclass B2 metallo-beta-lactamase"
+                     /protein_id="QDC28540.1"
+                     /translation="MNKIITLALFSSIVTASFDAFSNENPKPSVSLTHVAGNIYVAED
+                     TFYVKENTVVYVGEKSVTVISATWTPETAKLLVDEIKKVTNKPIGVVVNTHSHLDRTG
+                     GNAYFKGLGATILATKQTSQLMKKNWDQSLKAIKKSFPSFPDVPLVLPDITFKDRHDL
+                     ESGKIQLLYLGPSHTEDQIVAYFPEEKVLDGDCALKEQLGNLSEANIIEYPKTLARMK
+                     KLPIQTIIAGHWSPVHGPELIDKYIELLKNNSIPPVAK"
+ORIGIN      
+        1 atgaataaaa taatcacttt agcccttttt tcttcaatcg tgactgcatc atttgatgct
+       61 ttttcaaatg aaaatccaaa acccagcgtc agcctcactc atgtggccgg aaatatctat
+      121 gttgcagagg atacctttta cgttaaagaa aataccgttg tgtatgtcgg tgaaaaatcc
+      181 gtaacggtta tttcagcaac ttggacccct gaaaccgcca aacttttggt cgatgaaatt
+      241 aaaaaagtta cgaataaacc tatcggagtc gtcgttaata cgcattctca cttggatcga
+      301 acgggcggca atgcgtactt caaaggtttg ggcgctacta ttttggccac aaaacaaacg
+      361 tctcaactta tgaaaaaaaa ttgggaccaa tcgctaaaag ctataaagaa aagttttcca
+      421 tcttttcctg atgttccact agttcttcct gatattactt ttaaagatag gcatgattta
+      481 gagtctggca aaattcagct tctctattta ggtccgtcgc atactgaaga tcagattgtc
+      541 gcctattttc cggaggaaaa agttcttgat ggtgactgtg ctttgaaaga gcagcttggc
+      601 aacctcagcg aagcaaatat aatagagtat ccgaaaactt tggctcgaat gaaaaagcta
+      661 cccatacaaa caataattgc cgggcattgg tctccagttc acggtccaga acttatcgac
+      721 aaatatattg agcttctgaa aaacaactca atcccaccag tggccaaata a
+//
+
+LOCUS       MN017290                1065 bp    DNA     linear   ENV 23-JUN-2019
+DEFINITION  Uncultured bacterium clone 3N32 subclass B3 metallo-beta-lactamase
+            (bla) gene, complete cds.
+ACCESSION   MN017290
+VERSION     MN017290.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1065)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Sewage effluent from an Indian hospital harbors novel
+            carbapenemases and integron-borne antibiotic resistance genes
+  JOURNAL   Microbiome (2019) In press
+REFERENCE   2  (bases 1 to 1065)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2019) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: metaSPAdes v. 3.8.1
+            Sequencing Technology :: Illumina; PacBio
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1065
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="hospital effluent"
+                     /db_xref="taxon:77133"
+                     /clone="3N32"
+                     /environmental_sample
+                     /note="metagenomic"
+     gene            1..1065
+                     /gene="bla"
+     CDS             1..1065
+                     /gene="bla"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="subclass B3 metallo-beta-lactamase"
+                     /protein_id="QDC28541.1"
+                     /translation="MPEARQSLGQACGFARRRSKPCDPRSSVHRLWCGIQRGLRPLCR
+                     LCSGLRHRAGQQPERGCRALRQKLLNLPMNLRRRLIHLVALLVTTGLQALPPSWMEPF
+                     PGHRIAGNLYYVGSKDLASYLITTPEGHILINSSFEDSVPLIRKSVEGLGFKFSDIKI
+                     LLISHAHSDHCAGSADIIRQTGAKYFVMEQDAETVEKGGESRSRLKASYLQYPPARVE
+                     RRLKDGDEVRLGGTTLVAHLTPGHTRGCTTWTMKADGLHAVIIGSPNVNPGYILIGNP
+                     DYPSIADDYHRCFKVLKALPVDLFLGAHGAYYDMPGKHARLGTQGGSNPFIDPDGYHK
+                     YVADREKAFLTELARQQSKP"
+ORIGIN      
+        1 ctgccggaag cacggcaaag cctggggcag gcctgtgggt tcgcgcgaag acgttcaaag
+       61 ccttgtgacc ctcggagctc agttcatcgt ttatggtgcg gaattcagcg cggtctgcgc
+      121 ccactttgca ggctgtgcag cggacttcga caccgtgctg ggcagcaacc agaacgtggg
+      181 tgccgtgccc tccggcaaaa actactgaat ctgcccatga accttcgccg ccgcctcatc
+      241 cacctggtcg ccctgctggt cacaacaggc cttcaagcac tgccaccctc atggatggag
+      301 cctttccccg gccacaggat cgctgggaac ctttattatg tcggttccaa ggacctagcc
+      361 tcctacctga tcaccactcc tgaaggccac atcctgatca acagcagctt tgaagactcc
+      421 gtgccattga tccgcaaaag cgtggagggc cttggcttca aattttccga catcaagatc
+      481 ctgctcatca gccatgcaca ctccgatcac tgcgccggca gtgcggatat catccgacaa
+      541 accggagcaa aatacttcgt gatggaacag gatgctgaaa ccgtggagaa aggcggcgag
+      601 agcaggtccc ggctcaaggc aagctacctc cagtatccgc ccgcacgggt ggaacgccgg
+      661 ctcaaagatg gggatgaggt ccgtcttggc ggcacgaccc tggtagccca cctcacgccg
+      721 ggccataccc gcggctgcac cacctggacg atgaaggcgg acgggctcca tgccgtcatc
+      781 atcggcagcc cgaatgtgaa tcccggctac atcctgatcg gcaacccaga ctacccaagc
+      841 atcgccgacg attatcatcg ctgcttcaag gtgcttaaag ccctgcctgt ggacctcttt
+      901 cttggagccc atggagccta ctatgacatg ccgggcaagc atgcacgcct tggaacccaa
+      961 ggcggatcga atcccttcat cgacccggat ggctaccaca agtatgtggc ggaccgggag
+     1021 aaggcctttt tgaccgaact ggccagacaa caaagcaagc catga
+//
+
+LOCUS       MN017292                 987 bp    DNA     linear   ENV 23-JUN-2019
+DEFINITION  Uncultured bacterium clone 3N40 subclass B3 metallo-beta-lactamase
+            (bla) gene, complete cds.
+ACCESSION   MN017292
+VERSION     MN017292.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 987)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Sewage effluent from an Indian hospital harbors novel
+            carbapenemases and integron-borne antibiotic resistance genes
+  JOURNAL   Microbiome (2019) In press
+REFERENCE   2  (bases 1 to 987)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2019) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: metaSPAdes v. 3.8.1
+            Sequencing Technology :: Illumina; PacBio
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..987
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="hospital effluent"
+                     /db_xref="taxon:77133"
+                     /clone="3N40"
+                     /environmental_sample
+                     /note="metagenomic"
+     gene            1..987
+                     /gene="bla"
+     CDS             1..987
+                     /gene="bla"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="subclass B3 metallo-beta-lactamase"
+                     /protein_id="QDC28542.1"
+                     /translation="MREAGRGRLFRLPLLHPQPGRPGLRHLPHPWPSRGRRRRSPSMR
+                     TALIAGLLAAGAAVAAPSSPPEWSAPTDPFRVADNLYYVGTAGISAWLVTTPQGHIVI
+                     DGAMPTSAPLIQSSIRRLGFNPRDVKILLNTHAHFDHTGGLADLKRDTGARLLANPAD
+                     RKALETGVYPGWEEVRDLDFAPVKVDGDLKDGQAVRLGGAVLTPHFTPGHSPGCTTWT
+                     FTVTDRGQSHSALLYCSTSVAANRLASRERGPQYPGIVGDYRHSFARLKSMKADIFLA
+                     PHADQFGLAEKRARLKEGTPNPFVDPRELARRVAGSEADFNRELARQEAQAK"
+ORIGIN      
+        1 gtgcgtgaag ctggccgagg aaggctattc cgacttccac ttctacaccc tcaaccgggc
+       61 cgacctggtc tacgccatct gccgcatcct tggccttcgc gaggccgccg gcgaaggagc
+      121 cccagcatga gaaccgccct gatcgccggc ctgctggccg cgggcgccgc cgtggctgcg
+      181 ccctccagcc cgccggagtg gagcgccccc accgatccct tccgggtggc cgacaatctc
+      241 tactatgtcg gcacagcggg catctcggcc tggctggtca cgacgccgca gggacacatc
+      301 gtgatcgacg gcgccatgcc caccagcgcg cccctgatcc agtccagcat ccggcggctg
+      361 ggcttcaatc cccgggacgt gaagatcctg ctgaacaccc acgcccactt cgaccacacg
+      421 ggcgggttgg cggacctgaa gcgcgacacc ggcgcgcgcc tgctggccaa ccccgccgac
+      481 cgcaaggcgc tggagaccgg ggtctatccc ggctgggaag aggtccgcga cctggacttc
+      541 gccccggtga aggtcgacgg ggacctgaag gacggtcagg ccgtgcgcct tggcggagcg
+      601 gtcctgaccc cgcacttcac gcccggtcat tcgccgggct gcaccacctg gaccttcacc
+      661 gtgacggatc gcggacagtc gcacagcgcc ctactctact gctcaacctc ggtggcggcg
+      721 aaccgtctgg cctctcgtga acgcggacca caatatccag gcattgtcgg cgattaccgg
+      781 cacagcttcg cgcgcctgaa gtccatgaag gcggacatct tcctcgcccc gcacgccgac
+      841 cagttcggac tggcggaaaa gcgcgcccgc ctgaaggaag gaacgccgaa ccccttcgtc
+      901 gacccgcgtg aactggctcg gcgcgtcgcc ggcagcgagg cggatttcaa ccgagagctc
+      961 gcgcgccagg aggcgcaggc gaaatga
+//
+
+LOCUS       MN017293                 912 bp    DNA     linear   ENV 23-JUN-2019
+DEFINITION  Uncultured bacterium clone 3N51 subclass B3 metallo-beta-lactamase
+            (bla) gene, complete cds.
+ACCESSION   MN017293
+VERSION     MN017293.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 912)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Sewage effluent from an Indian hospital harbors novel
+            carbapenemases and integron-borne antibiotic resistance genes
+  JOURNAL   Microbiome (2019) In press
+REFERENCE   2  (bases 1 to 912)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2019) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: metaSPAdes v. 3.8.1
+            Sequencing Technology :: Illumina; PacBio
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..912
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="hospital effluent"
+                     /db_xref="taxon:77133"
+                     /clone="3N51"
+                     /environmental_sample
+                     /note="metagenomic"
+     gene            1..912
+                     /gene="bla"
+     CDS             1..912
+                     /gene="bla"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="subclass B3 metallo-beta-lactamase"
+                     /protein_id="QDC28543.1"
+                     /translation="MTRRCSIALAALLAPLSAPALAAPPPSTDGALLASACAGRDGWS
+                     EPAPPVHVEGNTWYVGTCGITVLLVSTPGGLVLIDSGPMDAAPLVLANIARLGFKASE
+                     VRWLLTTHEHHDHAGSLAELQRATGAKLATLASARQVLETGTPSADDPQNGVLDPMPP
+                     SRVDRALADGDSVVVGGLAFTVHETPAHSPGSASWTWQSCDAKFTCRMIAYADSATTV
+                     SADGYRFSDHPDRIARIRVGHARIAGLPCDLLITPHPSASNLFARLAGKAPLIDPGAC
+                     QAYAKGAASRFESRLADEAGTAASAAK"
+ORIGIN      
+        1 atgactcgcc gatgttcaat tgcgcttgcc gctctcctcg ccccgctttc cgcccccgcc
+       61 cttgccgccc cgccaccttc caccgatggc gccctgctcg ccagcgcctg tgccggtcgc
+      121 gacggctggt ccgaaccggc tccgccggtg catgtcgagg gcaatacctg gtatgtcggc
+      181 acctgcggga tcacggtgct tctggtatcc acgccgggcg gcctcgtcct gatcgacagc
+      241 gggccgatgg atgcggcacc gctcgttctg gccaacatcg cccgcctggg cttcaaggca
+      301 tccgaggtgc gctggctgct gacgacgcac gaacaccacg accacgccgg gagcctggcg
+      361 gaactgcagc gggccaccgg agcgaagctg gccacgctgg catcggcccg gcaggttctg
+      421 gaaacaggca cgccttccgc cgacgatccg cagaacgggg tccttgatcc gatgccgcct
+      481 tcccgcgtcg atcgcgcgct ggccgatggc gattcggtcg tggtgggagg gcttgccttc
+      541 accgtgcacg aaaccccggc gcattcgccc ggctcggcca gctggacctg gcaatcgtgc
+      601 gacgcgaagt tcacctgccg catgatcgcc tatgccgaca gcgccacgac cgtttccgcg
+      661 gatggttacc gcttcagcga tcatcctgac cgcatcgccc gcattcgcgt gggccacgcc
+      721 cggatcgcag gcctgccctg cgacctgctg atcacgcccc atccttccgc gagcaacctg
+      781 tttgcgcgac tggcaggcaa ggctccgctg atcgatccgg gcgcctgcca ggcctatgcg
+      841 aaaggcgcgg cgtcgcgctt cgagagccgc cttgcggatg aagccgggac ggcagcgagc
+      901 gcggccaagt ga
+//
+
+LOCUS       MN017294                 861 bp    DNA     linear   ENV 23-JUN-2019
+DEFINITION  Uncultured bacterium clone 3N55 subclass B3 metallo-beta-lactamase
+            (bla) gene, complete cds.
+ACCESSION   MN017294
+VERSION     MN017294.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 861)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Sewage effluent from an Indian hospital harbors novel
+            carbapenemases and integron-borne antibiotic resistance genes
+  JOURNAL   Microbiome (2019) In press
+REFERENCE   2  (bases 1 to 861)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2019) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: metaSPAdes v. 3.8.1
+            Sequencing Technology :: Illumina; PacBio
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..861
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="hospital effluent"
+                     /db_xref="taxon:77133"
+                     /clone="3N55"
+                     /environmental_sample
+                     /note="metagenomic"
+     gene            1..861
+                     /gene="bla"
+     CDS             1..861
+                     /gene="bla"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="subclass B3 metallo-beta-lactamase"
+                     /protein_id="QDC28544.1"
+                     /translation="MRRLAIILGSVLVAVPAAAQTPYAWSEPTPPFRIGENLYYVGTE
+                     GISVFLITTPQGHIVVDGAMPTSAPLIEASIRRLGFDPRDVKFLLNTHAHFDHAAGLA
+                     QLKADTGAVLAASAADRPALESGKYIGSEEVKAFDFAPVKVDRVIADGETVSLGGVTL
+                     TAHLTPGHTAGCTTWTFPVTIDGASRQAMIYCSTSVAANRLVSKSRGPQYPNIVADYR
+                     ASFARLKTLKADVLLAPHPEQFNLADKRRRLAAGGPSPFVDPAELGKAVAASEADFEK
+                     QLARQKEAAR"
+ORIGIN      
+        1 gtgaggcggc tggcgatcat cctcgggtcc gtcctggtcg ccgttccggc ggcggcccag
+       61 acgccgtatg cctggagcga accgaccccg ccgttccgca tcggtgaaaa cctctactac
+      121 gtcggcaccg agggcatctc ggtgttcctg atcaccacgc cgcagggcca catcgtggtc
+      181 gacggcgcca tgccgaccag cgcgccgctg atcgaggcct ctatccgccg gctcggcttc
+      241 gaccccaggg acgtcaaatt cctcctgaac acccacgccc atttcgacca tgcggccggc
+      301 cttgcgcagc tcaaggccga caccggcgcg gtcctggcgg ccagcgcggc ggacaggccg
+      361 gcgctagaaa gcggcaagta catcggctcg gaagaggtga aggccttcga cttcgcgcct
+      421 gtgaaggtcg atcgcgtgat cgccgacggc gagacggtca gcctgggcgg cgtgaccctc
+      481 acggcccacc ttacgccggg acacacggcg ggctgcacca cctggacctt cccggtgacg
+      541 atcgacgggg cgagccgaca ggcgatgatc tactgctcga cctcggtggc ggcgaaccgg
+      601 ctcgtgtcga aatcccgagg cccgcagtat ccgaatatcg tcgccgacta tcgggccagc
+      661 ttcgcccggc tgaagaccct gaaggccgac gtgctgctcg ccccgcatcc ggaacagttc
+      721 aacctcgccg acaagcgccg ccggctcgcc gccggcgggc ccagcccgtt cgtcgacccc
+      781 gccgagctcg gcaaggccgt cgcggcctcg gaagccgatt tcgaaaagca gctcgcccgc
+      841 cagaaggagg ccgcccgatg a
+//
+
+LOCUS       MN017295                 909 bp    DNA     linear   ENV 23-JUN-2019
+DEFINITION  Uncultured bacterium clone 3N61 subclass B3 metallo-beta-lactamase
+            (bla) gene, complete cds.
+ACCESSION   MN017295
+VERSION     MN017295.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 909)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Sewage effluent from an Indian hospital harbors novel
+            carbapenemases and integron-borne antibiotic resistance genes
+  JOURNAL   Microbiome (2019) In press
+REFERENCE   2  (bases 1 to 909)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2019) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: metaSPAdes v. 3.8.1
+            Sequencing Technology :: Illumina; PacBio
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..909
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="hospital effluent"
+                     /db_xref="taxon:77133"
+                     /clone="3N61"
+                     /environmental_sample
+                     /note="metagenomic"
+     gene            1..909
+                     /gene="bla"
+     CDS             1..909
+                     /gene="bla"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="subclass B3 metallo-beta-lactamase"
+                     /protein_id="QDC28545.1"
+                     /translation="MEPAMSAKALVLAALFPLAGAETLSIHPPKPAPIHPWVEACKDW
+                     DEWDKAGPPFKVHGNTWYVGTCGISALLITGPKGHVLIDSGTEQGAEVVLANVSRLGF
+                     KPRDIKVLLSSHEHFDHVGGMARLQQATGAKVLASTVAASVLRTGKDSADDPQSGMHK
+                     PMRPVAKVGLLREGQVVRVGPLALTPIFTPGHTPGATSWRWQSCEGADCKTIAFADSL
+                     SPISRDDYRFSGHPAYLAAFQRSADRVEAIGCDILIAPHPSASSMRAQLQGGGLASPG
+                     GRPCEAHARTVRANLKVRLIKEGRAQ"
+ORIGIN      
+        1 atggagccag ctatgtccgc taaggcgctg gtcctcgcgg ccctgttccc gctggcaggc
+       61 gcggagaccc tatcgatcca tccccccaaa cccgcgccca tccacccctg ggtggaagcc
+      121 tgcaaggact gggacgaatg ggacaaggcg ggcccgccct tcaaggtcca cggcaatacc
+      181 tggtacgtcg gcacctgcgg catatccgcg ctgctgatca ccggcccgaa gggtcacgtt
+      241 ctgatcgatt ccgggaccga gcagggcgcc gaagtggtgc tggccaacgt atcccgcctt
+      301 ggcttcaagc cgcgtgacat caaggtactg ctgtccagcc acgaacattt cgaccacgtt
+      361 ggcggcatgg cgcggctcca gcaggccacg ggtgcgaaag tgctggccag tactgttgct
+      421 gccagtgttc tgcgcaccgg caaggacagc gccgatgatc cccagtccgg aatgcacaag
+      481 ccgatgcgcc ccgtggcgaa ggtaggcctg ctgcgcgaag ggcaggtggt gcgggtgggt
+      541 ccactcgccc tcacccccat tttcactccg ggccataccc ccggcgcaac cagctggcgc
+      601 tggcaaagct gcgaaggcgc tgactgcaag accatagctt ttgccgacag cctctcgcca
+      661 atcagccgcg acgattaccg cttcagcggc caccctgcct atctggccgc gttccagcgt
+      721 tccgccgacc gggtcgaggc gattggctgc gacattctga tcgcgcccca tccctcggcc
+      781 agttcgatgc gggcccagtt gcaaggcggc ggcctggcct cgccaggtgg tcgcccgtgc
+      841 gaagcccatg cccgtacggt ccgcgccaac ctgaaggtgc ggctgatcaa ggaaggcagg
+      901 gcgcaatga
+//
+
+LOCUS       MN017296                 846 bp    DNA     linear   ENV 23-JUN-2019
+DEFINITION  Uncultured bacterium clone 3N73 subclass B3 metallo-beta-lactamase
+            (bla) gene, complete cds.
+ACCESSION   MN017296
+VERSION     MN017296.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 846)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Sewage effluent from an Indian hospital harbors novel
+            carbapenemases and integron-borne antibiotic resistance genes
+  JOURNAL   Microbiome (2019) In press
+REFERENCE   2  (bases 1 to 846)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2019) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: metaSPAdes v. 3.8.1
+            Sequencing Technology :: Illumina; PacBio
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..846
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="hospital effluent"
+                     /db_xref="taxon:77133"
+                     /clone="3N73"
+                     /environmental_sample
+                     /note="metagenomic"
+     gene            1..846
+                     /gene="bla"
+     CDS             1..846
+                     /gene="bla"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="subclass B3 metallo-beta-lactamase"
+                     /protein_id="QDC28546.1"
+                     /translation="MLRQLVLALGLVLASIASAQPSSWTEPFPPHKVAGNLHYVGSRD
+                     LASYLITTPEGHILINSSLEESVPLIRDAVEKLGFKFTDIRILLISHAHSDHCAGSAE
+                     ILKLTGAKHFVMAEDADAVENGGARKARVGKGDYTQFPPAKVDRRLKDGDEVKLGDAV
+                     LVAHRTPGHTPGCTTWTMKVNGLNAVIIGSPNVNPGYVLVGNKNYPAIATDYERTFRV
+                     LKSLPVDLFLGAHGGYYDMEAKHRLFLVAGGNNPFVDPEGYLRYVNDREAAFRKEWEK
+                     QKAAK"
+ORIGIN      
+        1 atgcttcgtc aacttgtcct cgctctcggt cttgtccttg cctcaatcgc ctccgcccag
+       61 ccctcctcat ggaccgagcc gtttccgccg cataaggttg ccgggaatct ccactacgtg
+      121 ggatcgcgtg acctcgcctc ctacctgatc acaaccccgg aaggccacat cctcatcaac
+      181 agcagtctgg aggagtccgt gcccttgatt cgcgatgcgg tggagaaact gggcttcaaa
+      241 ttcaccgaca tccgcatcct gctcatcagc cacgcgcatt cggatcattg cgcaggcagt
+      301 gcggagatcc tgaagctgac cggcgcgaag cacttcgtca tggcggagga tgctgacgcg
+      361 gtggaaaacg gcggtgcgag gaaggcgcgg gtggggaagg gcgactacac gcaatttccg
+      421 cctgccaaag tcgatcgtcg tctcaaagac ggcgatgaag tgaagctcgg tgacgcggtg
+      481 cttgtcgcgc atcgtacgcc cggacacaca cctggctgca ccacatggac gatgaaggtg
+      541 aatggcctca acgccgtcat catcggcagt ccgaacgtga atcccggcta cgtcctggtc
+      601 ggcaacaaga actacccggc cattgccacc gactacgaga ggacgtttcg cgtgttgaag
+      661 tccctgccgg tcgatctctt cctcggtgcg catggtggct actacgacat ggaggccaaa
+      721 catcgtctgt ttctcgtggc cggaggaaac aatcccttcg tcgatcccga aggctatctg
+      781 cgctacgtga atgaccgcga agccgccttc cgcaaggaat gggagaagca gaaggccgcg
+      841 aagtag
+//
+
+LOCUS       MN017298                 903 bp    DNA     linear   ENV 23-JUN-2019
+DEFINITION  Uncultured bacterium clone 3N1 subclass B3 metallo-beta-lactamase
+            (bla) gene, complete cds.
+ACCESSION   MN017298
+VERSION     MN017298.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 903)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Sewage effluent from an Indian hospital harbors novel
+            carbapenemases and integron-borne antibiotic resistance genes
+  JOURNAL   Microbiome (2019) In press
+REFERENCE   2  (bases 1 to 903)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2019) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: metaSPAdes v. 3.8.1
+            Sequencing Technology :: Illumina; PacBio
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..903
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="hospital effluent"
+                     /db_xref="taxon:77133"
+                     /clone="3N1"
+                     /environmental_sample
+                     /note="metagenomic"
+     gene            1..903
+                     /gene="bla"
+     CDS             1..903
+                     /gene="bla"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="subclass B3 metallo-beta-lactamase"
+                     /protein_id="QDC28547.1"
+                     /translation="MEPALFAKITFAALAALGFASTASAERAGASEDIVAACGPRDGW
+                     SEPAPPAHVYGNTWYVGTCGITVVLIETSAGLMLIDAGPEDAAEHVLASVRMLGFDPR
+                     QIKWLMVTHEHFDHAGGIAAIQKVTGARLAVGPFAKEALRTGRSYPDDPQHDELKDRP
+                     MPASRVDRVLRNGGKLTLGGVTVTTHATPTHSRGSTSWTWQSCQDGKCLDIAFADSIS
+                     TISSGPYRFIDHPQRVDEARSGIKAIAALPCDVLLTPHPQGSNLLSRLSGRAALVDSK
+                     ACQTYAAGGEQRLTERLEKETAAK"
+ORIGIN      
+        1 atggagccag ctttgttcgc taagatcacg ttcgccgccc ttgcggccct gggctttgcc
+       61 agcaccgctt ctgccgagcg cgccggggca agcgaggaca ttgtcgccgc ctgcggaccg
+      121 cgcgatggct ggtccgaacc ggctccacca gcccatgtct atggcaatac ctggtacgtc
+      181 ggcacttgcg gcatcaccgt ggtcctgatc gaaaccagcg ctggtctgat gctgatcgac
+      241 gccggcccgg aagatgcggc agagcatgtc ctcgccagcg tccgcatgct gggattcgat
+      301 ccgcgccaga tcaagtggct gatggtcacg cacgagcact tcgaccatgc aggcgggatc
+      361 gcggccatcc agaaggtcac cggcgcaagg cttgctgtcg gccccttcgc caaggaagcc
+      421 ctgcgtacag gtcgctccta tcccgacgat ccgcagcacg acgaactgaa ggaccggccc
+      481 atgcccgctt cccgcgtgga ccgcgtgctg cgcaacggcg gcaagcttac gctgggcggc
+      541 gttaccgtga ccacccatgc aacgcccacg cattccaggg gctcgaccag ctggacgtgg
+      601 caaagctgcc aggacggcaa gtgcctggac atcgccttcg cggacagcat cagcacgatt
+      661 tccagcggcc cctaccgctt tatcgatcac ccgcagcgcg tggatgaggc ccgcagcggg
+      721 atcaaggcga ttgccgcgct tccctgcgac gtgctgctga cgccccaccc gcaaggaagc
+      781 aatttgctct cgcgcctgtc cggtcgtgcc gccttggtcg atagcaaggc ttgccagacc
+      841 tatgccgcag gcggggagca acgcctgacc gagcgtcttg aaaaggaaac cgcagccaaa
+      901 tga
+//
+
+LOCUS       MN017299                 741 bp    DNA     linear   ENV 23-JUN-2019
+DEFINITION  Uncultured bacterium clone IMP-81 subclass B1
+            metallo-beta-lactamase IMP-81 (blaIMP) gene, blaIMP-81 allele,
+            complete cds.
+ACCESSION   MN017299
+VERSION     MN017299.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 741)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Sewage effluent from an Indian hospital harbors novel
+            carbapenemases and integron-borne antibiotic resistance genes
+  JOURNAL   Microbiome (2019) In press
+REFERENCE   2  (bases 1 to 741)
+  AUTHORS   Marathe,N.P., Berglund,F., Razavi,M., Pal,C., Droge,J., Samant,S.,
+            Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2019) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: metaSPAdes v. 3.8.1
+            Sequencing Technology :: Illumina; PacBio
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..741
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="hospital effluent"
+                     /db_xref="taxon:77133"
+                     /clone="IMP-81"
+                     /environmental_sample
+                     /note="metagenomic"
+     gene            1..741
+                     /gene="blaIMP"
+                     /allele="blaIMP-81"
+     CDS             1..741
+                     /gene="blaIMP"
+                     /allele="blaIMP-81"
+                     /note="carbapenemase"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="subclass B1 metallo-beta-lactamase IMP-81"
+                     /protein_id="QDC28548.1"
+                     /translation="MSKLFVFCMFLFCSITAAGESLPDLKIEKLDEGVYVHTSFEEVN
+                     GWGVVPKHGLVVLVNTDAYLIDTPFTAKDTEKLVTWFVERGYKIKGSVSSHFHSDSTG
+                     GIEWLNSQSIPTYASELTNELLKKDGKVQAKNSFSGVSYWLVKNKVEIFYPGPGHTPD
+                     NVVVWLPENRVLFGGCFVKPYGLGNLGDANLEAWPKSAKLLMSKYGKAKLVVPSHSEV
+                     GDASLLKLTLVQAVKGLNESKKPSKPSN"
+ORIGIN      
+        1 atgagcaagt tatttgtatt ctgtatgttt ttgttttgta gcattacagc cgcaggagag
+       61 tctttgccag atttaaaaat tgagaagctt gacgaagggg tttatgttca tacttcgttt
+      121 gaagaagtta acggttgggg tgttgttcct aagcacggct tggtggttct tgtaaatact
+      181 gatgcctatt tgattgatac tccatttacg gctaaagata ctgaaaagtt agtcacttgg
+      241 tttgtggagc gcggctataa aataaaaggt agtgtttcct ctcattttca tagcgacagt
+      301 acgggcggaa tagagtggct taattctcaa tctatcccca cgtatgcatc agaattaaca
+      361 aatgaactcc ttaaaaaaga cggtaaggta caagctaaaa attcatttag cggagttagt
+      421 tattggctag ttaagaataa ggttgaaatt ttttatcctg gtcctgggca cactccagat
+      481 aacgtagtgg tttggttacc tgaaaataga gttttgttcg gtggttgttt tgttaaaccg
+      541 tacggtcttg gtaatttggg tgatgcaaat ttagaagctt ggccaaagtc agccaaatta
+      601 ttaatgtcca aatatggtaa agcaaaactg gttgttccaa gtcacagtga agttggagac
+      661 gcatcgctct tgaagcttac attagtacag gcggttaaag gtttaaatga aagtaaaaaa
+      721 ccatcaaaac caagtaacta a
+//
+

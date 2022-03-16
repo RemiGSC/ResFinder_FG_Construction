@@ -1,0 +1,455 @@
+LOCUS       MG739504                 852 bp    DNA     linear   ENV 04-FEB-2018
+DEFINITION  Uncultured bacterium clone blaRSD3 beta-lactamase gene, complete
+            cds.
+ACCESSION   MG739504
+VERSION     MG739504.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 852)
+  AUTHORS   Marathe,N.P., Janzon,A., Kotsakis,S.D., Flach,C.F., Razavi,M.,
+            Berglund,F., Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Functional metagenomics reveals a novel carbapenem-hydrolyzing
+            mobile beta-lactamase from Indian river sediments contaminated with
+            antibiotic production waste
+  JOURNAL   Environ Int 112, 279-286 (2018)
+   PUBMED   29316517
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 852)
+  AUTHORS   Marathe,N.P., Janzon,A., Kotsakis,S., Flach,C.-F., Razavi,M.,
+            Berglund,F., Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-DEC-2017) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..852
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="river"
+                     /db_xref="taxon:77133"
+                     /clone="blaRSD3"
+                     /environmental_sample
+     CDS             1..852
+                     /codon_start=1
+                     /transl_table=11
+                     /product="beta-lactamase"
+                     /protein_id="AUW34359.1"
+                     /translation="MIKKIISGACLVLLAGCVLGVKPAGKETGFMIDSGRFAGMDGCA
+                     IVFDARMGKIAGVYGEKRCKERVTACSTFKVPLALMAFDSGVLSDESTVLKWDGVQWP
+                     FDSWNQDQTAASWLRNSVVWYSQRLTPMLGLEKIKAYLKAFDYGNQDFSSGLTSAWLT
+                     ITKSDTNPDKGSLKISAYEELEFFRRFWRGALPVSGAAVEKTKKMIYLETSPGGYALH
+                     GKTGSGYLDGLTGDFGWFAGHVEGKGREYFVVTAVTRNGNAADARIPGLVAKELAKNI
+                     LKDNSVW"
+ORIGIN      
+        1 atgattaaaa agattatttc tggagcttgc ttggttttgc tggctgggtg cgtgttgggt
+       61 gtgaagccgg cggggaaaga gacggggttt atgattgatt ctggacgttt tgccgggatg
+      121 gatggctgcg ctattgtttt tgatgcgcgg atgggaaaaa ttgcgggggt ttatggggag
+      181 aagcggtgca aggaacgggt tacggcttgt tctacgttca aggtgccgct ggctttgatg
+      241 gcttttgatt ctggggtgct gagcgacgag agcacggtgc tgaagtggga tggagtgcag
+      301 tggccgttcg actcctggaa ccaggaccag acggcggcct cgtggctgcg caattcggtg
+      361 gtgtggtatt cgcagcggct gactccaatg ctgggcttgg aaaagataaa ggcttaccta
+      421 aaggctttcg attacgggaa tcaggacttt tcttccggcc tgaccagcgc ttggcttacc
+      481 atcaccaaga gcgatacgaa tccggataag ggcagtctta aaatctcagc ctacgaggaa
+      541 ctggagttct ttagacggtt ttggcgtggc gcgctcccgg tgagcggggc cgcggtggag
+      601 aagactaaaa aaatgattta cctggagacc tctcccggcg gttatgcgct gcacggcaag
+      661 accggctccg gctatctcga cggattgacc ggggatttcg gctggttcgc cggccacgta
+      721 gagggcaaag gccgggagta ttttgttgta acggccgtca cgcggaatgg gaatgccgcc
+      781 gacgcacgca tccccggcct ggtggcgaag gaactcgcca agaacatcct taaagataat
+      841 tcggtctggt aa
+//
+
+LOCUS       MG739505                 816 bp    DNA     linear   ENV 04-FEB-2018
+DEFINITION  Uncultured bacterium clone blaRSD1 beta-lactamase gene, complete
+            cds.
+ACCESSION   MG739505
+VERSION     MG739505.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 816)
+  AUTHORS   Marathe,N.P., Janzon,A., Kotsakis,S.D., Flach,C.F., Razavi,M.,
+            Berglund,F., Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Functional metagenomics reveals a novel carbapenem-hydrolyzing
+            mobile beta-lactamase from Indian river sediments contaminated with
+            antibiotic production waste
+  JOURNAL   Environ Int 112, 279-286 (2018)
+   PUBMED   29316517
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 816)
+  AUTHORS   Marathe,N.P., Janzon,A., Kotsakis,S., Flach,C.-F., Razavi,M.,
+            Berglund,F., Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-DEC-2017) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..816
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="river"
+                     /db_xref="taxon:77133"
+                     /clone="blaRSD1"
+                     /environmental_sample
+     CDS             1..816
+                     /codon_start=1
+                     /transl_table=11
+                     /product="beta-lactamase"
+                     /protein_id="AUW34360.1"
+                     /translation="MKSYVDKKWMIIFLIVCVSCTSKAIKKEAFPGFKPFFDEYGVQG
+                     CFILYDLKNDNYEIYNSQRCEQGFLPASSFKILNAMIGLETGVVTSKDMVIPWDGVTR
+                     EVESWNRDHTLASAIQNSVVPYFQEMARRIGPERMKKYVNEADYGQMDVTAQTIDHFW
+                     LRGNSRITPWEQMNFLLNFYQNKLPISETNIDIVKQLIILEENERWIFRGKTGWAKQD
+                     GQNIGWLIGYYENDKNTWLYVCNVEASDNNIENFKASRRGITEKVFKSMGLME"
+ORIGIN      
+        1 atgaaaagtt acgtagacaa gaaatggatg ataatctttc ttatagtgtg tgtatcctgt
+       61 acttcaaagg cgataaaaaa agaagcattt cctggtttta aacctttctt tgatgaatac
+      121 ggcgtgcagg gttgttttat tctctacgac ctgaagaatg ataattacga gatatataac
+      181 tctcaacgat gtgagcaggg ctttctgccc gcttcttcgt ttaagatcct taacgccatg
+      241 attggactgg aaaccggtgt tgtgaccagt aaagacatgg ttatcccctg ggatggggtt
+      301 acaagggagg tggaaagctg gaacagggac catacactgg cctcagccat ccagaattcg
+      361 gtggttcctt atttccagga aatggcccgc cgcataggtc ctgaaaggat gaaaaagtat
+      421 gtcaatgaag ccgattacgg gcaaatggat gtaacggccc agactattga tcatttctgg
+      481 ctaaggggga attcccgcat cactccctgg gaacagatga actttctgct gaacttctac
+      541 cagaataagc tgcccatttc tgaaaccaac attgatattg tcaagcaact gatcatcctt
+      601 gaagaaaatg aacgttggat ctttaggggc aagacaggct gggccaaaca ggatggtcag
+      661 aacattggct ggctgatcgg ttattatgaa aatgataaaa atacctggct ttatgtctgc
+      721 aacgttgagg cttcagataa caatatcgag aacttcaaag ccagcagacg cggcattact
+      781 gaaaaagtgt ttaaatcaat gggtttgatg gagtag
+//
+
+LOCUS       MG739506                 759 bp    DNA     linear   ENV 04-FEB-2018
+DEFINITION  Uncultured bacterium clone blaRSD2 beta-lactamase gene, complete
+            cds.
+ACCESSION   MG739506
+VERSION     MG739506.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 759)
+  AUTHORS   Marathe,N.P., Janzon,A., Kotsakis,S.D., Flach,C.F., Razavi,M.,
+            Berglund,F., Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Functional metagenomics reveals a novel carbapenem-hydrolyzing
+            mobile beta-lactamase from Indian river sediments contaminated with
+            antibiotic production waste
+  JOURNAL   Environ Int 112, 279-286 (2018)
+   PUBMED   29316517
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 759)
+  AUTHORS   Marathe,N.P., Janzon,A., Kotsakis,S., Flach,C.-F., Razavi,M.,
+            Berglund,F., Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-DEC-2017) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..759
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="river"
+                     /db_xref="taxon:77133"
+                     /clone="blaRSD2"
+                     /environmental_sample
+     CDS             1..759
+                     /codon_start=1
+                     /transl_table=11
+                     /product="beta-lactamase"
+                     /protein_id="AUW34361.1"
+                     /translation="MQTNLIYAMEENAQIKTLFEAADVNATFILYDLQKDTIVGYDKV
+                     RSEKRYLPASTFKIANSLIGLATGAVKTVDEPIPYNGPSNPFIAAWKEDMGLKKAIAM
+                     SNVPIYQELARRIGLTRMQKYLKDLHYGNESVGEHVDRFWLDGPLQISAVEQVLFLKG
+                     LVQETLPFSKNIQKDVKSILLIEKTNAYRLYGKTGLQNAHEKGIGWFVGWIEKSEGTY
+                     IFAFNMDMTDMSDAPKRINLSKTCLTILGLLNSE"
+ORIGIN      
+        1 atgcaaacga acctgattta cgcaatggaa gagaatgctc agattaaaac actctttgaa
+       61 gcagcagatg ttaatgccac ctttattctt tatgacctgc aaaaagacac catagttgga
+      121 tatgataagg taaggtcgga aaaaaggtat ctccctgcat cgactttcaa aattgctaat
+      181 tctctcattg gcttggcaac aggtgccgtt aaaacggtag atgaaccaat accttacaat
+      241 ggccccagca atccgtttat agcggcatgg aaggaagata tgggcttgaa aaaagccatt
+      301 gctatgtcca atgtgcctat ttatcaggag ttggcccgaa gaattggatt aacgaggatg
+      361 caaaagtatt taaaagatct tcattatggc aatgaatcgg tgggagaaca tgtagatcgt
+      421 ttttggctgg atggaccact tcaaatcagt gctgtggaac aagtgctgtt tctaaaaggg
+      481 ctagtccagg aaacgctccc tttttcaaaa aacatccaaa aagatgtcaa gagtattctc
+      541 ctaattgaaa aaaccaatgc ttatagactg tatggaaaaa caggcttgca aaatgctcac
+      601 gaaaaaggca taggatggtt tgtaggatgg attgaaaagt cagaaggaac atacattttt
+      661 gcattcaata tggacatgac tgatatgtct gatgccccaa agcgtataaa tctgagcaaa
+      721 acttgtttaa caattttggg gcttctcaat agcgaataa
+//
+
+LOCUS       MG739507                 774 bp    DNA     linear   ENV 04-FEB-2018
+DEFINITION  Uncultured bacterium clone BlaRSD2.1 beta-lactamase gene, complete
+            cds.
+ACCESSION   MG739507
+VERSION     MG739507.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 774)
+  AUTHORS   Marathe,N.P., Janzon,A., Kotsakis,S.D., Flach,C.F., Razavi,M.,
+            Berglund,F., Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Functional metagenomics reveals a novel carbapenem-hydrolyzing
+            mobile beta-lactamase from Indian river sediments contaminated with
+            antibiotic production waste
+  JOURNAL   Environ Int 112, 279-286 (2018)
+   PUBMED   29316517
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 774)
+  AUTHORS   Marathe,N.P., Janzon,A., Kotsakis,S., Flach,C.-F., Razavi,M.,
+            Berglund,F., Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-DEC-2017) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..774
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="river"
+                     /db_xref="taxon:77133"
+                     /clone="BlaRSD2.1"
+                     /environmental_sample
+     CDS             1..774
+                     /codon_start=1
+                     /transl_table=11
+                     /product="beta-lactamase"
+                     /protein_id="AUW34362.1"
+                     /translation="MQTNLIYAMEENAQIKTLFEAADVNATFILYDLQKDTIVGYDKV
+                     RSEKRYLPASTFKIANSLIGLATGAVKTEDEPIPYNGPSNPFIAAWKEDMGLKKAIAM
+                     SNVPIYQELARRIGLTRMQKYLKDLHYGNESVGEHVDRFWLDGPLQISAVEQVLFLKG
+                     LVQETLPFSKNIQKDVKSILLIEKTNAYRLYGKTGYGKTGWQNAPEKGIGWFVGWIEK
+                     SEGTYIFAFNMDMTDMSDAPKRINLSKTCLTILGLLNSE"
+ORIGIN      
+        1 atgcaaacga acctgattta cgcaatggaa gagaatgctc agattaaaac gctctttgaa
+       61 gcagcagatg ttaatgccac ctttattctt tatgacctgc aaaaagacac catagttgga
+      121 tatgataagg taaggtcgga aaaaaggtat ctccctgcat cgactttcaa aattgctaat
+      181 tctctcattg gcttggcaac aggtgccgtt aaaacggaag atgaaccaat accttacaat
+      241 ggccccagca atccgtttat agcggcatgg aaggaagata tgggcttgaa aaaagctatt
+      301 gctatgtcca atgtgcctat ttatcaggag ttggcccgaa gaattggatt aacgaggatg
+      361 caaaagtatt taaaagatct tcattatggc aatgaatcgg tgggagaaca tgtagatcgt
+      421 ttttggctgg atggaccact tcaaatcagt gctgtggaac aagtgctgtt tctaaaaggg
+      481 ctagtccagg aaacgctccc tttttcaaaa aacatccaaa aagatgtcaa gagtattctc
+      541 ctaattgaaa aaaccaatgc ttatagactg tatggaaaaa caggctatgg aaaaacaggc
+      601 tggcaaaatg ctcccgaaaa aggcatagga tggtttgtag gatggattga aaagtcagaa
+      661 ggaacataca tttttgcatt caatatggac atgactgata tgtctgatgc cccaaagcgt
+      721 ataaatctga gcaaaacttg tttaacaatt ttggggcttc tcaatagcga ataa
+//
+
+LOCUS       MG739508                1191 bp    DNA     linear   ENV 04-FEB-2018
+DEFINITION  Uncultured bacterium clone blaRSC1 beta-lactamase gene, complete
+            cds.
+ACCESSION   MG739508
+VERSION     MG739508.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1191)
+  AUTHORS   Marathe,N.P., Janzon,A., Kotsakis,S.D., Flach,C.F., Razavi,M.,
+            Berglund,F., Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Functional metagenomics reveals a novel carbapenem-hydrolyzing
+            mobile beta-lactamase from Indian river sediments contaminated with
+            antibiotic production waste
+  JOURNAL   Environ Int 112, 279-286 (2018)
+   PUBMED   29316517
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1191)
+  AUTHORS   Marathe,N.P., Janzon,A., Kotsakis,S., Flach,C.-F., Razavi,M.,
+            Berglund,F., Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-DEC-2017) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1191
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="river"
+                     /db_xref="taxon:77133"
+                     /clone="blaRSC1"
+                     /environmental_sample
+     CDS             1..1191
+                     /codon_start=1
+                     /transl_table=11
+                     /product="beta-lactamase"
+                     /protein_id="AUW34363.1"
+                     /translation="MYGKTITRVGGVAITALFLGAGSCVAGDDVEKRVRAVVDAAIRP
+                     AMQAHAIPGIAVAVSLNGEQYYFNYGVASKESGQMVTEDTIFEIGSVSKTFTTTLASY
+                     AQESGALSLSDHASQYLPSLRGSSFDSISLLDLATYTPGGLPLQFPDAVDSHEKMIGY
+                     YYNWKPTYAAGTHRLYSNPSIGLLGFLTAESMGEPFEDLLEKKLFPKLGLRQSYIRVP
+                     QEQMSHYAYGYSREDKPIRVGPGVLDAEAYGVKSSSADMIHFVEANMQAADLDEPLQH
+                     AIAATHRGYYKVGDMTQGLGWEFYPYPIELDRLLAGNSAKMILEANEITRLNPPLIPK
+                     GDVLINKTGSTSGFGAYVAFVPTKGIGIVMLANKNYPIPARVKAAHQVLTALDARTGS
+                     NAHH"
+ORIGIN      
+        1 atgtacggaa aaaccataac cagagtgggg ggcgttgcca ttaccgcgct gttcctcggt
+       61 gccggcagct gcgtcgccgg ggatgatgta gaaaaaaggg tcagggctgt cgtggacgca
+      121 gccattcggc cggctatgca ggcgcatgcc atccctggca tcgcggtggc ggtatcactc
+      181 aatggggagc agtattactt taactacggc gtcgcctcca aagagagtgg gcagatggtc
+      241 accgaggata cgattttcga gatcggctcg gtcagtaaaa ccttcacgac gaccctcgca
+      301 tcctacgcgc aggaaagtgg agcgctctcc ctatccgacc acgcaagcca atacctgcct
+      361 tcgctacgtg gcagcagttt cgacagcatc agcctgctcg atcttgcgac ctacacgccc
+      421 ggcggtctgc cgctgcagtt tccggacgct gtggacagtc acgaaaagat gatcggttat
+      481 tactacaact ggaaaccgac ctatgccgcc ggaacacaca ggctctactc gaacccgagc
+      541 atcggcctgc tcggctttct aaccgctgaa agcatgggtg agcctttcga agatctactg
+      601 gaaaagaagc tgttcccgaa gctcggccta aggcagagct acatcagggt tccacaagag
+      661 cagatgagcc actacgcgta cggttatagc cgagaggaca aaccgatcag ggtgggccca
+      721 ggcgttctgg atgccgaggc ttatggcgtg aaatccagct cggccgacat gattcatttc
+      781 gtcgaggcaa acatgcaggc ggctgatctg gatgagccgc tgcaacatgc gattgccgca
+      841 acgcataggg gctactacaa ggtcggcgac atgactcagg ggctgggatg ggagttttac
+      901 ccctacccga tagaactcga ccgtttgctt gcgggcaact cggccaaaat gatccttgaa
+      961 gcgaatgaaa ttactcgact caaccctccg ctgattccga agggcgacgt gctcattaac
+     1021 aagacaggct cgacgagcgg ttttggtgca tacgtggcct ttgttccaac caagggtatc
+     1081 ggcatcgtga tgctggcgaa caagaactac cccatccctg caagggtgaa agccgcccac
+     1141 caagtattga cggccctgga tgctcggact ggatctaatg cacaccattg a
+//
+
+LOCUS       MG739509                 933 bp    DNA     linear   ENV 04-FEB-2018
+DEFINITION  Uncultured bacterium clone blaRSA2 beta-lactamase gene, complete
+            cds.
+ACCESSION   MG739509
+VERSION     MG739509.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 933)
+  AUTHORS   Marathe,N.P., Janzon,A., Kotsakis,S.D., Flach,C.F., Razavi,M.,
+            Berglund,F., Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Functional metagenomics reveals a novel carbapenem-hydrolyzing
+            mobile beta-lactamase from Indian river sediments contaminated with
+            antibiotic production waste
+  JOURNAL   Environ Int 112, 279-286 (2018)
+   PUBMED   29316517
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 933)
+  AUTHORS   Marathe,N.P., Janzon,A., Kotsakis,S., Flach,C.-F., Razavi,M.,
+            Berglund,F., Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-DEC-2017) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..933
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="river"
+                     /db_xref="taxon:77133"
+                     /clone="blaRSA2"
+                     /environmental_sample
+     CDS             1..933
+                     /codon_start=1
+                     /transl_table=11
+                     /product="beta-lactamase"
+                     /protein_id="AUW34364.1"
+                     /translation="MANTTICRLCAVSQAGLSLGETLIKGQVMSFLRSAAIFAAVLLP
+                     LSAHAADLDQTIEALENRLDARIGVAIHDTGTGKVWGHREDERFLMNSTIKVPLCAAV
+                     LSRSDVDLSEELPVRAEDILEYAPVTEQHVGGTMTVADLCFATIDQSDNTAANLLFGR
+                     LGGPESLTTFLRSIGDDLTRSDRLEPDLNIWSAGDPRDTTTPAAMVRTLEAMLTGDAL
+                     TATAREQLADWMRPGGVTGALMRPSVPHNWDVADKSGSGSNTRNLIAMLTPPDGAPIF
+                     VSLSISEAEVDFATRNAALVELSAAVVRSLHAQN"
+ORIGIN      
+        1 atggcaaaca caacgatttg tcgcctgtgc gccgtgtcgc aggctggtct atccctcggc
+       61 gagactctta taaaaggaca agtcatgtca ttcctccgct ctgctgccat tttcgcggca
+      121 gttctgctcc cgctttcggc ccatgcggcc gaccttgacc agaccatcga ggcacttgag
+      181 aaccggctag atgcgcgtat tggcgtcgcc atccacgata ccggaaccgg caaggtttgg
+      241 ggccaccgcg aggatgagcg gttcctgatg aacagcacca tcaaggtgcc gctttgcgcg
+      301 gctgtcctgt ctcgcagtga tgtggacctt tccgaagaac tgcccgtgcg cgccgaagac
+      361 atcctcgaat acgcgcccgt caccgagcaa catgtcggtg gaacgatgac ggtggccgat
+      421 ctgtgctttg cgacgatcga ccagagtgac aacaccgccg cgaacctgct gtttggtcgg
+      481 ctgggtggac cggaaagcct gacgacattt ctgcgcagca tcggcgacga cctgacccgc
+      541 tcggaccggc tcgagccgga tctaaacatc tggtcggccg gtgatccgcg cgacaccaca
+      601 acccccgccg ccatggtgcg cacgcttgag gcgatgctga caggggacgc gctgaccgcc
+      661 actgcacggg agcaactggc cgactggatg cgaccgggcg gggtcaccgg cgcgctcatg
+      721 cgtccttcgg tgccgcacaa ctgggatgtg gccgacaagt caggcagcgg aagcaacact
+      781 cgtaatctga tcgcgatgct gacgccgcct gatggcgcac cgatcttcgt cagtctctcg
+      841 atctccgaag ccgaagtcga tttcgccacg cgaaacgctg ccttggtcga actttcggcg
+      901 gccgtggtga ggagcttgca cgcacaaaac tga
+//
+
+LOCUS       MG739510                 858 bp    DNA     linear   ENV 04-FEB-2018
+DEFINITION  Uncultured bacterium clone blaRSA1 beta-lactamase gene, complete
+            cds.
+ACCESSION   MG739510
+VERSION     MG739510.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 858)
+  AUTHORS   Marathe,N.P., Janzon,A., Kotsakis,S.D., Flach,C.F., Razavi,M.,
+            Berglund,F., Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Functional metagenomics reveals a novel carbapenem-hydrolyzing
+            mobile beta-lactamase from Indian river sediments contaminated with
+            antibiotic production waste
+  JOURNAL   Environ Int 112, 279-286 (2018)
+   PUBMED   29316517
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 858)
+  AUTHORS   Marathe,N.P., Janzon,A., Kotsakis,S., Flach,C.-F., Razavi,M.,
+            Berglund,F., Kristiansson,E. and Larsson,D.G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-DEC-2017) Department of Infectious Diseases,
+            University of Gothenburg, Guldhedsgatan 10A, floor 5, Gothenburg
+            41346, Sweden
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..858
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="river"
+                     /db_xref="taxon:77133"
+                     /clone="blaRSA1"
+                     /environmental_sample
+     CDS             1..858
+                     /codon_start=1
+                     /transl_table=11
+                     /product="beta-lactamase"
+                     /protein_id="AUW34365.1"
+                     /translation="MGMQLARSTILTVLLCLPIAVTATTKEEIQKIERQRNLTVGIAL
+                     VDDGGTLLFGHRETQRFAMCSTFKLPLAAATLKQIESGKWSAAERLSYSAGQLDAYAP
+                     AAKRYLPTGYITVAEANQASVQLSDNTAANLLLDKLGGPSQLTSMFRSLGDSVSRLDR
+                     REPDLNTNVSGDPRDTTTPGAMARIVAKLVYGNYLSTAGREQLQRLLIGNNTGDSRIR
+                     AGIASGWTTGDKTGSCPNGGRNDAAFLVSPDGRRFALTVYLNAPSLDDKARNEVVATV
+                     ARLAVESIR"
+ORIGIN      
+        1 atgggaatgc aactagctag gtcgacgatc ctcactgttt tgctctgtct gccgattgct
+       61 gtaacggcta cgactaagga ggagatccaa aagattgagc gtcagcgcaa cctcacggtt
+      121 ggcatcgctc ttgtagacga cgggggaaca ctcctgttcg gtcatcgcga aacgcagcgc
+      181 ttcgccatgt gctcgacatt taagttgccg ctggcggctg caacgcttaa gcaaatcgag
+      241 agcggaaagt ggtctgccgc cgagcggctg agctatagcg ctggccaatt agatgcctac
+      301 gcgccagctg ccaagagata tctacctaca ggctacatca cggtagctga ggctaaccaa
+      361 gcctcggtcc agctcagcga taatactgct gccaacttgc tgcttgacaa actcggaggg
+      421 ccatcgcagc tcacatccat gtttcgctcc ctcggcgatt ccgtgagtcg cctggataga
+      481 agagaacccg atttgaacac caacgtttcg ggtgacccgc gcgacacgac tacgccgggc
+      541 gcgatggcac gcattgtcgc aaagctggta tatggaaact atctaagtac agcaggccga
+      601 gagcaattgc agcggcttct cattggcaat aacacaggcg actcgaggat tcgcgctgga
+      661 atcgcatctg gctggacgac tggcgacaaa acgggttcct gccccaatgg cggacgaaat
+      721 gacgctgcgt tcctggtaag ccctgatggc cgcagatttg cgctgacagt gtacctgaac
+      781 gccccatcgc ttgacgacaa ggcacggaac gaggtggtcg ctacggtagc tcgcttggcg
+      841 gttgagagta tccgctag
+//
+

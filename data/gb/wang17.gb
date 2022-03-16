@@ -1,0 +1,1795 @@
+LOCUS       KX161706                1284 bp    DNA     linear   ENV 14-JAN-2017
+DEFINITION  Uncultured bacterium clone QTet203 tetracycline transporter gene,
+            partial cds.
+ACCESSION   KX161706
+VERSION     KX161706.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1284)
+  AUTHORS   Wang,S., Gao,Y., Gao,X., Cao,M. and Feng,Z.
+  TITLE     Novel Tetracycline Resistance Genes Discovered in Mount Qomolangma
+            Soil by Using Functional Metagenomics
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1284)
+  AUTHORS   Wang,S., Gao,Y., Gao,X., Cao,M. and Feng,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-2016) College of Food Science and Technology,
+            Nanjing Agricultural University, Weigang Road 1#, Nanjing, Nanjing
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1284
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Mount Qomolangma soil"
+                     /db_xref="taxon:77133"
+                     /clone="QTet203"
+                     /environmental_sample
+                     /country="China"
+                     /lat_lon="28.21 N 86.56 E"
+                     /collection_date="10-Mar-2014"
+     CDS             1..>1284
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetracycline transporter"
+                     /protein_id="APT68064.1"
+                     /translation="MTTPKSTLARSDKRAWTMLIVLTMLTVIGMTVVLPVLPFVVLQY
+                     VSHEGDLAIWVGVLEAINGLCAFLVAPFLGRLSDRFGRRPVIIGAAFGGAFAMALFGV
+                     GGAIWVLVLARVIQGLTAGDMPALFAYLADITPPEKRARRFGLLGALSGIGMMIGPAV
+                     GGLLASVSLQLPVFLTAAVGLTIAILSIFLLPESLAPENRIERMAVRELHPFGVFRQA
+                     FGRRELRGLMIGFGLLALPFGFFVNNFSVLALDSIQWGPTQIGLLTAAVGIIDILIQG
+                     VLLGILLPRIGERGVIISGIVAQMLGLVGLAVVASIFAQPWVFIVGALMLAAGQGAST
+                     AAMDGAMSNAVGDDEQGWLGGATQSLNAAMNTVAPLIAGALYVTVSHAAPYWLGVALM
+                     IVAVIVVARAHIENTAKRTPGDEHADAATPLAHAEG"
+ORIGIN      
+        1 gtgactacac ctaaatcaac gctcgcgcgc agcgacaagc gcgcatggac gatgctcatc
+       61 gtgctgacga tgctcaccgt catcgggatg accgtcgtgc tccccgttct tcccttcgtc
+      121 gtgctgcagt acgtgtcgca cgagggcgac ctcgcgatct gggtcggcgt gctcgaagcg
+      181 atcaacggac tctgcgcctt cctggtggcc cccttcctcg gccgcctctc cgaccgcttc
+      241 ggccgcagac ccgtcatcat cggcgccgcg ttcggcggcg cattcgccat ggccctgttc
+      301 ggggtcggcg gcgcgatctg ggtgctcgtg ctcgcccgtg tcatccaggg gctgaccgcc
+      361 ggagacatgc ccgccctgtt cgcctacctc gccgacatca ccccgcccga gaagcgcgct
+      421 cggcgcttcg gtctgctcgg cgccctctcg ggcatcggca tgatgattgg gccggcagtc
+      481 ggcggtctgc tcgcctccgt gagtctgcag ctgccggtgt tcctcactgc ggccgtcgga
+      541 ctgacgatcg cgatcctcag catcttcctg cttcccgaga gcctggcgcc cgagaaccgc
+      601 atcgagcgga tggcggtgcg ggagctgcat ccgttcggcg tgttccggca ggccttcggc
+      661 cgcagagagc tccgcggtct gatgatcggc ttcggtctgc tcgccctccc gttcggcttc
+      721 ttcgtcaaca acttcagcgt gctcgcactc gactcgatcc agtggggacc tacgcagatc
+      781 gggctgctca ccgcggcggt cggcatcatc gacatcctca tccagggcgt tctgctcggc
+      841 atcctgctcc cgcgcatcgg cgagcgcggg gtgatcatca gcggaatcgt cgcgcagatg
+      901 ctcggattgg tcggcctcgc ggtggtcgcc tcgatcttcg cgcagccgtg ggtcttcatc
+      961 gtcggcgcgc tcatgctcgc ggcgggtcag ggagcctcga ccgccgcgat ggacggtgcg
+     1021 atgtcgaacg cggtgggtga cgacgagcag ggctggctcg gcggagcgac ccagtcgctc
+     1081 aacgcggcga tgaacacggt cgcgccgctg atcgccggcg ccctctacgt gaccgtcagc
+     1141 cacgcggcgc cgtactggct gggggtcgcg ctcatgatcg tcgcggtgat cgtcgtcgcg
+     1201 cgagcgcaca tcgagaacac cgcgaagcgc actccgggcg acgagcacgc tgacgcggcg
+     1261 accccgctcg cgcacgccga gggc
+//
+
+LOCUS       KX161707                1269 bp    DNA     linear   ENV 14-JAN-2017
+DEFINITION  Uncultured bacterium clone QTet1715 tetracycline transporter gene,
+            partial cds.
+ACCESSION   KX161707
+VERSION     KX161707.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1269)
+  AUTHORS   Wang,S., Gao,Y., Gao,X., Cao,M. and Feng,Z.
+  TITLE     Novel Tetracycline Resistance Genes Discovered in Mount Qomolangma
+            Soil by Using Functional Metagenomics
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1269)
+  AUTHORS   Wang,S., Gao,Y., Gao,X., Cao,M. and Feng,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-2016) College of Food Science and Technology,
+            Nanjing Agricultural University, Weigang Road 1#, Nanjing, Nanjing
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1269
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Mount Qomolangma soil"
+                     /db_xref="taxon:77133"
+                     /clone="QTet1715"
+                     /environmental_sample
+                     /country="China"
+                     /lat_lon="28.21 N 86.56 E"
+                     /collection_date="10-Mar-2014"
+     CDS             1..>1269
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetracycline transporter"
+                     /protein_id="APT68065.1"
+                     /translation="MTSHILSPRSDRRAWIMLIVLTMLTVIGMTVVLPVLPFVVLQYV
+                     SEQKDLAIWVGVLEAVNGLCAFLIAPFLGRLSDRFGRRPVIIAAAFGAALSMSLFGIG
+                     GAIWVLVLARVIQGLTAGDLPALFAYLADITPPEQRAKRFGLLGALSGIGTMLGPAIG
+                     GLLATVSIQLPVFLTAGVALTIAILSIFLLPESLKPENRIDAIRVRDIQPFAVFKNAF
+                     GRKELRGLMIGFGLLALPFGFFVNNFSVLALDSIQWGPTQIGLLTAAVGVIDILIQGL
+                     LLGILLPRIGERGVIVSGIIAQMIGLAGLAIVASLFAQPWLFIVGALMLAAGQGASQA
+                     AMDGAMSNAVGDDEQGWLGGATQSLNAAMSTVAPLIVAALYTLVSHAAPYWLGVALMV
+                     VAAIVVSRAHIVNTAKGEPSEAPLDLVEALR"
+ORIGIN      
+        1 atgacttcac acatcttgtc gccacggagc gaccgccgcg catggatcat gctcatcgtc
+       61 ctcacgatgc tcaccgtcat cggaatgacg gttgtccttc ctgtccttcc cttcgtcgtg
+      121 ctgcagtacg tgtcagagca gaaggacctc gccatctggg tgggggtgct cgaggccgtc
+      181 aacggtctct gcgccttcct catcgcgccg ttcctcggcc gcctctccga ccgcttcggt
+      241 cggcgacccg tgatcatcgc tgctgccttc ggcgccgcac tgtcgatgtc gctcttcggc
+      301 atcggcggcg ctatctgggt tctggtgctc gctcgcgtca ttcaggggct gaccgcaggc
+      361 gacctcccgg cgctgttcgc ctacctcgca gacatcaccc cgccagagca gcgggcgaag
+      421 cgcttcgggc tcctcggtgc gctatcgggc atcggtacga tgctcggccc ggccatcgga
+      481 ggtctcctcg cgacagtgag catccaactc cccgtattcc tcaccgcagg ggtcgcgctg
+      541 accatcgcaa tcctcagcat cttcctgctc ccagagagtc tcaagccgga gaaccgcatc
+      601 gacgcgatca gggtgcgcga catccagccg ttcgccgtgt tcaagaatgc gttcggccgc
+      661 aaagagcttc gggggctgat gatcggcttc ggacttctcg cgctgccgtt cgggttcttc
+      721 gtgaacaact tcagcgtcct cgcgctcgac tcgatccagt ggggtccgac ccagatcggc
+      781 ctgctcacag cagccgtcgg agtcatcgac atcctgatcc agggcctgct gctcggcatc
+      841 ctgctcccac gcatcggcga acgtggtgtg atcgtgagcg gcatcatcgc gcagatgatc
+      901 ggcctcgcgg gcctcgcgat cgtcgcgtcg ctgttcgctc agccgtggct gttcatcgtc
+      961 ggcgcgctca tgctcgcggc cggtcagggc gcatcgcagg ccgcgatgga cggcgccatg
+     1021 tcgaatgcgg tcggcgatga tgagcagggc tggttgggag gggcgacgca gtcgctcaac
+     1081 gccgccatga gcactgtcgc gccgctcatc gtggctgccc tctacacact cgtcagccac
+     1141 gccgccccct attggctcgg ggtcgcgctc atggtcgtcg ccgcgatcgt cgtcagccgt
+     1201 gcgcacatcg tcaacacagc gaagggggag ccgagcgaag cgccgctcga cctggtcgag
+     1261 gccctccgc
+//
+
+LOCUS       KX161708                1269 bp    DNA     linear   ENV 14-JAN-2017
+DEFINITION  Uncultured bacterium clone QTet1411 tetracycline transporter gene,
+            partial cds.
+ACCESSION   KX161708
+VERSION     KX161708.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1269)
+  AUTHORS   Wang,S., Gao,Y., Gao,X., Cao,M. and Feng,Z.
+  TITLE     Novel Tetracycline Resistance Genes Discovered in Mount Qomolangma
+            Soil by Using Functional Metagenomics
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1269)
+  AUTHORS   Wang,S., Gao,Y., Gao,X., Cao,M. and Feng,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-2016) College of Food Science and Technology,
+            Nanjing Agricultural University, Weigang Road 1#, Nanjing, Nanjing
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1269
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Mount Qomolangma soil"
+                     /db_xref="taxon:77133"
+                     /clone="QTet1411"
+                     /environmental_sample
+                     /country="China"
+                     /lat_lon="28.21 N 86.56 E"
+                     /collection_date="10-Mar-2014"
+     CDS             1..>1269
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetracycline transporter"
+                     /protein_id="APT68066.1"
+                     /translation="MTSSIPSREAKRAWAMLIAITMLTTAGMTVVLPVLPFVVLRYVE
+                     DQSHLAVWVGVLEAINALCAFLAAPLLGRLSDRYGRRPIIIVAAFGAAVGYALFGIGG
+                     ALWMLVVGRIVQGITAGDLPALFAYLADITPPEQRARRFGVLGALSGVGTMIGPAAGG
+                     LLAAVDVDLPVFVTAGIALVIAVLSLVALPESLTPERRLTTLTLSGLHPVKVFTQAFG
+                     RPALRPLLIGFVLVTIPFTFFVNNFSVLGLDTIGWNATAIGLLTASVGIVDIAIQGAL
+                     LGVLLPRLGERGVIVSGIVAQGIGIVGLAMVGSLLAEPWLFVVGTLALAAGQGAATAT
+                     MDGVLSNAVGDDEQGWIAGTTQSLNAAIGMIAPLAAGFLYAGVAHSAPYWLGAVMMAA
+                     AAVVITRGMRSASSEAGTAQPAPVRTGSERA"
+ORIGIN      
+        1 gtgacttcat cgattccttc tcgcgaggcc aagcgcgcct gggccatgct catcgcgatc
+       61 accatgctca ccaccgccgg aatgaccgtg gtgctgcccg tcctgccgtt cgtcgtgctg
+      121 cgctacgtcg aagaccaatc gcatctcgcg gtctgggtcg gcgtgctcga ggccatcaat
+      181 gcgctttgcg ccttcctcgc ggccccgctg ctcgggcgcc tcagcgaccg gtacgggcga
+      241 cggccgatca tcatcgtcgc ggcgttcggc gccgcggtcg gctacgcgtt gttcggcatc
+      301 ggcggagcac tgtggatgct cgtggtcggc cgcatcgtgc agggcatcac cgcgggcgat
+      361 ctgcccgccc tgttcgccta tctcgccgac atcaccccgc cggagcagcg cgcccggcgg
+      421 ttcggggtgc tcggagcact ctccggagtc ggcaccatga tcggccccgc ggccggcggg
+      481 ctgctcgccg cagtcgatgt cgatttgccc gtgttcgtca ccgcgggcat cgccctcgtg
+      541 atcgcggtgc tgagcctcgt cgccctgccc gagagcctca ccccggagcg tcgcctcacg
+      601 accctgaccc tcagcggcct gcacccggtg aaggtcttca cccaggcgtt cggacgtccc
+      661 gcactgcgtc cgctgctcat cggcttcgtg ctggtcacca tcccgttcac gttcttcgtg
+      721 aacaacttca gcgtgctcgg tctcgacacg atcggctgga acgccaccgc catcgggctg
+      781 ctcaccgcat ccgtcggcat cgtcgacatc gcgatccagg gcgcactgct cggcgtgctg
+      841 ctgccccgac tgggcgaacg cggcgtcatc gtcagcggga tcgtcgcgca gggcatcggc
+      901 atcgtcggcc tggcgatggt cgggtcgctg ctcgcggagc cgtggctgtt cgtcgtgggc
+      961 acgctcgcgc tggcggccgg gcaaggtgcc gcgacggcga ccatggacgg cgtgctgtcg
+     1021 aacgcggtag gcgacgacga gcagggttgg atcgccggca ccacccagtc gctcaacgcc
+     1081 gcgatcggca tgatcgcccc gctcgcggcc gggttcctct atgcgggcgt cgcacactcg
+     1141 gcgccgtact ggctcggcgc cgtgatgatg gcagcggccg cggtcgtgat cacccgcggg
+     1201 atgcggtcgg cgtcatccga agcggggacc gcacagccgg cccccgttcg tacgggctcc
+     1261 gagcgcgcc
+//
+
+LOCUS       KX161709                1290 bp    DNA     linear   ENV 14-JAN-2017
+DEFINITION  Uncultured bacterium clone QTet730 tetracycline transporter gene,
+            partial cds.
+ACCESSION   KX161709
+VERSION     KX161709.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1290)
+  AUTHORS   Wang,S., Gao,Y., Gao,X., Cao,M. and Feng,Z.
+  TITLE     Novel Tetracycline Resistance Genes Discovered in Mount Qomolangma
+            Soil by Using Functional Metagenomics
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1290)
+  AUTHORS   Wang,S., Gao,Y., Gao,X., Cao,M. and Feng,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-2016) College of Food Science and Technology,
+            Nanjing Agricultural University, Weigang Road 1#, Nanjing, Nanjing
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1290
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Mount Qomolangma soil"
+                     /db_xref="taxon:77133"
+                     /clone="QTet730"
+                     /environmental_sample
+                     /country="China"
+                     /lat_lon="28.21 N 86.56 E"
+                     /collection_date="10-Mar-2014"
+     CDS             1..>1290
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetracycline transporter"
+                     /protein_id="APT68067.1"
+                     /translation="MTSQTLPDTRAMNRAWAMLIVLTMLTVIGMTVVLPVLPFVVLQY
+                     VTHEHDLAIWVGILEAVNGLCAFLVAPFLGRLSDRFGRRPVIIGAAFGAALSMALFGI
+                     GGALWVLLLARVIQGLTAGDMPALFAYLADITPPEKRAQRFGLLGALSGIGMMVGPAL
+                     GGLLAAISLQLPVFLTAAVGLTIAILSIFLLPESLAPENRIPRISVRDVQPFAVFKNA
+                     FGRRELRGLMIGFGLLALPFGFFVNNFSVLALDAIQWGPTQIGLLTAGVGIIDILIQG
+                     VLLGILLPRIGERGVIISGIVAQMIGLTGLAVVASIFAQPWVFIVGALMLAAGQGAST
+                     AAMDGAMSNAVGADEQGWLGGATQSLSAAMNTVAPLVAAALYTLVSHAAPYWLGAGLM
+                     VVAIVVVARAHIANTAKTDAAAPVVGIEADAAPLPAAR"
+ORIGIN      
+        1 atgacttcac aaactctccc cgacacacgc gccatgaatc gcgcctgggc catgctcatc
+       61 gtcctcacga tgctcaccgt catcggcatg acggtcgtcc tccccgtgct gccgttcgtc
+      121 gtcctccaat acgtgacgca cgagcacgat ctcgcgatct gggtcggcat cctcgaagcg
+      181 gtcaacgggc tctgcgcctt cctcgtcgcc ccgttcctcg gtcgactctc cgatcgtttc
+      241 gggcgtcgcc ccgtcatcat cggcgcagcc ttcggcgcag ccctgtccat ggcgctcttc
+      301 ggcatcggcg gtgcgctctg ggtgctcctg ctggcgcgcg tcatccaggg actcaccgcc
+      361 ggtgacatgc ccgcactgtt cgcctacctc gccgacatca cgcctccgga gaagcgcgcc
+      421 cagaggttcg gcctcctcgg tgcgctctcc ggcatcggca tgatggtcgg cccggcgctc
+      481 ggcggtctgc tcgccgcgat cagcctgcag cttccggtgt tcctcacggc cgcggtggga
+      541 ctcacgatcg cgatcctcag catcttcctg ctccccgaga gcctggcgcc ggagaaccgc
+      601 atcccgcgga tctcggtgcg cgacgtgcag ccgttcgccg tcttcaagaa cgccttcgga
+      661 cgccgggagc tgcggggact gatgatcggc ttcggcctgc ttgccctgcc cttcggtttc
+      721 ttcgtgaaca acttcagcgt gctggcgctc gacgcgatcc agtgggggcc gacccagatc
+      781 ggtctgctca cggcaggagt cgggatcatc gacatcctca tccagggcgt gctgctcggc
+      841 atcctgctgc cccgcatcgg tgagcgcggc gtcatcatca gcgggatcgt ggctcagatg
+      901 atcggcctga ccggcctcgc cgtcgtcgcc tcgatcttcg cgcagccctg ggtcttcatc
+      961 gtcggcgcgc tgatgctcgc ggccggacag ggcgcatcga cggccgccat ggacggcgcg
+     1021 atgtcgaacg ccgtcggtgc cgacgagcaa ggatggctgg gaggtgcgac gcagtcgctc
+     1081 agcgccgcga tgaacaccgt cgcgcccctg gtggccgctg ccctctacac gctcgtgagc
+     1141 cacgccgcgc cgtactggct cggtgccggc ctcatggtcg tcgcgatcgt cgtcgtcgct
+     1201 cgcgcgcaca tcgcgaacac cgccaagacg gatgccgcgg cgccggtcgt cggcatcgag
+     1261 gcggatgcgg cgcccctccc ggccgcgcga
+//
+
+LOCUS       KX161710                1269 bp    DNA     linear   ENV 14-JAN-2017
+DEFINITION  Uncultured bacterium clone QTet1987 tetracycline transporter gene,
+            partial cds.
+ACCESSION   KX161710
+VERSION     KX161710.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1269)
+  AUTHORS   Wang,S., Gao,Y., Gao,X., Cao,M. and Feng,Z.
+  TITLE     Novel Tetracycline Resistance Genes Discovered in Mount Qomolangma
+            Soil by Using Functional Metagenomics
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1269)
+  AUTHORS   Wang,S., Gao,Y., Gao,X., Cao,M. and Feng,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-2016) College of Food Science and Technology,
+            Nanjing Agricultural University, Weigang Road 1#, Nanjing, Nanjing
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1269
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Mount Qomolangma soil"
+                     /db_xref="taxon:77133"
+                     /clone="QTet1987"
+                     /environmental_sample
+                     /country="China"
+                     /lat_lon="28.21 N 86.56 E"
+                     /collection_date="10-Mar-2014"
+     CDS             1..>1269
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetracycline transporter"
+                     /protein_id="APT68068.1"
+                     /translation="MTTLNPPVRSDMRAWIMLIVLTMLTVIGMTVVLPVLPFVVLQYV
+                     SHEGDLAIWVGVLEAINGLCAFLVAPFLGRLSDRFGRRPVIITAAFGAAFAMALFGIG
+                     GAIWVLVLARVIQGLTAGDMPALFAYLADITPPEKRAQRFGLLGALSGLGMMIGPAIG
+                     GLLAAIDLRLPLFLTAAVALTIAILSIFLLPESLSPENRISRIALRDLQPFAVFRNAF
+                     GRKELRGLMIGFALLALPFGFFVNNFSVLALDSIQWGPTEIGLLTAAVGIIDILIQGV
+                     LLGLLLPRIGERGVIVSGIVAQTIGLAGLAIVASIFAQPWVFIVGALLLAAGQGAAQA
+                     ALDGAMSNAVGDDEQGWLGGATQSLNAAMNTAAPLIAGALYVTVSHAAPYWLGVALMI
+                     VAVIVVSRAHIANTARTDAVEGAATAPIAVP"
+ORIGIN      
+        1 gtgactacac tcaacccgcc tgtgcgcagc gacatgcgcg cctggatcat gctcatcgtg
+       61 ctcacgatgc tgaccgtcat cggcatgacg gtcgtgctcc ctgtcctgcc cttcgtcgtg
+      121 ctgcaatacg tgtcgcacga aggcgacctc gcgatctggg tcggcgtgct cgaggccatc
+      181 aacggcctgt gcgccttcct cgtggctccg ttcctcggca gattgtcgga ccgcttcggg
+      241 cgtcggccgg tcatcatcac ggccgccttc ggcgcggcgt tcgccatggc gctcttcggg
+      301 atcggcggag cgatctgggt gctcgtcctc gcccgcgtga tccaaggact gacggccggc
+      361 gacatgcctg cgctcttcgc ctacctggcc gacatcacgc cccccgagaa gcgcgctcag
+      421 cggttcggtc tcctcggagc gctctcgggc ctcggcatga tgatcggtcc ggcgatcggc
+      481 ggcctgctcg ccgccatcga cctgcggctc ccgctgttcc tcaccgcggc ggtcgcgctg
+      541 acgatcgcga tcctcagcat cttcctgctt cccgagagcc tctcgcccga gaaccgcatc
+      601 tcgcgaatcg cgctgcggga cctccagccg ttcgccgtct tcaggaacgc gttcgggcgc
+      661 aaggagctcc ggggtctgat gatcggattc gctctgctgg cgctgccgtt cggattcttc
+      721 gtcaacaact tcagcgtcct cgcgctcgac tcgatccagt ggggaccgac ggagatcggc
+      781 ctcctcaccg cagccgtcgg catcatcgac atcctcatcc agggcgtgct gctcggtctg
+      841 ctgctcccgc gcatcggcga acgcggtgtg atcgtcagcg gcatcgtcgc gcagacgatc
+      901 gggctcgcag ggctcgcgat cgtggcctcg atcttcgccc agccatgggt gttcatcgtc
+      961 ggcgcgctgc tgctcgcggc gggccaggga gctgcgcagg ctgcgctcga cggcgccatg
+     1021 tcgaacgcgg tcggcgacga cgagcagggc tggctcggcg gggcgacgca gtcgctcaac
+     1081 gccgccatga acaccgccgc acccctgatc gccggtgccc tctatgtgac cgtcagccat
+     1141 gcggcgccct actggctcgg ggtcgccctg atgatcgtcg cggtgatcgt ggtgagccgg
+     1201 gcgcacatcg cgaacacggc caggacggat gcggtcgagg gtgccgcgac cgcgcccatc
+     1261 gcggtgccg
+//
+
+LOCUS       KX161711                1428 bp    DNA     linear   ENV 14-JAN-2017
+DEFINITION  Uncultured bacterium clone QTet1629 MATE efflux family protein
+            gene, partial cds.
+ACCESSION   KX161711
+VERSION     KX161711.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1428)
+  AUTHORS   Wang,S., Gao,Y., Gao,X., Cao,M. and Feng,Z.
+  TITLE     Novel Tetracycline Resistance Genes Discovered in Mount Qomolangma
+            Soil by Using Functional Metagenomics
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1428)
+  AUTHORS   Wang,S., Gao,Y., Gao,X., Cao,M. and Feng,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-2016) College of Food Science and Technology,
+            Nanjing Agricultural University, Weigang Road 1#, Nanjing, Nanjing
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1428
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Mount Qomolangma soil"
+                     /db_xref="taxon:77133"
+                     /clone="QTet1629"
+                     /environmental_sample
+                     /country="China"
+                     /lat_lon="28.21 N 86.56 E"
+                     /collection_date="10-Mar-2014"
+     CDS             1..>1428
+                     /codon_start=1
+                     /transl_table=11
+                     /product="MATE efflux family protein"
+                     /protein_id="APT68069.1"
+                     /translation="MSFDGEKPSSMAADDNSFLTVLKESFVGTTRDFTKGAILPALII
+                     LAIPMILEMSMEALFAIVDTFFVARLGAEAVAVVGLTESILALIYAVGIGLSIGATAT
+                     VARRVGEKDMDGAARTATHAVYLGLIISVVMGVAGVIFAPSILGLLRAEPDVIALGTP
+                     FMRIMLGSNAVIVFLFLLNGIFRGAGDAASAFRVLLIANGLNIFFCPMFIFGIGPFPE
+                     LGVTGAAVATVCGRGAGVLYAAWALFGRENGRLHVNREHWKFDPKLLTSLVRLSSTAV
+                     LQFLIATASWSGLVTILAGFGTVALAGYQIGLRVILFVLLPAVGLANAAATLVGQNLG
+                     AGQPDRAERSVWLAGAINAVLLGLAGLFFVIWPGLVIGVFTSDPEVAAVGRDCLRIVG
+                     YGYAFYGLGMVMETSFNGAGDTWTPTYLNFLIFWVFEIPLAYVLAYRFGWGPQGVFWA
+                     ITLAFSLLAVSAALLFRRGKWKTKTV"
+ORIGIN      
+        1 atgtctttcg atggtgaaaa gccgtcttcg atggcggcgg atgataattc gtttctgacg
+       61 gtcctgaaag agtcgttcgt cggcacgacg cgcgacttca cgaagggggc gatcctgccg
+      121 gctttgatca tcctcgcgat cccgatgatc ctcgagatgt cgatggaggc cctgttcgca
+      181 atcgtcgaca cgttcttcgt cgcgcggctc ggtgccgaag cggtcgcggt ggtcgggctg
+      241 accgaatcga tcctcgcgct gatctacgcg gtcgggatcg ggctgagcat cggcgcgacg
+      301 gcgaccgtcg cgcgacgtgt aggtgaaaag gacatggacg gggccgcccg cacggcaaca
+      361 cacgcggtct atctcggcct gatcatttcg gtggtgatgg gcgtcgcggg ggtcatcttc
+      421 gccccgagca ttctcgggct gcttcgggcc gagccggatg tgatcgccct cggcacgccg
+      481 ttcatgcgga tcatgctggg gtcgaacgcc gtgatcgttt tcctgttcct cctgaacggg
+      541 atattccgcg gggcgggcga cgccgcgagc gctttccgcg tcctcttgat cgcgaacggg
+      601 ctcaacatct tcttctgccc catgttcatt ttcgggatcg ggccgttccc cgagctgggg
+      661 gtgacgggcg ccgccgtcgc gaccgtgtgc ggccgcgggg caggtgtcct ctacgccgcg
+      721 tgggcgctat tcgggcgcga gaacggcagg ctgcacgtca accgcgagca ctggaagttc
+      781 gacccgaagc tgctcaccag cctcgtccgc ctttcgagca cggcggtgct gcaattcctg
+      841 atcgcgacgg cgagctggag cggcctcgtt acgatcctcg cggggttcgg gaccgtcgcc
+      901 ctcgccggtt accagatcgg gctgcgggtg atcctcttcg tcctgttgcc ggccgtcggg
+      961 ctcgcgaacg ccgccgcgac gctcgtgggg cagaatcttg gtgccggcca gcccgaccgt
+     1021 gccgagcgct ccgtctggct ggccggtgcg atcaacgcag tccttttggg gttagcgggt
+     1081 ttgttcttcg tgatctggcc cggtctcgtg atcggcgttt tcacgagcga cccggaggtg
+     1141 gcggccgtcg ggcgcgactg cctcaggatc gtcggttacg gctacgcttt ctacgggctc
+     1201 gggatggtga tggaaacttc attcaacggg gcgggcgaca cctggacgcc gacctatctc
+     1261 aacttcctga tcttctgggt gttcgagatc ccgctcgcct acgtgctggc ctaccgattc
+     1321 ggttggggcc cgcagggcgt tttctgggcg atcacgctcg ccttctccct gctcgccgtt
+     1381 tcggccgctt tactattccg ccgcggaaaa tggaagacga agacggta
+//
+
+LOCUS       KX161712                1161 bp    DNA     linear   ENV 14-JAN-2017
+DEFINITION  Uncultured bacterium clone QTet776 tetracycline destructase gene,
+            partial cds.
+ACCESSION   KX161712
+VERSION     KX161712.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1161)
+  AUTHORS   Wang,S., Gao,Y., Gao,X., Cao,M. and Feng,Z.
+  TITLE     Novel Tetracycline Resistance Genes Discovered in Mount Qomolangma
+            Soil by Using Functional Metagenomics
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1161)
+  AUTHORS   Wang,S., Gao,Y., Gao,X., Cao,M. and Feng,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-2016) College of Food Science and Technology,
+            Nanjing Agricultural University, Weigang Road 1#, Nanjing, Nanjing
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1161
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Mount Qomolangma soil"
+                     /db_xref="taxon:77133"
+                     /clone="QTet776"
+                     /environmental_sample
+                     /country="China"
+                     /lat_lon="28.21 N 86.56 E"
+                     /collection_date="10-Mar-2014"
+     CDS             1..>1161
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetracycline destructase"
+                     /protein_id="APT68070.1"
+                     /translation="MSTVNKILVIGAGIAGPAVCYWLKKFGFSPVLIEKFTDRRKGGQ
+                     ALDIRGVVVDLVKKMGVYEQICNRRTRVELGRYVDAEGNTLHEEKGERAGFRQDEEVE
+                     ILRGDLIDILMGALEGVPCHFNQLVSRIQQNNEGVIVHFQDGRNEHYDLVIGADGIHS
+                     ATRRIVFDKDDYQLVNLGSYLSIFSIPNYLNLSHTEVLCEANQKLASITSDKNPKRAQ
+                     AAFMFRSSSVLNNRRDENEQKQFLRDTFQNFGWEVPKVLELMSGSDDFYFDSITQVKM
+                     ESWTKGRVALLGDAGYCASPLSGQGNNLAMAGAYILAGELKKAGGNYTQAFNRYNELL
+                     HPFVEANQKFGVWVSKSFLVQDKVSKEIAEERSDSILKEIKIVSNSISLPEYE"
+ORIGIN      
+        1 atgtctactg taaataaaat tctcgtgata ggtgctggta ttgccggacc tgcagtttgc
+       61 tactggttaa aaaaatttgg cttttctcct gttttaattg aaaaatttac tgataggcga
+      121 aaaggtgggc aggcgctaga tattcggggc gtagtggttg atctcgtgaa aaaaatgggt
+      181 gtttatgagc aaatatgcaa taggcgcacg cgggtagaat tgggtcgcta tgttgacgct
+      241 gaaggcaata ccttgcatga agaaaaaggt gaaagagctg gctttagaca agatgaagag
+      301 gttgaaattc tcagaggtga tttaatcgac attctgatgg gtgctcttga aggcgttccc
+      361 tgtcatttta atcaactggt cagcagaatc cagcaaaata acgagggtgt aatcgttcat
+      421 tttcaagatg gcaggaatga gcactatgac ttggtcattg gcgccgatgg catacactcg
+      481 gcaacgagac gcatagtttt tgataaagac gactatcaat tagttaatct tggttcatac
+      541 ttgagcatat ttagtattcc gaactatctc aatttgagcc ataccgaagt gttgtgcgag
+      601 gctaatcaaa aactagcctc tatcactagc gacaagaatc ccaagagggc tcaagccgcc
+      661 tttatgttcc gttcgtcgtc tgtcttaaat aataggcgcg atgaaaacga acagaaacaa
+      721 tttctgcgag atacttttca aaattttgga tgggaagtgc caaaagtgct tgagttgatg
+      781 tcaggtagcg atgattttta ctttgattca attacacagg taaaaatgga atcgtggact
+      841 aaagggcggg ttgctttgtt aggtgatgca ggttactgtg catctccctt atctggtcaa
+      901 ggcaataacc tggcaatggc tggtgcttat attcttgccg gagaactaaa aaaagccggt
+      961 ggaaattaca ctcaggcatt taatcgttat aatgagttat tacatccctt tgttgaagcc
+     1021 aatcaaaagt ttggagtctg ggtgagcaaa tcatttctcg tccaagacaa agtttcgaaa
+     1081 gaaattgcag aagaacggtc ggatagcatt ctgaaagaga taaaaatcgt atcgaattca
+     1141 atttccttac cagagtatga a
+//
+
+LOCUS       KX161713                1164 bp    DNA     linear   ENV 14-JAN-2017
+DEFINITION  Uncultured bacterium clone QTet1435 tetracycline destructase gene,
+            partial cds.
+ACCESSION   KX161713
+VERSION     KX161713.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1164)
+  AUTHORS   Wang,S., Gao,Y., Gao,X., Cao,M. and Feng,Z.
+  TITLE     Novel Tetracycline Resistance Genes Discovered in Mount Qomolangma
+            Soil by Using Functional Metagenomics
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1164)
+  AUTHORS   Wang,S., Gao,Y., Gao,X., Cao,M. and Feng,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-2016) College of Food Science and Technology,
+            Nanjing Agricultural University, Weigang Road 1#, Nanjing, Nanjing
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1164
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Mount Qomolangma soil"
+                     /db_xref="taxon:77133"
+                     /clone="QTet1435"
+                     /environmental_sample
+                     /country="China"
+                     /lat_lon="28.21 N 86.56 E"
+                     /collection_date="10-Mar-2014"
+     CDS             1..>1164
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetracycline destructase"
+                     /protein_id="APT68071.1"
+                     /translation="MSATNKILVIGAGIAGPTVCYWLKRFGFSPILIEKFAYVRKGGH
+                     ALDVRGVAIDLVKRMGIYEKICNRRTQVEFGQYVDVQGNILHEEKGERFCFRQGEDVE
+                     IIRGDLVEILLDTIKGVPCLFNQMIDGIKQNDGDVEVHFKDGRTEHYDLVIGADGIHS
+                     PTRGMVFEKNEYELVNLGGYFSVFSIPNYLNLSHTEVQCEANQKLLSITSDRNPKMAE
+                     AAFMFRSPNVLNNIRDANEQQQFLRDTYQDFGWETSKILDLMSSSNNFYFDSVTQVKM
+                     KSWTKGRVALLGDAGYCPSPLSGQGNNLAMVGAYILAGELKRADGDYVHAFNRYNELL
+                     RPFVEANQQLGALVNESFLISDEVSKEVAEARSNKIMQEVEIVSNAISLPDYEK"
+ORIGIN      
+        1 atgtctgcta caaataaaat tctcgtaata ggagctggta ttgctggacc cacagtttgt
+       61 tattggttaa aaagatttgg cttctctccc attttaattg aaaagtttgc ctatgtccga
+      121 aaaggaggac acgcactaga tgttcgaggc gttgcaatcg acctcgtcaa gagaatgggt
+      181 atttatgaga aaatatgcaa taggcgtacc caagtggagt ttggacaata tgtagatgtc
+      241 caaggtaata tcttgcatga agaaaaaggc gaaagatttt gctttagaca aggcgaagat
+      301 gttgaaatta tccgcggtga tttagtcgaa atactgctag atactattaa aggtgttcct
+      361 tgtcttttta atcaaatgat tgacggtatt aaacagaatg atggtgatgt agaagttcac
+      421 ttcaaggatg gaagaactga gcattacgac ttggtcattg gtgcggatgg catccactca
+      481 cctacgagag gcatggtttt tgaaaaaaat gaatatgaat tagttaatct tggcggctac
+      541 tttagcgtat ttagtattcc taattatctc aatttgagtc ataccgaagt tcagtgtgag
+      601 gctaatcaaa aactactatc tattactagc gacaggaatc ctaaaatggc tgaagctgcg
+      661 tttatgttcc gctcaccaaa tgttttgaat aatattcgcg atgcaaatga gcagcagcaa
+      721 tttctgcgag atacttatca agattttggc tgggagacat caaaaatact tgatctaatg
+      781 tcaagcagca acaattttta ttttgattct gttacacagg tgaaaatgaa atcgtggact
+      841 aaaggacgag ttgctttgtt aggtgatgca ggttattgtc cctctcccct atctggtcaa
+      901 ggtaataatt tggcaatggt tggtgcttat attttagctg gggaactaaa aagggcagac
+      961 ggagattatg tgcatgcctt taatcgttat aatgaattat tacgtccatt tgttgaagcc
+     1021 aatcaacagt tgggggcctt ggttaacgaa tcgtttctta tctcagatga agtttccaaa
+     1081 gaagttgcag aagcacggtc aaataagatt atgcaagaag tggaaatcgt atcgaatgcc
+     1141 atttctttgc cagattatga aaag
+//
+
+LOCUS       KY853665                1182 bp    DNA     linear   ENV 20-AUG-2017
+DEFINITION  Uncultured bacterium clone YN-623 tetracycline resistance MFS
+            efflux pump gene, complete cds.
+ACCESSION   KY853665
+VERSION     KY853665.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1182)
+  AUTHORS   Wang,S., Gao,X., Gao,Y., Li,Y., Cao,M., Xi,Z., Zhao,L. and Feng,Z.
+  TITLE     Tetracycline Resistance Genes Identified from Distinct Soil
+            Environments in China by Functional Metagenomics
+  JOURNAL   Front Microbiol 8, 1406 (2017)
+   PUBMED   28790997
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1182)
+  AUTHORS   Feng,Z., Wang,S. and Gao,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-MAR-2017) College of Food Science and Technology,
+            Nanjing Agricultural University, Weigang Road 1, Nanjing 210095,
+            China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1182
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Yunnan forest soil"
+                     /db_xref="taxon:77133"
+                     /clone="YN-623"
+                     /environmental_sample
+                     /country="China"
+                     /lat_lon="25.20 N 102.30 E"
+                     /collection_date="Mar-2013"
+                     /collected_by="Feng Z. Y."
+     CDS             1..1182
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetracycline resistance MFS efflux pump"
+                     /protein_id="ASU06803.1"
+                     /translation="MQMTTKLALPLVLGVVTLDAIGIGLIMPVLPGLLRDLVHSDAIV
+                     GHYGVLLAIYALMQFLCAPTLGALSDRFGRRPVLLASLAGAAIDYAIMAMAPVLWVLY
+                     LGRALAGITGATGAVVGAAIADISPQEQRARRFGWMGACFGLGMVGGPALGGLLGNVS
+                     PHAPFMLAAILNGLNALLAALFLPETHQGERRRLNANAFNPLASFRWAGGLPTVTAMM
+                     AVFFIMQLVGQVPASVWVLFGENRFHWDAGAVGLSLAAFGILHAIAQAFVIGPLAQRL
+                     GERRALVFGMAADALGYVLLAFASRGWMVFAIMIPLSAGGIGAPALQAMLSREVDEER
+                     QGRLQGSLAALTSLTSIIGPLLFTAIYSASLASWNGWAWLAGALLYLLCLPFLKRAAR
+                     G"
+ORIGIN      
+        1 atgcagatga ctaccaagct cgccctgccg ctcgtgctgg gcgtcgtcac tctagatgcg
+       61 atcggcatcg gcttgatcat gccggtcttg ccggggcttt tgcgggatct cgtccactcc
+      121 gatgcaattg tggggcatta cggtgtgctg ctggccatct atgcgctgat gcagttcctg
+      181 tgcgcgccga cgcttggggc gctgtccgac aggttcggcc gtcgtcccgt gctgcttgcc
+      241 tcgctcgccg gcgccgctat cgactatgcc atcatggcga tggctccggt cttgtgggtt
+      301 ctctatctcg gtcgcgctct tgccggcatt accggcgcga ccggggccgt ggtcggtgcg
+      361 gcgatcgccg acatttcgcc gcaagagcag cgagcccggc gtttcggctg gatgggcgcc
+      421 tgtttcggcc tcggcatggt gggcggccct gccctcggcg gcctgctggg gaatgtctca
+      481 ccccatgcgc ccttcatgtt ggctgccatt ctgaatggcc tgaacgcctt gctggccgcc
+      541 cttttcctgc cggagacgca tcagggcgag cgacgccggc tcaacgccaa cgccttcaat
+      601 cccctcgctt ctttccgctg ggcgggcggc ctgccgacgg tgacggcgat gatggctgtc
+      661 ttcttcatca tgcaactggt cggccaggtg ccggcatcgg tatgggtcct gttcggtgag
+      721 aaccgctttc actgggatgc gggtgccgtt gggctctccc tcgccgcctt cggcattctc
+      781 catgccatcg cccaggcgtt cgttatcggg ccgctggccc agcgactcgg cgaacgcagg
+      841 gctctggttt tcggcatggc ggcggatgca ctgggctatg tgcttctggc gtttgcctcg
+      901 cggggctgga tggtgttcgc catcatgatt ccgctttcgg ccggtggcat cggcgccccc
+      961 gccctgcagg ccatgctgtc tcgtgaagtc gacgaagagc ggcagggccg gttgcaggga
+     1021 tcgcttgcag cgctcaccag cctgacctcc atcatcggcc ctctgctctt cacggcgatc
+     1081 tactcggcct ctcttgccag ttggaacggt tgggcgtggc tggcgggggc actgctctac
+     1141 ctcctatgcc tgccattctt gaaacgggcg gcacgagggt ag
+//
+
+LOCUS       KY853666                1179 bp    DNA     linear   ENV 20-AUG-2017
+DEFINITION  Uncultured bacterium clone YN-652 tetracycline resistance MFS
+            efflux pump gene, complete cds.
+ACCESSION   KY853666
+VERSION     KY853666.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1179)
+  AUTHORS   Wang,S., Gao,X., Gao,Y., Li,Y., Cao,M., Xi,Z., Zhao,L. and Feng,Z.
+  TITLE     Tetracycline Resistance Genes Identified from Distinct Soil
+            Environments in China by Functional Metagenomics
+  JOURNAL   Front Microbiol 8, 1406 (2017)
+   PUBMED   28790997
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1179)
+  AUTHORS   Feng,Z., Wang,S. and Gao,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-MAR-2017) College of Food Science and Technology,
+            Nanjing Agricultural University, Weigang Road 1, Nanjing 210095,
+            China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1179
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Yunnan forest soil"
+                     /db_xref="taxon:77133"
+                     /clone="YN-652"
+                     /environmental_sample
+                     /country="China"
+                     /lat_lon="25.20 N 102.30 E"
+                     /collection_date="Mar-2013"
+                     /collected_by="Feng Z. Y."
+     CDS             1..1179
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetracycline resistance MFS efflux pump"
+                     /protein_id="ASU06804.1"
+                     /translation="MTTKLALPLVLGVVTLDAIGIGLVMPVLPDLLRHLVHADAVAGH
+                     YGVLLAIYALMQFLCSPALGALSDRFGRRPVLLGSLAGATIDYAVMALAPDLWVLYVG
+                     RAIAGITGATAAVAGAAIADISPEEQRARRFGLMSACFGLGLVGGPALGGLLGGYSPQ
+                     APFVIAATLNGLNGLLAALFLPETHRGERRPLTSGSFNPVASFRWLRGLPAVVALMAV
+                     FFIMQLVGQVPASIWVLFGESRFHWDTGTVGLSLAAFGILHAIAQGFVTGPLAQWLGE
+                     SRAVLFGMAADALGYVLLAFASQSWMAFALMIPLSAGGVGAPALQAMLSREVGETRQG
+                     QLQGSLSALTSLTSIIGPLLFTAIYVSSPASWNGWAWLVGALLYLLCPPFLKRSVRNT
+                     "
+ORIGIN      
+        1 atgaccacca aacttgccct ccccctcgtg cttggggtcg tgacgctcga tgccatcggc
+       61 atcggtctgg tcatgcccgt cctgcccgat ctcctgcgcc atctggtcca tgccgatgcg
+      121 gtcgccggcc attacggcgt gctgctggca atctatgccc tcatgcagtt cctgtgctcg
+      181 ccggcgctcg gcgccctttc ggaccgtttc gggcgccgtc ccgtgctgct gggatccctg
+      241 gccggtgcca ccatcgatta tgccgtcatg gcgttggcgc cggatctgtg ggttctctat
+      301 gtcggacgcg ccattgccgg catcaccggt gccaccgccg cggtggcggg agcggcgatc
+      361 gccgatatct cgccggagga acagcgggcg cggcgcttcg gattgatgag cgcctgcttc
+      421 ggcctcggcc tggtcggcgg gcccgccctc ggcggcctgc tcggcgggta ttcgccgcag
+      481 gcacccttcg tgatcgccgc caccctgaac ggcttgaacg gcctgctcgc cgcccttttc
+      541 ctgccggaga cgcatcgcgg cgagcgccgc ccgctcacct cgggatcgtt caatcccgtc
+      601 gcgtccttcc gctggcttcg cggcttgccg gcggtggtgg cgctgatggc ggtcttcttc
+      661 atcatgcagc tggtaggcca ggtgcccgcg tcgatatggg tcctgttcgg cgagagccgc
+      721 ttccattggg ataccggtac ggtcgggctc tcattggccg ccttcggcat ccttcacgcc
+      781 atcgcccagg ggttcgtcac cggtcccctg gcacaatggc tcggcgagag ccgcgccgtc
+      841 cttttcggca tggcggcgga cgcgctcggc tatgtgctgc tggccttcgc ctcgcagagc
+      901 tggatggcct tcgctttgat gatcccgctg tcggcgggcg gcgtcggcgc gcccgctttg
+      961 caggccatgc tgtcgcgcga agtcggcgaa acccggcagg gccagttgca gggttcgctt
+     1021 tcggcgctca ccagcctcac atccatcata ggtccgctgc tgttcacggc catctatgtc
+     1081 tcatccccgg ccagttggaa cggctgggcc tggctggtgg gtgccttgct ctatctcctg
+     1141 tgtccgccat ttttgaaacg atcggtcaga aatacctga
+//
+
+LOCUS       KY697282                1587 bp    DNA     linear   ENV 20-AUG-2017
+DEFINITION  Uncultured bacterium clone YN-141 tetracycline resistance MFS
+            efflux pump gene, complete cds.
+ACCESSION   KY697282
+VERSION     KY697282.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1587)
+  AUTHORS   Wang,S., Gao,X., Gao,Y., Li,Y., Cao,M., Xi,Z., Zhao,L. and Feng,Z.
+  TITLE     Tetracycline Resistance Genes Identified from Distinct Soil
+            Environments in China by Functional Metagenomics
+  JOURNAL   Front Microbiol 8, 1406 (2017)
+   PUBMED   28790997
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1587)
+  AUTHORS   Feng,Z., Wang,S., Gao,X. and Gao,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-2017) College of Food Science and Technology,
+            Nanjing Agricultural University, Weigang Road 1, Nanjing 210095,
+            China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1587
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Yunnan forest soil"
+                     /db_xref="taxon:77133"
+                     /clone="YN-141"
+                     /environmental_sample
+                     /country="China"
+                     /lat_lon="25.20 N 102.30 E"
+                     /collection_date="Mar-2013"
+                     /collected_by="Feng Z. Y."
+     CDS             1..1587
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetracycline resistance MFS efflux pump"
+                     /protein_id="ASU06805.1"
+                     /translation="MRRALSLPAGHGLHCTEQRSIIRTSFNNRTSFDFLVTPQERTMT
+                     IATTTATVRPKTYTSLRAAWIPLFALCLAFFVEMVDNTLLSIALPTIGRDLGSGTTAL
+                     QWVTGAYSLTFGGLLLTAGSLADRFGRRRVLLIGLAAFGTMSLAVIAVTTPGQLIALR
+                     AALGIAAAAMAPITNSLVFRLFDDEALRMRAITVMIVVGMSGFILGPLLGGTALAHVR
+                     WEWLLVVNAPIALIAWIGVRLGIAPDDPEGLTTDRLDLPGAVLSIATIGLACFTMTSV
+                     VENGWHAVVTIAVAVGAVVALVALVQRERTAKAPMLDLKLFNNGTVRGAAVAQLGTAI
+                     TMAGVMFGLILHFQYAYGWSPVRAGLANLPFIITMLLATPVSETLGKRFGHRIACLIG
+                     AILLTVSLVGMAWGVYHGYVVVAIFMVVLTVGLRVVMTICAVALIGGLPENRTSLGAA
+                     LNDTAQEVGTSVGTAVVGTVLAAVVGAHLPIGAWSADLASTFFHGERIAYSVLAVLVG
+                     VIATWGALTLTDSRDVEEQH"
+ORIGIN      
+        1 atgcgacgcg cgctttcgtt gcctgctggt catgggttgc actgtaccga acaacgttct
+       61 attattcgaa cgtcgttcaa taaccgaacg tcgttcgatt ttctcgtgac accgcaggag
+      121 cgcaccatga ccatcgccac cacgaccgcc accgtgcggc cgaagacgta caccagcctg
+      181 cgcgccgcct ggatcccgct gttcgcgctc tgtctcgcgt tcttcgtcga gatggtcgac
+      241 aacacgctgc tgagcatcgc gctgcccacc atcgggcgcg atctcggcag cggcacgacc
+      301 gccctgcaat gggtgaccgg cgcctactcg ctgaccttcg gtggacttct cctgacggcc
+      361 ggttcgctcg ccgaccggtt cgggcggcgt cgggtcctgc tgatcggact ggccgccttc
+      421 ggcacgatga gcctggccgt catcgcggtc acgactcccg gccagctgat cgccttgcgt
+      481 gccgcgctcg ggatcgccgc cgccgcgatg gcaccgatca ccaactccct cgtgttccgg
+      541 ctgttcgacg acgaggcgct tcggatgcgc gcgatcacgg tgatgatcgt cgtcgggatg
+      601 agcggcttca tcctcggccc gctcctgggc ggtacggcgc tcgcgcacgt gcgctgggag
+      661 tggctgctcg tcgtcaatgc gccgatcgcg ctgatcgcct ggatcggcgt ccgtctcggc
+      721 atcgcgcccg acgacccgga aggcctgacg acggatcggc tcgacctgcc cggtgcggtc
+      781 ctcagcatcg ccacgatcgg ccttgcctgc ttcacgatga ccagcgtcgt ggagaacggc
+      841 tggcatgccg tcgtcacgat cgccgtggcg gtcggtgccg tggtcgctct cgtcgccctg
+      901 gtgcagcgcg agcggacggc caaggcgccg atgctcgacc tgaagctgtt caacaacggc
+      961 accgtgcgcg gcgcggcagt cgcccagctc gggaccgcca tcaccatggc cggcgtgatg
+     1021 ttcgggctga tcctgcactt ccagtacgcc tacggctgga gtcccgtgcg ggccggcctc
+     1081 gcgaacctgc cgttcatcat cacgatgctg ctggcgacgc ctgtctcgga gacgctcggc
+     1141 aagcgcttcg gccaccggat cgcatgtctc atcggagcga tcctgctgac cgtgtccctg
+     1201 gtcggcatgg catggggcgt ctaccacggg tatgtcgtcg tcgcgatctt catggtggtc
+     1261 ctgaccgtcg gacttcgggt cgtgatgacg atctgcgcgg tcgccctgat cggcggcctg
+     1321 ccggagaacc gcacctcgct cggcgccgct ctcaacgaca cagcccaaga ggtcggcacg
+     1381 agcgtcggta cggccgtcgt cgggaccgtc ctcgccgcgg tcgtcggagc gcatctgccg
+     1441 atcggcgcct ggagcgcgga tctggcgtcg acgttcttcc acggcgagcg aatcgcgtac
+     1501 agcgtcctcg ccgtcctggt cggcgtgatc gcgacctggg gcgccctcac cctcaccgat
+     1561 tcgcgcgacg tcgaagaaca acactga
+//
+
+LOCUS       KY697283                1533 bp    DNA     linear   ENV 20-AUG-2017
+DEFINITION  Uncultured bacterium clone YN-629 tetracycline resistance MFS
+            efflux pump gene, partial cds.
+ACCESSION   KY697283
+VERSION     KY697283.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1533)
+  AUTHORS   Wang,S., Gao,X., Gao,Y., Li,Y., Cao,M., Xi,Z., Zhao,L. and Feng,Z.
+  TITLE     Tetracycline Resistance Genes Identified from Distinct Soil
+            Environments in China by Functional Metagenomics
+  JOURNAL   Front Microbiol 8, 1406 (2017)
+   PUBMED   28790997
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1533)
+  AUTHORS   Feng,Z., Wang,S., Gao,X. and Gao,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-2017) College of Food Science and Technology,
+            Nanjing Agricultural University, Weigang Road 1, Nanjing 210095,
+            China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1533
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Yunnan forest soil"
+                     /db_xref="taxon:77133"
+                     /clone="YN-629"
+                     /environmental_sample
+                     /country="China"
+                     /lat_lon="25.20 N 102.30 E"
+                     /collection_date="Mar-2013"
+                     /collected_by="Feng Z. Y."
+     CDS             1..>1533
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetracycline resistance MFS efflux pump"
+                     /protein_id="ASU06806.1"
+                     /translation="MLRSIERCSMVSDIVRYSNNVRYEEAPMSSTIETTPAHVYPSLR
+                     SAWIPLFALCLAFFVEMVDNTLLTIALPTIGRDLGSGTTGLQWVTGAYSLTFGGLLLT
+                     AGSAADRVGRRRVLLVGLAAFGLISLAVVAVQSAGELVALRAALGVAAAAMAPITNSL
+                     VFRLFEEEALRMRAMTLMIVVGMSGFILGPLLGGTALAHVRWEWLLVVNAPIALIAWV
+                     GVRLGVQADRPEDLTNDALDLPGAVLSITTIGLACYTLTSGVEHGWLSIVTCGSALGA
+                     LLALAAFLRHERRTPQPMLDLGVFANRTVRGAAIAQIGTSIAMAGVMFGLILHFQYAY
+                     GWSPMRAGLANLPLILTMIAATPISEFLTQRFGHRVACLFGAVLLAGSLAGLAWGVDH
+                     GYPAIAVCMVTFTIGLRTVMTICAVALVSAMPSNRTSIAAALNDTAQEVGTSVGIAVV
+                     GTLIAALVTVTLPTGTWNNDLVASFFHGERVTYTTLAVIVGLIAGWGALTLTDSRSSE
+                     EPS"
+ORIGIN      
+        1 atgttgcgtt ctatcgaacg ttgttctatg gtatcggaca ttgttcgata ctcgaacaac
+       61 gttcgatatg aggaggcgcc catgagttcc accatcgaga ccacgccggc ccacgtgtac
+      121 ccctccctcc ggtcggcgtg gattccgctg ttcgccctgt gtctggcctt cttcgtggag
+      181 atggtcgaca acacgctgct gaccatcgcg ctgccgacca tcggccgtga cctcggcagc
+      241 ggcacgaccg gcctccagtg ggtgaccggg gcctactcgc tcaccttcgg cggcctgctt
+      301 ctcacagccg gctcggctgc cgatcgggtc gggcgccgtc gggtcttgct cgtcggcctc
+      361 gccgccttcg gcctgatcag cctcgccgtg gtcgccgtcc agtcagccgg cgagctggtc
+      421 gcgctgcgcg cggctcttgg ggtcgccgcg gccgctatgg cgcccatcac caactccctt
+      481 gtcttccggc tgttcgagga ggaggcgctg cggatgcgcg cgatgactct catgatcgtc
+      541 gtcggcatga gcggcttcat cctcggcccg cttctcggcg gcacggcgct cgcccacgtg
+      601 cgctgggagt ggctgctggt cgtcaacgca cccatagcgc tcatcgcgtg ggtcggggtg
+      661 cgcctcggcg tccaggccga ccgacccgag gacctgacca acgatgcgct cgacctcccg
+      721 ggagcggtcc tgagcatcac cacgatcggc ctcgcctgct acaccctcac cagcggtgtc
+      781 gagcacggct ggctctccat cgtgacctgc gggtccgcgc tcggcgcgct cctcgcgctc
+      841 gccgccttcc tgcgacacga gcgccggacg ccgcagccga tgctcgacct cggagtcttc
+      901 gccaaccgca ccgtccgcgg cgccgccatc gctcagatcg ggacctcgat cgcgatggcc
+      961 ggcgtgatgt tcggcctgat cctgcacttc cagtacgcct acggctggag ccccatgcga
+     1021 gccggcttgg ccaatctccc cctcatcctc accatgatcg ccgcgacccc gatctcggag
+     1081 ttcctcacgc agcggttcgg ccaccgggtc gcttgcctgt tcggtgccgt cctgctggcc
+     1141 ggctcgctcg caggcctcgc ctggggcgtc gaccacggct acccggcgat cgccgtctgc
+     1201 atggtcacct tcaccatcgg actgcggacg gtgatgacta tctgtgcggt cgcactcgtc
+     1261 agcgccatgc cgagcaaccg cacctcgatc gcagcagccc tcaacgacac cgcgcaggag
+     1321 gtcgggacaa gcgtcggcat cgcagtggtc ggtacgctca tcgccgccct tgtcacggtg
+     1381 acccttccca ccggcacgtg gaacaacgac ctcgtcgcct ccttcttcca cggggagcga
+     1441 gtcacgtaca cgacgctcgc ggtgatcgtc ggcctcatcg ccggttgggg cgctttgacc
+     1501 ctcaccgact cccgctcctc cgaagagccg tcc
+//
+
+LOCUS       KY697284                1194 bp    DNA     linear   ENV 20-AUG-2017
+DEFINITION  Uncultured bacterium clone YN-1039 tetracycline resistance MFS
+            efflux pump gene, complete cds.
+ACCESSION   KY697284
+VERSION     KY697284.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1194)
+  AUTHORS   Wang,S., Gao,X., Gao,Y., Li,Y., Cao,M., Xi,Z., Zhao,L. and Feng,Z.
+  TITLE     Tetracycline Resistance Genes Identified from Distinct Soil
+            Environments in China by Functional Metagenomics
+  JOURNAL   Front Microbiol 8, 1406 (2017)
+   PUBMED   28790997
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1194)
+  AUTHORS   Feng,Z., Wang,S., Gao,X. and Gao,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-2017) College of Food Science and Technology,
+            Nanjing Agricultural University, Weigang Road 1, Nanjing 210095,
+            China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1194
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Yunnan forest soil"
+                     /db_xref="taxon:77133"
+                     /clone="YN-1039"
+                     /environmental_sample
+                     /country="China"
+                     /lat_lon="25.20 N 102.30 E"
+                     /collection_date="Mar-2013"
+                     /collected_by="Feng Z. Y."
+     CDS             1..1194
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetracycline resistance MFS efflux pump"
+                     /protein_id="ASU06807.1"
+                     /translation="MNKPLVVILSAVTLDAIGIGLIFPILPRLLESVTHVDNIAPYVG
+                     LIYALYAAIQFIFSPILGVMSDRFGRRPVLLLSLAGAAVDYLFMAFAPELWMLIVGRA
+                     IAGLTSANMAIATAYITDITPEEQRAQRFGLFHAMFGIGFIIGPVLGGVLGDFWVRAP
+                     FIAAAVLNGLNLLLAFFVLPESRPGNPNAKFDLKVLNPFVPLAWAFSLKGLLPMIVVF
+                     FTLNFVGNMYGTVWALFGVDAFEWNGLMVGLSLAGYGLFHAVVQAVLPGPVAKRIGER
+                     NALLLGMVCESAGLLLSAVATQGWVIFAVLPLYALGGVGVPALQSLTTQQVDSDKQGQ
+                     LQGVMASIVSVASIFGPLFFAAIYFAIRDIWPGIIWAVGVGIYVLAIPLILGIRRAPP
+                     APQPV"
+ORIGIN      
+        1 gtgaacaaac cgctcgtcgt tatcctgagc gccgtgacgc tcgacgccat cggcatcggc
+       61 ctgatctttc cgatcctgcc gcgcctgctc gagagcgtca cgcatgtcga caacattgcc
+      121 ccctatgttg ggctgatcta cgcgctctac gcggcgatcc agttcatctt ctcacccatc
+      181 ctgggagtga tgagcgaccg cttcggccgc cggccggtgc tgcttctgtc gctggccggt
+      241 gccgccgtgg actacctgtt catggcgttt gcacccgagc tctggatgct gatcgtcggt
+      301 cgggcgatcg ccggcctcac cagcgccaac atggcgatcg ccaccgccta catcaccgac
+      361 atcacacccg aagagcagcg ggcccaacgc tttggcctgt tccacgccat gttcggcatc
+      421 gggttcatta tcggtcccgt cctcggcggt gtgctcggcg acttctgggt tcgcgcgccg
+      481 ttcatcgctg ccgcggtgct caacggcctc aatctgctgc tggcgttctt cgtcctgccg
+      541 gagtcgcggc cgggaaaccc caacgcgaaa ttcgatctca aggtgttgaa tcccttcgtg
+      601 ccgttggcct gggccttctc gctcaagggg ctactgccga tgatcgtcgt gttcttcacg
+      661 ctcaatttcg tcggcaacat gtacggcacc gtgtgggcac tgttcggcgt cgatgccttc
+      721 gagtggaacg gtcttatggt tgggctgtcg ctggccggct acggcctgtt ccacgctgtc
+      781 gtccaagcgg tgctgccggg accggtggcc aagcggatcg gcgagcgcaa cgctctgctt
+      841 ctgggcatgg tgtgtgagag cgccggcctg ctcctgtcgg ccgtcgccac ccaaggctgg
+      901 gtgatcttcg ctgtgctccc gctttacgcg ctcggcggcg ttggcgtgcc ggcactgcaa
+      961 tcgctgacca cgcagcaggt cgattccgac aagcagggac aactccaggg cgtgatggcc
+     1021 tcgatcgtca gcgttgcctc gattttcggg cctctgttct tcgcggcgat ctactttgct
+     1081 atccgcgata tctggccggg aatcatctgg gccgtgggcg tgggtatcta cgtgctcgcg
+     1141 attccgctga ttttgggtat tcggcgggcg ccgccggctc cgcaacccgt ctga
+//
+
+LOCUS       KY697285                1584 bp    DNA     linear   ENV 20-AUG-2017
+DEFINITION  Uncultured bacterium clone YN-1046 tetracycline resistance MFS
+            efflux pump gene, partial cds.
+ACCESSION   KY697285
+VERSION     KY697285.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1584)
+  AUTHORS   Wang,S., Gao,X., Gao,Y., Li,Y., Cao,M., Xi,Z., Zhao,L. and Feng,Z.
+  TITLE     Tetracycline Resistance Genes Identified from Distinct Soil
+            Environments in China by Functional Metagenomics
+  JOURNAL   Front Microbiol 8, 1406 (2017)
+   PUBMED   28790997
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1584)
+  AUTHORS   Feng,Z., Wang,S., Gao,X. and Gao,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-2017) College of Food Science and Technology,
+            Nanjing Agricultural University, Weigang Road 1, Nanjing 210095,
+            China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1584
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Yunnan forest soil"
+                     /db_xref="taxon:77133"
+                     /clone="YN-1046"
+                     /environmental_sample
+                     /country="China"
+                     /lat_lon="25.20 N 102.30 E"
+                     /collection_date="Mar-2013"
+                     /collected_by="Feng Z. Y."
+     CDS             1..>1584
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetracycline resistance MFS efflux pump"
+                     /protein_id="ASU06808.1"
+                     /translation="MRRALSLPAGHGLHCTEQRSIIRTSFNNRTSFDFLVTPQERTMT
+                     IATTTATVRPKTYTSLRAAWIPLFALCLAFFVEMVDNTLLSIALPTIGRDLGSGTTAL
+                     QWVTGAYSLTFGGLLLTAGSLADRFGRRRVLLIGLAAFGTMSLAVIAVTTPGQLIALR
+                     AALGIAAAAMAPITNSLVFRLFDDEALRMRAITVMIVVGMSGFILGPLLGGTALAHVR
+                     WEWLLVVNAPIALIAWIGVRLGIAPDDPEGLTTDRLDLPGAVLSIATIGLACFTMTSV
+                     VENGWHAVVTIAVAVGAVVALVALVQRERTAKAPMLDLKLFNNGTVRGAAVAQLGTAI
+                     TMAGVMFGLILHFQYAYGWSPVRAGLANLPFIITMLLATPVSETLGKRFGHRIACLIG
+                     AILLTVSLVGMAWGVYHGYVVVAIFMVVLTVGLRVVMTICAVALIGGLPENRTSLGAA
+                     LNDTAQEVGTSVGTAVVGTVLAAVVGAHLPIGAWSADLASTFFHGERIAYSVLAVLVG
+                     VIATWGALTLTDSRDVEEQH"
+ORIGIN      
+        1 atgcgacgcg cgctttcgtt gcctgctggt catgggttgc actgtaccga acaacgttct
+       61 attattcgaa cgtcgttcaa taaccgaacg tcgttcgatt ttctcgtgac accgcaggag
+      121 cgcaccatga ccatcgccac cacgaccgcc accgtgcggc cgaagacgta caccagcctg
+      181 cgcgccgcct ggatcccgct gttcgcgctc tgtctcgcgt tcttcgtcga gatggtcgac
+      241 aacacgctgc tgagcatcgc gctgcccacc atcgggcgcg atctcggcag cggcacgacc
+      301 gccctgcaat gggtgaccgg cgcctactcg ctgaccttcg gtggacttct cctgacggcc
+      361 ggttcgctcg ccgaccggtt cgggcggcgt cgggtcctgc tgatcggact ggccgccttc
+      421 ggcacgatga gcctggccgt catcgcggtc acgactcccg gccagctgat cgccttgcgt
+      481 gccgcgctcg ggatcgccgc cgccgcgatg gcaccgatca ccaactccct cgtgttccgg
+      541 ctgttcgacg acgaggcgct tcggatgcgc gcgatcacgg tgatgatcgt cgtcgggatg
+      601 agcggcttca tcctcggccc gctcctgggc ggtacggcgc tcgcgcacgt gcgctgggag
+      661 tggctgctcg tcgtcaatgc gccgatcgcg ctgatcgcct ggatcggcgt ccgtctcggc
+      721 atcgcgcccg acgacccgga aggcctgacg acggatcggc tcgacctgcc cggtgcggtc
+      781 ctcagcatcg ccacgatcgg ccttgcctgc ttcacgatga ccagcgtcgt ggagaacggc
+      841 tggcatgccg tcgtcacgat cgccgtggcg gtcggtgccg tggtcgctct cgtcgccctg
+      901 gtgcagcgcg agcggacggc caaggcgccg atgctcgacc tgaagctgtt caacaacggc
+      961 accgtgcgcg gcgcggcagt cgcccagctc gggaccgcca tcaccatggc cggcgtgatg
+     1021 ttcgggctga tcctgcactt ccagtacgcc tacggctgga gtcccgtgcg ggccggcctc
+     1081 gcgaacctgc cgttcatcat cacgatgctg ctggcgacgc ctgtctcgga gacgctcggc
+     1141 aagcgcttcg gccaccggat cgcatgtctc atcggagcga tcctgctgac cgtgtccctg
+     1201 gtcggcatgg catggggcgt ctaccacggg tatgtcgtcg tcgcgatctt catggtggtc
+     1261 ctgaccgtcg gacttcgggt cgtgatgacg atctgcgcgg tcgccctgat cggcggcctg
+     1321 ccggagaacc gcacctcgct cggcgccgct ctcaacgaca cagcccaaga ggtcggcacg
+     1381 agcgtcggta cggccgtcgt cgggaccgtc ctcgccgcgg tcgtcggagc gcatctgccg
+     1441 atcggcgcct ggagcgcgga tctggcgtcg acgttcttcc acggcgagcg aatcgcgtac
+     1501 agcgtcctcg ccgtcctggt cggcgtgatc gcgacctggg gcgccctcac cctcaccgat
+     1561 tcgcgcgacg tcgaagaaca acac
+//
+
+LOCUS       KY697286                1458 bp    DNA     linear   ENV 20-AUG-2017
+DEFINITION  Uncultured bacterium clone YN-1332 tetracycline resistance MFS
+            efflux pump gene, complete cds.
+ACCESSION   KY697286
+VERSION     KY697286.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1458)
+  AUTHORS   Wang,S., Gao,X., Gao,Y., Li,Y., Cao,M., Xi,Z., Zhao,L. and Feng,Z.
+  TITLE     Tetracycline Resistance Genes Identified from Distinct Soil
+            Environments in China by Functional Metagenomics
+  JOURNAL   Front Microbiol 8, 1406 (2017)
+   PUBMED   28790997
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1458)
+  AUTHORS   Feng,Z., Wang,S., Gao,X. and Gao,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-2017) College of Food Science and Technology,
+            Nanjing Agricultural University, Weigang Road 1, Nanjing 210095,
+            China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1458
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Yunnan forest soil"
+                     /db_xref="taxon:77133"
+                     /clone="YN-1332"
+                     /environmental_sample
+                     /country="China"
+                     /lat_lon="25.20 N 102.30 E"
+                     /collection_date="Mar-2013"
+                     /collected_by="Feng Z. Y."
+     CDS             1..1458
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetracycline resistance MFS efflux pump"
+                     /protein_id="ASU06809.1"
+                     /translation="MTTTTAPATSTHTYPSLRAAWIPLTALCLAFFVEMVDNTLLSIA
+                     LPTIGRDLGSGTTALQWVTGAYSLTFGGLLLTAGSLADRLGRRRVLLVGLTVFGLLSL
+                     CVVAVSTAGELIALRAGLGIAAAAMAPITNSLVFRLFDDKALRMRAMTVMIVVGMSGF
+                     VLGPLLGGTALAHVRWEWLLVVNAPIALIAFVGVRLGVPADRPEDLTDDRLDLPGAVL
+                     SVVTIGLACFSLTSGVEHGWLSLVTVASVLGAIAAGLAFVGHERRSSSPMLDLGLFSS
+                     GTVRGAAIAQIGTSIAMASVMFGLILHFQYAYGWSPVRAGLANLPIIVTMILATPLSE
+                     GLAARFGHRIACLIGSVFLAGSLAGLSWGVEHGYAAIAVCMVLMTIGLRTVMTICAIA
+                     LVDAMPENRTSMGTALNDTAQEVGTSVGTAMVGTFIAALVTTQLPAGTWGADLVASFF
+                     HGERITYAVLAVVVGLVAGLGSLTLTASRSTEEVH"
+ORIGIN      
+        1 atgaccacca ccaccgctcc tgccacgtcg acgcacacct acccgtccct gcgcgcggcc
+       61 tggatcccgc tcaccgccct ctgcctcgcc ttcttcgtcg agatggtcga caacaccctg
+      121 ctgtcgatcg ccctgccgac gatcggccgc gacctcggta gcggcaccac cgcgctgcag
+      181 tgggtcaccg gcgcctactc gctgaccttc ggcggactgc tgctcacagc cgggtcgctg
+      241 gccgaccggc tcgggcgccg ccgcgtcctg ctggtcgggc tcaccgtctt cggactgctc
+      301 agcctctgcg tcgtcgccgt gtccaccgcc ggcgagctga tcgccctgcg cgccggcctc
+      361 ggcatcgccg ccgccgcgat ggcgccgatc accaactcgc tggtcttccg gctcttcgac
+      421 gacaaggccc tgcggatgcg ggcgatgacc gtgatgatcg tcgtcggcat gtccggcttc
+      481 gtgctcggtc cgctgctcgg cggcaccgcc ctggcgcacg tgcgctggga gtggctgctc
+      541 gtcgtgaacg ccccgatcgc gctgatcgcg ttcgtcggcg tccgcctcgg cgtcccggcc
+      601 gatcgtcccg aggacctcac cgacgaccgg ctcgacctgc ccggcgcggt gctcagcgtc
+      661 gtcaccatcg ggctcgcctg cttctcgctg accagcggcg tcgagcacgg ctggctctcc
+      721 ctggtcaccg tcgcctcggt cctcggcgcg atcgccgccg gcctggcctt cgtcggccac
+      781 gagcgccgca gcagctcacc gatgctcgac ctcggcctct tctccagcgg caccgtccgc
+      841 ggcgcagcga tcgcgcagat cgggacgtcg atcgcgatgg ccagcgtgat gttcggcctg
+      901 atcctgcact tccagtacgc ctacggctgg agccccgtgc gcgccggact ggcgaacctg
+      961 ccgatcatcg tgacgatgat cctggcgacg ccgctctccg aaggtctggc cgcccggttc
+     1021 ggccaccgga tcgcctgcct gatcgggtcg gtcttcctgg ccgggtcgct cgccggcctc
+     1081 tcctgggggg tcgagcacgg ctacgccgcg atcgccgtct gcatggtgct gatgaccatc
+     1141 ggcctgcgca ccgtgatgac catctgcgcg atcgccctgg tcgacgcgat gccggagaac
+     1201 cgcacgtcga tgggcaccgc gctcaacgac accgcgcagg aggtcggcac cagcgtcggc
+     1261 accgcgatgg tcggcacgtt catcgccgcg ctggtcacca cccagctgcc cgccggcacc
+     1321 tggggagccg atctggtcgc gtcgttcttc cacggcgagc ggatcaccta cgccgtgctc
+     1381 gccgtcgtcg tcggcctggt cgccggcctc ggctcgttga cgctgaccgc ctcacgctcc
+     1441 accgaggaag tccactga
+//
+
+LOCUS       KY697287                1188 bp    DNA     linear   ENV 20-AUG-2017
+DEFINITION  Uncultured bacterium clone YN-1469 tetracycline resistance MFS
+            efflux pump gene, complete cds.
+ACCESSION   KY697287
+VERSION     KY697287.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1188)
+  AUTHORS   Wang,S., Gao,X., Gao,Y., Li,Y., Cao,M., Xi,Z., Zhao,L. and Feng,Z.
+  TITLE     Tetracycline Resistance Genes Identified from Distinct Soil
+            Environments in China by Functional Metagenomics
+  JOURNAL   Front Microbiol 8, 1406 (2017)
+   PUBMED   28790997
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1188)
+  AUTHORS   Feng,Z., Wang,S., Gao,X. and Gao,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-2017) College of Food Science and Technology,
+            Nanjing Agricultural University, Weigang Road 1, Nanjing 210095,
+            China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1188
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Yunnan forest soil"
+                     /db_xref="taxon:77133"
+                     /clone="YN-1469"
+                     /environmental_sample
+                     /country="China"
+                     /lat_lon="25.20 N 102.30 E"
+                     /collection_date="Mar-2013"
+                     /collected_by="Feng Z. Y."
+     CDS             1..1188
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetracycline resistance MFS efflux pump"
+                     /protein_id="ASU06810.1"
+                     /translation="MNKPRFIALTVVTLDAMGLGLVMPVLPTLLRGFVPGKQVAWHYG
+                     TLLALYALMQVFFAPLLGRLSDRRGRRPVLLLSLAGAAVDYAVMAMAPALWVLYIARV
+                     ISGVTGATGAVAASTIADTTQEDERARWFGYMGACYGAGMIAGPAIGGAFGGVSAHAP
+                     FMAAALLNSAGFLLACVFLKETQSVANAVPTPISINPFDGFRLDSALRALMTLFGVFF
+                     ILQFIGQIPASLWIIYGEDRFHWNTTAAGASLAAFGAVHALFQAFVTGPFSSRLGEKR
+                     ALLLGMTADGTGFVLMAFATQGWMVFPILFLLAAGGVAMPALQAMLSKAAPDERQGAL
+                     QGTLTSLTNLSAIIGPLGFTMLYTVTAKAWSGWIWIVGAALYVVCLPALRRSHERVSK
+                     GYV"
+ORIGIN      
+        1 atgaacaagc cacgctttat cgcgctgacg gtggtcacgc tagatgccat gggcctgggt
+       61 ctggtcatgc cggtactgcc gacgctgctg cgcggattcg ttcccggcaa gcaagtggcc
+      121 tggcactacg gaaccctcct cgcactctat gcgctgatgc aggtcttctt cgcaccactg
+      181 cttggaagac tgtcggatcg tcgtggtcga cggcccgtcc tgctgctctc gctcgccggg
+      241 gcggccgtcg actatgccgt catggcgatg gcgccggcgc tctgggtgct ttatatagca
+      301 cgggtcatct caggggtgac tggcgccaca ggggcggtag ccgcttccac cattgctgac
+      361 acaacgcagg aagacgaacg tgcgcgatgg tttggctaca tgggggcgtg ctacggcgcg
+      421 ggcatgattg ccggcccggc catcggaggt gcattcggtg gtgtttccgc ccatgcccct
+      481 tttatggcgg cagcgcttct caacagtgct ggattcctgt tggcctgcgt cttcctcaag
+      541 gagacccagt ccgtcgccaa cgcggtgccg acaccgatca gcatcaaccc cttcgacggg
+      601 ttcaggctcg atagtgcgtt acgcgcactc atgacactct tcggcgtctt cttcatcctc
+      661 cagttcattg gccagattcc tgcgagcctg tggatcattt atggcgaaga tcgcttccat
+      721 tggaacacca ctgcggcggg ggcgtcgctc gctgcttttg gtgccgtcca tgccctgttc
+      781 caggccttcg tcaccgggcc attttcgtcg cggttgggag agaagcgcgc gctgctactt
+      841 gggatgacgg cagacggaac gggctttgtg ttgatggcct ttgccacaca ggggtggatg
+      901 gtattcccga tcctgttcct gctggccgcc ggcggtgttg ccatgcccgc attgcaggcg
+      961 atgctctcaa aagccgcccc ggacgaaaga caaggtgcgt tgcagggaac ccttaccagt
+     1021 ctgacgaacc tgagcgccat cattggtccg ctcggcttca cgatgcttta tacagtgaca
+     1081 gcgaaagcct ggagcggttg gatctggatc gttggcgctg cgctctatgt ggtatgcctg
+     1141 ccggccttgc gcaggtcgca tgagcgtgtt tctaaaggct atgtctga
+//
+
+LOCUS       KY697288                1449 bp    DNA     linear   ENV 20-AUG-2017
+DEFINITION  Uncultured bacterium clone YN-1865 tetracycline resistance MFS
+            efflux pump gene, partial cds.
+ACCESSION   KY697288
+VERSION     KY697288.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1449)
+  AUTHORS   Wang,S., Gao,X., Gao,Y., Li,Y., Cao,M., Xi,Z., Zhao,L. and Feng,Z.
+  TITLE     Tetracycline Resistance Genes Identified from Distinct Soil
+            Environments in China by Functional Metagenomics
+  JOURNAL   Front Microbiol 8, 1406 (2017)
+   PUBMED   28790997
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1449)
+  AUTHORS   Feng,Z., Wang,S., Gao,X. and Gao,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-2017) College of Food Science and Technology,
+            Nanjing Agricultural University, Weigang Road 1, Nanjing 210095,
+            China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1449
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Yunnan forest soil"
+                     /db_xref="taxon:77133"
+                     /clone="YN-1865"
+                     /environmental_sample
+                     /country="China"
+                     /lat_lon="25.20 N 102.30 E"
+                     /collection_date="Mar-2013"
+                     /collected_by="Feng Z. Y."
+     CDS             1..>1449
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetracycline resistance MFS efflux pump"
+                     /protein_id="ASU06811.1"
+                     /translation="MITTAPAPSRTYPSLRAAWIPLAALCLAFFVEMVDNTLLSIALP
+                     TIGRDLGGGTTALQWVTGAYSLTFGGLLLTAGSMADRLGRRRVLLIGLAVFGLLSLCV
+                     VAVSTAGELITLRAGLGIAAAAMAPITNSLVFRLFDDQALRMRAMTLMIVVGMSGFVL
+                     GPLLGGTALAHVRWEWLLVVNAPIALIAAIGVWFGVAADRPEDLTKDRLDLPGAALSV
+                     VTIGLACYSLTSGVEHGWLSAITLASVLGAVAAGFAFVRHERRSAAPMLDLSLFSNGT
+                     VRGAAIAQVGTSIAMASVMFGLILHFQYAYGWSPVRAGLANLPIIVTMIAATPLSEWL
+                     AKRFGHRVACLVGAACLAGSLAGLAWGVDHGYAAIAISMVVMTIGLRTVMTICAIALV
+                     DAMPGNRTSIGTALNDTAQEVGSSVGTAVVGTMIAALVTTRLPAGTWTNDLVASFFHG
+                     ERVTYAVLAVIVGLIAAGGALTLTDSHSTEEPH"
+ORIGIN      
+        1 atgatcacca cagcgcccgc tccatcgcgc acctacccgt ccctgcgcgc ggcatggatt
+       61 cccctggccg cgctctgcct ggccttcttc gtcgagatgg tcgacaacac gctgctgtcg
+      121 atcgcgctgc cgaccatcgg ccgggacctc ggcggcggca cgaccgcgct gcagtgggtc
+      181 accggcgcgt actcgctgac cttcggcggc ctgctcctca cggcgggatc gatggccgac
+      241 cggctcggac gccgccgcgt cctgctgatc ggcctcgccg tgttcggcct gctcagcctg
+      301 tgcgtcgtcg ccgtcagcac cgcgggcgag ctgatcaccc tgcgggccgg gctcggcatc
+      361 gccgccgcgg cgatggcgcc catcaccaac tcgctggtct tccggctctt cgacgaccag
+      421 gcgctgcgca tgcgcgcgat gaccctgatg atcgtcgtgg gcatgtccgg gttcgtcctc
+      481 gggccgctgc tgggcggcac cgccctggcc cacgtgcggt gggagtggct cctggtcgtc
+      541 aacgccccga tcgcgctgat cgcggccatc ggcgtctggt tcggggtcgc ggccgaccgg
+      601 ccggaggatc tgaccaagga caggctggat ctgccgggcg ccgcgctgag cgtcgtcacc
+      661 atcggtctcg cctgctactc gctgaccagc ggcgtcgagc acggctggct gtcggccatc
+      721 accctcgcct cggtcctcgg cgccgtcgcc gcgggcttcg cgttcgtccg gcacgagcgc
+      781 cgcagcgccg cgcccatgct ggacctcagc ctcttctcca acgggaccgt ccggggcgcg
+      841 gccatcgcgc aggtcgggac gtccatcgcg atggccagcg tgatgttcgg gctgatcctc
+      901 cacttccagt acgcctacgg gtggagcccg gtgcgggccg ggctggcgaa tctgccgatc
+      961 atcgtgacga tgatcgccgc gactcccctg tcggagtggc tcgcgaagag gttcggccac
+     1021 cgcgtcgcct gcctggtcgg cgcggcctgc ctggccggtt cgctcgcggg cctcgcctgg
+     1081 ggcgtcgacc acggatacgc cgccatcgcg atctccatgg tcgtgatgac catcgggctg
+     1141 cgcaccgtca tgacgatctg cgccatcgcg ctcgtcgacg ccatgccggg caaccgcacc
+     1201 tcgatcggga cggcgctcaa cgacaccgcc caggaggtcg ggagcagcgt cggcaccgcc
+     1261 gtggtcggca ccatgatcgc cgccctggtc accacgcggt tgcccgcggg cacctggacc
+     1321 aacgacctcg tggcgtcctt cttccacggc gaacgggtca cctacgccgt cctcgccgtg
+     1381 atcgtcggcc tgatcgcggc gggcggcgcg ctcaccctca ccgactccca ctccaccgaa
+     1441 gagccgcac
+//
+
+LOCUS       KY697289                1206 bp    DNA     linear   ENV 20-AUG-2017
+DEFINITION  Uncultured bacterium clone YN-2297 tetracycline resistance MFS
+            efflux pump gene, complete cds.
+ACCESSION   KY697289
+VERSION     KY697289.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1206)
+  AUTHORS   Wang,S., Gao,X., Gao,Y., Li,Y., Cao,M., Xi,Z., Zhao,L. and Feng,Z.
+  TITLE     Tetracycline Resistance Genes Identified from Distinct Soil
+            Environments in China by Functional Metagenomics
+  JOURNAL   Front Microbiol 8, 1406 (2017)
+   PUBMED   28790997
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1206)
+  AUTHORS   Feng,Z., Wang,S., Gao,X. and Gao,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-2017) College of Food Science and Technology,
+            Nanjing Agricultural University, Weigang Road 1, Nanjing 210095,
+            China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1206
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Yunnan forest soil"
+                     /db_xref="taxon:77133"
+                     /clone="YN-2297"
+                     /environmental_sample
+                     /country="China"
+                     /lat_lon="25.20 N 102.30 E"
+                     /collection_date="Mar-2013"
+                     /collected_by="Feng Z. Y."
+     CDS             1..1206
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetracycline resistance MFS efflux pump"
+                     /protein_id="ASU06812.1"
+                     /translation="MISINDRETALNRALTVILMTLLLDAVGMSLVFPILPGLLRELA
+                     GAEATTHHYGALLAVYAAMQFLFSPVLGALSDRFGRRPVLLASLAGAAADYVLMALAP
+                     NLAWLYVGRVLSGITGASMAVGTAYLTDVTPEPDRAKRYGQMGAAMGLGFVVGPLIGG
+                     ALGEWSLRAPFVAAAVMNALNLLLAWFALPESNQNRTARLDAAKFNAFSALHRLKGAA
+                     PLLPLVGVFGVVVLVSQVPAALWILYGQDRYGWTAWVAGLSLACYGGLHAVSQAFVTG
+                     PMVEKLGEKRALLAGMAADGLGFVGMGVAMAGWMPFALLPLFAIGGLALPALQAMLAR
+                     QVDEQHQGELQGLLASLTSLIGIGGPLVVTAGFAATQTSWPGSVWIVAAVLYLLALPM
+                     LFSRRARAA"
+ORIGIN      
+        1 atgatctcta tcaacgatag agagactgct ttgaatcgag ccctgaccgt catcctgatg
+       61 acgctgctgc tggacgccgt gggcatgagc ctggtgttcc ccatcctgcc cggcctgttg
+      121 cgcgaactgg ccggcgccga agccaccacg catcattacg gcgccctgct ggcggtctac
+      181 gcggccatgc agttcctgtt ctcgccggtg ctgggcgcgc tcagcgaccg cttcggccgc
+      241 cggccggtgt tgctggcctc gctggccggc gcagcggccg actatgtgct gatggctctg
+      301 gcgcccaacc tggcctggct ctatgttggc cgggtgctgt ccggcatcac cggcgccagc
+      361 atggccgtcg gcaccgccta cctcaccgac gtaacgccgg agcccgaccg cgccaagcgc
+      421 tacggccaga tgggcgcggc gatgggcctg ggttttgtcg tcgggccgct gatcggcggc
+      481 gccctcggtg aatggtcgct gcgcgcgccc tttgtcgccg cggcggtgat gaatgcgctg
+      541 aacctgcttc tcgcctggtt cgccctgccc gagtccaacc agaaccgcac ggcgcggttg
+      601 gacgccgcca agttcaatgc cttctcggcc ctgcaccggc tcaagggcgc cgcgccgctg
+      661 ctgccgctgg tgggcgtgtt cggcgtcgtc gtgctcgtgt cccaggtgcc ggcggcgctg
+      721 tggatcctct acggccagga ccgctacggc tggacggcct gggtggccgg cctgtccctg
+      781 gcctgctacg gcggcctgca cgccgtctcg caggccttcg tgaccggccc gatggtggag
+      841 aagctggggg agaagcgagc gctgctggct ggcatggcgg ccgacggcct gggctttgtc
+      901 ggcatgggtg tggccatggc aggctggatg cccttcgccc tgctgccgct gttcgccatc
+      961 ggcgggctgg ccctgcccgc cttgcaggcc atgttggccc gccaggtcga cgagcagcac
+     1021 cagggcgagc tgcaaggcct gctggccagc ctcaccagcc tgatcggcat tggcggaccc
+     1081 ctggtcgtca ccgcgggctt tgcggcgacc cagacttcct ggccgggcag cgtctggatc
+     1141 gtcgcggctg tgctctatct gctggccctg ccgatgctgt tcagccgccg cgcccgagcg
+     1201 gcttaa
+//
+
+LOCUS       KY697290                1206 bp    DNA     linear   ENV 20-AUG-2017
+DEFINITION  Uncultured bacterium clone YN-2306 tetracycline resistance MFS
+            efflux pump gene, complete cds.
+ACCESSION   KY697290
+VERSION     KY697290.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1206)
+  AUTHORS   Wang,S., Gao,X., Gao,Y., Li,Y., Cao,M., Xi,Z., Zhao,L. and Feng,Z.
+  TITLE     Tetracycline Resistance Genes Identified from Distinct Soil
+            Environments in China by Functional Metagenomics
+  JOURNAL   Front Microbiol 8, 1406 (2017)
+   PUBMED   28790997
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1206)
+  AUTHORS   Feng,Z., Wang,S., Gao,X. and Gao,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-2017) College of Food Science and Technology,
+            Nanjing Agricultural University, Weigang Road 1, Nanjing 210095,
+            China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1206
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Yunnan forest soil"
+                     /db_xref="taxon:77133"
+                     /clone="YN-2306"
+                     /environmental_sample
+                     /country="China"
+                     /lat_lon="25.20 N 102.30 E"
+                     /collection_date="Mar-2013"
+                     /collected_by="Feng Z. Y."
+     CDS             1..1206
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetracycline resistance MFS efflux pump"
+                     /protein_id="ASU06813.1"
+                     /translation="MHSINDRENVVNRALTVILATLLLDAVGMSLVFPILPGLLRELA
+                     GAEATTYHYGALLAVYAAMQFLFSPVLGALSDRFGRRPVLLASLAGAAADYVLMALAP
+                     NLAWLYVGRVLSGITGASMSVGTAYVTDVSPEADRAKRYGQMGAAMGLGFVVGPLIGG
+                     ALGEWSLRAPFVAAAVMNALNLAMAWRALPESNQNRTPRLDPRKFNAFSALHRLSGRP
+                     PLLPLVGVFAVVALVSQVPGSLWILYGQQRYGWTAFVAGMSLACYGGLHAISQAFVTG
+                     PLVARLGDRRALLAGMAADGLGFALMGVATAGWMPFALLPLFAVGGLALPALQALLAR
+                     QVDEQHQGELQGTLASLTSLIGIGGPLVVTAAFASTQRSWPGSVWIAAAVFYLAALPM
+                     LFSRRARGA"
+ORIGIN      
+        1 atgcactcta tcaatgatag agagaacgtc gtgaaccgag ccctgaccgt catcctggcc
+       61 accttgctcc tggacgccgt gggcatgagc ctggtgttcc ccatcctgcc cggcctgctg
+      121 cgcgaactcg ccggcgcgga ggcgacgacc taccactacg gcgccttgct ggccgtgtac
+      181 gccgcgatgc agttcctgtt ctcgccggtg ctgggcgcgc tgagcgaccg cttcggccgg
+      241 cggccggtgc tgctggcctc gctggccggc gcggcggccg actatgtgtt gatggccctg
+      301 gcgccgaacc tggcgtggct gtacgtcggg cgcgtgctgt cgggcatcac cggcgccagc
+      361 atgtcggtcg gcacggccta cgtcaccgac gtcagcccgg aggccgatcg cgcgaagcgc
+      421 tacggccaga tgggcgcggc gatggggctc ggattcgtcg tcggtccgct gatcggcggc
+      481 gcactcggcg aatggtcgct gcgcgcgccg ttcgtcgccg cggccgtgat gaatgcgctg
+      541 aacctcgcga tggcctggcg cgcgctgccc gagtccaacc agaaccgcac gccgcgcctc
+      601 gacccgcgca agttcaatgc attctcggca ctgcatcgcc tgagcggccg cccgccgctg
+      661 ttgccgctgg tgggcgtgtt cgccgtcgtg gcgctggtgt cgcaggtgcc cggttcgctg
+      721 tggatcctgt acggccagca gcgctatggc tggaccgcgt tcgtggccgg catgtcgctg
+      781 gcctgctacg gcggcctgca tgcgatctcg caggcgttcg tcaccgggcc gctggtggcc
+      841 cgcctcggcg accggcgcgc gctcctggcc gggatggcgg ccgacggcct cggcttcgcg
+      901 ctgatgggcg tcgccacggc cggctggatg cctttcgcgc tgctgccgct gttcgccgtc
+      961 ggcgggctgg cgttgccggc gctgcaggcg ctgctggcgc gccaggtgga cgaacagcac
+     1021 cagggcgagt tgcagggcac gctcgcgagc ctcaccagcc tcatcggcat cggcggtccg
+     1081 ctggtcgtca ccgcggcctt cgcgtccacc cagcgatcct ggcccggcag cgtctggatc
+     1141 gccgcggccg tgttctacct ggctgcgttg ccgatgctgt tcagccggcg ggcgcgcggc
+     1201 gcctga
+//
+
+LOCUS       KY697291                1458 bp    DNA     linear   ENV 20-AUG-2017
+DEFINITION  Uncultured bacterium clone YN-2386 tetracycline resistance MFS
+            efflux pump gene, complete cds.
+ACCESSION   KY697291
+VERSION     KY697291.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1458)
+  AUTHORS   Wang,S., Gao,X., Gao,Y., Li,Y., Cao,M., Xi,Z., Zhao,L. and Feng,Z.
+  TITLE     Tetracycline Resistance Genes Identified from Distinct Soil
+            Environments in China by Functional Metagenomics
+  JOURNAL   Front Microbiol 8, 1406 (2017)
+   PUBMED   28790997
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1458)
+  AUTHORS   Feng,Z., Wang,S., Gao,X. and Gao,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-2017) College of Food Science and Technology,
+            Nanjing Agricultural University, Weigang Road 1, Nanjing 210095,
+            China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1458
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Yunnan forest soil"
+                     /db_xref="taxon:77133"
+                     /clone="YN-2386"
+                     /environmental_sample
+                     /country="China"
+                     /lat_lon="25.20 N 102.30 E"
+                     /collection_date="Mar-2013"
+                     /collected_by="Feng Z. Y."
+     CDS             1..1458
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetracycline resistance MFS efflux pump"
+                     /protein_id="ASU06814.1"
+                     /translation="MTTTADASTGRTYTSLRAAWIPMLALCMAFFVEMVDNTLLTVAL
+                     PTIGRDLGSGTTALQWVTGAYSLTFGGLLLTAGSAADRIGRRRVLLVGLAAFGLISLT
+                     VVLVNTAGELIAVRAALGIAAAMMAPITNSLVFRLFEDQALRMRAMTVMIVVGMSGFI
+                     LGPVLGGSALESVRWEWLLVVNAPIALIAWIGVRLGVAADDPEDLTSDRLDLPGTLLS
+                     VASIGLACYTLTSGVEHGWLSATTVGCALGAVLALVAFVAHERRTPQPMLDLTIFSSG
+                     TVRGATVAQLGTSIAMAAIMFGLILHFQYAYGWSPMHAGLANLPMIATMLLATPLSES
+                     LARRFGHRIACLVGAGLMAGSLAGMAWGVDHGYWAIATFLVTMTIGLRTVMTICAVTL
+                     VDAMPSNRTSLGAALNDTAQEVGSSVGTAIVGTLIAALVTTTLPAGTWSTELVASFFH
+                     GERITYGCIAVVVGLVAGWGSLTLTDSRSTEEQHA"
+ORIGIN      
+        1 atgaccacca ccgccgacgc gtccaccggg cgcacgtaca cctcgctgcg ggccgcctgg
+       61 atcccgatgc tcgccctctg catggctttc ttcgtggaga tggtcgacaa cacgctcctc
+      121 accgtcgcgc tcccgaccat cggtcgtgac ctcggcagcg gtacgacggc gctgcagtgg
+      181 gtcaccggcg cctactcgct caccttcggc gggctgctgc tcaccgcggg ctcggccgcc
+      241 gaccgcatcg gccgccgccg cgtgctgctc gtcggcctgg ccgccttcgg tctgatcagc
+      301 ctgaccgtcg tgctcgtgaa cacggccggc gagctgatcg ccgtccgggc agccctcggc
+      361 atcgccgccg cgatgatggc gccgatcacc aactccctgg tcttccggct cttcgaggac
+      421 caggcgctcc ggatgcgcgc catgacggtg atgatcgtgg tcggcatgag cggcttcatc
+      481 ctcgggccgg tgctcggcgg cagcgccctg gagtcggtcc gctgggagtg gctgctggtg
+      541 gtgaacgccc ccatcgcgct catcgcgtgg atcggcgtac ggctcggggt ggccgccgac
+      601 gaccccgagg acctgaccag cgaccggctg gacctgcccg gcacgctgct gagcgtcgcc
+      661 tcgatcggcc tcgcctgcta caccctgacc tccggcgtcg agcacggctg gctgtcggcg
+      721 accaccgtcg gctgcgctct gggcgccgtg ctcgccctgg tcgcgttcgt ggcgcacgag
+      781 cggcgtacgc cgcagcccat gctcgacctg accatcttct ccagcggcac cgtccgcgga
+      841 gcgacggtcg cccagctcgg cacgtcgatc gcgatggccg cgatcatgtt cggcctgatc
+      901 ctgcacttcc agtacgccta cggctggagc cccatgcacg cagggctcgc gaacctcccg
+      961 atgatcgcca ccatgctcct ggcgacgccg ctctcggagt ccctcgcgcg ccgtttcggg
+     1021 caccggatcg cgtgcctggt gggcgccggg ctgatggccg ggtccctggc cgggatggcc
+     1081 tggggcgtgg accacggcta ctgggcgatc gccaccttcc tggtcacgat gaccatcggg
+     1141 ctgcggaccg tcatgacgat ctgcgcggtc acgctcgtcg acgcgatgcc gagcaaccgc
+     1201 acctcgctgg gcgcagccct caacgacacc gcccaggagg tcgggagcag cgtcggcacg
+     1261 gccatcgtcg gcacgctgat cgcggccctg gtcaccacca cgctgcccgc gggcacgtgg
+     1321 agcaccgagc tcgtcgcgtc cttcttccac ggcgagcgga tcacctacgg ctgcatcgcc
+     1381 gtcgtggtcg gtctcgtcgc ggggtggggc tcgctgaccc tcaccgactc gaggtcgacc
+     1441 gaggagcagc acgcctga
+//
+
+LOCUS       KY697292                1212 bp    DNA     linear   ENV 20-AUG-2017
+DEFINITION  Uncultured bacterium clone YN-2560 tetracycline resistance MFS
+            efflux pump gene, complete cds.
+ACCESSION   KY697292
+VERSION     KY697292.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1212)
+  AUTHORS   Wang,S., Gao,X., Gao,Y., Li,Y., Cao,M., Xi,Z., Zhao,L. and Feng,Z.
+  TITLE     Tetracycline Resistance Genes Identified from Distinct Soil
+            Environments in China by Functional Metagenomics
+  JOURNAL   Front Microbiol 8, 1406 (2017)
+   PUBMED   28790997
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1212)
+  AUTHORS   Feng,Z., Wang,S., Gao,X. and Gao,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-2017) College of Food Science and Technology,
+            Nanjing Agricultural University, Weigang Road 1, Nanjing 210095,
+            China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1212
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Yunnan forest soil"
+                     /db_xref="taxon:77133"
+                     /clone="YN-2560"
+                     /environmental_sample
+                     /country="China"
+                     /lat_lon="25.20 N 102.30 E"
+                     /collection_date="Mar-2013"
+                     /collected_by="Feng Z. Y."
+     CDS             1..1212
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetracycline resistance MFS efflux pump"
+                     /protein_id="ASU06815.1"
+                     /translation="MTSRFFGAAIILGLLSAIGPFAIDMYLPALPSIKDSLHTDVDTA
+                     QMSLMAFFISLGIGQLIYGPVSDMLGRKTPIYFGLVVFALGSVGCALAPDIHTLIAFR
+                     FLQGLGACAGMVIPRAIVRDMHTGHDAARLMALLMLVFSVSPILAPLTGSMVIKFTSW
+                     RGIFWTVMGAAICGLILAITVLKETRPRELRVDSTFGSALRSYRTLLRDRHYLGLIFI
+                     GSFGVASFFAYLANSSFILINHYGLTETQYSMAFSINAIAFIGAAQFAGKLGAKHGLA
+                     KVVRTAVTGYAATMLALLLLNLAGFNQLPVLMAVLFVGYGFLGLVIPSTAVLALDDHG
+                     KIAGTAAALLGTMQFVVGAVVVGVIGRFFNGTALPMVAGITGCSLIAFTLAQVTLRHR
+                     RYLREQPAEAA"
+ORIGIN      
+        1 atgacttccc ggttttttgg ggcggcgatc attcttggtc tgctgtcggc gatcggcccg
+       61 ttcgccatcg acatgtatct gccggcgctg ccttcgatca aggacagcct gcacaccgac
+      121 gtcgataccg cgcagatgag cctgatggcg ttcttcattt cgctcggcat cggccagctg
+      181 atctatggcc cggtatcgga catgcttggc cgcaagacgc cgatctattt cggcctggtg
+      241 gtgtttgcgc tcggcagcgt cggctgtgca ctcgcgcccg acatccatac gctgatcgct
+      301 ttccgcttct tgcagggact gggcgcctgc gcaggcatgg tcattccgcg tgcgatcgtg
+      361 cgcgatatgc acaccggcca cgatgccgcg cgcctgatgg cattgctgat gctggtattc
+      421 agcgtgtcac cgattctggc gccgttgacg ggcagcatgg tgatcaaatt taccagttgg
+      481 cgtggcattt tctggaccgt gatgggcgcg gccatatgcg gtctgatcct ggcgatcaca
+      541 gtgttgaagg aaacgcgccc gcgcgagttg cgtgtggata gcacctttgg ttcggcattg
+      601 cgctcgtaca ggacgttgct gcgcgatcgc cactatcttg ggctgatctt tatcggatcg
+      661 ttcggcgtgg ccagcttctt tgcctatctg gccaactcgt ccttcatcct gatcaatcat
+      721 tacggtctga ccgaaacgca gtacagcatg gcgttttcca tcaacgcgat cgcctttatc
+      781 ggcgcggcgc agtttgccgg caagctgggt gcaaagcatg gcctggccaa agtggtacgt
+      841 acggcggtga ccggctatgc cgcgacgatg ctggcgctgt tattgctcaa tctcgcgggt
+      901 ttcaaccagt tgccggtgtt gatggccgtg ctgtttgtgg gttacggctt cctcggcctg
+      961 gtgattccca gtacggcggt gttggcgctg gatgatcacg gcaagattgc cggtacggca
+     1021 gcggctctgc tgggcacgat gcaattcgtg gtgggggcgg tggtggtcgg cgtgatcggt
+     1081 cgtttcttca atggcacggc cttgccgatg gtggctggga ttaccggttg ctcgttgatc
+     1141 gcttttacgt tggcgcaggt gacgttgcgg catcggcggt atctgcggga gcagcctgct
+     1201 gaggcggctt aa
+//
+
+LOCUS       KY697293                1206 bp    DNA     linear   ENV 20-AUG-2017
+DEFINITION  Uncultured bacterium clone SC-6 tetracycline resistance MFS efflux
+            pump gene, complete cds.
+ACCESSION   KY697293
+VERSION     KY697293.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1206)
+  AUTHORS   Wang,S., Gao,X., Gao,Y., Li,Y., Cao,M., Xi,Z., Zhao,L. and Feng,Z.
+  TITLE     Tetracycline Resistance Genes Identified from Distinct Soil
+            Environments in China by Functional Metagenomics
+  JOURNAL   Front Microbiol 8, 1406 (2017)
+   PUBMED   28790997
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1206)
+  AUTHORS   Feng,Z., Wang,S., Gao,X. and Gao,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-2017) College of Food Science and Technology,
+            Nanjing Agricultural University, Weigang Road 1, Nanjing 210095,
+            China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1206
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Sichuan forest soil"
+                     /db_xref="taxon:77133"
+                     /clone="SC-6"
+                     /environmental_sample
+                     /country="China"
+                     /lat_lon="28.21 N 86.56 E"
+                     /collection_date="Mar-2014"
+                     /collected_by="Xi Z. H."
+     CDS             1..1206
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetracycline resistance MFS efflux pump"
+                     /protein_id="ASU06816.1"
+                     /translation="MHSINDRENVVNRALTVILATLLLDAVGMSLVFPILPGLLRELA
+                     GAEATTYHYGALLAVYAAMQFLFSPVLGALSDRFGRRPVLLASLAGAAADYVLMALAP
+                     NLAWLYVGRVLSGITGASMSVGTAYVTDVSPEADRAKRYGQMGAAMGLGFVVGPLIGG
+                     ALGEWSLRAPFVAAAVMNALNLAMAWRALPESNQNRTPRLDPRKFNAFSALHRLSGRP
+                     PLLPLVGVFAVVALVSQVPGSLWILYGQQRYGWTAFVAGMSLACYGGLHAISQAFVTG
+                     PLVARLGDRRALLAGMAADGLGFALMGVATAGWMPFALLPLFAVGGLALPALQALLAR
+                     QVDEQHQGELQGTLASLTSLIGIGGPLVVTAAFASTQRSWPGSVWIAAAVFYLAALPM
+                     LFSRRARGA"
+ORIGIN      
+        1 atgcactcta tcaatgatag agagaacgtc gtgaaccgag ccctgaccgt catcctggcc
+       61 accttgctcc tggacgccgt gggcatgagc ctggtgttcc ccatcctgcc cggcctgctg
+      121 cgcgaactcg ccggcgcgga ggcgacgacc taccactacg gcgccttgct ggccgtgtac
+      181 gccgcgatgc agttcctgtt ctcgccggtg ctgggcgcgc tgagcgaccg cttcggccgg
+      241 cggccggtgc tgctggcctc gctggccggc gcggcggccg actatgtgtt gatggccctg
+      301 gcgccgaacc tggcgtggct gtacgtcggg cgcgtgctgt cgggcatcac cggcgccagc
+      361 atgtcggtcg gcacggccta cgtcaccgac gtcagcccgg aggccgatcg cgcgaagcgc
+      421 tacggccaga tgggcgcggc gatggggctc ggattcgtcg tcggtccgct gatcggcggc
+      481 gcactcggcg aatggtcgct gcgcgcgccg ttcgtcgccg cggccgtgat gaatgcgctg
+      541 aacctcgcga tggcctggcg cgcgctgccc gagtccaacc agaaccgcac gccgcgcctc
+      601 gacccgcgca agttcaatgc attctcggca ctgcatcgcc tgagcggccg cccgccgctg
+      661 ttgccgctgg tgggcgtgtt cgccgtcgtg gcgctggtgt cgcaggtgcc cggttcgctg
+      721 tggatcctgt acggccagca gcgctatggc tggaccgcgt tcgtggccgg catgtcgctg
+      781 gcctgctacg gcggcctgca tgcgatctcg caggcgttcg tcaccgggcc gctggtggcc
+      841 cgcctcggcg accggcgcgc gctcctggcc gggatggcgg ccgacggcct cggcttcgcg
+      901 ctgatgggcg tcgccacggc cggctggatg cctttcgcgc tgctgccgct gttcgccgtc
+      961 ggcgggctgg cgttgccggc gctgcaggcg ctgctggcgc gccaggtgga cgaacagcac
+     1021 cagggcgagt tgcagggcac gctcgcgagc ctcaccagcc tcatcggcat cggcggtccg
+     1081 ctggtcgtca ccgcggcctt cgcgtccacc cagcgatcct ggcccggcag cgtctggatc
+     1141 gccgcggccg tgttctacct ggctgcgttg ccgatgctgt tcagccggcg ggcgcgcggc
+     1201 gcctga
+//
+
+LOCUS       KY697294                1188 bp    DNA     linear   ENV 20-AUG-2017
+DEFINITION  Uncultured bacterium clone SC-141 tetracycline resistance MFS
+            efflux pump gene, complete cds.
+ACCESSION   KY697294
+VERSION     KY697294.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1188)
+  AUTHORS   Wang,S., Gao,X., Gao,Y., Li,Y., Cao,M., Xi,Z., Zhao,L. and Feng,Z.
+  TITLE     Tetracycline Resistance Genes Identified from Distinct Soil
+            Environments in China by Functional Metagenomics
+  JOURNAL   Front Microbiol 8, 1406 (2017)
+   PUBMED   28790997
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1188)
+  AUTHORS   Feng,Z., Wang,S., Gao,X. and Gao,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-2017) College of Food Science and Technology,
+            Nanjing Agricultural University, Weigang Road 1, Nanjing 210095,
+            China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1188
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Sichuan forest soil"
+                     /db_xref="taxon:77133"
+                     /clone="SC-141"
+                     /environmental_sample
+                     /country="China"
+                     /lat_lon="28.21 N 86.56 E"
+                     /collection_date="Mar-2014"
+                     /collected_by="Xi Z. H."
+     CDS             1..1188
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetracycline resistance MFS efflux pump"
+                     /protein_id="ASU06817.1"
+                     /translation="MNKPRFIALTVVTLDAMGLGLVMPVLPTLLRGFVPGTQVAWHYG
+                     TFLALYALMQVFFAPLLGRLSDRRGRRPVLLLSLAGAAVDYAVMAMAPALWVLYIARV
+                     ISGVTGATGAVAASTIADTTQEDERARWFGYMGACYGAGMIAGPAIGGAFGGVSAHAP
+                     FMAAALLNGAGFLLACVFLKETQSIANAVPTPISINPFDGFRLDSALRALMTLFGVFF
+                     ILQFIGQIPASLWIIYGEDRFHWNTTAAGASLAGFGAVHALFQAFVTGPVSSRLGEKR
+                     ALLLGMTADGTGFVLMAFATQGWMVFPILFLLAAGGVAMPALQAMLSKAAPDERQGAL
+                     QGTLTSLTNLSAIIGPLGFTMLYTVTAKAWSGWIWIVGAALYVVCLPALRRSHESVSK
+                     SYV"
+ORIGIN      
+        1 atgaacaagc cacgctttat cgcgctgacg gtggtcacgc tagatgccat gggtctcggt
+       61 ctggtcatgc cggtactgcc gacgctgctg cgcgggttcg ttcccggcac gcaagtggcc
+      121 tggcactacg gaaccttcct cgcgctctat gcgctgatgc aggtcttctt cgcaccactg
+      181 cttggacggc tgtcggatcg tcgtggtcga cggcccgtcc tgctgctctc gctcgccggg
+      241 gcggccgtcg actatgccgt catggcgatg gcgccggcgc tctgggtgct ttatatagca
+      301 cgggtcatct caggggtgac tggcgccaca ggggcggtag ccgcttccac cattgctgac
+      361 acaacgcagg aagacgaacg tgcgcggtgg tttggctaca tgggggcgtg ctacggcgcg
+      421 ggcatgattg ccggcccggc catcggaggc gcattcggcg gtgtttccgc ccatgcccct
+      481 tttatggcgg cagcgcttct caacggtgct ggattcctgt tggcctgcgt cttcctcaag
+      541 gagacccagt ccatcgccaa cgcggtgccg acaccgatca gcatcaaccc cttcgacggg
+      601 ttcaggctcg atagtgcgtt acgcgcactc atgacactct tcggcgtctt cttcatcctc
+      661 cagttcattg gccagattcc tgcgagcctg tggatcattt atggcgaaga tcgcttccat
+      721 tggaacacca ctgcggcggg ggcgtcgctc gctggttttg gtgccgtcca tgccctgttc
+      781 caggccttcg tcaccgggcc agtttcgtcg cggttgggag agaagcgcgc gctgctactt
+      841 gggatgacgg cagacggaac gggctttgtg ttgatggcct ttgccacaca gggatggatg
+      901 gtattcccga tcctgttcct gctggccgcc ggcggtgttg ccatgcccgc attgcaggcg
+      961 atgctctcaa aagccgcccc ggacgaaagg caaggtgcgt tgcagggaac ccttaccagt
+     1021 ctgacgaacc tgagcgccat cattgggccg ctcggtttca cgatgcttta tacagtgact
+     1081 gcgaaagcct ggagcggttg gatctggata gttggagctg cgctttatgt tgtatgcctg
+     1141 ccggccttgc gcaggtcgca tgagagtgtt tctaaaagct atgtctga
+//
+
+LOCUS       KY697295                1467 bp    DNA     linear   ENV 20-AUG-2017
+DEFINITION  Uncultured bacterium clone YN-1338 tetracycline resistance MFS
+            efflux pump gene, complete cds.
+ACCESSION   KY697295
+VERSION     KY697295.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1467)
+  AUTHORS   Wang,S., Gao,X., Gao,Y., Li,Y., Cao,M., Xi,Z., Zhao,L. and Feng,Z.
+  TITLE     Tetracycline Resistance Genes Identified from Distinct Soil
+            Environments in China by Functional Metagenomics
+  JOURNAL   Front Microbiol 8, 1406 (2017)
+   PUBMED   28790997
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1467)
+  AUTHORS   Wang,S., Feng,Z., Gao,X. and Gao,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-MAR-2017) College of Food Science and Technology,
+            Nanjing Agricultural University, Weigang Road 1, Nanjing 210095,
+            China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1467
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Yunnan forest soil"
+                     /db_xref="taxon:77133"
+                     /clone="YN-1338"
+                     /environmental_sample
+                     /country="China"
+                     /lat_lon="25.20 N 102.30 E"
+                     /collection_date="Mar-2013"
+                     /collected_by="Feng Z. Y."
+     CDS             1..1467
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetracycline resistance MFS efflux pump"
+                     /protein_id="ASU06818.1"
+                     /translation="MTPTTTSAAEDTSARTYTSLKAAWIPMFALCLAFFVEMVDNTLL
+                     TIALPTIGRDLGSGTAALQWVTGAYSLTFGGLLLTAGSAADRLGRRRVLLVGLAAFGL
+                     ISLAVVAVSSAGELIALRAALGLAAAAMAPITNSLVFRLFEDQALRMRAITLMMVVGM
+                     SGFILGPLLGGTALAHVRWEWLLVVNAPIALIAWIGVRLGVPADRPEDLTTDGLDLPG
+                     AVLSIAAIGLACYTLTSGVEHGWTSALTLGCAIGAVLALVGFIRHERRTREPMLDLGL
+                     FSSGTVRGAAIAQVGSSIAMAAVMFGLILHFQYAYGWSPVRAGLANLPLILTMIAATP
+                     VSEWLARRFGHRVACLVGSVLLAGSLGGLSWGVSHGYAAIAVCMVVMTVGLRTVMTIC
+                     AVALVDAMPANRTSIGAALNDTAQEVGTSVGTAVVGTLIAALVTATLPAGTWSHHLVT
+                     SFFHGERITYSALAVVVGLVAGWGALSLTDSRSIEEHG"
+ORIGIN      
+        1 atgaccccca ccacgacttc cgccgccgag gacacctcgg cgcgcaccta cacctcgctc
+       61 aaggccgcct ggatcccgat gttcgccctg tgcctggcct tcttcgtcga gatggtcgac
+      121 aacaccttgc tgaccatcgc gctgcccacc atcggtcgcg acctgggaag cgggaccgct
+      181 gcgctgcagt gggtgaccgg cgcctactcg ctgaccttcg gcggactgct gctcaccgcc
+      241 ggctccgcag ctgaccggct cggccggcgc cgggtgctgc tcgtcgggct ggccgccttc
+      301 gggctgatca gcctggccgt cgtcgccgtc tcctcggcag gcgagctcat cgccctgcga
+      361 gcagccctcg ggctcgccgc cgccgcgatg gccccgatca cgaactcctt ggtgtttcgg
+      421 ctcttcgagg accaggcgct gcggatgcgc gcgatcacgc tgatgatggt cgtcggcatg
+      481 agcggcttca tcctcggtcc gctgctcggc ggaactgctc tcgcgcacgt gcgctgggag
+      541 tggctgctgg tcgtcaacgc accgatcgcg ctgatcgcct ggatcggcgt acggctcggc
+      601 gtcccggccg accgtcccga ggacctgacc accgacggcc tcgaccttcc cggtgccgtg
+      661 ctgagcatcg ccgcgatcgg gctggcctgc tacacgttga ccagcggcgt cgagcacggg
+      721 tggacctcgg cgctgacgct cggctgcgcg atcggcgcgg tgctggcgct ggtcgggttc
+      781 atccgtcacg agcgtcgtac gcgggagccg atgctcgacc tcgggttgtt ctccagcggc
+      841 acggtccgcg gcgccgcgat cgcgcaggtc ggcagctcga tcgccatggc tgcggtgatg
+      901 ttcggcctga tcctccactt ccagtacgcc tacggctgga gccccgtccg cgccggcctg
+      961 gccaacctgc cgctgatcct gacgatgatc gccgcaaccc cggtctccga gtggctggcc
+     1021 cggcgcttcg ggcaccgagt cgcctgcctg gtcgggtcgg tgctgctcgc cggctcgctc
+     1081 ggcgggctct cctggggcgt gagccacggg tacgccgcga tcgcggtctg catggtcgtg
+     1141 atgaccgtcg gactgcggac cgtcatgacg atctgcgcgg tcgcgctggt cgacgcgatg
+     1201 ccggccaacc gcacctcgat cggcgccgcg ctcaacgaca ccgcccagga ggtcggcacc
+     1261 agcgtcggca ccgccgtcgt cggcacgttg atcgccgcgc tcgtcaccgc gacgctgccc
+     1321 gccgggacct ggagccacca cctggtgacc tcgttcttcc acggtgagcg gatcacctac
+     1381 tccgcgctgg ccgtcgtcgt gggcctggtc gccggttggg gcgcgctgag cctgaccgac
+     1441 tcgcgctcga tcgaggagca cgggtga
+//
+

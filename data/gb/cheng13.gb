@@ -1,0 +1,76 @@
+LOCUS       JN629036                1544 bp    DNA     linear   ENV 23-OCT-2013
+DEFINITION  Uncultured bacterium clone FOM1 UDP-N-acetylglucosamine enolpyruvyl
+            transferase gene, complete cds.
+ACCESSION   JN629036
+VERSION     JN629036.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1544)
+  AUTHORS   Cheng,G., Hu,Y., Lu,N., Li,J., Wang,Z., Chen,Q. and Zhu,B.
+  TITLE     Identification of a novel fosfomycin-resistant
+            UDP-N-acetylglucosamine enolpyruvyl transferase (MurA) from a soil
+            metagenome
+  JOURNAL   Biotechnol. Lett. 35 (2), 273-278 (2013)
+   PUBMED   23143172
+REFERENCE   2  (bases 1 to 1544)
+  AUTHORS   Cheng,G., Hu,Y.F. and Zhu,B.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-AUG-2011) Microbial Genome Research Center, CAS Key
+            Laboratory of Pathogenic Microbiology and Immunology, Institute of
+            Microbiology, Chinese Academy of Sciences, No. 1 Beichen West Road,
+            Chaoyang District, Beijing 100101, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..1544
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:77133"
+                     /clone="FOM1"
+                     /environmental_sample
+     CDS             218..1462
+                     /EC_number="2.5.1.7"
+                     /function="catalyzes enolpyruvyl transfer as part of the
+                     first step in the biosynthesis of peptidoglycan"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="UDP-N-acetylglucosamine enolpyruvyl transferase"
+                     /protein_id="AEY79929.1"
+                     /translation="MASLILTEGTSRLRNVPFSEDVLQMLSLLADLGAEVVCYRQEQM
+                     VEIDTKSIMRFVISAEVAKKMRASILVMGPLLARFGKVSIGFPGGDAIGARPIDYHLN
+                     NFKKMGASIETNVDCVSAQATCLKAGTYALDYPSVGATENIMMAAVLTQGTTRIINAA
+                     LEPEVLDLIKALQKMGAQINIFPTAVIEIQGVDHLNPIEHAVMYDRLEAGTLLLAAAA
+                     TGGSIHLPEAPASSLELFLMKLEEMGHSITLGAQGVGVVFKATLNPRAISFKTTPYPG
+                     FPTDLQAPMMAALCCADGVSVIEETVFENRLLHATQLQKMGVSIVINGSKATIKGVSS
+                     LKGASVVAHDIRASSALVIAGLAATGTTIVSGVHHWRRGYEDLDKKLISLGARIACKT
+                     EQEFSAQESFIIGGHYNNEIQI"
+ORIGIN      
+        1 tggctgtaac tattattttt tttgaaaaaa tataaatatt tctcactatt tgtggtatag
+       61 tgctttatct tcgtcgtaaa atagtgtttt aatctagaaa aatattctat atacagaggc
+      121 tttcagcgtg gaaaataaat atcttgttgt ggaacaatca ttgggattgc agggaactgc
+      181 tgggttgctc ggcgcaaaaa atgcggttct tgttatcatg gcatctctta ttttgaccga
+      241 aggcacatcg cggcttagaa atgttccttt ttctgaagat gttttgcaga tgctttcgct
+      301 gcttgctgat ttaggtgccg aagttgtgtg ttataggcaa gagcagatgg ttgaaataga
+      361 cacgaaaagc ataatgaggt ttgttataag cgctgaagtt gccaaaaaaa tgcgtgcatc
+      421 gattcttgtt atggggccat tgctcgctcg gtttggcaag gtatcaatag ggtttcctgg
+      481 cggtgatgcc attggagccc gtcctattga ctatcatctt aataacttca aaaaaatggg
+      541 tgcgtccatt gaaacgaacg ttgattgcgt ttctgctcaa gcaacatgcc tcaaagcggg
+      601 cacctatgca ttagattatc ccagtgtggg cgctaccgaa aacattatga tggctgctgt
+      661 gttaactcaa ggtacgactc gcattattaa tgctgctttg gagccagagg tgcttgattt
+      721 gatcaaggct ctacaaaaaa tgggagctca aattaatatt tttcctacag cggtcataga
+      781 aatccaaggt gtggatcatc tcaaccccat agagcatgca gttatgtacg atcgtttaga
+      841 agcggggact cttttattag ctgctgcagc aacgggtggg tccattcatc tgcccgaagc
+      901 gccggcgagc tcccttgagc tttttcttat gaaattggaa gaaatggggc actcgattac
+      961 ccttggtgcg cagggcgtgg gtgtagtatt caaggcaacg cttaatcctc gcgctatatc
+     1021 tttcaaaaca acgccctatc ctgggtttcc aaccgatttg caagctccaa tgatggcagc
+     1081 gttgtgttgc gctgatgggg taagtgttat tgaagaaacg gtctttgaga accgtttatt
+     1141 gcatgccact cagctgcaaa agatgggtgt ctctatagtt attaatggtt ccaaggctac
+     1201 cattaaaggg gtttcttcgc taaaaggcgc ctcagttgtt gcgcatgata ttagagcttc
+     1261 aagcgccctt gttattgccg gtcttgctgc taccggtaca acgatcgtct ctggagtgca
+     1321 tcattggcgt agggggtatg aggatcttga taaaaagctt atttctttag gtgcacgtat
+     1381 tgcttgtaaa accgagcaag agttttctgc tcaagagagt tttattattg gtggtcatta
+     1441 caataatgag attcaaatat aacccattct actggttatg taacggtaag ctcctaaagg
+     1501 taagcggctc taaaggttgc cgcttaattc ggcaagctct ttgg
+//
+

@@ -1,0 +1,856 @@
+LOCUS       AY566820                1201 bp    DNA     linear   ENV 26-JUL-2016
+DEFINITION  Uncultured soil bacterium clone 85C1 putative cation efflux family
+            protein and aminoglycoside 6'-N-acetyltransferase genes, complete
+            cds; and putative glucosamine-fructose-6-phosphate aminotransferase
+            gene, partial cds.
+ACCESSION   AY566820
+VERSION     AY566820.1
+KEYWORDS    ENV.
+SOURCE      uncultured soil bacterium
+  ORGANISM  uncultured soil bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1201)
+  AUTHORS   Riesenfeld,C.S., Goodman,R.M. and Handelsman,J.
+  TITLE     Uncultured soil bacteria are a reservoir of new antibiotic
+            resistance genes
+  JOURNAL   Environ. Microbiol. 6 (9), 981-989 (2004)
+   PUBMED   15305923
+REFERENCE   2  (bases 1 to 1201)
+  AUTHORS   Riesenfeld,C.S., Goodman,R.M. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-2004) Plant Pathology, University of
+            Wisconsin-Madison, 1630 Linden Dr., Madison, WI 53706, USA
+FEATURES             Location/Qualifiers
+     source          1..1201
+                     /organism="uncultured soil bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:164851"
+                     /clone="85C1"
+                     /environmental_sample
+     CDS             6..332
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="czcD"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative cation efflux family protein"
+                     /protein_id="AAS90605.1"
+                     /translation="MYYRIMDAVEPEVTESITKIASKVKDVMEVDNVAVRWVGHRQRA
+                     ELHITVDCQMPTCDSHRIAEQVRHDLFHDMPALADVTIHVDPCECENCGDTHHIADHH
+                     LAPASP"
+     CDS             354..905
+                     /note="aac(6')"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="aminoglycoside 6'-N-acetyltransferase"
+                     /protein_id="AAS90606.1"
+                     /translation="MNIFSLTRDNEHLIHQAAQLLMDAFHEHWPDAWPTFEEGWKEVH
+                     EMLEAERICRAAVDDNGNLLGLIGGIAGYDGNVWELHPLAVQPHLQGQGIGRALVEDF
+                     EEQVRLRGGLTITLGSDDEDDMTSLSDVDLHENPWEKIQKIRNFKGHPFTFYQKMGYV
+                     ITGVVPDANGRGKPDILMSKRVG"
+     CDS             complement(1025..>1201)
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="glmS"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative glucosamine-fructose-6-phosphate
+                     aminotransferase"
+                     /protein_id="AAS90607.1"
+                     /translation="VDSLTLAQSPIQLPPQIPEWLTPLVSILPAQLFACHLTTVKGYD
+                     TEKPRSITKVTETH"
+ORIGIN      
+        1 gcgatatgta ttatcgtatt atggatgctg ttgaaccgga ggtcacggag tcgatcacaa
+       61 aaatcgcttc aaaggtaaag gatgttatgg aggtcgacaa tgttgccgtc cgctgggtgg
+      121 gtcatcgtca gcgcgcggag cttcatatca cggtggactg ccagatgcct acttgcgaca
+      181 gtcatcgcat tgctgaacaa gttcggcatg acttattcca cgatatgccc gcgctggccg
+      241 atgtgacgat tcacgtggac ccatgtgaat gtgaaaattg cggtgacaca catcatatcg
+      301 cggatcatca tctggcaccc gcctctccct agccaattcc tggtcatttg aaaatgaaca
+      361 ttttctccct gacacgtgat aacgaacacc tcattcatca agctgcccaa cttctaatgg
+      421 acgcgttcca cgagcattgg ccggatgcct ggcccacgtt tgaagagggc tggaaggaag
+      481 ttcacgaaat gctcgaagcc gaaagaattt gtcgtgcagc cgtggacgat aatggaaatt
+      541 tgctcggcct cataggcggc atcgcaggct atgatggtaa tgtgtgggaa ctacatccac
+      601 tggccgttca accgcatctg cagggacaag ggatcggtcg cgcgttggtg gaggattttg
+      661 aggaacaggt ccgtttgcgc ggcgggctga ccatcacact tggaagtgat gacgaagacg
+      721 atatgacttc actatcggac gtcgatttgc atgaaaatcc gtgggaaaag attcaaaaga
+      781 tccgcaattt caaaggacat ccgttcactt tttaccagaa aatgggatat gtgatcaccg
+      841 gcgtcgtacc cgatgccaat ggaagaggca agccggatat tttgatgtcg aagagggttg
+      901 gttaatgtca ttgcgagccc gagcgacact tgcaccgcac gcaagtgcag gtgtagcgag
+      961 tggcgacgca atctcccagc gcaacaaaaa gattgcttcg caacgggcgc tcgcaacgac
+     1021 atgattaatg tgtctctgtc accttcgtaa tcgaacgcgg cttttcagta tcgtaccctt
+     1081 tgactgtggt caagtggcag gcaaataact gagcggggag tatgctcacc agcggagtca
+     1141 gccattcggg aatctgaggc gggagctgga tcggcgactg ggccagggta agcgaatcca
+     1201 c
+//
+
+LOCUS       AY566821                1846 bp    DNA     linear   ENV 26-JUL-2016
+DEFINITION  Uncultured soil bacterium clone 171D10 putative
+            3-oxoacyl-(acyl-carrier protein) reductase gene, partial cds; and
+            aminoglycoside 6'-N-acetyltransferase and conserved hypothetical
+            protein genes, complete cds.
+ACCESSION   AY566821
+VERSION     AY566821.1
+KEYWORDS    ENV.
+SOURCE      uncultured soil bacterium
+  ORGANISM  uncultured soil bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1846)
+  AUTHORS   Riesenfeld,C.S., Goodman,R.M. and Handelsman,J.
+  TITLE     Uncultured soil bacteria are a reservoir of new antibiotic
+            resistance genes
+  JOURNAL   Environ. Microbiol. 6 (9), 981-989 (2004)
+   PUBMED   15305923
+REFERENCE   2  (bases 1 to 1846)
+  AUTHORS   Riesenfeld,C.S., Goodman,R.M. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-2004) Plant Pathology, University of
+            Wisconsin-Madison, 1630 Linden Dr., Madison, WI 53706, USA
+FEATURES             Location/Qualifiers
+     source          1..1846
+                     /organism="uncultured soil bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:164851"
+                     /clone="171D10"
+                     /environmental_sample
+     CDS             complement(<1..573)
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="fabG"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative 3-oxoacyl-(acyl-carrier protein)
+                     reductase"
+                     /protein_id="AAS90608.1"
+                     /translation="MDFTGKTVLVTGASRGIGESIAQQFAQRGARVAVHYNRQQASAE
+                     AVRDGLSGTGHMIVQGDLADPSGIARMVEAVVAEFGRLDILVNNAAIYEDHPIADISY
+                     EAWQTAWQSIVGTNLIGIANTIYCAAQHMIKQGGGRIVNISSRGAFRGEPTAPAYGAS
+                     KAALNSMGQSLAKALAPHNIFIGTVAPGFVE"
+     CDS             complement(612..1178)
+                     /note="aac(6')"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="aminoglycoside 6'-N-acetyltransferase"
+                     /protein_id="AAS90609.1"
+                     /translation="MSENPAIHIQDLTADDETAIQQVAAMLTEGFREHWWDAWPTLEE
+                     AVEEVRESFTEERISRIARDSSGAILGWIGGQPTYAEVWELHPLVVRVDQQRRGVGRL
+                     LVADLEQQVKERGGLTLMLGSDDQDEMTSLSGVDLYPDPWPHIAKIQNFKDHPYSFYQ
+                     KLGYAIIGVVPDANGFGKPDILMAKRLA"
+     CDS             complement(1175..1762)
+                     /note="orf1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="conserved hypothetical protein"
+                     /protein_id="AAS90610.1"
+                     /translation="MAVGHYNPRDKDKMQQWAHNLMHGDFVVLDTETTGLGPTDEVVQ
+                     IGIIDSKGRTVLNTMVRPTRPVPSVVTRIHGLTNEKLAEASPFSDLYVSLSSILAGVT
+                     VIAYNMDFDWRMLVQSAGLYGLPAFRTGDRQCAMKAYAQGHGMFDLKRRTYAYHKLGE
+                     ACRHQKIPVVQAHDALSDARMTLALVRKMAEFHSA"
+ORIGIN      
+        1 ctcgacaaag ccaggagcca ccgtgccaat gaaaatattg tgtggggcga gggccttcgc
+       61 cagagattgg cccatgctgt taagggctgc tttgctggct ccgtaggccg gggcagtcgg
+      121 ttcaccgcga aaggcaccac gcgacgagat attcacaatg cgtccgccgc cctgtttgat
+      181 catgtgctgg gcagcgcaat agatggtgtt ggcaatcccg atcaaattgg tgccgacgat
+      241 actctgccac gctgtttgcc atgcttcata gctaatatct gcaatcggat gatcttcgta
+      301 gatcgcggca ttgttgacga ggatatcaag ccgcccaaac tccgcgacaa cggcctccac
+      361 catccgcgca atccccgacg gatcagccag atcgccctgg acgatcatgt ggcctgtgcc
+      421 gctgagtcca tcgcgcacgg cttcggcgct ggcctgctgg cgattgtaat gcacggcgac
+      481 gcgggctccg cgctgcgcaa actgctgggc aatcgattcg ccaatgccgc gtgatgcgcc
+      541 tgtcacgagg acagttttcc ctgtgaagtc catgtttgat ccttaatgtg tatgggcatg
+      601 gaagtatagg attacgcgag gcgctttgcc atcagaatat cgggcttgcc gaagccattg
+      661 gcatccggca ccacgccaat gatggcatag ccgagttttt gataaaacga atagggatgg
+      721 tctttgaaat tctggatctt ggcaatgtgc ggccagggat cgggatacag atccacgccg
+      781 gagagggatg tcatctcatc ctgatcatcc gaccctaaca tcaaggtcag accgccgcgc
+      841 tccttgacct gctgctccag atccgccacc agcagtctcc ccacgccgcg ccgctgttga
+      901 tcgactcgta caaccagcgg atgcagctcc cacacttcgg cataggtcgg ctgtccacca
+      961 atccagccca ggatcgcgcc gctggaatca cgagcgatac ggctgatgcg ttcctccgtg
+     1021 aatgactcac gcacttcttc aacagcctct tcaagagtcg gccatgcgtc ccaccaatgt
+     1081 tcgcggaagc cctccgtgag catcgcggcg acctgctgaa tcgcggtctc atcatcggca
+     1141 gtcaaatcct gaatatggat ggctgggttc tcgctcatgc gctgtgaaac tccgccattt
+     1201 tgcgcacgag ggccagggtc atgcgggcat cgctcagagc atcatgggcc tgaacgacgg
+     1261 gaatcttttg atgacgacag gcctcgccta atttgtgata ggcgtaggtg cggcgcttaa
+     1321 gatcaaacat gccgtgacct tgagcatagg ctttcatcgc gcattgacga tcacccgtgc
+     1381 gaaaggccgg aagtccatag agacctgccg actgcaccag catacgccaa tcaaaatcca
+     1441 tgttgtaggc aatcacggtg actcccgcga gaatcgaaga caacgataca taaagatcgc
+     1501 taaagggaga tgcctcggcc aatttctcat tcgtcaggcc gtgaatgcgc gtgaccaccg
+     1561 agggaacagg gcgggtgggc cgaaccatcg tgttgagcac cgtgcggcct ttgctgtcga
+     1621 tgataccgat ctggaccact tcatccgttg gcccaagtcc ggttgtctcg gtatcgagga
+     1681 cgacaaaatc accatgcatg aggttatggg cccactgctg catcttgtct ttatcacgcg
+     1741 gattgtagtg tccaacggcc atgatcgtat ctctcttgct ctcaatacag cactgtttta
+     1801 cggatgattt gccttcagat taacatgaaa tacgcatgcc tgcagg
+//
+
+LOCUS       AY566822                1857 bp    DNA     linear   ENV 26-JUL-2016
+DEFINITION  Uncultured soil bacterium clone CR4 putative drug resistance
+            transporter gene, complete cds; and putative TetR family
+            transcriptional regulator gene, partial cds.
+ACCESSION   AY566822
+VERSION     AY566822.1
+KEYWORDS    ENV.
+SOURCE      uncultured soil bacterium
+  ORGANISM  uncultured soil bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1857)
+  AUTHORS   Riesenfeld,C.S., Goodman,R.M. and Handelsman,J.
+  TITLE     Uncultured soil bacteria are a reservoir of new antibiotic
+            resistance genes
+  JOURNAL   Environ. Microbiol. 6 (9), 981-989 (2004)
+   PUBMED   15305923
+REFERENCE   2  (bases 1 to 1857)
+  AUTHORS   Riesenfeld,C.S., Goodman,R.M. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-2004) Plant Pathology, University of
+            Wisconsin-Madison, 1630 Linden Dr., Madison, WI 53706, USA
+FEATURES             Location/Qualifiers
+     source          1..1857
+                     /organism="uncultured soil bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:164851"
+                     /clone="CR4"
+                     /environmental_sample
+     CDS             complement(166..1371)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative drug resistance transporter"
+                     /protein_id="AAS90611.1"
+                     /translation="MSPKFLRIAVVLGLLSAIGPFAIDMYLPALPSIGEDLHAGTAAV
+                     QMSLLIFFLSMGFGQIVVGPISDMVGRKLPLYGGLALFMVGGIGSAMAPTIEWLIAFR
+                     FLQGLGASAGMAVPRAIVRDLHTGTEAAKLMSLLMLVFSVSPILAPLTGSQIIENFGW
+                     RAVFWTVTGAALLATILLATSLKETRPAEERVGSSFGTALAGYRFLMGDLNFLGLVAI
+                     AGFGIASFFVYLSSSSFILIDHYGLSPSVYSVFFSINAVAFIGMSQLTGMLSERFGLK
+                     RVVWVAVTGYATTMVVLFAIMATGVDRLDVMAALLFVGYGFLGLVIPTTSVLAMEEHG
+                     EIAGTASALMGTLHFAIGALAMGVAGIFFNGTPLPMVAGITLCAVISFTLAKLTLGRT
+                     REAAEAPAE"
+     CDS             1523..>1857
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative TetR family transcriptional regulator"
+                     /protein_id="AAS90612.1"
+                     /translation="MSNSSITSIYIFMKPAISPDIFPPRGHEAKRMSIIDAAASVFCR
+                     EGFAGANIDLIAVEAGVSRQTIYNHHRDKEKLFMAVVRDLTERCNAGIFATFASFPDQ
+                     PRDLEADLIG"
+ORIGIN      
+        1 cctaccattc gctggtcggc gtctacgacg aattgggata tgagttgctc gacctgccgc
+       61 gggcgccggt cgaaacacga ctcgagttcg cgctgattga ggccggatta tcccagacat
+      121 gaaaaaggcc gggctgatcc ggccttttca ttgagtgtcg tttgcttact ccgccggtgc
+      181 ttccgccgct tcgcgcgtgc ggccgagcgt cagcttggcc agcgtaaacg agatcacggc
+      241 gcacagcgta atgccggcca ccatcggcag cggcgtgccg ttgaagaaga tgccggcgac
+      301 acccatggcc agcgcgccga tggcaaagtg cagtgtgccc atcagcgccg aggccgtgcc
+      361 ggcgatctcg ccatgctctt ccatggccag caccgacgtg gtcgggatga cgaggccgag
+      421 gaagccgtag ccgacgaaca gcagcgccgc catcacatcg agccggtcaa cgccggtcgc
+      481 catgatcgcg aacagcacca ccatggtcgt ggcgtaaccg gtcaccgcaa cccagacgac
+      541 gcgcttcagc ccaaaccgtt ccgacagcat cccggtcagc tgcgacatac cgatgaaagc
+      601 caccgcattg atcgagaaga acacgctgta gaccgaaggc gacagcccgt aatggtcgat
+      661 caggatgaag gacgagctcg acaggtaaac gaagaaggag gcaatgccga agccggcgat
+      721 cgccaccaag ccaaggaaat tgaggtcacc catcaggaag cgatagccgg cgagtgcggt
+      781 tccgaaggag gacccgacgc gttcttccgc cggccgtgtc tccttgagcg aggtcgccaa
+      841 aagaatggtc gccagcaggg ccgcgcccgt caccgtccag aacacggcgc gccagccgaa
+      901 attctcgatg atctggctgc cggtcagcgg cgccaggatc ggtgacaccg aaaacaccag
+      961 catcaacagc gacatcagct tggcagcttc agtgccggtg tgcaggtcgc gcacgatggc
+     1021 gcgcggcaca gccattccgg cgctggcgcc gaggccttgc aggaagcgaa aggcgatcag
+     1081 ccattcgatg gtcggcgcca ttgccgaacc gatgccgccg accatgaaca gcgccaagcc
+     1141 gccatagagc ggcagcttgc ggccaaccat gtcggagatc ggcccgacga cgatctggcc
+     1201 gaagcccatc gacaggaaga aaatcagcag gctcatctgc acggcggcgg tgccggcatg
+     1261 caaatcctcg ccgatcgaag gcagcgcggg cagatacatg tcgatagcga aagggccgat
+     1321 ggcggacaac aagccgagca cgaccgcgat gcggaggaat ttgggactca tgataaaggc
+     1381 ttctttcgaa tctggttgcc gccggcaagc gacgtctaac cccaggacgt tccatcccgt
+     1441 ggaaatccga catcccgggg cgaattcagt cgtcgccttg gagtagattt ccgttttctt
+     1501 atgtccacaa atttagacag ccttgtctaa ttcgtcaatc acctctatat atatttttat
+     1561 gaagcctgcc atttctcctg acattttccc gccacgcggc cacgaggcca agcgtatgtc
+     1621 gatcatcgat gcggcggcct cggtgttttg ccgcgaaggc tttgccggcg ccaatatcga
+     1681 cctgatcgcg gtggaggccg gcgtctcgcg ccagaccatc tacaatcacc accgcgacaa
+     1741 ggaaaagctt ttcatggccg tggtgcgcga cctgaccgag cgctgcaacg ccggcatctt
+     1801 cgccaccttc gccagcttcc ccgaccagcc cagggatctc gaagccgatt tgatcgg
+//
+
+LOCUS       AY566823                1138 bp    DNA     linear   ENV 26-JUL-2016
+DEFINITION  Uncultured soil bacterium clone CR5 putative
+            6-phospho-beta-glucosidase gene, partial cds; aminoglycoside
+            6'-N-acetyltransferase gene, complete cds; and putative
+            glucosamine-fructose-6-phosphate aminotransferase gene, partial
+            cds.
+ACCESSION   AY566823
+VERSION     AY566823.1
+KEYWORDS    ENV.
+SOURCE      uncultured soil bacterium
+  ORGANISM  uncultured soil bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1138)
+  AUTHORS   Riesenfeld,C.S., Goodman,R.M. and Handelsman,J.
+  TITLE     Uncultured soil bacteria are a reservoir of new antibiotic
+            resistance genes
+  JOURNAL   Environ. Microbiol. 6 (9), 981-989 (2004)
+   PUBMED   15305923
+REFERENCE   2  (bases 1 to 1138)
+  AUTHORS   Riesenfeld,C.S., Goodman,R.M. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-2004) Plant Pathology, University of
+            Wisconsin-Madison, 1630 Linden Dr., Madison, WI 53706, USA
+FEATURES             Location/Qualifiers
+     source          1..1138
+                     /organism="uncultured soil bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:164851"
+                     /clone="CR5"
+                     /environmental_sample
+     CDS             <1..237
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="celF"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative 6-phospho-beta-glucosidase"
+                     /protein_id="AAS90613.1"
+                     /translation="GAGIHPVHVGALPGPVAELCRRETAVAQLCVDSAVEGSREKALQ
+                     CLLLDPVITDIDTAKKILDDYLTSYREYLSQFWK"
+     CDS             313..864
+                     /note="aac(6')"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="aminoglycoside 6'-N-acetyltransferase"
+                     /protein_id="AAS90614.1"
+                     /translation="MEITTLTSDNDRLIHQAAQLLVDAFREHWPDAWPTMEEGLKEVG
+                     EMLETGRICRVAVDEKGSLLGIIGGIPGYDGNVWELHPLAVQPLLQGQGIGQRLVEDF
+                     EVQVRSKGGLTITLGTDDEDGMTSLANTDLYENLWEKIRDIRNLKGHPFEFYQKIGYI
+                     ISGIVPDANGPGKPDILMAKRVR"
+     CDS             complement(939..>1138)
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="glmS"
+                     /codon_start=3
+                     /transl_table=11
+                     /product="putative glucosamine-fructose-6-phosphate
+                     aminotransferase"
+                     /protein_id="AAS90615.1"
+                     /translation="LVVISDDEKVLALAQSSIPLPSGIPEWLTPIVGVIPAQLFACHL
+                     TEVKGYDAETPRSITKVTETH"
+ORIGIN      
+        1 ggcgccggga tacatcctgt ccatgtcggt gcactgcccg gtcctgttgc cgagctttgc
+       61 cgcagggaaa ccgccgtcgc ccagttatgc gtcgactcag cagtcgaggg atcccgcgaa
+      121 aaggccttgc agtgcctgct gctcgacccg gttatcacgg atatagatac tgcaaaaaag
+      181 atcctggatg attatttgac aagctacagg gaatatcttt cccagttctg gaagtaaacc
+      241 atcccgaagg ggtgacacaa tttgaaggct tatgtcatcc cttcgggatc gttgttcatc
+      301 aaaggcaggc gaatggaaat tactacttta acttctgata acgatcgtct tatccatcaa
+      361 gctgcacagt tattggtgga cgcattccgc gagcactggc ctgatgcctg gccaacaatg
+      421 gaggaaggac ttaaagaggt tggagaaatg cttgaaacgg gcagaatttg tcgtgtagca
+      481 gtcgatgaga aggggagttt gctgggaatt atcggtggaa tccctggtta tgacgggaat
+      541 gtctgggaat tacacccact cgctgtgcag cctctcctgc agggacaagg catcggccaa
+      601 aggttggtgg aggattttga ggtccaggtc cgctcgaaag gcggattgac catcaccctg
+      661 ggaacagacg acgaggatgg catgacctcc ctggcgaata ctgaccttta tgaaaatcta
+      721 tgggaaaaga tccgcgacat tcgaaatttg aagggacatc cttttgagtt ttatcaaaag
+      781 atcggataca tcatctcagg tatcgtgccg gatgccaatg ggcctggcaa gccggatatt
+      841 ttgatggcga agagagtacg ttaatctaca ctcggacggc aagccgtccg agtgtagatt
+      901 aatctcatat ttccgacagc aagcttccgg actccatatt aatgcgtctc ggttaccttg
+      961 gtgatcgagc gaggggtttc ggcatcatat cccttgacct cggttaaatg acaggcaaac
+     1021 aattgggcag ggatgacgcc tacgattggt gtcaaccatt cggggattcc agacgggagc
+     1081 gggatgctcg attgagcaag ggccagcacc ttttcatcat ccgagatgac aaccagtt
+//
+
+LOCUS       AY566824                1348 bp    DNA     linear   ENV 26-JUL-2016
+DEFINITION  Uncultured soil bacterium clone CR6 putative
+            glucosamine-fructose-6-phosphate aminotransferase gene, partial
+            cds; aminoglycoside 6'-N-acetyltransferase gene, complete cds; and
+            putative 6-phospho-beta-glucosidase gene, partial cds.
+ACCESSION   AY566824
+VERSION     AY566824.1
+KEYWORDS    ENV.
+SOURCE      uncultured soil bacterium
+  ORGANISM  uncultured soil bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1348)
+  AUTHORS   Riesenfeld,C.S., Goodman,R.M. and Handelsman,J.
+  TITLE     Uncultured soil bacteria are a reservoir of new antibiotic
+            resistance genes
+  JOURNAL   Environ. Microbiol. 6 (9), 981-989 (2004)
+   PUBMED   15305923
+REFERENCE   2  (bases 1 to 1348)
+  AUTHORS   Riesenfeld,C.S., Goodman,R.M. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-2004) Plant Pathology, University of
+            Wisconsin-Madison, 1630 Linden Dr., Madison, WI 53706, USA
+FEATURES             Location/Qualifiers
+     source          1..1348
+                     /organism="uncultured soil bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:164851"
+                     /clone="CR6"
+                     /environmental_sample
+     CDS             <1..189
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="glmS"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative glucosamine-fructose-6-phosphate
+                     aminotransferase"
+                     /protein_id="AAS90616.1"
+                     /translation="ISDDPDALVLAQSPIQLPPEIPEWLTPLVSIIPAQLFACHLTQV
+                     KGYDTDSPRNITKVTETH"
+     CDS             complement(249..797)
+                     /note="aac(6')"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="aminoglycoside 6'-N-acetyltransferase"
+                     /protein_id="AAS90617.1"
+                     /translation="MKIASLSRDDSHLIEQVAQLLVDAFREHWPDAWPTLNEALKEVH
+                     EMLESERICRIALDEQGHLIGIIGGIPGYDGKVWELHPLAIQPSLQGKGIGAALVDDF
+                     EEQVRMKGGLTITLGSDDEDNMTSLSDVDLYENLWEKIRDIRNLKKHPFEFYQKMGYV
+                     ITGVVPDANGRGKPDILMGKKI"
+     CDS             complement(1005..>1348)
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="celF"
+                     /codon_start=3
+                     /transl_table=11
+                     /product="putative 6-phospho-beta-glucosidase"
+                     /protein_id="AAS90618.1"
+                     /translation="ICATTHYHLAANLPNTGQISNLPLGCTVETPVIVDGAGIHPVHV
+                     GALPEPVAELCRRETAVAQVGVDAAVEGNREKALQCLLLDPVITDIGTARKILDDYLT
+                     NYKEYLPQFWQ"
+ORIGIN      
+        1 atctcagacg acccggatgc gctcgtgctc gcgcaatcgc cgatccagct cccacctgag
+       61 attcccgaat ggctgactcc gctggtgagc atcatccccg cgcaactgtt tgcctgccac
+      121 ctaactcagg tcaaagggta tgacaccgat tctccacgca acatcacaaa agtaacagag
+      181 actcattaat cagaaaggag tcaacgactc ccgtcgttga aatgccaggg ttaggaggct
+      241 ttgactcctt atattttttt ccccatcaaa atatcgggtt tacctcttcc gttcgcatcg
+      301 gggacaaccc ccgtaatgac atatcccatc ttttgataaa actcaaaggg atgcttcttg
+      361 agattgcgta tatcccttat cttttcccag agattttcgt acagatccac atcggatagc
+      421 gatgtcatgt tgtcttcatc atcgcttccg agtgtaatcg tcagcccacc cttcatgcga
+      481 acttgttcct cgaaatcgtc caccagtgcc gcaccgatgc ccttcccctg cagggagggc
+      541 tgaatggcga gcggatgtaa ttcccacacc ttcccatcgt aaccggggat tccgcctatg
+      601 attccgatca aatgaccttg ttcatccaat gcaatccggc atattcgctc actttcgagc
+      661 atttcatgaa cttctttcag agcttcgttc agcgtgggcc aggcatccgg ccagtgttcg
+      721 cggaatgcgt ccacaagtaa ctgcgcgact tgctcaatga ggtgagaatc atctctggat
+      781 aaggaagcaa ttttcatttg acctttcaca atgaacctgt cgttgcgagc ggagcgaagc
+      841 aatcgcccgt tgacctatcg actttagtac ctcaaacgcc ctttccttag caggagattg
+      901 cttcccacag ggacgctcac ctgcacttgc cgctgcgcgg cgaagcgcat gcgcaagtat
+      961 cgcagtcgtc gggaagggta ccctcctcac aatgacattg ttgctcactg ccaaaactgc
+     1021 ggcaggtatt ccttgtagtt cgttaaataa tcatccagta tttttctggc tgtgccaata
+     1081 tcggtaatga caggatcgag cagcagacat tgcaatgcct tttcgcggtt gccttccaca
+     1141 gcagcgtcca cgccgacctg ggcgacagca gtttcccgtc tgcagagttc tgcgacgggt
+     1201 tcgggtagcg ctcccacatg gacaggatgg atccccgcgc catcgacgat aaccggcgtt
+     1261 tcaacggtgc atccaagagg cagattgctg atctggcctg tattgggaag gttcgcagcc
+     1321 agatgataat gcgtcgttgc gcagatct
+//
+
+LOCUS       AY566825                1402 bp    DNA     linear   ENV 01-SEP-2004
+DEFINITION  Uncultured soil bacterium clone CR7 hypothetical protein and
+            aminoglycoside 3'-phosphotransferase genes, complete cds.
+ACCESSION   AY566825
+VERSION     AY566825.1
+KEYWORDS    ENV.
+SOURCE      uncultured soil bacterium
+  ORGANISM  uncultured soil bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1402)
+  AUTHORS   Riesenfeld,C.S., Goodman,R.M. and Handelsman,J.
+  TITLE     Uncultured soil bacteria are a reservoir of new antibiotic
+            resistance genes
+  JOURNAL   Environ. Microbiol. 6 (9), 981-989 (2004)
+   PUBMED   15305923
+REFERENCE   2  (bases 1 to 1402)
+  AUTHORS   Riesenfeld,C.S., Goodman,R.M. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-2004) Plant Pathology, University of
+            Wisconsin-Madison, 1630 Linden Dr., Madison, WI 53706, USA
+FEATURES             Location/Qualifiers
+     source          1..1402
+                     /organism="uncultured soil bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:164851"
+                     /clone="CR7"
+                     /environmental_sample
+     CDS             200..565
+                     /note="orf3"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="AAS90619.1"
+                     /translation="MALQDQDVLYALIDVNTGQVISGGYPFWEIAWHPSGRYLAGKIP
+                     NAKHPTIQIVDSATLEVFTEFAVPPYYENENPAYQLEWSPDGKSLAFAHNSGQIYIWA
+                     FDEAKIRLQNSFPLTFQRE"
+     CDS             569..1342
+                     /note="aph(3')"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="aminoglycoside 3'-phosphotransferase"
+                     /protein_id="AAS90620.1"
+                     /translation="MSNELHLPTTLQPYLQHMTPEPIFDGYSGAKVWRWTGQNPTLYL
+                     KVDTDLRREKDCLMWLKDEIAVPQVVAWHKTPTAHYLLMTEITGIDATSFEHDPATCV
+                     RLMAQGLREFHAIPMANCPLDRRLDVVIDAARANVEQGLVNANDFDSQRLGRTAVDLY
+                     AELLATRPASEDLVVVHGDYCLPNIFFAGGRVSGFIDVGRAGVGDRYIDLALAVRSIL
+                     YNLGDDPQWIDLFFAEYGISTSEIDWAKVEYFKLLDEFF"
+ORIGIN      
+        1 tcagcgcgat gcgtttagcc gtctccatta tgactcagct acccaacaac atctggtggt
+       61 gacacgcgat ggttttacgg gcgtgattgt caatgagttg gcttttccca atgtcattgc
+      121 gggttataat cttgccgaaa attattggga actcttcgag tttagctgga gtcccgatgg
+      181 taatcatttt ttagtggtga tggcacttca ggatcaagat gttttgtatg ccctcattga
+      241 tgtgaatacg gggcaggtca tctcgggtgg ctatcctttc tgggagatcg catggcatcc
+      301 cagcggaagg tatctcgcgg gtaaaattcc caatgcgaaa catcccacga ttcaaattgt
+      361 ggatagcgct accctagaag tcttcactga atttgcggtt ccgccctatt atgaaaacga
+      421 aaatcccgcc tatcaactcg aatggagtcc tgatggcaag tctctggcat ttgctcataa
+      481 ttcagggcaa atttatatct gggcgtttga tgaagctaaa atacgtctcc aaaactcatt
+      541 tccactaacc ttccagcgag aataaccgat gtcgaacgaa ttgcacctac ccactaccct
+      601 gcaaccctat ctccagcata tgacgcctga accaattttt gacggttatt cgggcgcgaa
+      661 ggtttggcgc tggacagggc aaaacccgac actgtatctc aaagtggaca cggatttgcg
+      721 gcgcgagaaa gattgcctga tgtggctaaa ggatgaaatt gcagttcccc aagtcgtcgc
+      781 ctggcataaa accccgacgg ctcattacct cctgatgacc gaaataaccg gcattgatgc
+      841 gaccagtttt gagcatgatc cagcgacgtg tgtgcgctta atggcgcaag ggctacgcga
+      901 atttcatgcg attcccatgg caaattgtcc ccttgatcgg cggctcgatg tggtgattga
+      961 tgcggcgcgt gccaatgtgg aacaggggtt ggtcaatgca aatgatttcg atagtcaacg
+     1021 cttagggcga acggcggttg atctttatgc ggaattgctg gcgacacgcc ccgctagtga
+     1081 agatttggtg gtggtgcatg gtgattattg cttgcccaat atcttttttg cgggcggcag
+     1141 ggtcagcggt tttattgatg tggggcgggc aggcgttggg gatcgctata ttgatttggc
+     1201 gttggcggta cgcagtatcc tctataattt gggcgacgat ccacagtgga tagacctctt
+     1261 ttttgcggag tatggcattt cgacttcgga gattgattgg gcaaaagtcg agtatttcaa
+     1321 gctccttgat gaattttttt aggggaggac aagggtctca tatggctgtt cgacctattt
+     1381 tgcgctacgg ctggctattt ct
+//
+
+LOCUS       AY566826                2070 bp    DNA     linear   ENV 01-SEP-2004
+DEFINITION  Uncultured soil bacterium clone CR8 putative ATP-dependent Clp
+            protease (proteolytic subunit) and aminoglycoside
+            3-N-acetyltransferase genes, complete cds.
+ACCESSION   AY566826
+VERSION     AY566826.1
+KEYWORDS    ENV.
+SOURCE      uncultured soil bacterium
+  ORGANISM  uncultured soil bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 2070)
+  AUTHORS   Riesenfeld,C.S., Goodman,R.M. and Handelsman,J.
+  TITLE     Uncultured soil bacteria are a reservoir of new antibiotic
+            resistance genes
+  JOURNAL   Environ. Microbiol. 6 (9), 981-989 (2004)
+   PUBMED   15305923
+REFERENCE   2  (bases 1 to 2070)
+  AUTHORS   Riesenfeld,C.S., Goodman,R.M. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-2004) Plant Pathology, University of
+            Wisconsin-Madison, 1630 Linden Dr., Madison, WI 53706, USA
+FEATURES             Location/Qualifiers
+     source          1..2070
+                     /organism="uncultured soil bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:164851"
+                     /clone="CR8"
+                     /environmental_sample
+     CDS             complement(195..959)
+                     /note="clpP"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative ATP-dependent Clp protease (proteolytic
+                     subunit)"
+                     /protein_id="AAS90621.1"
+                     /translation="MAGRPLRPRRLGVRDYFEQLRRGAARRRPGPAALAGPPALLGSL
+                     IRSGCTIADEPARSSPMDVNEEKPEAPERLDAITDRLAFKSRFVMLFGEINHAVARAT
+                     CTRLIALAEESDGPVTVLISSPGGHVESGDAIHDIIRFVRAPVTTVGTGWVASAGTHV
+                     FLAAPKERRVCLPNTRFMIHQPGGGAGGPATDIAIQAKEILRTRERIAKVISKQTGQS
+                     LQKVLADMERDFWMSAEEAIVYGLVSKVIETSRELG"
+     CDS             1368..1973
+                     /note="aac(3)"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="aminoglycoside 3-N-acetyltransferase"
+                     /protein_id="AAS90622.1"
+                     /translation="MPSMADDDDTPFDRRSMPCRAVGVLADTFWRMPGVLRSDSPHAF
+                     AAIGPQAERITLPHPVDVPHGLGSPPGRVYELGGQVLLLGVGHDANTTIHVAENIAGV
+                     RYRQAKHATVLEGGRPKRYEYGETDHCCENFRLLDDWLEAEGRQRLGRVGNAEARLAR
+                     SRDIVSAALERLRRNETVFLHAGGSCGECDTARAGAVPFGA"
+ORIGIN      
+        1 cgcctgggca tcgacggcgt gttctcggat tttgcggaca ccgcggttgc tgcacgcttc
+       61 ctcttcgagc tcgagcgcgg ctgcgacgaa acgggtccca agcgtcatcg gcgcgactgc
+      121 gccgacgatt gaggactgac ctgatgcgct aagcgccttg ggcgggggaa gggggcggcg
+      181 cccgaggcgc gaccttagcc gagctcgcgc gaggtctcga tgaccttcga caccaggccg
+      241 tagacgatcg cttcttcggc gctcatccaa aagtcgcgct ccatgtcggc gagcaccttc
+      301 tggagcgact ggccggtctg cttggagatg actttggcga tgcgctcgcg cgtacgcagg
+      361 atctccttcg cctggatcgc gatgtctgtc gcagggccgc cggcgccgcc gccgggctgg
+      421 tggatcatga agcgcgtgtt cggcaggcac acgcgccgct ccttgggcgc agcgaggaag
+      481 acgtgcgtgc cggcgctcgc cacccacccg gtgcccacgg tggtcaccgg cgcgcgcacg
+      541 aagcggatga tgtcgtggat cgcatcgccc gattcgacgt ggccgcccgg cgacgagatg
+      601 agcacggtga ccggcccgtc ggattcctcc gccagcgcga tgaggcgcgt gcacgtggcg
+      661 cgggccaccg cgtggttgat ttctccgaac agcatgacga agcgcgactt gaaggccagg
+      721 cgatcggtga ttgcgtccag gcgttcaggg gcttcgggct tttcttcgtt gacatccatc
+      781 ggggagctcc tggcgggttc gtcggcaatg gtacaccccg atcgaatcag gcttcccaat
+      841 aaagcaggtg ggcccgccaa cgcggcgggc cccggcctac ggcgcgcagc gcctcgtctt
+      901 agttgctcga agtaatctcg cacacccagc cgtcgcggac gaagtggccg ccctgccatt
+      961 tgtaatttac gctggcctcg ctgcctgcgg gacagtcctg cgggttcgcg acgcggtcgc
+     1021 ggctgaggtc ataggccgaa gccgacaggg caaagcccga caggagaacg agtgcgattt
+     1081 tcctcatggt gcgttccttt gcagtagatg gtggtcgagt gggtaaaagg taggcgtgtc
+     1141 tgcgcaccgc ttggtttcac ttgcgcgccc tgctcgttac atgtgcaata cggagctcgc
+     1201 atttgactaa agacaagttg atacagcagc tcggcgagct cggagtcgag acgggcggcg
+     1261 tgctgctcgt ccacgcggcg ttttcgagga tcgctccggt ggagggcgga ccgcacgggc
+     1321 tcgtcgaggc gttgctcgcg tcgctcggcg agcgcggaac cctggtcatg ccgagcatgg
+     1381 cggacgacga cgacacgccg ttcgaccggc gcagcatgcc ttgccgagcc gtcggcgtac
+     1441 tggcggatac cttctggcgc atgccgggcg tcctgcgaag cgacagtccc catgccttcg
+     1501 ccgcgatcgg cccgcaggcc gagcggatca ccttgccaca tcccgtggac gtgccccacg
+     1561 gcttgggcag ccctcccggc cgtgtgtacg agctcggtgg gcaggtattg ctgcttgggg
+     1621 tcggacacga tgccaacacg acgattcatg tcgccgaaaa catcgcgggt gtgcgctatc
+     1681 gccaggctaa gcacgctacc gtgctggagg gtgggcggcc gaagcgctac gagtacggcg
+     1741 agaccgacca ttgctgcgag aacttccgcc tgctcgacga ctggctcgag gccgagggcc
+     1801 gccagcgcct cggccgcgtt ggcaatgcgg aagcgcgcct tgcgcgctcg cgcgacatcg
+     1861 tgtcggccgc gctggagcgc ctgcgccgaa atgaaaccgt attcctccac gccggtgggt
+     1921 cgtgcggcga atgcgatacg gcgcgcgccg gcgctgtacc attcggcgca tagcgaggat
+     1981 ccgatgttga ccggaggctg cttctgcggg cgggtgcgct acgaggcgcg cgggcccgcg
+     2041 ttcaatcgca ccagctgcca ctgctcgatc
+//
+
+LOCUS       AY566827                1913 bp    DNA     linear   ENV 01-SEP-2004
+DEFINITION  Uncultured soil bacterium clone CR9 putative low molecular weight
+            heat shock protein and putative ethylene response regulator genes,
+            complete cds.
+ACCESSION   AY566827
+VERSION     AY566827.1
+KEYWORDS    ENV.
+SOURCE      uncultured soil bacterium
+  ORGANISM  uncultured soil bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1913)
+  AUTHORS   Riesenfeld,C.S., Goodman,R.M. and Handelsman,J.
+  TITLE     Uncultured soil bacteria are a reservoir of new antibiotic
+            resistance genes
+  JOURNAL   Environ. Microbiol. 6 (9), 981-989 (2004)
+   PUBMED   15305923
+REFERENCE   2  (bases 1 to 1913)
+  AUTHORS   Riesenfeld,C.S., Goodman,R.M. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-2004) Plant Pathology, University of
+            Wisconsin-Madison, 1630 Linden Dr., Madison, WI 53706, USA
+FEATURES             Location/Qualifiers
+     source          1..1913
+                     /organism="uncultured soil bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:164851"
+                     /clone="CR9"
+                     /environmental_sample
+     CDS             214..660
+                     /note="hspA"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative low molecular weight heat shock
+                     protein"
+                     /protein_id="AAS90623.1"
+                     /translation="MALVPWTPMHNFAALQGQMNQLLNQFFRGGNGEEAPWGVSAWMP
+                     PVDLYETPDEFILSADLPGLTKDDIHLEVHDRTLTLRGERKPAAGMTEAHYQRRERAY
+                     GSFQRAFTLPTPVDTDKVQASMKDGILDLHLPKHEAAKPRRIAVQS"
+     CDS             complement(1432..1899)
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="etr1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative ethylene response regulator"
+                     /protein_id="AAS90624.1"
+                     /translation="MALIHGVLDQANDFARVDFARYLQQLTTHLSHSYGMNANAIAIH
+                     THAQAIWLNTEVAGACGLIVHELVSNSLKHAFPDDREGEIYVSMDYTNRQYTLTVTDN
+                     GIGLPADFNLHATPSLGFKLILALANQLSGHLDFETHGGTRFSITFADDSVRE"
+ORIGIN      
+        1 cgccccagag atgcaccagg cgcctgggcg ttcatggcat gcctcaatat actggataga
+       61 cagctgccgc tcgtgtccga gcggcagctg tatgataacg gatcagcact atcacttgac
+      121 aattatacgc tcatgtcata tatatatggt cgtaactatc actaccaggg catgcgacgg
+      181 catgcctgtc gcatatagga ggaggagacg acgatggcac tcgttccatg gacgccgatg
+      241 cacaatttcg cggcgcttca gggtcagatg aaccagctct tgaatcagtt cttccggggc
+      301 ggcaacggcg aggaggcccc ctggggcgtc agcgcgtgga tgccgccggt ggacctctat
+      361 gagacgcccg acgagtttat tctgtcggcc gacttgcccg gactgaccaa agacgacatt
+      421 cacctggagg tccatgaccg cacgctgacg ctacgcgggg agcgcaagcc agcggccggc
+      481 atgaccgagg cgcactacca gcggcgggaa cgggcttacg gcagcttcca gcgcgcgttc
+      541 acgctaccca cgcctgtgga taccgacaag gtccaggcca gcatgaaaga tggtatcctg
+      601 gatctgcact tgcccaaaca tgaggcggcg aaaccgcggc ggatcgcggt ccagagctaa
+      661 ccactctgcc gccgtctgag gtacgtcacg tcccggcatg tccggggcgt gaccgttctt
+      721 cccgtcgcca gctgtccccc ctcgatcaga accccgtcat catggtatcc aagagcacac
+      781 catcggtgtg tgatgcgcgc gtccggtgca ggctgccaag cgggccaccc gaggcgcctc
+      841 cggaccccca cgccccgtaa ccccgcccct ctgggcgggg ccctgagaac cctttccctc
+      901 ggaggtcgta agctatgaag atggccaagg tactagccgt gtaccgcgtg tcaccgccgg
+      961 tgctcgtcgt ggaaggcgag gatggcatgg tgatggacct gtccctcacg gagctgaaag
+     1021 atgggggtca tcgcttgagc gacgtcgccc ggaaggacct cctggaggac tatcagctgt
+     1081 ttacctgccg ggcgatgcca tgcgagaggt cgcggcgtgc ccagagcgca cgccagccgc
+     1141 ggccaccgcc gtgaggctct gagcgggcac gcctctgcct aaagtcgtgc gctcccccta
+     1201 ccgcttcagg cggtatctgc caatatcttt gcgtgcatgc actgtctcta cacccgcaca
+     1261 tccattgttg tcccgtccag gtctcgaggt cgccgaggcg ggattcgtgg ctgggaatgc
+     1321 tggatctcca gacgggcgga ccttcccctt agggcacccg ttgccattta ctggtaggcc
+     1381 gggtgatgtg tgcctcagct gatccctcac gagttcatga tagggcacgc attactctct
+     1441 caccgagtcg tctgcgaatg tgatgctgaa tcgtgtcccg ccatgagtct caaaatcgag
+     1501 gtgtccgctg agctgattcg cgagggcgag gatgagtttg aatccgagcg acggggtcgc
+     1561 gtgaagatta aaatctgcgg ggagtcctat gccattatca gtcacggtca gggtatactg
+     1621 acgattcgtg taatccatag acacatagat ttctccttcg cgatcgtcgg ggaaggcgtg
+     1681 ttttaacgaa tttgagacga gttcatgcac gatcagtcca caagcgcctg ccacttcagt
+     1741 attcagccag atggcttggg catgcgtgtg aatagcaatc gcgttagcat tcatgccata
+     1801 tgaatgactg aggtgcgtgg ttaactgctg aagatatctg gcaaaatcga ctcgtgcgaa
+     1861 gtcattggcc tgatccaaga cgccatggat cagggccata gctcgaatgc ggt
+//
+
+LOCUS       AY566828                1649 bp    DNA     linear   ENV 26-JUL-2016
+DEFINITION  Uncultured soil bacterium clone CR10 putative transposase gene,
+            partial cds; and aminoglycoside 6'-N-acetyltransferase gene,
+            complete cds.
+ACCESSION   AY566828
+VERSION     AY566828.1
+KEYWORDS    ENV.
+SOURCE      uncultured soil bacterium
+  ORGANISM  uncultured soil bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1649)
+  AUTHORS   Riesenfeld,C.S., Goodman,R.M. and Handelsman,J.
+  TITLE     Uncultured soil bacteria are a reservoir of new antibiotic
+            resistance genes
+  JOURNAL   Environ. Microbiol. 6 (9), 981-989 (2004)
+   PUBMED   15305923
+REFERENCE   2  (bases 1 to 1649)
+  AUTHORS   Riesenfeld,C.S., Goodman,R.M. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-2004) Plant Pathology, University of
+            Wisconsin-Madison, 1630 Linden Dr., Madison, WI 53706, USA
+FEATURES             Location/Qualifiers
+     source          1..1649
+                     /organism="uncultured soil bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:164851"
+                     /clone="CR10"
+                     /environmental_sample
+     CDS             complement(<1..353)
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="orf4"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative transposase"
+                     /protein_id="AAS90625.1"
+                     /translation="MRPKGTDQQLAARRDRALALLRAGKRPIDVAAAVGVTDRTIRRW
+                     RTEARHPKRRGPKGLRPRLTAVQVGRLERELKRGAFAHGYAGDFWTLDRIGQLIWQLF
+                     AVRYHPSGVWHVLRR"
+     CDS             complement(591..1148)
+                     /note="aac(6')"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="aminoglycoside 6'-N-acetyltransferase"
+                     /protein_id="AAS90626.1"
+                     /translation="MQITNVPHGNAEIVNQMAELLIVAFREHWDAWATKPEALDEIQM
+                     ILGKGFIRVALDDAGQKVLGWIGGLPEYDGNVWELHPLVVQPEHQFQGIGRALVADFE
+                     QQAAARGALTITLGSDDEDDMTSLAGVDLYDGLPDKIANIRNLKRHPYEFYLKCGYRI
+                     IGVVPDANGRGKPDIILGKRVESRP"
+ORIGIN      
+        1 atccggcgca ggacatgcca cacgccgctg ggatggtagc gaacggcaaa caactgccaa
+       61 atcaattgac cgatccgatc cagcgtccag aagtcgccgg catacccatg ggcaaatgcc
+      121 ccacgcttca gttctcgttc cagccgtccg acttgcacgg cggtcagccg tggccgcaaa
+      181 cctttgggcc cgcgccgttt ggggtggcgg gcttcagttc gccaacggcg gatggtccga
+      241 tctgtcacgc caaccgccgc ggccacatcg atgggccgct taccggccct cagcaaggct
+      301 aaggcccgat ctcgccgggc ggccagttgt tggtccgttc ctttggggcg cataccccca
+      361 attatggcac accggacatt accttttcaa aagtcagtat gtgtaaatga agcgggagcc
+      421 ggtatccttg gcagcggcca agcagaaacc gaacactcaa ggaggtccac ccccacattt
+      481 cagcttagtg caaccgcacc gctgagtcaa actgattttc gcggaccgat gcgcgcgaag
+      541 ctgtgggcca cgacattggc agtgacggtt cgatggcagc tgtaagaccc tcagggtcgg
+      601 ctctccaccc gcttccccaa aataatgtcc ggcttcccac gcccgtttgc gtcgggcacc
+      661 acgccgatga tgcgatagcc gcatttcaga tagaactcat agggatgacg cttaagattt
+      721 cgtatgttgg cgattttgtc cggaagcccg tcgtacaaat ccacgccggc cagcgaggtc
+      781 atgtcgtcct cgtcgtccga gcccagggta atcgtcaacg cgccgcgcgc cgccgcctgc
+      841 tgctcgaaat ctgccaccag cgcccggcca atgccctgaa actgatgctc gggctgcacc
+      901 accagcgggt gcagctccca gacgttgccg tcgtactccg gcagcccgcc gatccagccc
+      961 aaaacctttt ggccggcgtc gtccagcgcc acccggatga aacccttgcc caggatcatc
+     1021 tggatttcgt ccaacgcctc gggcttcgtc gcccaggcgt cccagtgctc gcgaaacgca
+     1081 acgatcagca gctccgccat ctgattgacg atctcggcgt tgccatgggg cacattcgta
+     1141 atctgcatcg cggcctccgg ttttgagtcg actggttatg actgagttat caatgaatta
+     1201 cctgacacag aacatgagct cccatctaat ccgcctccaa ccagtgtcct gaagtttgac
+     1261 gttttatcgt caaataccct tgttcggaag gggtttatcg ggaaaatgct tggggtctgc
+     1321 acaacggctg ggagcggatt agaaattttg cctggtcaaa ctgtcaaatt agcgattgaa
+     1381 aaatcaaaag attatctgtg agaactggaa atttggttgc cggattaatt cggcgtaaac
+     1441 tcaatccgac tcatttggga taaagtgact tgccagatgc cgactcgatc tccgcacgcc
+     1501 attcgcggcc ctgttcgcgc gctctccagc gctgtgctgc ttttggcact ggccacggtg
+     1561 gcctgccagc cggctggcag ccgtgggcgc gctacgaacc cggcgccgag cgaggccgtc
+     1621 accccggtgc cggtcgtcac gttgatcga
+//
+
+LOCUS       AY566829                1863 bp    DNA     linear   ENV 26-JUL-2016
+DEFINITION  Uncultured soil bacterium clone CR11 aminoglycoside
+            6'-N-acetyltransferase gene, complete cds; and putative
+            1-aminocyclopropane-1-carboxylate deaminase gene, partial cds.
+ACCESSION   AY566829
+VERSION     AY566829.1
+KEYWORDS    ENV.
+SOURCE      uncultured soil bacterium
+  ORGANISM  uncultured soil bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1863)
+  AUTHORS   Riesenfeld,C.S., Goodman,R.M. and Handelsman,J.
+  TITLE     Uncultured soil bacteria are a reservoir of new antibiotic
+            resistance genes
+  JOURNAL   Environ. Microbiol. 6 (9), 981-989 (2004)
+   PUBMED   15305923
+REFERENCE   2  (bases 1 to 1863)
+  AUTHORS   Riesenfeld,C.S., Goodman,R.M. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-2004) Plant Pathology, University of
+            Wisconsin-Madison, 1630 Linden Dr., Madison, WI 53706, USA
+FEATURES             Location/Qualifiers
+     source          1..1863
+                     /organism="uncultured soil bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:164851"
+                     /clone="CR11"
+                     /environmental_sample
+     CDS             complement(565..1149)
+                     /note="aac(6')"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="aminoglycoside 6'-N-acetyltransferase"
+                     /protein_id="AAS90627.1"
+                     /translation="MIPQFTISNLPSDDTDAVEQCAALLVEGFKQHWPAAWPDLDSAR
+                     KEVHEMLAENRICRVAVDREANVIGWIGGIPEYDGNVWELHPLVVKPEQQQQGIGRTL
+                     VIDFEAQVQARGGLTIRLGSDDEDGMTSLSNVNLFEDTWEQIAGIENLKGHPYEFYQK
+                     CGYVIVGVVPDANGPGKPDILMAKSVRRPGETRW"
+     CDS             1635..>1863
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="yedO"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative 1-aminocyclopropane-1-carboxylate
+                     deaminase"
+                     /protein_id="AAS90628.1"
+                     /translation="MTRVTFATRLTSVPRVHLGQFPTPLEPMPRLTQALGGPALWVKR
+                     DDAVGPAMGGNKTRKLEFLFGEAQAQKAAAVA"
+ORIGIN      
+        1 gcaggcgatt catcaagatc ggcattttgc ccgcgccgaa agccgcgtta ttgtcttatt
+       61 gctgtggggc ggatctttgc aacttgctgg aaatcggcga tttcaatcgc cgggggcaat
+      121 cttgcgagga ggcatacccg ttcgccggca gaacgccagc attccttatg ggcctgatga
+      181 gatgagacat caatcatcag ttctatgggt ccgaacggtt gaatggtccc agcccgtcga
+      241 tggtcagcgt ctcggtcgcc ccgtccacaa tgaccaccat cgtacggtcc tctgagggga
+      301 ggtcacctga ctgactgtaa agttcaagtg tgagcgtgcc gccttcactc gactctatcc
+      361 ggtatttgcc ggattgataa atcggcgggt agcccgacat ttcaaatgcc ccattcgcga
+      421 atgaccactc caggtaccag ctgtgtccct ctccctggtc gccggccgcc gtccacttcc
+      481 cctcaatgaa ccgcacgttc gggtcagacg aggcgcagct cgcgagcatg aggcacggca
+      541 gcagcgcgac ccagatcagt cttttcacca tcgcgtttct ccaggccggc ggaccgattt
+      601 ggccatcaat atgtcgggct tgccgggccc gttcgcgtcg ggcaccaccc cgacaatcac
+      661 atagccgcac ttctggtaga actcgtacgg gtggcctttc agattctcga tcccggcgat
+      721 ctgctcccag gtatcttcaa acaggttgac gttcgagagc gaggtcatgc catcttcgtc
+      781 gtcgctgccc agccggatgg tcaggccgcc gcgcgcctgc acctgggctt cgaagtcaat
+      841 taccagcgtg cgcccgatcc cctgctgctg ttgctcgggc ttcaccacca gcgggtgcag
+      901 ttcccacacg ttgccgtcgt attcggggat accgccgatc cagccgatca cgttcgcctc
+      961 ccggtcgacc gccacccggc agatccggtt ttcggccagc atctcatgca cttcttttcg
+     1021 agccgagtcc agatccggcc aggccgcggg ccagtgttgt ttgaagcctt ccacgagcag
+     1081 cgcagcgcac tgctcgacgg catcggtgtc atctgagggg agattcgaga tagtgaattg
+     1141 agggatcatg tagtcaacca ggttgataca aaaatttata agcagaactg cgccgccaaa
+     1201 gccatatagt aatggcaaaa tgattgtgat cagcgcggag tatggatcga tatagttgcc
+     1261 atcgccgccg aacagggcgc gggcaacgaa tgaaaacgta gcgaaaggat agctgactcc
+     1321 caacaagccg ccaatggcca tgaagaacaa tgcaaggccg tttctggtac gaagacggcc
+     1381 aagtagcagg ttccgaatga gcaatccccg catatgggcc atttcgagac gatagtcgat
+     1441 cgggtcgtaa cccgagcgcc cacgtctcgt gcgccagccc ggccaacccg gcagcggcgg
+     1501 cgtgaaccac aattcacccg ttcgctcgcg tatcaatggg cgcccggccc gcggcgctcg
+     1561 cgccaaccgc tctgtgcgtc tcatacccat caccaccctg acccttccgt gtgcattcgt
+     1621 ggaacgaaat tataatgacc cgcgtgactt tcgccactcg cctcacctca gttccccgcg
+     1681 tccacctggg ccagttccct accccgctcg agcccatgcc tcgactgacg caggcgctgg
+     1741 gcggcccggc actgtgggtg aagcgcgacg atgccgtggg ccctgccatg ggcggcaaca
+     1801 agactcgcaa gctcgaattc ctgttcggcg aagcgcaggc ccagaaggcc gcggccgtcg
+     1861 cca
+//
+

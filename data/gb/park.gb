@@ -1,0 +1,72 @@
+LOCUS       MF445022                1161 bp    DNA     linear   ENV 30-MAY-2018
+DEFINITION  Uncultured bacterium clone pES0018 metallo-beta-lactamase PNGM-1
+            gene, complete cds.
+ACCESSION   MF445022
+VERSION     MF445022.1
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium
+  ORGANISM  uncultured bacterium
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1161)
+  AUTHORS   Park,K.S., Kim,T.Y., Kim,J.H., Lee,J.H., Jeon,J.H., Karim,A.M.,
+            Malik,S.K. and Lee,S.H.
+  TITLE     PNGM-1, a Novel Subclass B3 Metallo-Beta-Lactamase from a Deep-Sea
+            Sediment Metagenome
+  JOURNAL   J Glob Antimicrob Resist (2018) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1161)
+  AUTHORS   Jeon,J.H., Lee,J.H., Park,K.S., Kim,T.Y., Kim,J.H., Hong,M.-K.,
+            Kang,L.-W. and Lee,S.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JUL-2017) National Leading Research Laboratory of
+            Drug Resistance Proteomics, Department of Biological Sciences,
+            Myongji University, 116 Myongjiro, Yongin, Gyeonggido 17058, Korea
+FEATURES             Location/Qualifiers
+     source          1..1161
+                     /organism="uncultured bacterium"
+                     /mol_type="genomic DNA"
+                     /isolation_source="deep sea sediment"
+                     /db_xref="taxon:77133"
+                     /clone="pES0018"
+                     /environmental_sample
+                     /country="Papua New Guinea"
+                     /lat_lon="3.89 S 152.49 E"
+                     /collection_date="11-Oct-2002"
+                     /collected_by="J.-H. Lee"
+     CDS             1..1161
+                     /EC_number="3.5.2.6"
+                     /note="contains metallo-beta-lactamase fold"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="metallo-beta-lactamase PNGM-1"
+                     /protein_id="AWN09461.1"
+                     /translation="MAGGKVTSSTGIAPKRYVYYPGSEELGPDEIRVIACGTGMPTAR
+                     RAQAAAAWVVELGNGDKFIVDIGSGSMANIQSLMIPANYLTKIFLTHLHTDHWGDLVS
+                     MWAGGWTAGRTDPLEVWGPSGSREDMGTKYAVEHMLKAYNWDYMTRAVTINPRPGDIN
+                     VHEFDYRALNEVVYQENGVTFRSWPCIHAGDGPVSFALEWNGYKVVFGGDTAPNIWYP
+                     EYAKGADLAIHECWMTSDQMMTKYNQPAQLALRINLDFHTSAQSFGQIMNMVQPRHAV
+                     AYHFFNDDDTRYDIYTGVRENYAGPLSMATDMMVWNITRDAVTERMAVSPDHAWDVAG
+                     PSEDLAPDRNRASEYTQYILDGRLNVDEANAHWKQEFMGRTGLTTEDLGVGS"
+ORIGIN      
+        1 atggcaggtg gaaaagtaac ctcatcaaca ggtatcgcac ccaaacggta cgtctattat
+       61 ccaggcagtg aagaattggg gcccgatgag attcgggtta ttgcttgtgg cacaggcatg
+      121 cctacggcgc gtcgtgctca agcagcggcc gcctgggtgg tagagctagg caacggtgac
+      181 aaattcatcg tcgacattgg cagcggctca atggccaaca tccaatcgtt gatgatcccg
+      241 gctaattatt tgaccaagat ttttctgacg catttgcaca ccgaccactg gggcgacctg
+      301 gtgtctatgt gggcaggcgg ttggacagcc gggcgcacgg atccgttaga ggtatgggga
+      361 ccaagcggtt cacgcgaaga tatgggcaca aagtacgccg tcgagcacat gctcaaggcg
+      421 tacaattggg actatatgac acgagccgtg acgattaatc cccgccccgg agatatcaat
+      481 gttcacgagt tcgactatcg tgccctcaac gaggttgtct atcaagagaa cggcgtcact
+      541 ttccgctcct ggccctgtat tcacgcggga gacggaccgg tcagctttgc cctagagtgg
+      601 aatggctaca aggtggtttt tggcggagac accgccccca atatttggta cccagaatac
+      661 gccaagggtg ctgacctggc gatccatgag tgctggatga cctccgatca aatgatgaca
+      721 aaatataacc agccggcaca gcttgcactg cgcatcaatc tggactttca cacctcagcg
+      781 caatcctttg gccagattat gaatatggtg cagccacgcc atgccgtagc ctatcacttt
+      841 ttcaacgatg atgacacgcg gtacgatatc tatactggcg taagagagaa ctatgccggt
+      901 cccctttcaa tggctaccga catgatggtg tggaatatca ctcgagacgc agtcaccgag
+      961 cgtatggctg tctcgccgga tcatgcgtgg gatgtggcag gtccttccga agatctggcg
+     1021 ccagatcgga atagagcctc ggagtacacg cagtatatcc tcgacggccg tctcaatgtc
+     1081 gacgaggcca atgcccattg gaagcaggag ttcatgggtc gtactggatt aacgaccgag
+     1141 gatttgggag tgggaagcta a
+//
+

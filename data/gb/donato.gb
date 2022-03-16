@@ -1,0 +1,2604 @@
+LOCUS       GQ244488                2277 bp    DNA     linear   ENV 24-JUL-2016
+DEFINITION  Uncultured bacterium AOAmox2 genomic sequence.
+ACCESSION   GQ244488
+VERSION     GQ244488.1
+DBLINK      BioProject: PRJNA36531
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium AOAmox2
+  ORGANISM  uncultured bacterium AOAmox2
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 2277)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Metagenomics Reveals Antibiotic Resistance Genes Encoding Predicted
+            Bifunctional Proteins in Apple Orchard Soil
+  JOURNAL   Appl. Environ. Microbiol. (2010) In press
+   PUBMED   20453147
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 2277)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Antibiotic Resistance Genes in a Managed Ecosystem as Revealed by
+            Functional Metagenomics
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 2277)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUN-2009) Bacteriology, University of Wisconsin, 1550
+            Linden Drive, Madison, WI 53706, USA
+FEATURES             Location/Qualifiers
+     source          1..2277
+                     /organism="uncultured bacterium AOAmox2"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:654971"
+                     /clone="AOAmox2"
+                     /environmental_sample
+                     /country="USA: Wisconsin"
+     gene            <1..672
+                     /locus_tag="WISOIL_0001"
+     CDS             <1..672
+                     /locus_tag="WISOIL_0001"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ABC-type anti-microbial peptide transporter"
+                     /protein_id="ACS83691.1"
+                     /translation="LLKLSSIRIFQYGGTTGKVIGVVKDFHFESLHEPIVPLVFEPGQ
+                     FFGRISVKLAGNQVQAGIETLEKVWEEFLPHRPFEYEFLSMQYKNLYEAEQKQGQLFV
+                     IFASLAILIACLGLFGLATFNAAQRVKEIGIRKVLGASVPSILGLLSKEIVILIIVAN
+                     LIAWPVAWYFMDKWLGTFAYHISMDVFAYLLAGVLAVLIALITVSTQTIKAAMSNPAN
+                     TLRYE"
+     gene            complement(716..1609)
+                     /gene="amo2"
+                     /locus_tag="WISOIL_0002"
+     CDS             complement(716..1609)
+                     /gene="amo2"
+                     /locus_tag="WISOIL_0002"
+                     /note="class A beta-lactamase"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Amo2"
+                     /protein_id="ACS83690.1"
+                     /translation="MIKSFLTCVIIILMIFPSPAPAQQHDLRKSIQDIIRASGENVAV
+                     AIMGLEDKDTLSVNGRIHCPMQSVYKLPLGMAVLKQVDLGKLSLDQKIHITKKDLLPN
+                     TWSPLQKKYPEGNVDVPLSEILMYTVSQSDNSGCDILFRLLGGPSNVEKYIHSLGVRG
+                     MAIATTEEEMHGDWNVQFSNWSEPVAMVQLLQLVHEDEVLSPSSNDFLLKLMTETTTG
+                     PNRIKGLLPKDAKVAHKTGTSGPNEEGVTAAINDAGIVTLPNGKHYAIAVFMLNSRSD
+                     PKKLEAVIAAIAKSAWDHYSR"
+     gene            complement(1626..>2277)
+                     /locus_tag="WISOIL_0003"
+     CDS             complement(1626..>2277)
+                     /locus_tag="WISOIL_0003"
+                     /codon_start=2
+                     /transl_table=11
+                     /product="2,3-diketo-L-gulonate reductase"
+                     /protein_id="ACS83692.1"
+                     /translation="HWMRGGTYGWKAARKGFVFIGWTNTTANMPTWGAVNSKLGNNPL
+                     VIAVPNQGEAIVLDMAMSQYSYGMLEFYQLKNQQLPVQGGFTTDGTLTTDPGSILKSQ
+                     RILPVGYWKGAGLSLLLDILATILSGGLSVAGISKQPAEISASQVYIAIALSKLKNFG
+                     TISSAITQILADYHNSIPEKESKILYPGEKVMSVRKENTANGIPVLKSIWEEIQSL"
+ORIGIN      
+        1 ctcctgaaac tatcatcaat aaggattttt caatatggtg gtacaacagg aaaggtgatt
+       61 ggggttgtaa aagatttcca cttcgaatct cttcacgaac ccattgtccc cctggtgttt
+      121 gaacccggac aatttttcgg acgcatatcc gttaagcttg ccggcaacca ggttcaggct
+      181 ggcatagaaa cactcgaaaa ggtgtgggaa gaatttcttc ctcatcggcc gttcgagtat
+      241 gaattcctca gcatgcagta caagaacctt tatgaggcag aacaaaagca gggacaactg
+      301 ttcgttattt ttgccagcct cgctattttg atagcatgcc tcggtttgtt tggtcttgct
+      361 actttcaacg cagcgcagcg agtcaaagag atcggtatac gcaaggtgct tggtgcatct
+      421 gttccaagta tcctcggttt attgtcaaag gagatcgtga tactgattat tgtcgcgaac
+      481 ctcattgcat ggcccgtggc atggtatttt atggacaaat ggctaggaac ttttgcctat
+      541 cacataagca tggatgtttt tgcttatctg ctggcaggag tacttgccgt tctcattgca
+      601 ttgatcactg tgagcacgca aaccattaaa gctgcgatga gtaatcccgc gaatacatta
+      661 aggtacgagt agtagtcaat agtttgacag tccatcctaa ttaaccattg cctagttatc
+      721 tggagtagtg gtcccatgcg ctctttgcaa tagccgcgat cactgcttct agttttttcg
+      781 ggtcggacct tgagttcagc ataaatactg caatggcgta atgttttcca tttggaagcg
+      841 taacaattcc cgcatcgttg atggctgccg ttacgccttc ctcattcggc ccggaagttc
+      901 ccgttttgtg agcaaccttt gcatctttag gaagtaaacc ttttatcctg ttggggcccg
+      961 tcgttgtctc cgtcattagc tttagaagga aatcgttgct ggacggtgat aacacttcgt
+     1021 cctcatgtac gagctgcaac aactgaacca tcgcgacggg ctcgctccaa ttgctgaatt
+     1081 gaacattcca atcgccgtgc atttcttcct cagtggttgc tatcgccatt ccacgaacgc
+     1141 ccaggctatg aatatacttt tcaacgtttg aaggacctcc caatagccgg aataaaatat
+     1201 cacatccgct gttgtcgctt tgagaaacgg tgtacatcaa aatttcagaa agtggaacat
+     1261 cgacattgcc ttcaggatat ttcttctgca agggactcca tgtatttggc aacaaatcct
+     1321 tttttgtgat gtgtatcttc tgatccaatg ataatttacc gagatcaact tgtttgagca
+     1381 ccgccatgcc taaaggcagt ttataaacgc tctgcattgg gcaatggatg cgaccgttaa
+     1441 cggaaagagt gtccttatct tccaacccca tgatagcaac ggcaacgttt tcgccagacg
+     1501 cgcgaatgat gtcctgaata cttttcctta agtcatgttg ctgcgccggg gcaggcgaag
+     1561 gaaaaatcat caaaatgata ataacacagg taagaaaaga ttttatcata gggtaccaaa
+     1621 agctcttaca atgattgaat ttcttcccaa atcgacttca agacaggaat gccattagcg
+     1681 gtgttttcct ttctgacact cattaccttt tcgccaggat atagaatctt cgattccttt
+     1741 tcaggaattg aattgtggta gtcagccagg atctgtgtga tggcggatga tatcgttcca
+     1801 aaattcttaa gcttcgaaag ggcaatggcg atatatacct gtgaggcact aatttccgct
+     1861 ggttgtttgg aaatgccagc aaccgaaagt ccgccggaaa gaattgttgc caggatatcc
+     1921 aataacaagg acaatcctgc acctttccaa taaccaaccg gcagtattcg ctgagatttc
+     1981 aatatagagc ccgggtcggt ggtcaatgtg ccgtccgtcg tgaatccgcc ttgaactggg
+     2041 agttgttgat ttttcagttg atagaactcc agcattccgt aagagtattg cgacatagcc
+     2101 atatctagta cgatagcctc accctggtta ggaacggcga tgacgagcgg attatttcca
+     2161 agtttgctgt tcacagctcc ccaagttggc atgtttgccg ttgtgttagt ccaaccgata
+     2221 aagacaaaac ccttacgtgc tgccttccat ccgtatgtcc cgccgcgcat ccaatgg
+//
+
+LOCUS       GQ244489                2882 bp    DNA     linear   ENV 12-MAY-2010
+DEFINITION  Uncultured bacterium AOCarb3 genomic sequence.
+ACCESSION   GQ244489
+VERSION     GQ244489.1
+DBLINK      BioProject: PRJNA36531
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium AOCarb3
+  ORGANISM  uncultured bacterium AOCarb3
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 2882)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Metagenomics Reveals Antibiotic Resistance Genes Encoding Predicted
+            Bifunctional Proteins in Apple Orchard Soil
+  JOURNAL   Appl. Environ. Microbiol. (2010) In press
+   PUBMED   20453147
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 2882)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Antibiotic Resistance Genes in a Managed Ecosystem as Revealed by
+            Functional Metagenomics
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 2882)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUN-2009) Bacteriology, University of Wisconsin, 1550
+            Linden Drive, Madison, WI 53706, USA
+FEATURES             Location/Qualifiers
+     source          1..2882
+                     /organism="uncultured bacterium AOCarb3"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:654974"
+                     /clone="AOCarb3"
+                     /environmental_sample
+                     /country="USA: Wisconsin"
+     gene            123..923
+                     /locus_tag="WISOIL_0004"
+     CDS             123..923
+                     /locus_tag="WISOIL_0004"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative hemolysin CBS-domain protein"
+                     /protein_id="ACS83693.1"
+                     /translation="MTPLYWLVEPLIRENILSPSLKDDIMSADDYDFDNHSQEERLFI
+                     NALDFKDLRIRDCMIPRMEISALNVNSTIEDLRKAFMTSGHSKIIIHRESVDDVLGYC
+                     HALSLFKKPKEITNIITPILIVPEAMPVSDLMLRFLEERRSIALVVDEFGGTSGLVSV
+                     EDIVEQIFGEIQDEYDSTEDWTERRIDDRNYILSARHEIDYLNEKYGWELPEGDYDTL
+                     AGMIIDHYGDLPDVNETLSIAPYVFQVVSVQDTRIELVRITIDKKNGK"
+     gene            969..1868
+                     /gene="crb3"
+                     /locus_tag="WISOIL_0005"
+     CDS             969..1868
+                     /gene="crb3"
+                     /locus_tag="WISOIL_0005"
+                     /note="class A beta-lactamase"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Crb3"
+                     /protein_id="ACS83694.1"
+                     /translation="MTHILARAIIFTAFFISVFGELQAQEKDVKDKIEQIIDRSNGNI
+                     GVGVFDFASGLTVLINNAHQFPMQSVFKFPLGMAVLDMVDRGKLKLDQQVYVSKNDLQ
+                     PTYSPLRDKFPDGNVNVTLADLLTYSVSLSDNNACDILFRLVGGTQVVNDYIRGLGIK
+                     DMAIVATEMQMSKGWDVQFENYSTPEAMLDLLKVFQSGKKLSASSSGFLWKIMTESPT
+                     GLKRIKGKLPSTAKVTHKTGTSGKNHKGITAATNDVGIMTLPNGNQIAIVVFVSNSEA
+                     NETAREMVIADIAKVTWDEFSAK"
+     gene            1901..2521
+                     /locus_tag="WISOIL_0006"
+     CDS             1901..2521
+                     /locus_tag="WISOIL_0006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ABC-type transporter"
+                     /protein_id="ACS83695.1"
+                     /translation="MKITVDNIGKKFVREWIVRGATFDLEPGSKYTFVGPNGSGKSTL
+                     LQLLTGMLPVSEGSIVYTSTDGTPVGVDDWYKHLVIAAPYLELIEEFTLRELVNFHSE
+                     FKKLKNGMNAADFEDFIELAHVKNKIIRHFSSGMKQRVKLGLAFMSDVPLIFLDEPTT
+                     NLDSTGINWYLKNVIENTKGQMILLGSNVKQEYEFCENIISVSAFK"
+ORIGIN      
+        1 tcttgtttgc aggcctggcg gcattgtgga ttttttgtta taccgtttgg gtaaaaatag
+       61 gcaggacttt cccggatttg ctcgctttga cggcctttcc tgtgcgactg ggtgagtggg
+      121 caatgacccc gctttactgg ctggtagagc cgctgataag ggagaatatt ttgtcgcctt
+      181 cgctgaagga tgatatcatg tcggccgacg attatgattt tgacaaccat agtcaggaag
+      241 agagattgtt tattaatgca ctggatttta aggatttgcg tattcgggat tgtatgattc
+      301 cgcggatgga gatttctgct ttaaacgtaa attcaacaat cgaggacctt cgtaaagctt
+      361 ttatgacgag cggtcactcc aagatcatca tccaccgcga atcggtcgac gatgtgctcg
+      421 gatactgcca cgctctgtcg ctctttaaga aacccaagga aattaccaac attattacac
+      481 ctattctgat cgtgcccgag gcgatgcctg tgagtgatct catgctgcgc tttctggaag
+      541 agcgccggag tatagctttg gtggtagacg agtttggagg gacgtcggga ttagtgagtg
+      601 tggaggatat tgtggaacag atattcgggg aaattcagga cgaatatgat tctaccgaag
+      661 actggacgga gcggaggatc gacgaccgga actacattct aagtgcgcgt cacgagatcg
+      721 attatctgaa cgaaaaatat ggatgggaac ttcccgaagg tgattatgat acgctggcag
+      781 gtatgatcat tgaccattac ggggatttgc ccgatgtgaa tgaaaccctt tccatcgcgc
+      841 catatgtatt ccaggtagtg tcggtacagg acacgcggat agagctcgta aggatcacga
+      901 ttgacaagaa aaatggaaaa taggaatgta ggccagccta tttcactttc aaacataaat
+      961 accgtccaat gacacatatt ttggccagag ccatcatttt cactgctttt tttatttcgg
+     1021 tttttggtga gttgcaggct caggagaaag acgtgaagga caagattgag caaatcatag
+     1081 atcggtcaaa cggaaatatt ggagtcggcg tatttgattt tgcctccggt ttgactgttc
+     1141 tcattaataa tgcacatcaa tttccgatgc aaagtgtgtt caaatttccg ttggggatgg
+     1201 ctgtactgga tatggttgac cgaggaaaac tgaagctgga tcaacaggta tacgtttcaa
+     1261 aaaatgattt gcagccgact tacagtccgc tgcgcgacaa gtttcctgac ggaaacgtga
+     1321 acgtaacact ggccgacctg ctcacctatt cagtttcatt aagtgataac aatgcctgcg
+     1381 atattctttt caggctagtg ggagggacgc aggttgtgaa cgactatatt cgcgggctgg
+     1441 gaatcaagga tatggctatt gtggcaacag aaatgcaaat gtcaaaaggt tgggatgtcc
+     1501 agtttgaaaa ttattcaacg ccagaggcaa tgctggactt gcttaaggta ttccaaagcg
+     1561 gtaaaaagtt gtcggcttcg agttccggtt tcctctggaa gatcatgaca gaatcaccga
+     1621 caggattgaa acgaattaag ggaaaactgc ctagcactgc aaaggtgact cataaaacag
+     1681 gaacttcggg caaaaatcac aagggtatta cggctgccac caacgatgtc gggatcatga
+     1741 ctttacccaa tgggaatcag attgcgattg tggtgtttgt ttccaattcg gaggcaaatg
+     1801 aaacggcacg cgaaatggtg atagcagata tcgccaaagt gacatgggat gagttttccg
+     1861 caaagtaacg acgcattgtg cgtgataaaa aagtagggaa ttgaagatta cagttgataa
+     1921 tatcggtaag aaatttgttc gggaatggat cgtaagaggc gcaacttttg atctggaacc
+     1981 agggagtaaa tacacatttg tagggccaaa cggaagcggc aagtccacgc tgctgcaatt
+     2041 gcttacgggc atgttgcccg tttctgaggg cagtatcgta tataccagta ccgatggtac
+     2101 tccggttggc gtggatgact ggtataaaca tctcgttatt gccgctccat atcttgagct
+     2161 gatcgaggag tttacgttgc gcgaactggt taatttccac tcggaattca aaaagttgaa
+     2221 aaacgggatg aatgctgcgg attttgaaga ttttatagaa ctggcgcatg tcaaaaacaa
+     2281 aataatccgt catttttcat cgggtatgaa acagcgcgta aagctcggat tggcttttat
+     2341 gtccgatgtc cctcttatat ttcttgacga acccaccacg aatttggatt ctaccggtat
+     2401 caactggtat cttaagaatg tgatcgaaaa cacgaaggga cagatgattt tattgggatc
+     2461 gaatgtaaaa caggaatatg aattctgtga aaatatcatt tctgtttctg cgtttaaata
+     2521 ggatataaca gacttagtat gaaggaaaga gcgctacact tagttatact tttctttctc
+     2581 ttaacgcccc tggccgtatc tgccggcggg atgggcttca ttcaaaataa cggacagtgg
+     2641 gaatctgaca ttctgttcag aacagaaatt cctggtggct ttctttattt aaaaagacaa
+     2701 tctctgcagt atgtttttta cgatggctcc aaattggcgg ctcttcatgc caaacccgcg
+     2761 gctaacggcg gggcaaaaat atcgggggct gattactatc agataaaggc ccacggagta
+     2821 gaactcaatt ttgaaaatca taagacggat atcgttcatg tacccaaaag tgcgcttgga
+     2881 ac
+//
+
+LOCUS       GQ244490               34867 bp    DNA     linear   ENV 24-JUL-2016
+DEFINITION  Uncultured bacterium AOCefta2 genomic sequence.
+ACCESSION   GQ244490
+VERSION     GQ244490.1
+DBLINK      BioProject: PRJNA36531
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium AOCefta2
+  ORGANISM  uncultured bacterium AOCefta2
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 34867)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Metagenomics Reveals Antibiotic Resistance Genes Encoding Predicted
+            Bifunctional Proteins in Apple Orchard Soil
+  JOURNAL   Appl. Environ. Microbiol. (2010) In press
+   PUBMED   20453147
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 34867)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Antibiotic Resistance Genes in a Managed Ecosystem as Revealed by
+            Functional Metagenomics
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 34867)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUN-2009) Bacteriology, University of Wisconsin, 1550
+            Linden Drive, Madison, WI 53706, USA
+FEATURES             Location/Qualifiers
+     source          1..34867
+                     /organism="uncultured bacterium AOCefta2"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:654977"
+                     /clone="AOCefta2"
+                     /environmental_sample
+                     /country="USA: Wisconsin"
+     gene            complement(<1..411)
+                     /locus_tag="WISOIL_0007"
+     CDS             complement(<1..411)
+                     /locus_tag="WISOIL_0007"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="endonuclease IV"
+                     /protein_id="ACS83696.1"
+                     /translation="MTESCDVLLGSHMSISGGMPKSIDRGVSIGCTAIQVFVKGNTRW
+                     KFPPLKPADAELFQANMAKSCVRSCIAHAIYLVNCASNNPEFQQKSKDDLLDELERCD
+                     ALGIPGLVLHPGAHMGDGLDVGIERIVNALNGVFA"
+     gene            complement(470..1312)
+                     /locus_tag="WISOIL_0008"
+     CDS             complement(470..1312)
+                     /locus_tag="WISOIL_0008"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="uracil-DNA glycosylase superfamily"
+                     /protein_id="ACS83697.1"
+                     /translation="MGSTSWDCILTYPSPRQQLPHIAQTNGVATGFVIGMESDMEKKP
+                     IHSAEGCISGQLSEIGSRIVDCRLCPRLVEWREKVAREKTRRFRDCEYWGRPVPSFGV
+                     ATARMLVIGLAPAAHGGNRTGRIFTGDRSGDWLFRALHKAGFANQPQSVSVDDGLALK
+                     DCFIAATARCAPPDNTPLPVELENCRPYLTAEADLLWPQLKAVVPLGGIAFAWWLNYL
+                     KGRGLNLGRPLPRFAHLAEFAFENAPSVLCSFHPSQQNTQTGRLTEPMFDAVWTRAKG
+                     IIAG"
+     gene            complement(1617..2333)
+                     /locus_tag="WISOIL_0009"
+     CDS             complement(1617..2333)
+                     /locus_tag="WISOIL_0009"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribosomal protein L1"
+                     /protein_id="ACS83698.1"
+                     /translation="MAKHGKKFRAALAMYEPEKSYPLSEATAILKKAAFAKFNETVDL
+                     DLRLGVDPRHADQQVRGTVSLPHGTGKTVRVAVFAKGEKALEAEKAGAELVGAEDLVA
+                     KVAGGFTEFDAAISTPDMMGQVGKLGKVLGPRGLMPNPKTGTVTMDVTKAIAEIKGGK
+                     VEFRVDKTGNVHVPVGKIQFTPEQLAENTQVMLDALHRAKPAAAKGIYMRSISISSTM
+                     SPGVKIAFSATKVESEVSVT"
+     gene            complement(2479..3465)
+                     /locus_tag="WISOIL_0010"
+     CDS             complement(2479..3465)
+                     /locus_tag="WISOIL_0010"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="ACS83699.1"
+                     /translation="MTAKLRIDIPSMNWAYTILLDPFLQYSLGTDKDNVIPLPPGTAE
+                     AHHALIAYRAGWVIEDLGSGKGTLVNDGIIALDRLKHRDVITIGECRVSFQNPSEEAG
+                     VAEKEHTQRVAEERQAAFQNVVTRAEAGQAKFAELEKALYADNVVPIPLTQKPEAKTP
+                     VVGIPDMIWAAQKLAAIMSEVVSKPGGREEAYAMMLGQLRDAIKADNGFVAIPSESRW
+                     HIRAWVGESNAWTQYEQEHPLPLTVTNRALQTKKVVSNALEGAAEEPIASLSLKQLRV
+                     SSYIAVPFGAEAGKRGVLYFDTRKNNAKFAVRDVKLLELAGGCILQIEQLPG"
+     gene            complement(3593..5224)
+                     /locus_tag="WISOIL_0011"
+     CDS             complement(3593..5224)
+                     /locus_tag="WISOIL_0011"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="lipase maturation factor 1"
+                     /protein_id="ACS83700.1"
+                     /translation="MDETEHKADLDLTEGTGTDAEGVGGASEGEGGSEGADRKRRWRR
+                     SYWLTRFIILRWVGLVYFVAFCAAGRQFTALAGEHGLTPSGLFVDRVLEQLGTRGAAF
+                     MRVPSLFWINSSDGFMTTLAWIGAALSFVVMMGFANAIMMLVLWALYMSFVNFGQTWY
+                     AYGWEMQLLETGMLAAFLCPLIDPRPFPRLAPPTPIIWLFRWLIFRIMLGAGLIKIRG
+                     DECWRNCTCLYYHYETQPIPNPISWWLHFRPKWFHFGGACFNHFVELVVPWFGFWPWI
+                     TRRVAGALMLSFQIILILSGNLSFLNWLTIVPILACFDDGMLRCALPKFLVVRAERAA
+                     AEAKKSKWQMPLVWAFFVVVGVLSINPVLNLLSAEQAMNTSFDRLNLVNTYGAFGSVG
+                     RVRHEIVFEGTAEAEITSSTKWVEYDFRAKPGDVDRRPVVVAPYQPRLDWAIWFAAMS
+                     IPERYPWSLHLVWKLLHNDEGALSLLAGNPFPESPPHYIRAVYYKYEFAPPGDPSGNW
+                     WRRTRVGMWLPALSVEDKEFKRFLETYGWLPKSLQ"
+     gene            6401..7672
+                     /locus_tag="WISOIL_0012"
+     CDS             6401..7672
+                     /locus_tag="WISOIL_0012"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="ACS83701.1"
+                     /translation="MFYLSGKGFIMKLHITAALLMMGTNLFAQWTNNTNAGFATQPGA
+                     LIGSNQGDAIGDRARVFIGDIIPSPTQADTRYDGTYQIGLEQRIRDVSNVSAALTGQG
+                     RNAIGGAFDATRQRSTAGTSGNTLVTTYGLSVGTQSRAMMLSDVWSSYPGSPSTVDLM
+                     LIAADGVSGFLEPKNDNNGLGLQKVRTGWAKLAIGAAFGVTGDNNHFNNDTATYNDLS
+                     ILSAVGMSSAYNSGAQAGVGTDPTVASNDPASPSHTGVVRFGSHVGTFDGYLVDSTLQ
+                     ADYATTPVSNINGSYDKVDNWSGVHVKAPVKKVNKKTTVADQSTVADKAFTXATGILI
+                     DAPSAPVNSSGTNGNNPSFVSPSNYVGLRANAKSEFNAPVTINSAMVITPSGTTPTSP
+                     VQGQLWYNVKVGDPNFNKLTVWDGSVWRALW"
+     gene            8033..9277
+                     /locus_tag="WISOIL_0013"
+     CDS             8033..9277
+                     /locus_tag="WISOIL_0013"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="ACS83702.1"
+                     /translation="MRILVTGFLLIALANAQAEQPVRLNYQAKLNTSAGAPLTGVHTI
+                     YFGIYQGGTAPVADSGTKVYSETAMVNLDDGILSYPIGSGPPTAGFLDGRLFAYSGDI
+                     FVQVAVDNISNVVLPRSRLERAPLAVRALDAPASLFGVFGGSGIDGDRTVAGTENAGA
+                     LRLEYRNLTINSGTTLTTNLGSAYIGVAGVCNIAGVFTVDGKGNAGSGGAAGGPGSLG
+                     RDCTGQLLGPVRVPVCVAGAAGGGGGTSSYSGGSGGGGEGVGGAGLINTTGGNATTFA
+                     PLSLLAGGVFSGTGRTLTSDFAPLIYYRGAGGGGGAAEIGFLGGNGGSGGGVIYIECN
+                     ELQFTGKLTANGLPGETGFGPGDTGGGGGGGGGVILVRARKITNNSGTVTTDGASGGP
+                     STGSGKVGGHGAPGFWDIVEVH"
+     gene            complement(9380..10027)
+                     /locus_tag="WISOIL_0014"
+     CDS             complement(9380..10027)
+                     /locus_tag="WISOIL_0014"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chloramphenicol 3-O phosphotransferase"
+                     /protein_id="ACS83703.1"
+                     /translation="MPSNPTLMPYPDIILVNGSSSSGKSTLCRALQARILHPYLCIGF
+                     DDFVFLSAPRYYRGADTSRQALADDFTAQGVQMISDTQPGTPPCVTAQFGPVFRHIID
+                     SMAPAVRALVDGGNSIIFDHVLHDRGMVESCRRVFEGLDVFTVGVTCPIEILEARERS
+                     RGDRVIGRARGLVNVVHSFCDYDVWVDTASDDVDSCVNKVIAAMASTNSRKWSSP"
+     gene            complement(10110..11657)
+                     /locus_tag="WISOIL_0015"
+     CDS             complement(10110..11657)
+                     /locus_tag="WISOIL_0015"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="ACS83704.1"
+                     /translation="MTPSLGTRKAKYRIGNGRPFAGWPICRWLISKSPWRHAVKAIVA
+                     LCIVAGSVSSLPGAPSFNYQAKLTDLSGAPLTGVHAMFFSVFSGGSAGSAGSGTLVFS
+                     EVAGVTLNDGVADHVVGTGANLYGGALTPDSFNLSANMYLQVAVDSAANVVLPRTLLV
+                     PVPFAIKSFETVNAIKNQTSTYVATQVTTSAVTNGANLLAAYAIARVLTPNGQSLSAT
+                     NRSVVLVAPGRYDLTTGQLTLNTDFVDLVGLSTAREDQYIFSATNGTNTGVLRQTAND
+                     VRIENLLVQSTRSSGGAGISNGDPAAYFPNTSKPATVIRNCEFRDDGGGHSHSMRVAI
+                     TYEGTFIDCKAGDGSFGGEQNGIASGTFTNCSGGDHAFGGNGGSASGTFTNCTAGLQA
+                     FGAGTGLGDGSATGIFNNCIGGSNSFGGTSAFSTGARLYGCRMTGTSWASTFSGRMEN
+                     CFWGTGFTCSNTARIYGSIIAGTLDLNSTAAGVTGTRAKDIIDEGSNTFGATSAAAFN
+                     LEDASVD"
+     gene            11964..13241
+                     /locus_tag="WISOIL_0016"
+     CDS             11964..13241
+                     /locus_tag="WISOIL_0016"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="ACS83705.1"
+                     /translation="MGENMIRVIRGNVFQSFLFAVCLVACAGAFGAKHSHPAPADKPS
+                     TNTEIRAVWASTLSPCMNTPEEIHRLVESTRKAHLNTIIAQVRHRGIVYYKSKAEPMA
+                     PAPAKIAGFDPLATLLKEAHETSGGQQRLDVYAWFNAFALEKIEQSSATEKLRPWLSL
+                     TTTGSVASFLDPAIPEVQNHLLSLVEDCLRDYDIDGINLDFIRYPENDAGYHPVAIKR
+                     FHEQYGSKAKASPDNPDWNTFRRDQVTAFVRRCHDAVLRLRPNAVISIDAIGFGGPPK
+                     KDFSDSRPYQQVHQDWAGWLRAGYIDAVTRMGYKRESVPQQAQDFRGWADFSRQLQDE
+                     CPGRYVTLGIGGYLNTEEDTLTQYREAQKRNLGTSLFSYWRPTRASNQTNQYGPDSPF
+                     WEKLGTQIYPSIIGPVRPEARRIPKQESKRVPR"
+     gene            complement(13457..15037)
+                     /locus_tag="WISOIL_0017"
+     CDS             complement(13457..15037)
+                     /locus_tag="WISOIL_0017"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="parallel beta-helix repeat protein"
+                     /protein_id="ACS83706.1"
+                     /translation="MAILQLSLRSGAMALKKYILGFSVLAITLVCGAAQQPRFNYQAK
+                     LSGGGGVPLQGVHTLYFKLFQGGTPGSANSGTEVFSESSAVTITNGVANHTVGTGVVQ
+                     VPGPLTANMLRTNGDVHLQVSVDSVGNVILPRTRLESVPYAVLSADGEVRTPISQPQS
+                     FPLVISQPGSFYLTGNITGVAGQDGIQVTTSGVTLDLNGFSLIGVPGSGNGIFASGLR
+                     GVTVQNGHVTGWGSKGISLSSPQDACRFVNLTLRSNGNTGLDGPIACVVENCIAISNA
+                     GHGISVGGGSTVRGCTSDYNTTSGFVSLTGCSFADCNANGNGTDSVGDGFNVGVGCNL
+                     SQCNAYINKNGFKLQGEGNVTNCTARGNSLTGILSTGLTNVVACDAPANAVAGINVGN
+                     DSQVTNCNVSGNTLKGIVVDQRGTVTNCTASHNGTIGIEVGSYCRVEGNTCSNNAFFL
+                     DGNGILALGNSNSIVGNHVALNAQGIKVNGTKNVTIKNTATANTASNYDLTGTGGNGN
+                     GTTAAVGMTNDPLINISL"
+     gene            15233..15583
+                     /locus_tag="WISOIL_0018"
+     CDS             15233..15583
+                     /locus_tag="WISOIL_0018"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="ACS83707.1"
+                     /translation="MTKHRVYAMSFAGVYPHYIAKAEKKGRTKEQVDDIICWLTGYNK
+                     EELAAQLENRTDFETFFAEAPRLNPSRTLIKGVVCGVRVEEIQEPLMREIRYLDKLID
+                     ELAKGKAMEKILRS"
+     gene            complement(15929..17560)
+                     /locus_tag="WISOIL_0019"
+     CDS             complement(15929..17560)
+                     /locus_tag="WISOIL_0019"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="parallel beta-helix repeat precursor"
+                     /protein_id="ACS83708.1"
+                     /translation="MAIYVRVDVAGYPYHISHRGDPGAKKSSLQMKGKLGRMTRLICL
+                     FGMLTGISIYQLAAQPMRFNYQARLTNGSGIPLQGNHAAYFSLFSGGNPTVADDGTLL
+                     FKESANLSILNGAMNHEIGTGTNLFGGSLTTLMLRTDDNIYVQVAVDADMPSNVVLPR
+                     SRFSSVPYALLSADGERRHQISGPAPIEITQPGSYVLTGNLVVEGEDAITISASHVTL
+                     DLNGFTISSTSELNMGSGIMIVSGASDIKIQNGHIAGGVGLDPNNGLYTGPGFYSGID
+                     YSDGNTTAVQVANVSVSGCSGYGLSLPLDKGSFADSCVVQNIDGTGISVNSAKRCEAD
+                     RCKDVGILAQFASDCSGRSPGPGVGIQSSEEVLNCMGYSISGAGIVAAHVLNSTGNST
+                     SGTGVTGDMVTGCKGLSSNGAGIDGVKVSGSHGFSLTGVGISATVGVSDSLGQCTKGS
+                     ADGIYCGGTVSNSSGYSESGRGLYAERTAQNCYGQSLGAGVGLETSVAMNCYGKSDTG
+                     IGLTFTKVGPNCFGEKTGGSDYVLGSGQAGPKNLP"
+     gene            complement(18123..19631)
+                     /locus_tag="WISOIL_0020"
+     CDS             complement(18123..19631)
+                     /locus_tag="WISOIL_0020"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="ACS83709.1"
+                     /translation="MITAITRSRRSRDLGMNGLRCLLGCRFSNRFRQTLILAFALALV
+                     GAKPAMALWSTNPSQNNEICTTVTGKQSQQVIADGSGGAYICWTDSRNGTNICAQHMN
+                     ADGALTWAADGVIVCNLPYTQSTPAMVSDGAGGAIIVWRDFRASPDPFNPSPQIIAQR
+                     LGPNGNAMWTTAGVVLCSAARNRMRLLAVSDGLGGVIAAWRDFRNGVNYTIYAQRVDS
+                     SGQAQWTTDGLGIVVLGSDHDNQTIAADGSGGAFCAWEDYRSGPSDIYAQHVTSNGGF
+                     SWTANGIAICSELGYQTTPSIAPDGSSGAYLCWQDAQIGGYAIVQRVASNGATMWSAN
+                     GTSVSLTSRVPQMVSTPAGVLIATGTPNGYFEIRVQLVSPLGVVQWPSPGAVVSQPSM
+                     IAGLFAITDDGSAGMIVSWTQDLGGGNTGILAQRVTSSGIASWTQYGVIVCNAANSRS
+                     SPLLANLLNSGYVDVWLDKRTNSGNDIYGSRLNTSGQLAGPVSAVSEWLQFD"
+     gene            complement(19740..20099)
+                     /locus_tag="WISOIL_0021"
+     CDS             complement(19740..20099)
+                     /locus_tag="WISOIL_0021"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="transposase IS116/IS110/IS902 family protein"
+                     /protein_id="ACS83710.1"
+                     /translation="MSQCIYVGLDVHKKTVVYCAKNADGSVVCQGTVAANRKALGEWA
+                     VMMPRPWQGVREATLFTGWIYDFLTPHAQKLIVAHPLMMRAIAASKKKNDRVDAQKLA
+                     DALRADLVPQAYDVLSQ"
+     gene            complement(20546..21967)
+                     /locus_tag="WISOIL_0022"
+     CDS             complement(20546..21967)
+                     /locus_tag="WISOIL_0022"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Kelch-like ECH-associated protein 1"
+                     /protein_id="ACS83711.1"
+                     /translation="MLLWRVSVYRGFLYLAAFAAGCNLTEVAHAAQPVRFNYQAKLSN
+                     SSGALQGLHTIYVGLWDGGTSGSAGSGTLVYSETAAVTASNGVVNHAVGTGNSSGGPG
+                     PLTESIFASSNDIFLQIGVDSPANVVLPRSRLESVPFAINSRSSQNGILSGMVAFGNS
+                     ATAPPGFTALGTTIYASWQRPQKSIPTARFDAGAAGNYVMGGFTDVLGTLRTNEYYNP
+                     VTDQWTTATDMPISRAGLRCVELNNLIYAIGGYSSVLNADMGANDVFDPAMNSWFPMQ
+                     PLSIPRQDHVAAVVNGKIYVIGGITYGAEVDVTSTSVEEYNPNTNTWTPKAPMPHGRT
+                     NASAAVVNGKIYVMGGIEGSPRANYNEVYDPVANTWTSKAPMNVATYGHSAIGVGQRI
+                     YIMGGNPSTAVDYFPWPETRAYDTVSNTWQIGPPMISYHEQHAMMSIGGKVYVVGGLD
+                     ESGTPGTIVEWWDPGVFNAYVKD"
+     gene            complement(22227..23276)
+                     /locus_tag="WISOIL_0023"
+     CDS             complement(22227..23276)
+                     /locus_tag="WISOIL_0023"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="alpha/beta hydrolase fold protein"
+                     /protein_id="ACS83712.1"
+                     /translation="MKIARWGWLGRLASFGLLAAAVVVALAGCSDTREKPVDVDAGGH
+                     RLHLLVVGTARQKPAVVLESGAGGRIGWEKTRNQIAQFAQVVTYDRAGFGNSEPGPLP
+                     RDARTIAVELHAALHSARVAPPYVLVGQSLGGIYVQVFAAMYPDETAGLVLVDSTHAS
+                     ADLCLSTDEVKAWFMTHQPDDWPRVEAGCRNAQGGLRGFLACKYKLMESYIESVPAPR
+                     RSALRGAWWGLIEKVLGKNEPSAVPDLEHEETKVMTDSIRQAIAARPLPKVPTILLAA
+                     GKTDLDIVPANELTSDVLALQAEARRWKMADYGKWIEATPGAKLEIVDGSGHDIESDR
+                     PQAVVDAVRDVLRGK"
+     gene            23765..24982
+                     /locus_tag="WISOIL_0024"
+     CDS             23765..24982
+                     /locus_tag="WISOIL_0024"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="ACS83713.1"
+                     /translation="MTRKRSFAALGLGLLSAISFAAPRVNDAAFGAIPANSQLTSTDQ
+                     NYLLARALEAVKVVPGDLVTTIASVSEFRRSPLHDSVKESLRKLVDNKTAWPEYVYIA
+                     RLTPDREHFEYLVSSSDVIEAHTLQAYDLNDGMPQAIAAKKPYVTDFSPATPAVYFPY
+                     MRNDQCDGFLVFVKMSWDESQKRVMDPTGGTLDSADASTPELQRRLRSLERRVAALEQ
+                     QAKPANPRAQKEPEETAVKPPEREPLAITDAATTVIGYGYGIMNGKISIGGSGHAIRF
+                     TCPDNEKYTLKAIQMVGSRYGYPQPPAEDFLVYVMDENTSVIKTLPFAYSTFERGREQ
+                     WITLPCAGVPLPRQFCIGLNFNPNQTKGIYVGFENSADDSHSLVGSPDLKFKPWENKA
+                     DWMIRAVIQRTGQ"
+     gene            25177..26997
+                     /gene="cft2"
+                     /locus_tag="WISOIL_0025"
+     CDS             25177..26997
+                     /gene="cft2"
+                     /locus_tag="WISOIL_0025"
+                     /note="bifunctional class A beta-lactamase"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Cft2"
+                     /protein_id="ACS83714.1"
+                     /translation="MHQWPAKSVNMRIENTSASALPTLREELVQLADDDYQAHNDEDL
+                     FYDAAKGDTDAFGELVRRNYGIVYAVGLARLGQRDEAEDLAQEVFLRAFLLLDRLDDP
+                     AKFPHWLTRIARNLSVDWQRRGTRAKRLVSMVPMTGLELPASTTDARDAASLSEQNAA
+                     LQTALDGLAPPQREIILLHYMEGLSHGEIALRLAVARSTVSRQIARAVDAMRGFVDAN
+                     LKESTAQLRPRKGAAGRTLSILVAVTTLSAKSRNSLAAQANFPIPGNAVPSQEAVQLW
+                     NEIKSLFWSGARRLLFKTAMAVGAVGVIVPLGYWYCESPAQAVQNATPQASPGAAPSP
+                     GGPKTADLSQRLAEIARRAGGQVGVSVMNIENGDSADFNGDEPRSLYSVFKFPVAVAV
+                     LKDVETGKLKLDQKVAVKKSDLSGTAPSSSNRWQNMPVTYTVQQLLEFAMIESDNTAV
+                     DKLLTLVGGPSTVTKQIQSLGISGIEMAADSREAAKLADHPNTGSANAIVRLLAGLQK
+                     GEVLKPAERTVLWDMMQRATTGVKRLRAGLPARTVLMHKTGTGPNDSGTNDVGIINLP
+                     DGKGHLAIAVLINKSTLSSASQEQVIAAIAAAAWDAMTQQ"
+     gene            complement(27083..29194)
+                     /locus_tag="WISOIL_0026"
+     CDS             complement(27083..29194)
+                     /locus_tag="WISOIL_0026"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="cell wall/surface repeat protein"
+                     /protein_id="ACS83715.1"
+                     /translation="MLKTILPCGFAQFSSRAAGLVTACAVALLMSFTSDGHANGCVSS
+                     DAVAYYPGDGNTSDVARGNNGTFMGTSQYADGVVDKAFFLNGTDSFIQAPSSTEVDPL
+                     SSGTQAAWVYFDQTPSAAGHHMVIISKGDIVRDFDLQAQTDDLFHFYIGVGLSDEWHV
+                     QSTTVIQPGVWYHVVGTWEAGVGIRLYVNGKLEADHFTTVGRGPSGQPLQIGNSFVFG
+                     PRLFKGKIDDVMIFNRLVTSNEVLALYSYGITGNCTPYTVVLDDVFATGTLGWTQFGP
+                     TRSDQTTSYDTTHSALLANITESQAGYRIIGWLSPPTDTVYYGAVGTNIIRAKYYVFA
+                     SGQTNSATNSIPNFRCRIANRFAVSSILQVANHLNADPEATNLAQDIRPSTGPASPSL
+                     YRVDLDPIDVPQLVNHPGTEGFLRLIEAYEPETQAHGSIGMTECQLGVYPALPDSSTL
+                     VDVTSNGLIKTYRAEDGDFGNGDIGSSNSSITIAKYFNGSPETTGPLPTVSISEAGVT
+                     LETLSVPTDRFSAAALDVFNKPSELIANHYLRARVEPGKQYKFRFHATATKNTNTQST
+                     MRFRARTIKFQYTNALEIGGSHGASVANNTLAQQALPGVGNQIPAVDRISPGENGGWY
+                     NVIMVTPMNPDIQADQPTLYAQDPPGVDTQPGNNSKSRRDLQFGFDVIDTFTTGAGFE
+                     LEAGQMTVDRVDIMKYNLQPD"
+     gene            29479..30924
+                     /locus_tag="WISOIL_0027"
+     CDS             29479..30924
+                     /locus_tag="WISOIL_0027"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="ACS83716.1"
+                     /translation="MIADCRYGHICGPMIRGGKGRWQTSDHLEALRRQGFWTMALFSL
+                     ACLAPLFTLVYMVSAYHIDAPRGEQWYLARYIELLYKGQFQYRFLFLQDEGEKPVFPT
+                     IVLLCLARLTHWNIYYEMLTSIMLAFATWIILTVKLISTFKECGIRNCKWIAFVLSVI
+                     LFSLAQWENWLWGIRISVYLNILCVVVGLILLTSRPVRPLHVMGAIILAIIATFSFSN
+                     GMVFWVIGLIIIVLRKDYESRLVSAVGWSLAAAACLVIFFYDFRLPITAVPAARIPHM
+                     PQKLCVFFLGYLGSPLLSWEMAKTLRPFAPYVGTAGLLAVIVASWLLLRLLHVDFHKL
+                     VFVLGLAVYAAGSAAMTAIGRVNGGNPLIPRYTTTSSLLWIAVLSLLFMLWRLAAPRE
+                     TRKPFTAIRVGAASGLVVIIFAFASNSFMARRGFYTFYNNELPREKELFVLKNDQLLR
+                     GLFRDTQEIRRLIPFLKANRLCVFRSGGASH"
+     gene            complement(30953..31432)
+                     /locus_tag="WISOIL_0028"
+     CDS             complement(30953..31432)
+                     /locus_tag="WISOIL_0028"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="ACS83717.1"
+                     /translation="MKIAATTVNEYLAALPPDRREAISAVRKVILEYLPKGYEEGMSY
+                     GMIGYYVPHSIFPAGYHCDPKQPLPFASLGSQKHHMALYLMCIYMNEPVMRWLGEEFA
+                     RRGKKLDMGKACIRFKKLEDLPLEVIGQTIAKFPVKDYTAYCLAAVKSMKSKRKAKN"
+     gene            31529..32632
+                     /locus_tag="WISOIL_0029"
+     CDS             31529..32632
+                     /locus_tag="WISOIL_0029"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="peptide chain release factor 2"
+                     /protein_id="ACS83718.1"
+                     /translation="MIQSQNSRVRATAYSNPRSIFDVAGKRVDAERLEAESAAGDFWN
+                     DNQRAQEHLKKLTALKRVVEPWDALDRDTSDSLEMAEMLKAEGDESMAPELEKQAAEL
+                     AQRLNDLEFKSMLSEAEDVSDSFLHIHPGAGGTESCDWANMLLRMYTRWAERKGFKVE
+                     LIDLQPGEGAGISRVTLAVRGEYAFGYLKAESGVHRLVRISPFDANKRRHTSFASVHA
+                     YAEVTDDIEVEILDKDLRIDTYRSSGAGGQHVNVTDSAVRITHIPTKIVVSCQNERSQ
+                     HKNKATAMKVLRSRLYQLYKEQREADQAAKAGEKKDISWGSQIRSYVFQPYQMVKDLR
+                     TDVETSNIGAVMDGAIDPFIEAFLRSQMGKQKV"
+     gene            32690..33703
+                     /locus_tag="WISOIL_0030"
+     CDS             32690..33703
+                     /locus_tag="WISOIL_0030"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="dipeptidyl-peptidase VI"
+                     /protein_id="ACS83719.1"
+                     /translation="MNTFEQQQELFALKTRARVDPRITAMEVAASRKGTIVTIAGFSA
+                     NHHTDACVRAVAADVFGRRNVRFELKVLTRDYPLSFYEVTVANAVFYKTTKIIKADLL
+                     TEAFCGSVIRGYFEHKGWIFCQHSDGYVGYVPKASLVPADKKRYLRWKNGKCATLQRT
+                     VKLGGMSLAPCTRLIYDNGRVNLPGDKWVRVSARDIKVSKPGNPAFIRSVRRHTWPTF
+                     KNTKYLWGGKTQIGIDCSGFMQTLALLEGILLPRDASMQAYVGEITGYLPDYSDMLPG
+                     DLILFINDQAKYFHVGIWIGNDMFLHSSGTKNIIISSMHPSGKNYMARYGETFAFGRR
+                     IHL"
+     gene            33700..34737
+                     /locus_tag="WISOIL_0031"
+     CDS             33700..34737
+                     /locus_tag="WISOIL_0031"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chloromuconate cycloisomerase"
+                     /protein_id="ACS83720.1"
+                     /translation="MKFKHSTYTLNLINPFGIARSTKTQSPVVLVNLDGGWGESAPTN
+                     FYGENADTVHAALQKMEALDVADLDCIEDIDDALLAIAPKDQSARAAVDIALHDRLAK
+                     NLNVPLYKLFGKSPDKEMITSFTIGIDTVDEMMRKVDEAKQYDILKIKLGKDLEQDLA
+                     VMKEIRKAVGDKTVRVDANGGWTLEQAKQALPAMADLGVEYVEQPLYKGSHAELKELK
+                     KGAPLPIFVDEDSMVAKDLPKLIGAVDGINIKLMKSGGIAEARRMIALGRALDFQIMI
+                     GCMIETSVAISAAAHLGPFCDFLDLDGNLLISNDPFAGVECEKNGRIHLSDAPGLGVV
+                     VRSEYANAVPA"
+ORIGIN      
+        1 cgcaaacact ccgttcaatg cattgacaat tcgctcgatt cccacatcca gcccgtcgcc
+       61 catgtgcgcg ccggggtgca gaaccaggcc tggaattcca agtgcatcac aacgctccaa
+      121 ctcatccagc aaatcgtcct tcgacttctg ctgaaactcg ggattgttcg atgcgcagtt
+      181 caccaggtaa atcgcatggg caatgcacga ccgaacgcat gacttggcca tgttggcttg
+      241 aaacagctcc gcatcggccg gcttgagcgg cgggaatttc caacgcgtgt tacctttcac
+      301 aaatacctgg attgccgtgc aaccgatcga tactccccga tcgatggatt tcggcatacc
+      361 acccgaaatg ctcatgtgtg atccaagtaa aacgtcgcag ctctccgtca ctttgcctcc
+      421 agttttttag agtagacctg tcaccaaatg accattagta caagcctttt caacccgcaa
+      481 taataccctt ggcccgtgtc cagactgcat cgaacatggg ctccgtcaac cggcccgttt
+      541 gtgtgttctg ctggcttggg tgaaaagaac acaatacaga cggggcattc tcaaacgcaa
+      601 attctgccag gtgcgcaaac cttggcaatg gccggcccaa attgagtccg cgccctttca
+      661 ggtaattcag ccaccaggca aatgcaatcc ctcccaatgg caccaccgct ttcagctggg
+      721 gccacagcag gtccgcctcg gcggtcaaat agggccggca attctcaagc tcaactggca
+      781 gcggggtgtt atctggtggg gcacaccgcg ccgtggcggc aatgaagcaa tccttcaacg
+      841 ccaggccgtc gtcaaccgaa acggattgcg gctgattcgc aaaccccgcc ttgtgcaggg
+      901 cgcgaaacaa ccagtccccg gatcgatccc cggtgaaaat acgcccggtg cgatttccgc
+      961 cgtgcgccgc gggtgccagc ccaatcacca gcatccgcgc agttgccaca ccaaacgatg
+     1021 gcaccggacg cccccaatac tcgcaatcgc ggaagcgccg ggttttctcc cgcgcaacct
+     1081 tctcccgcca ttcgaccagc cgcgggcaca gacgacaatc gactattcgg gagccgatct
+     1141 cagacaactg cccggagatg caaccctccg cggaatgtat cggcttcttt tccatatctg
+     1201 attccatgcc tatgacaaat ccagtcgcca ccccattcgt ttgtgcaatg tgcggcaatt
+     1261 gctgccgcgg cgaaggatac gtcaggatac agtcccacga agtcgaaccc attgcaactc
+     1321 acctcggcat ttccaccaac gatttgattt ccagattcac ccgccagccc gagattgccc
+     1381 agcagactga cgttggcgac gtatggctca ttgataaacc cggcccggaa atggaatgca
+     1441 tcttcctcga agacaaccaa tgcgttattc acgaagccaa acccacccaa tgcatgggat
+     1501 ttcccctgaa gtggcgcaca cccgatgtcc tggattactg cgtgggaatg caatcgtagt
+     1561 cccaaacgag aaaaggcgcg ccgctttcgc gacgcgccct caagtcaatc gttcgtttac
+     1621 gtaacgctta cttcgctttc aacctttgta gccgaaaatg caatctttac gcccgggctc
+     1681 attgtcgagc tgatggaaat gctgcgcatg tagattcctt ttgcggcggc gggcttggcg
+     1741 cgatgcaggg catcaagcat tacctgcgtg ttctccgcaa gctgctccgg cgtaaactga
+     1801 atcttgccaa ccggcacgtg aacgtttcca gtcttgtcga cgcggaactc aaccttgccg
+     1861 cccttgattt cagcaatcgc cttggtgacg tccattgtca cggttcccgt cttcgggttt
+     1921 ggcatcaaac cgcgtggtcc gaggacctta ccgagctttc caacctgccc catcatgtcg
+     1981 ggtgttgaga tcgcagcatc gaactccgtg aagccgcccg cgactttcgc cacgagatct
+     2041 tccgctccga cgagctccgc tccggccttc tccgcctcga gggctttttc accctttgca
+     2101 aagacagcca cgcggacagt cttgccggtt ccgtgcggaa gtgaaacggt cccacgaacc
+     2161 tgctggtccg cgtgtcgtgg atcaacgccg aggcgcagat ccaagtccac cgtctcgttg
+     2221 aatttcgcga atgccgcctt cttaagaatc gcggttgctt cgctgagggg atacgatttc
+     2281 tccggctcat acatcgccag agctgcgcgg aacttctttc cgtgctttgc catgttaact
+     2341 tctcctttgt ggtcggtatc ggcaatcctc cgcaaggctc gcgccccacg accatttgcc
+     2401 tgccactaac cccgccgtgc ggggccacgg gtgactatga ttctccccca aaaacattca
+     2461 aataccgggc aagtaaacct accccggcaa ttgctcaatc tgaagaatgc aaccgcccgc
+     2521 caactctaat aatttcacat ctctgactgc aaacttcgcg ttgttctttc gcgtatcaaa
+     2581 atacagcacc ccccgcttgc ccgcctcggc accaaacgga accgcaatat aactgcttac
+     2641 cctcaattgc ttaaggctca aactcgcgat tggttcctcg gccgccccct ccagtgcatt
+     2701 gctcacgacc ttcttggtct gaagcgcacg attcgtaacc gtcagcggca gagggtgctc
+     2761 ctgctcatat tgagtccacg cattgctttc cccgacccac gcccggatgt gccagcgcga
+     2821 ctcagacgga atcgccacaa acccattgtc cgccttgatt gcatcccgca actgcccgag
+     2881 catcatggca tacgcctctt cacgcccgcc cggttttgac accacttccg acataatcgc
+     2941 cgcaagcttc tgcgccgccc agatcatatc cggaatccca accaccggcg tcttggcctc
+     3001 cggcttctgt gtcagcggaa ttggcaccac attatccgca tacaaagcct tctccaattc
+     3061 cgcaaacttc gcctgacccg cctccgctcg cgtgacgaca ttttggaacg cagcctgtcg
+     3121 ctcctcggca acacgctgag tatgttcctt ttccgcgaca ccggcttcct cgctcggatt
+     3181 ttgaaatgag acacggcact cgccaatcgt aatgacatcg cgatgcttca gccgatcgag
+     3241 agcaatgatc ccgtcattca cgagcgtccc cttgccgctc cccaggtcct caatcaccca
+     3301 accggcccgg tacgcaatca gcgcatggtg cgcctcggcc gttcctggag gcagcggaat
+     3361 cacgttgtcc ttgtccgtcc ccagcgaata ttgcagaaac ggatcgagga ggatggtata
+     3421 ggcccagttc atggacggaa tatctatacg aagcttcgcg gtcatatcgt acgaaaacct
+     3481 ttcaaaacct gttaattacg ctcttataag caccaccacc ggaccctgcg cattagagca
+     3541 gcatcgagaa tcaacttctc cctccaatcg agtcaagccg gattgccgcc agttattgca
+     3601 aggatttcgg caaccagccg taggtctcca ggaaccgctt aaactccttg tcctccaccg
+     3661 aaagcgccgg cagccacatc cccacccgcg tccgccgcca ccagttcccg ctcggatccc
+     3721 cgggcggcgc aaactcatac ttatagtaca cagcccgtat gtagtgcggg ggggactccg
+     3781 gaaacggatt ccctgccagc aaactcagcg ccccctcatc attgtgcagg agcttccaaa
+     3841 ccaaatgcag cgaccacgga taccgttccg gaatggacat cgccgcaaac cagatggccc
+     3901 agtccagtcg tggctgatag ggcgccacca caaccggtct ccgatccacg tcccccggct
+     3961 tcgctcggaa atcatactcc acccacttcg tggagctcgt gatctccgct tccgccgtcc
+     4021 cctcaaacac aatctcatga cgcacgcgcc caacgcttcc aaaagcccca tacgtgttca
+     4081 ccaggttcag ccggtcaaac gacgtgttca tcgcctgctc cgcggagagc agattcagaa
+     4141 ccggattgat gctcaacacc ccaaccacga caaaaaatgc ccacacaagc ggcatctgcc
+     4201 atttcgactt tttggcctcc gccgcggcac gctccgcccg caccaccagg aacttcggca
+     4261 gcgcgcaccg cagcatccca tcatcaaagc acgccaggat cggcacaatc gtcagccagt
+     4321 tgaggaatga caagttcccg ctcaatatca ggatgatctg aaaactcagc atcagcgccc
+     4381 ccgccacccg ccgcgtaatc cacggccaga acccaaacca cggcacaacc agctcaacga
+     4441 aatgattaaa acacgcgccg ccgaaatgaa accacttcgg acgaaaatgc agccaccagc
+     4501 tgatcgggtt cggaatcggc tgcgtctcgt aatgataata aagacacgtg caattccgcc
+     4561 agcactcatc cccgcggatc ttgatcaacc ccgccccaag catgatgcgg aaaatcagcc
+     4621 accggaacag ccagatgatc ggcgtcggcg gcgccaggcg cggaaacggc cgcgggtcaa
+     4681 ttagcggaca aagaaacgcc gccagcattc ccgtctccag cagctgcatc tcccacccat
+     4741 acgcgtacca cgtctgcccg aaatttacaa acgacatgta aagcgcccac agcaccagca
+     4801 tcatgatcgc attcgcaaac cccatcatca ccacaaacga cagcgccgcc ccaatccacg
+     4861 ccagcgtcgt cataaaccca tccgaggaat taatccagaa tagactcggc acacgcatga
+     4921 acgccgcccc ccgcgtcccc agctgctcca gcacccggtc cacaaacaga cccgaaggcg
+     4981 tcagcccatg ctcccccgcc agcgccgtaa actgccgccc cgccgcacaa aacgccacga
+     5041 agtaaaccag ccccacccac cgcaaaataa taaaccgcgt cagccagtaa gaccgcctcc
+     5101 accgccgctt acgatccgct ccctcagatc cgccctcccc ctccgacgcg cctcccaccc
+     5161 cctccgcgtc agtaccagtc ccctccgtca ggtccagatc agccttatgt tccgtctcat
+     5221 ccatccgcgg cccgctttgc gcctcctact gcccctaacc aggccattcc caacccctcc
+     5281 cgtcaacatc aactccccgc gccctcgtcc aacccaagcc aagtgcccga agccgccatg
+     5341 catattgttt ttcacgctgg caataggctg gcaatacgct ggcaataggc tggcaatacg
+     5401 ctggcagact ttgaggagcc cgtgtggacg cctgcactaa acccctgatt cccccacaat
+     5461 gctccataac cccctagctt cccctatacc cgcccctaaa cccgaagaca gtttacccca
+     5521 cagcctcggc accagatcca cccgccacca ccctcgtaac agaggggaaa gcgtataaga
+     5581 cagaaacgta aatagacctt ctcgcagatc ggacaaacca ccgccttcgg aacctcccaa
+     5641 ccatttagca tcatcccaga attgcgatac caagcccccc gaagcgattc cacggaacga
+     5701 tgccatcgat tgtcattcat ctctcccgtc tgtcgccacg atcatctgtt acgcaatttt
+     5761 gcgcaataac acggcctgtg ttcaaacctt atcggcagtc ccatgtatca cattgacatc
+     5821 gtaagcagtt tgtggctgtt cctgctttct aaccactgcg ccccaattca ggtctctctg
+     5881 agtgcccgct gttcggacgt tcgaacggaa gatgccgcgc aagttccgcc gtccttgtgc
+     5941 ccctattcat gtttgcggat tttgtgctca cgcgcctggt cggacatccg aacaacaccg
+     6001 tagtcttcca ccaggaccac cttgagtcac catcaccctc cttctagcca cttaccaggc
+     6061 atactacttc atacttataa ctactatgcc cccgatatac cttgacgttt tctaacataa
+     6121 ttcgtaatac attcaattaa gtagtgcgcc agaatcactt atcacgaaca tgtttggggg
+     6181 gagacaaacc tattcgtccg gataaggcag cataattaca tgcatttgga cgccactgcc
+     6241 ataactatat ctacaagggg atagcaatga attgagagca tactccggca ggctgccaac
+     6301 aacctagttg gtgcattaca tatcttgcaa tgggcaatcc ccaatttttg gatgaacgct
+     6361 tttcccatca ccttgaaagt gttccggccg gagaaccttt gtgttttact tatcaggaaa
+     6421 gggttttatc atgaagctac acatcacagc tgcgctactt atgatgggga caaacctctt
+     6481 tgcgcagtgg acaaacaata caaatgcagg attcgcgact cagcccggtg cactgattgg
+     6541 cagtaaccag ggcgacgcca tcggagaccg ggcacgggtt tttatcggtg acatcattcc
+     6601 aagcccgaca caggctgata cccgatatga cgggacctac cagattgggc tcgagcagcg
+     6661 aatccgcgat gtctcaaatg tttccgcagc cttgacggga caaggtcgaa acgccattgg
+     6721 cggggccttc gatgcaaccc gccaacgcag caccgccgga acctcaggaa atactctcgt
+     6781 taccacatac ggtctcagtg tcggaaccca aagccgggca atgatgctct cggatgtttg
+     6841 gtcctcctat cccggctctc catctacagt tgacttaatg ctcatcgctg ccgacggcgt
+     6901 cagcgggttc ctcgagccga agaacgacaa taatggcttg ggcttgcaaa aggtacgcac
+     6961 cggatgggct aagttggcaa tcggagctgc ctttggagtt accggcgata ataatcactt
+     7021 taacaatgac acagcaactt acaacgattt gtcaatactc tctgctgtcg gtatgtcatc
+     7081 tgcctataat agtggcgctc aggcaggagt tggaactgat cctactgtcg cttcaaatga
+     7141 tcccgcatct ccaagccata ccggtgtggt ccgattcgga agtcacgtcg gcacgtttga
+     7201 cggttacctg gtcgactcta ccctgcaggc agactatgcg acaacccctg tcagcaacat
+     7261 caatggaagt tatgacaagg tggataattg gagcggcgtg cacgttaaag ccccggttaa
+     7321 gaaggtcaac aaaaagacca ccgttgccga tcagtctact gtcgctgaca aggcgtttac
+     7381 twcagcgact ggaatcctga tcgatgcacc aagtgcaccc gtaaattcca gtggaacgaa
+     7441 cggcaataat ccaagctttg tgagtccttc aaactatgtt ggcttgaggg ccaatgcaaa
+     7501 gtcagaattc aatgccccgg tcaccataaa ctctgcgatg gtaattaccc catcgggaac
+     7561 aacgccaacc agtccggtac aaggccaact gtggtataac gtcaaggttg gagatcccaa
+     7621 tttcaacaaa cttacagtat gggatggaag tgtgtggcgg gcgctttggt agaagactca
+     7681 agcgaagcac cgcaatagtc ccgacgataa aatgaatacc cggggtgagt gacaccaatg
+     7741 tcactcaccc tgcaccggga cagggcccgg catgtctgga agactaccca aaccggacaa
+     7801 ccacttagac ccacgcgcgg gtgcactcgt attccagtca acgagatcga gtttggtcga
+     7861 acgttctaac atcgccgctc gatccacaac atcccacgac tctttaatga gaagatcact
+     7921 gtctatctat cgacgaacca cagcttatcc agcatcgcta atttcacaaa aacaggaaac
+     7981 tacctccgcc cccgcattgt aatgtgaccg tgaaacgcgc ggaggtgccc cgatgcgaat
+     8041 acttgttaca ggttttctgc tgatcgcctt ggcaaacgcc caggcggagc aaccggttcg
+     8101 actcaattac caggccaaac tcaacacctc ggccggagcg cccctcacag gggtccacac
+     8161 aatttacttc ggcatttacc agggcggcac agcaccggtc gccgattcgg gaacaaaagt
+     8221 ctactccgag accgccatgg tgaacctcga tgatggcatt ctcagctatc caatcggaag
+     8281 cgggccgcct accgcgggct tcctggatgg ccgcctattt gcctacagcg gcgacatctt
+     8341 tgttcaggtc gcagttgata atatttccaa tgtggtcctt ccccgctcgc gcctcgagcg
+     8401 cgcgccgctc gccgtacgcg ccctcgacgc gcccgcctct ctctttggcg tctttggcgg
+     8461 aagcgggatt gacggcgaca gaactgtcgc gggaacggag aatgccggcg cattacgcct
+     8521 ggagtatcgg aacctcacca taaacagcgg aacaaccctc accacaaacc tgggttcggc
+     8581 gtacatcggt gtggctggag tgtgcaacat tgccggagtg ttcaccgtgg acggaaaggg
+     8641 aaacgcaggc agcggaggcg cggcgggtgg ccccggatcg ttgggtcgcg actgcaccgg
+     8701 tcaattgctg gggccagtgc gagttcctgt ttgtgttgcc ggtgcggccg ggggcggcgg
+     8761 cggtacttct tcttactctg gcggcagcgg cggcggaggt gaaggagttg gtggggccgg
+     8821 actcattaac actacgggcg gaaatgccac gacgttcgct cccctcagct tgctggcggg
+     8881 aggggttttc tccgggacgg gtcggacact tacgagcgac tttgccccgc tgatttatta
+     8941 tcgcggcgct ggcggcggcg gtggcgccgc cgagatcggt ttccttggag ggaacggcgg
+     9001 aagtggcggc ggcgtgattt acattgagtg caatgagttg cagttcaccg gcaaactcac
+     9061 cgccaatggg ctgcctggcg aaactggctt tggtccgggt gacaccggcg gcggaggcgg
+     9121 aggtggcggc ggcgtcatac tcgtccgcgc ccgaaaaatc acaaacaaca gcggaacggt
+     9181 aacaacggac ggcgcctcag gcggaccctc caccggcagc ggaaaagtcg gcggccacgg
+     9241 cgcccccgga ttctgggaca tcgtcgaagt tcactgaacc ttctgccctt gctgcgctgg
+     9301 cagcactggc gcagcaggtc ggattagcag gctttcacca atccatccac gcagccaggg
+     9361 gtgcgtcgcc acgccggcat tacgggctgc tccatttccg ggagttggtt gaagccatgg
+     9421 cggcgatgac tttgttcacg caggagtcca catcgtcgga ggcggtatca acccagacat
+     9481 cataatcaca gaaactgtga accacattga ccagtccgcg agctcgccca atcacccggt
+     9541 cgccgcgcga gcgttcacgc gcctcaagga tttcgatcgg gcaggtcacg ccgacggtga
+     9601 aaacgtccag cccctcaaag acacgccggc aactctcaac catcccgcga tcgtggagga
+     9661 cgtgatcgaa aatgatggag ttgcctccat ccactaacgc gcgcaccgcc ggggccatgg
+     9721 agtcgatgat gtgccgaaac acagggccga attgcgccgt gacgcatggt ggcgtgccag
+     9781 gctgcgtgtc actgatcatc tgaacgcctt gcgcggtgaa gtcatcggca agggcctggc
+     9841 ggctggtatc cgctccacga taatatcgcg gagcggacag gaacacaaaa tcgtcaaacc
+     9901 cgatgcaaag gtaagggtgg agaatcctgg cctggagagc gcggcagagc gtggactttc
+     9961 ccgagctgga tgatccgttt acgaggatga tgtctgggta gggcatgagg gttggattgg
+    10021 aaggcatttg gcccccggat ggaatggaga tgtcagggcc gccaggagtt gaattttagt
+    10081 tttggatgtc ccgacatctc cgcgattgac tagtctacgc tcgcgtcttc aagattaaac
+    10141 gcagcggcac ttgtggcgcc gaaggtattg ctgccctcgt ctataatatc ttttgcacgc
+    10201 gtacccgtaa cgccggccgc cgtgctgttt aggtcaagcg ttcccgcgat gatcgagcca
+    10261 taaatgcggg cggtgtttga gcaggtgaag ccggttcccc aaaagcaatt ctccatgcgt
+    10321 cccgagaacg tcgaggccca cgatgtgccc gtcatacgac aaccatagag tctggccccg
+    10381 gtggaaaacg ccgaggtccc cccgaaagag ttgctgccac cgatgcaatt gttgaaaatg
+    10441 ccggtggccg aaccatctcc cagaccggtt ccagcgccga acgcctgcag tcctgccgtg
+    10501 caattcgtaa aggttccgct ggcactcccg ccattgccgc caaacgcgtg gtcccccccc
+    10561 gagcaattcg taaatgtgcc actcgcgatg ccgttttgtt cgccgccgaa agacccgtcc
+    10621 ccagctttgc agtcgataaa agttccctcg taggtaatcg caacccgcat ggaatgactg
+    10681 tggccgccgc catcatcgcg aaattcgcaa ttgcgtatca ccgtggctgg cttggacgta
+    10741 ttgggaaaat aggccgcagg atcaccgttt gaaatacccg cgcctcccga tgacctggtg
+    10801 ctttgaacca ggagattctc gatccgcacg tcgtttgccg tctggcgaag aaccccggta
+    10861 ttggtgccgt tggtcgcgct gaaaatatac tggtcttcgc gtgcggttga aagcccgaca
+    10921 aggtccacaa aatcggtatt gagagtgagt tgccccgttg tgaggtcgta acggccggga
+    10981 gcgacgagga ccacagaccg gttggtcgcg ctgagcgact ggccgtttgg cgtgagcacc
+    11041 cgcgcgattg cataggccgc cagcagattc gcgccatttg tgacggcgga agtcgttacc
+    11101 tgggtcgcta cataggtact ggtttgattc ttgatcgcgt taactgtttc aaatgatttg
+    11161 atcgcgaacg gaacagggac cagtaatgtg cgcggaagca ccacatttgc tgcgctatcc
+    11221 accgcaacct ggagatacat atttgccgaa agattaaacg aatccggggt cagcgcgccg
+    11281 ccatacaagt ttgcgcccgt gcccaccacg tggtcagcga cgccatcgtt tagggtcaca
+    11341 ccggctacct ccgaaaacac aagtgtcccc gaaccggccg atcctgcgga gccgccgctg
+    11401 aaaacagaaa agaacattgc gtgcacgccc gtaagcggcg caccagacaa atcggtcagt
+    11461 ttggcctgat agttgaagga aggggctccc ggcagtgatg aaacagaacc ggccacaata
+    11521 cacaaagcga cgatggcttt cacggcatgc ctccaaggcg attttgagat cagccaacgg
+    11581 cagatcggcc agccagcgaa cggtctgcca tttccaatcc tgtacttcgc cttgcgtgtt
+    11641 cccaatgacg gggtcacaag tcaagaaatc tcgtgcccaa atccctcaat ctccggccgt
+    11701 cgcgtaaggc cggacatcgt gctattgcgc caacgctgca tggcgattga tctgcgacga
+    11761 ttggcacgag gggctcaaga actcatcctg ttaatcctgt tcatcctgtt gaaaatgccc
+    11821 ttaattaaca cggatgggct ggatgaacag gatgtgcttt tgaaacaacg cgagtggcaa
+    11881 ccgcgtggaa tttgaagggg attgcctctg tgacgcattt taagggaatt gcaaagtagt
+    11941 gcggctctta aagaatccgc actgtgggtg agaacatgat tcgagtcatt cgtggcaatg
+    12001 tttttcagtc gttccttttt gccgtatgtt tggtggcttg tgctggcgct ttcggggcga
+    12061 agcactcgca ccccgctcca gccgacaagc catccaccaa cactgagatt cgcgccgtct
+    12121 gggcttccac actttcgcca tgcatgaaca cacccgagga gatccatcgc ctcgtcgagt
+    12181 cgacacgcaa ggcccacctc aacacaatca tcgcgcaggt ccggcaccgc ggaatcgttt
+    12241 attacaaaag caaggcggag ccaatggcgc cggcaccggc caaaattgcc ggcttcgatc
+    12301 cgctcgcaac actactcaag gaagcccacg aaacatccgg cggccagcag cgcctcgacg
+    12361 tctatgcgtg gttcaatgcc ttcgccctcg aaaagatcga gcaaagcagc gccaccgaga
+    12421 agctccggcc atggctcagc ctcacgacca ccggtagcgt cgccagtttc ctcgaccccg
+    12481 caatacccga agtgcagaac catttgctct ccctggtgga agactgtctg cgcgactatg
+    12541 acatcgacgg gataaacctg gactttatcc ggtacccgga aaacgacgca ggctatcacc
+    12601 ccgtggccat caagcgcttt cacgaacagt acggatcaaa ggcgaaggcc tcccccgaca
+    12661 accccgactg gaacaccttc cgccgcgacc aggtgacggc ctttgtccgc cgttgccacg
+    12721 atgccgtgtt gcggcttcgt ccgaatgcgg ttatcagcat tgatgcaatc gggttcggag
+    12781 gtccccccaa aaaggacttc tccgattccc gtccctacca gcaggttcac caggactggg
+    12841 ccggatggct ccgtgcgggt tacattgatg cggtcacccg catgggttac aaacgcgaat
+    12901 ccgtccccca gcaagcccag gattttcgag gctgggccga cttctcacgg caactccagg
+    12961 acgaatgccc cggccgctac gtcactctgg gaatcggagg gtatttgaat accgaagaag
+    13021 ataccctcac tcaataccgc gaagcccaaa agcgcaacct cggcacctcg cttttcagct
+    13081 actggcgccc cacccgggca agcaaccaga caaaccaata cggacccgat tcccccttct
+    13141 gggaaaagct cgggacacaa atataccctt caataattgg gccggtgcgg ccagaagccc
+    13201 gcaggattcc taaacaagaa agtaaacgtg tgccccggta atgtgaggac acgttgcctg
+    13261 gaacctgagc gccgccgatt caccacacaa agcacaacaa ggaacgcaaa gaagtgaccg
+    13321 ggcagatgga aaaccagtcg gccgtgaagt tccttcctgt tttccagcct tccttagggc
+    13381 ataaaacatg tcctgacctc acatttccag gaacaattcc tctgtccgta aatcgtccac
+    13441 cgcgaaaccc gttgccttag aggctgatgt ttatcagcgg atcattagtc atgcccacgg
+    13501 cagcggttgt cccgttgcca ttgccaccgg tgcctgtaag gtcatagttc gacgcagtgt
+    13561 ttgccgtggc ggtattcttg atcgtcacgt tcttggttcc gttaaccttg atcccttggg
+    13621 cgttgagtgc cacgtggttt cccacgatgc tgttcgaatt gccgagggcg agaatgccat
+    13681 tcccgtcgag gaaaaaggca ttgttggagc atgtgtttcc ctcgacgcga caatacgaac
+    13741 ccacctcaat tccaatcgtc ccattgtggc tggcggtgca gtttgtgact gtgccgcgct
+    13801 gatcaacaac gatgcctttg agggtgttac cggaaacatt acagttggtg acttgagaat
+    13861 cgttgccgac gtttatcccc gcgacggcgt tggcaggcgc gtcgcaggcc acgacgttgg
+    13921 tcaggcccgt cgacaaaatg ccggtaagcg aattgccgcg cgcagtgcaa tttgtcacat
+    13981 tgccctcgcc ttgaagtttg aacccattct tatttatata ggcattacat tgggacaaat
+    14041 tgcagccgac tcccacgttg aacccgtccc ccacactgtc agtgccattg ccattggcat
+    14101 tgcaatctgc gaaggaacac ccagtgaggg atacaaaccc cgacgttgtg ttataatccg
+    14161 acgtacatcc gcgtactgtg ctcccgccgc cgacagaaat gccgtggccg gcattactaa
+    14221 ttgcaataca gttctcaacc acgcaagcaa tgggtccgtc cagtccagtg tttccgttcg
+    14281 aacgtaaggt caggttcaca aagcggcagg catcctgggg cgaactgagc gagatgccct
+    14341 tggatcccca gcccgtcacg tggccattct ggacggttac gcccctcaag cctgaggcga
+    14401 agattccgtt gcccgagccg ggaacgccga tgagtgaaaa accgttcagg tcaagcgtca
+    14461 cgccggacgt tgtaacctgg atgccatcct gcccggcaac gccagtgatg ttcccagtga
+    14521 gataaaatga acccggctgc gagatgacga gcgggaagga ttgaggctgg ctgatcggag
+    14581 tgcgcacctc gccatctgcc gataaaacgg cataaggaac cgactccagc cgcgtgcggg
+    14641 gcagtatgac gttgcccacg ctgtccacgc tcacctgcag atggacatcg ccattggtgc
+    14701 gcagcatgtt tgcggtaaga ggacccggga cttggacgac accggttcca acagtgtggt
+    14761 tggccacacc attggtgatt gtcaccgccg aactttcaga gaacacctca gtgccggagt
+    14821 tcgcgctgcc gggtgtccct ccctggaaaa gtttaaaata cagggtatga acaccctgca
+    14881 acggcacccc accgccgcca gacagttttg cctggtaatt aaatcgcggc tgctgagccg
+    14941 cgccgcaaac aagagtgatc gccaacaccg aaaaacccaa aatgtatttc ttcaatgcca
+    15001 ttgctcctga cctgagggat aattgcagaa ttgccaattt ccattaacct gattaaaggt
+    15061 aaaccagttg gcaagctata aatccttcga gaaaggatgg agagcacccg tcattgagat
+    15121 aagaagaccc cgtcccacgc tcaaaattac acgcttccag cttgaactct gcaccgcgag
+    15181 gcgttgcttt taacgcaagt cagtgcagag tccctgttgg gaggaagtta ttgtgacaaa
+    15241 acatcgagtt tacgcaatga gctttgcagg cgtctatcct cactatatcg ccaaggcgga
+    15301 gaaaaaaggg cgcacgaagg agcaggttga cgatatcatt tgctggttaa cgggctacaa
+    15361 taaagaggag ctggctgcgc aactcgaaaa ccgaacggac tttgagactt tctttgccga
+    15421 agctccgcgg ctgaatcctt cgcggacact aatcaagggc gtggtatgcg gcgtccgcgt
+    15481 cgaggagata caggagccat tgatgcgtga gattcgctac ctcgacaagc taatcgatga
+    15541 actggcgaag ggaaaagcga tggagaagat tttacggtcc tagcacgatc ccgaaacaca
+    15601 ataaccctgc gtcccgtgcg ccggtgattc tcggcatttt tgtagcagga ttcgccagaa
+    15661 ttctggtttg tcccggactc gtggttgcca gaaccctggc gagttctgct actgactgcg
+    15721 agcggggcgc gtgggggcat gattgcgggg gcgccggtgc gctggaggag ttggaaggag
+    15781 tcggggccgg tgtggctgat catgcgaact tcggtttcgc gagggacgcg accgggactg
+    15841 ggcatggcgt csatgatgtc gaagcggacg tggtaaccct tgggacggcg gatctcgtgg
+    15901 ctgatcttga aggtgaattc gcacggattc atgggaggtt cttgggtccg gcctgaccgg
+    15961 agcccaacac gtagtcggaa ccgccagtct tttctccgaa gcaatttggt cctacctttg
+    16021 tgaaggtcaa cccgataccc gtgtcgcttt taccgtaaca gttcatggct accgatgttt
+    16081 caagtcctac gcctgcgccc agactctgtc cgtaacaatt ttgtgcggtg cgttcggcat
+    16141 aaaggccgcg accagattcc gaatacccgc tggaattgga gaccgtcccg ccacagtaaa
+    16201 tgccatccgc cgatcctttt gtacattggc cgagtgagtc gctgacaccc actgtcgcac
+    16261 ttatgccgac acctgtaagg ctgaagccat gggatccgga tactttgact ccgtcaatac
+    16321 cagcgccatt ggaacttaac cccttgcacc cagttaccat atcgcctgtt acgccggttc
+    16381 cggaggtgct atttccggtg gagttaagga catgggccgc gacgattccc gcgcccgaaa
+    16441 tggaatatcc catgcaatta aggacttcct cgctgctttg tattccgaca ccgggacccg
+    16501 ggctccgacc agagcaatcc gacgcgaact gggccaggat accgacgtcc ttgcaacggt
+    16561 ctgcctcgca gcgtttggcc gaattgacgc tgattcctgt tccatcgata ttctgaacca
+    16621 cacaggaatc ggcaaacgac cctttatcaa gcggcaggct caatccataa ccgctgcagc
+    16681 cgctcacact gacattggca acctgcaccg cagtggtgtt cccgtcagaa taatctatac
+    16741 cactgtaaaa gcccgggcca gtgtataaac cgttattcgg atcaaggccc acccctccgg
+    16801 caatgtggcc gttttgaatt tttatatcgc tggcacctga gacaatcatg attccacttc
+    16861 ccatgtttaa ttcgcttgtg gaactgatcg tgaagccatt caggtctagg gtgacgtgac
+    16921 ttgccgaaat cgttatcgcg tcctcaccct cgaccacaag gttgccggtg agaacatagc
+    16981 tgcccggttg cgtgatttcg atgggcgcag gtcctgaaat ctggtgacgc cgctcgccgt
+    17041 ccgccgaaag aagcgcgtaa ggaactgaac tgaatcgcga tcgcggaagg actacattcg
+    17101 aaggcatgtc ggcatccacg gcaacctgca cgtagatgtt gtcgtccgtc ctcagcatca
+    17161 aagtggtcaa gctgcctcca aagagatttg tgccggtgcc aatctcatgg ttcatcgccc
+    17221 cattgaggat tgaaagattg gcgctttcct tgaacaatag tgtaccgtca tctgcaaccg
+    17281 tcgggttgcc gccgctgaac agcgaaaagt acgccgcgtg gttcccctgc agcgggatgc
+    17341 cactgccgtt cgtcaatcgt gcctggtaat taaaccgcat tggctgcgcg gccagctggt
+    17401 aaatggaaat ccccgttaac atcccaaaca aacaaataag ccgggtcatc cgtccaagct
+    17461 tccccttcat ctgtaaagaa gacttcttcg cgccggggtc gccccggtgc gaaatgtgat
+    17521 agggataacc cgccacgtcc acgcgcacat atattgccat gagcgggaat cgttacgaac
+    17581 cgcccagcgg tgtcaattta tcaataacat gccccttcat tttgcgcgag ggcctcaaga
+    17641 agaagtctgg aggcgaccca ttgccatcgc cttcttcaac tcctggaatt cacagcgcgg
+    17701 tgcgctggtc gcgggtgcgt ttgttgcgcg gcttgacgga ggcacgtagc agaactcgcc
+    17761 agagttctgg caccggccgc cgcgcacgta ggtgctgatg gggctgcctt tacgtggccg
+    17821 acgctgccag cgtcggttgg tatgagttcc gttttcaagc tgcgggtgac tcctttccgg
+    17881 gccaaggaca ctggctggat gctatctggc tactatgctg tctcggcatt acatgggttt
+    17941 ggttaaggca ttaacacggt ctgcttaccg attgctggag agccaaccga gccgcgctgt
+    18001 ccagtggatt caaccgagtc cgcgtggagg gcaattgcgg gcaatttcgc ctattcggca
+    18061 gccaacaatc ctaaagagca ataggtccgc gctcctaaat tttgaccagc gccaggtact
+    18121 agctaatcaa actggagcca ttcggataca gcactcactg gaccggccag ttggcccgaa
+    18181 gtgttgagtc gactgccata gatatcgttg cctgaatttg ttcgtttgtc cagccaaaca
+    18241 tcgacgtatc cgctattgag gagattcgcc aacaagggag agcttcgcga gttcgcagca
+    18301 ttacaaacta tcacgccata ctgtgtccaa ctcgcgatac cggacgaagt aacgcgttgc
+    18361 gcaagaatac cagtatttcc tccacccaag tcctgcgtcc aggaaacaat catcccggcg
+    18421 gaaccatcgt cagtaattgc gaaaagaccg gcaatcatag atggctgcga gaccactgct
+    18481 cctggtgatg gccattgtac caccccgagc ggactcacaa gctgcacgcg aatctcaaaa
+    18541 taaccattcg gagtgccagt cgcaatcaaa acgccagcag gcgtggaaac catttgtggc
+    18601 acccgcgacg ttaacgatac cgaggttcca ttggcggacc acattgttgc tccattagac
+    18661 gcaacgcgct gcactatcgc atacccacca atttgggcgt cctgccaaca aaggtaggct
+    18721 ccactgctgc cgtcgggagc gatggatgga gtggtctgat atccgagttc agagcaaatg
+    18781 gcgatgccgt tcgccgtcca ggagaagccc ccgttgcttg ttacatgctg agcgtatata
+    18841 tccgacgggc cggaacggta atcttcccac gcgcaaaatg cgcctcccga cccatccgct
+    18901 gctatggttt gattgtcatg atcagaccca agcaccacaa ttccgagccc atccgttgtc
+    18961 cattgtgcct ggccagacga gtctacacgc tgagcataga tggtgtaatt cactccattg
+    19021 cggaaatcgc gccaggcggc aataacaccg ccaaggccat cgcttaccgc cagcaaccgc
+    19081 attcggttgc gggctgccga gcacaggacg accccagcag tcgtccacat ggcgttacca
+    19141 tttgggccaa ggcgctgcgc gataatttgc ggactagggt tgaagggatc gggcgaagct
+    19201 cgaaaatccc gccacacgat aatcgcgcct cccgcgccat cgcttaccat ggcgggcgta
+    19261 ctctgcgtat acggcaaatt acaaacaata acaccatctg ctgcccaagt tagtgcgccg
+    19321 tcagcattca tgtgctgggc acaaatgtta gttccgttgc gagaatccgt ccagcaaatg
+    19381 tacgctccgc cgctgccgtc cgcgatcacc tgttgggact gcttgcctgt cacagtggta
+    19441 caaatctcgt tgttctgaga cggattcgtt gaccacagcg ccatggctgg ttttgcgcca
+    19501 accaaagcca aagcaaaggc cagaatcaat gtctgtctga atcgatttga aaaacggcag
+    19561 ccgagcagac atcttaagcc attcattccc aagtcgcgac ttcgacggct tcttgttatg
+    19621 gccgtgatca tatttgagca ttacatttcg gccagcatcc gaattcccat tacgcatcct
+    19681 cgaaaatgag ggacgcgaaa atgagggacg gaaaatgcag agtccctgtt gggaggaggt
+    19741 tattgtgaca aaacatcgta ggcttgcggc accaggtcag cccgcagcgc gtcggccaac
+    19801 ttctgagcgt caacccggtc gttctttttc ttcgacgctg cgatcgctcg catcatcagc
+    19861 gggtgcgcaa caatcagctt ctgggcgtga ggcgtaagga agtcataaat ccagcccgtg
+    19921 aacagcgtcg cctccctcac cccctgccat ggacgcggca tcatcactgc ccattcgccc
+    19981 agcgccttgc gatttgccgc cacggtgccc tggcaaacaa ccgacccgtc ggcattcttg
+    20041 gcgcagtaca caacggtttt cttgtggaca tccaagccca cgtagatgca ttgactcatt
+    20101 actggaagcc tccctgaatt ggttctgagc gctctcgcga gtgtctcagc ctattgctac
+    20161 ggggaggttt cctctctcaa ccctgccgcc ttatgcattc aaacgtgtaa attttcattt
+    20221 ctccgggcca tacgcataaa tcctcatgag accatatctt ctacgctttc agattctgca
+    20281 agccgtttgg ggggcggcca ctcttgcgag ctgggggcta ctgtgtaagg taattgggga
+    20341 cgtgcaaaat ttatttatac acgtcctaca ttatccacat tatcccgttt catgtccccc
+    20401 gtctcaacgt caccttttgg ctgctcaaca ttaggccgaa ctcattcccg tccgcgcaga
+    20461 gccttcaaca tctcacgggt tgcgacgacg gtgtccaaca atcggaggaa ctgtccccgc
+    20521 cggtctcggc ggaagggatc acgttctagt cttttacata agcgttaaac actcccgggt
+    20581 cccaccactc gacgatggtt ccgggggtgc ccgactcatc caagccaccc acgacataaa
+    20641 ctttcccacc tatggacatc atggcgtgct gctcgtgata agaaatcatg ggtgggccaa
+    20701 tttgccaggt gttactcacc gtatcatagg cgcgtgtttc gggccacgga aaatagtcca
+    20761 ccgccgtgga gggattgcct cccattatgt aaatcctctg cccgacgcca atggccgaat
+    20821 ggccgtaagt cgcaacgttc attggggcct ttgaggtcca ggtgttcgcc acgggatcat
+    20881 acacttcatt gtagtttgcc ctggggctcc cctcaatgcc gcccatcaca taaatctttc
+    20941 cattcacaac agccgccgag gcattggtac gtccatgcgg cattggggct ttaggagtcc
+    21001 aggtgttggt attcgggttg tattcctcga cggacgtgga ggttacatcc acttctgctc
+    21061 cataagtgat gcctccaatg acataaattt tgccattaac caccgctgcc acgtgatcct
+    21121 gacgcggaat ggaaagcggt tgcatcggaa accagctatt catcgcagga tcaaagacat
+    21181 cattcgcgcc catgtcggcg ttgaggactg agctgtatcc gccaatggcg taaatcaggt
+    21241 tattgagttc cacgcacctc aatccggcgc gcgagatcgg catgtcagtc gcggtggtcc
+    21301 attggtcggt taccgggtta tagtattcgt tcgtacgcaa ggttccaagg acatccgtga
+    21361 agccacccat gacataattg ccggcggccc ctgcatcaaa tcgggcagtc gggatggact
+    21421 tttggggcct ctgccagctt gcatagatcg ttgtgcccag tgcggtgaat ccgggcggcg
+    21481 cggtggccga attgccgaaa gcgaccattc ccgacaggat gccattttgc gatgatcgcg
+    21541 aattgatggc aaagggcacc gactccagcc gcgagcgcgg aagaacaacg tttgccgggg
+    21601 aatccactcc gatctgaagg aaaatgtcat tgctggaggc gaaaatggat tccgtaaggg
+    21661 gacctggtcc accgctcgaa ttgcccgtgc ccacagcatg attcaccact ccattgcttg
+    21721 ccgtcaccgc ggccgtttca gaataaacca gggtacccga acctgccgaa ccgctcgttc
+    21781 cgccgtccca gagccctaca taaattgtat gcaacccctg cagtgccccc gaagaattgc
+    21841 tcagctttgc ctggtaatta aagcgcaccg gctgggccgc gtgggcaact tccgttaaat
+    21901 tacacccggc ggcaaatgcg gccaaataca ggaaaccgcg ataaacagaa acccgccaaa
+    21961 gtagcattat cccatacccc tcccgttgag gaagttgatt aagtccacgc catgcgccat
+    22021 tccatctgta gggtcaagct caagttgtgc tgatcaacac ttcgtctgtg ccgcttgggc
+    22081 cgcgaaatgt atctgtcgct gagcggtcca tagccccggg gacagaacct tcgaaacttt
+    22141 tgaaaaggcc tgtcccttgc gatcccgtcc ctgcgacccc tccgtggcag aatgcccacc
+    22201 gtatcggcgt cgccggacta cagcctttac ttgccccgga gaacatcgcg aacggcgtcg
+    22261 acaaccgcct gggggcggtc agattctata tcgtgaccgc tgccgtccac gatttccagc
+    22321 ttggctcccg gagtcgcctc aatccatttt ccgtaatcag ccattttcca ccgccgagct
+    22381 tccgcttgca gggcgagtac gtcggatgtt aattcgtttg ctggcacaat atccaggtcc
+    22441 gttttaccgg ctgcgaggag aatggtcggc accttgggga gtgggcgcgc ggcaattgcc
+    22501 tggcggatgg agtcggtcat gaccttcgtc tcttcatgct cgaggtcggg gaccgccgac
+    22561 ggctcattct ttcccaggac cttttcgatc aagccccacc atgcaccgcg cagtgctgag
+    22621 cggcgtggcg cggggacgct ctcgatatag gattccatca acttgtactt gcaggccagg
+    22681 aacccgcgca agccgccctg cgcattgcgg catcccgcct ccacgcgtgg ccagtcatcg
+    22741 ggttggtggg tcataaacca tgctttcacc tcgtcagtgg acaggcacag gtccgcgctt
+    22801 gcatgggtgg aatcaacgag gaccagtccg gcagtttcat cgggatacat tgcggcaaac
+    22861 acttgaacat agatgccgcc cagcgactga ccaactaaaa catagggtgg cgccacgcgg
+    22921 gcgctatgca acgccgcatg cagttcgacg gcaatcgtcc gcgcatcgcg cggcaggggg
+    22981 cccggttcgg agtttccaaa cccggctcga tcatacgtaa caacctgcgc aaattgcgcg
+    23041 atttggttcc gggttttctc ccaaccgatg cgcccacccg ctcctgactc cagaacgacc
+    23101 gcgggctttt gtcgtgcagt acccacaacc aggaggtgca ggcgatgtcc gcccgcatcg
+    23161 acatcgacag gcttttcgcg ggtatcagaa caacccgcca acgcaacgac aactgccgct
+    23221 gccagcaagc cgaaactagc caaccggcca agccatcccc acctcgcgat tttcatcccg
+    23281 gtcgtccttt accgcccgcg gagcggagtc cacttcattc tccgtccggg atgaacttga
+    23341 atgttggtgg gagttctggc ccttatttcc accaatgccc tggggtttca acctctcttc
+    23401 aatttaatac gccggcccgg gatggctcgt attgaatcca cggacctttc gcggccgctc
+    23461 ccgaaaagat cagtccgacc gaaacgattg ccaacgctat taccaggttc catgatttag
+    23521 aaacaacaag cagcactgca ccaaagaacc ctggttccgg aaaccggggc cgacaatgaa
+    23581 tcgcccgccg ctgcctctcg gcccttttcc gcgatattaa ccgctttctc agcaaaacgc
+    23641 ctcatgaaca ttgccataat tctccgcccc cctagccgcc agtttccgtc cgcaggttgg
+    23701 caccgccaaa acagttgcat cccaatatgg agcctatgag aaattgcaga ggaggtgcca
+    23761 tattatgaca cgtaaacgca gctttgcggc cctcggactt ggacttcttt cagccatttc
+    23821 cttcgccgcg cccagggtaa atgatgcagc ttttggggcc attcccgcaa attcccaact
+    23881 cacgagtact gatcagaact atctgctcgc acgagctttg gaggcggtga aggttgtccc
+    23941 cggcgatctc gtgacgacga tcgcctcggt ttctgaattc cgcaggtctc cgcttcacga
+    24001 ttccgtgaag gagagcctgc gcaagctcgt tgataacaag acggcctggc ccgagtatgt
+    24061 ttacattgca cggttgacgc ccgaccgcga gcacttcgag tacctcgtct catcctccga
+    24121 tgtgattgaa gcccatacgt tacaggccta tgatttgaac gatggaatgc ctcaggccat
+    24181 tgccgcaaaa aaaccctacg tgacggactt ttcccccgca acgcccgcag tgtatttccc
+    24241 atacatgcgt aacgaccagt gcgatggctt tctcgtgttt gtgaaaatgt catgggacga
+    24301 atcgcaaaag cgcgtgatgg atcccaccgg cggaacattg gactccgcag acgcttcgac
+    24361 acccgaactt caacgtcgcc tgcgctcact cgagcggcgt gttgcggccc ttgagcaaca
+    24421 ggcgaaaccc gcaaatcctc gcgcgcaaaa ggaaccggag gaaactgctg ttaaaccccc
+    24481 ggagcgcgag ccactcgcaa tcaccgacgc ggcaacaacg gtaatcggct acggctacgg
+    24541 aatcatgaac ggcaagatca gcattggtgg aagcggccat gccattcggt tcacatgtcc
+    24601 ggataatgag aaatacacgc tcaaggccat ccagatggtc gggagcaggt acggttaccc
+    24661 ccagccgccc gcagaagatt tcctcgtcta cgtgatggac gaaaacacca gcgtcatcaa
+    24721 gacactgccc ttcgcctact cgaccttcga acggggcagg gaacagtgga tcacgcttcc
+    24781 ctgcgccggc gttccactgc cccggcaatt ttgcatcggg ctcaatttca atccaaacca
+    24841 gacgaaaggg atctatgtcg gattcgagaa ttccgcagac gattcccatt cgcttgttgg
+    24901 atcacccgac ctgaaattca aaccctggga gaacaaggca gactggatga ttcgagccgt
+    24961 catccagcgt acaggccagt aagccataaa cgtatgcgag tggatctcca actctcggag
+    25021 gcggccggga aaattgtccg ggtgccaggt tgcgcgaagt ccagacagtg ttaagcgcct
+    25081 cccattcgga aaagtgtcac cctgctccag gactccttga gaactccaaa taggttgcgt
+    25141 acacccggct aaataagtat aataattctc ggaataatgc accaatggcc tgcgaaaagc
+    25201 gttaatatga gaatcgaaaa tacttcggca tcggctctgc cgacgctgcg agaggagttg
+    25261 gtgcaattgg cagacgacga ttatcaggcg cacaatgacg aggatctttt ttatgatgcc
+    25321 gcaaagggcg acactgacgc tttcggggaa cttgtccgcc gcaattatgg aattgtatac
+    25381 gccgttgggc tcgcgagatt ggggcagcgc gatgaggcag aggatctcgc acaggaggtt
+    25441 ttcctgcggg ctttcctcct gttggaccga cttgacgacc ccgcgaaatt cccgcactgg
+    25501 ctgacgagaa tagcacgcaa cctttccgtc gattggcaaa ggcgcggaac gcgcgcaaag
+    25561 cgacttgttt ccatggtgcc gatgactggc ctggaactgc ccgcctcaac caccgatgcg
+    25621 cgcgatgcag cgtcgctctc agagcagaac gccgcccttc aaacggcatt ggacggcctg
+    25681 gccccaccac agcgcgagat tatacttttg cactacatgg aaggattgag ccatggcgaa
+    25741 attgcgctgc gcctggcagt ggcacgttcc acggtaagcc ggcagatagc acgggcggtt
+    25801 gatgccatgc gcggtttcgt tgacgccaac cttaaggagt caactgcgca acttcgcccg
+    25861 cgtaagggcg cagcgggccg cacactttcc attctcgttg cagtcacgac cctttcagca
+    25921 aaatccagga acagcctcgc ggcgcaggcg aatttcccca tccccggtaa tgccgtgccc
+    25981 agccaggagg ccgtgcaatt atggaatgag atcaaatccc ttttctggtc cggtgctcgc
+    26041 cgccttcttt tcaaaaccgc catggcggtt ggggccgttg gagtcatcgt gcccctgggc
+    26101 tattggtact gcgaatcgcc tgcacaggcc gtccagaacg cgaccccgca ggccagtcca
+    26161 ggcgcggcgc catcgccagg cggacccaaa acagccgacc tcagccagcg ccttgcggag
+    26221 atcgcccggc gtgcaggagg acaagttggc gtctccgtca tgaatataga aaacggcgac
+    26281 tccgcggact ttaacgggga tgaaccgcgg tcgctctaca gcgtgtttaa gttcccagtc
+    26341 gcggtggccg tccttaagga tgttgaaacg ggcaaattaa agctggatca gaaagtcgcc
+    26401 gttaagaaga gtgatctgtc gggcactgca ccttcgtcct caaaccgttg gcaaaacatg
+    26461 cccgtcacct acaccgtgca gcaactcctc gagttcgcaa tgatcgaaag cgacaatact
+    26521 gccgtggaca aattactcac gcttgtgggc gggccatcaa ccgtcacaaa gcaaatccaa
+    26581 agtctcggaa tttcaggaat tgaaatggcg gccgactcgc gggaagcagc aaagcttgcc
+    26641 gatcacccta acaccggatc ggccaatgca atcgttcgtt tactcgccgg ccttcagaag
+    26701 ggcgaggttt tgaaacccgc cgaacgcaca gttttgtggg acatgatgca gcgagccacc
+    26761 accggtgtta aacgtcttcg cgccggtttg cccgcccgca ccgtactgat gcataagacg
+    26821 ggaaccggac ccaacgactc cgggaccaac gacgtcggaa ttatcaatct tcctgatgga
+    26881 aagggtcacc ttgccatcgc ggtattgatc aacaaatcaa cactttcctc ggccagccag
+    26941 gagcaagtca tagctgccat cgctgctgcg gcgtgggacg cgatgacgca acaatagcgc
+    27001 gcacgggaat ccaccgccga aaaactgaaa cgttaaacgg gctcgtgcct caggctgcgc
+    27061 ctgcagggtc ctcgggccca tctcaatcgg gctgaaggtt atatttcatg atgtcaaccc
+    27121 ggtccaccgt catctggccc gcctcgagtt cgaagccggc cccggtagtg aatgtgtcaa
+    27181 tgacgtcgaa cccgaactgc aaatcacgcc gcgatttgct gttattgccg ggctgcgtat
+    27241 ccacaccggg tggatcctgc gcgtagaggg tcggctggtc ggcctggatg tccgggttca
+    27301 tcggcgtaac catgattaca ttataccatc cgccgttttc gccgggagag atgcggtcca
+    27361 ccgccggaat ctgattgccc actcccggaa gtgcctgctg ggccagcgtg ttgttggcga
+    27421 ccgatgcgcc atgcgaacca ccgatttcca gggcgttcgt atactggaac ttgatcgtac
+    27481 gggcgcgaaa acgcatcgtg ctttgcgtgt tggtgttctt ggttgctgtc gcatgaaaac
+    27541 gaaacttata ctgcttgcct ggctcgacgc gggctcgcag gtagtggttt gcaatcaact
+    27601 ctgaaggttt gttgaagaca tcgagcgcag cggcggagaa ccggtccgtc ggcacggaca
+    27661 gggtctccag tgtcacaccc gcctccgaga tggaaaccgt cggcaggggg cccgtggttt
+    27721 ccgggctgcc gttgaagtat tttgcgatgg taatcgaact gttcgaactc ccaatgtcgc
+    27781 catttccaaa atcaccgtcc tcggcccgat aggttttaat aaggccgtta ctggtcacgt
+    27841 ccacaagcgt gctggagtca ggcaacgccg ggtaaactcc caactggcat tccgtcattc
+    27901 caatactgcc gtgggcctgg gtctcgggtt cgtatgcctc gatcaggcgc aggaagcctt
+    27961 ccgtgccggg atggttgacg agttgcggca catcgatcgg atcgagatcc acccggtaga
+    28021 gagagggcga cgccggaccc gtcgaaggcc gaatatcctg cgcaaggttg gttgcctcgg
+    28081 gatcagcatt caagtgattg gcgacctgca ggattgaact gaccgcgaac ctgttggcaa
+    28141 tgcggcaccg gaaattcgga atcgaattgg tggctgagtt tgtctgcccc gacgcaaaca
+    28201 cataatattt cgcccgtatg atatttgtcc ccaccgcacc ataataaacc gtgtcagtag
+    28261 gagggcttag ccagccgatg atgcggtaac ccgcctggct ctcggtgatg tttgccagga
+    28321 gggccgagtg cgtcgtatca taagatgtcg tctggtccga acgcgtcggt ccaaattgcg
+    28381 tccatcccag cgtccccgta gcaaaaacgt cgtccaggac aactgtgtag ggtgtgcaat
+    28441 tgccagtgat gccatagctg taaagtgcaa gcacctcgtt cgaggtaacc aaccgattga
+    28501 aaatcatgac gtcatcgatc ttccctttga agagccgggg accaaaaaca aaagagttgc
+    28561 caatctggag cggctgcccg ctcggtcctc gtccaactgt cgtgaagtgg tccgcttcga
+    28621 gcttgccatt cacatacagt cggatgccaa ctcccgcctc ccaggttccc acgacatggt
+    28681 accaaacccc tggctggatg accgtggtgg actggacatg ccattcgtcg ctcaggccaa
+    28741 caccaatata aaaatgaaac agatcgtccg tttgtgcctg aaggtcaaaa tccctgacga
+    28801 tatcgccctt gctgatgata accatatgat ggccggcagc cgatggcgtc tgatcgaaat
+    28861 aaacccaggc ggcttgagtc ccggacgaca acggatccac ctctgtgctg ctcggggcct
+    28921 ggataaagga gtcggtgcca ttgagaaaaa atgccttgtc gactactcca tcggcatatt
+    28981 gcgacgttcc cataaacgtg ccattgttgc cgcgcgcaac atcgctggta ttcccgtcac
+    29041 cggggtagta cgcgacagcg tctgatgaaa cgcagccatt tgcgtggccg tccgacgtaa
+    29101 aactcattaa cagcgcaact gcacatgccg tcaccaaccc ggccgcgcgc gaagaaaatt
+    29161 gggcaaaacc acaaggaagg atcgttttca acactggaca cgctcctcaa ttagcagtaa
+    29221 aagttgatac gaatcctaca aatagactct cagatcttca agccaatttt aaaatgaaat
+    29281 tggggccagg aatgaaggtg aggacatctc ccgatttatt agggaagttg ttcccagaac
+    29341 actccatatt cctgtctacc atatcccagg caacaatccc ctgactcgtc gctcataagc
+    29401 cggatattca tccgggaacc atgtgcgcag cacgtccact tccatgtcgc tcatggctct
+    29461 cggcttgcat cagccttttt gattgcggat tgccgatacg gacacatttg tggcccaatg
+    29521 attagaggtg gaaaaggtcg ctggcagacg agcgaccatt tggaagcttt acgccggcag
+    29581 ggattctgga ccatggcatt gttttcattg gcctgcctgg ctcccctgtt taccctggtt
+    29641 tatatggttt ctgcgtatca cattgatgcg ccccgggggg aacagtggta tctggccagg
+    29701 tacatcgaac tcctgtacaa gggccagttt caatatcgtt ttctctttct tcaggatgaa
+    29761 ggggaaaagc cggtctttcc caccatcgtg ttgttatgcc tggcaaggtt aacccactgg
+    29821 aacatatatt acgagatgct gaccagcata atgctggcat ttgcgacctg gataatactg
+    29881 acggttaagc ttatctccac cttcaaggag tgtggaatac gtaattgcaa atggatcgca
+    29941 tttgtcctgt ccgtgatact gttttcactg gctcaatggg aaaactggct ttggggaatc
+    30001 cgaatcagcg tgtacctcaa tatcctttgc gttgtcgttg gcctgatcct tctcacctcc
+    30061 cgcccggtgc ggccgctgca tgttatgggc gcaataatac tggcgataat tgcgacgttt
+    30121 tccttttcaa acggcatggt attttgggtc attggcctca tcatcatcgt gctccgaaaa
+    30181 gactatgaaa gcaggcttgt ttcggcagtt ggatggagtc tggccgcagc cgcctgcctt
+    30241 gtaatattct tttatgattt tcgtctgccc attacagctg ttccggcggc gcgaattccc
+    30301 cacatgccac aaaagctgtg cgtattcttt ctgggttatc ttggttcgcc gttgctctcc
+    30361 tgggaaatgg caaagacatt gaggccgttt gcgccatacg tcgggactgc cggattgctc
+    30421 gcggttattg tcgcaagctg gctgttattg cggctgctcc acgtcgattt tcacaagctt
+    30481 gtttttgtcc tgggtctcgc tgtttatgcc gctggcagcg ccgcaatgac ggccattggg
+    30541 cgcgtcaacg gcggaaaccc attgatccca aggtacacaa cgacgtcatc gcttctttgg
+    30601 attgcagtct tgagcctgct tttcatgttg tggcgtttgg ccgcacctcg cgaaacccgc
+    30661 aagccattca ccgccatccg ggttggagcc gcctccggac tcgtcgtaat tatctttgcc
+    30721 tttgcttcaa atagtttcat ggcgagacgc gggttttaca ctttctacaa taacgaactg
+    30781 cccagggaaa aggaactctt cgttttgaaa aacgatcaac tgctgcgggg cctttttcga
+    30841 gacacccagg aaatccggcg cctcataccg ttcctcaaag ccaaccgcct gtgcgtattt
+    30901 cgttcaggcg gcgcctccca ttgacccgtc tgccattagg cagacggggg aactaattct
+    30961 tcgccttgcg ttttgacttc atggatttca cagccgccaa gcaataagcc gtgtagtcct
+    31021 tcactggaaa ctttgcaatg gtctgaccga tgacttcaag cggaaggtct tcgagcttct
+    31081 tgaaccggat gcaggccttt cccatgtcga gtttcttgcc ccggcgggca aactcttccc
+    31141 cgagccagcg catgacgggc tcattcatat agatgcacat caggtagagg gccatgtggt
+    31201 gcttctggga tccaagcgaa gcaaagggca gcggttgttt tggatcgcag tggtatccgg
+    31261 cagggaaaat gctgtgcggg acataatacc cgatcatgcc atatgacata ccctcttcat
+    31321 aacccttggg caggtactcc agtatgacct tgcgaaccgc actgattgcc tcacgccgat
+    31381 ccggcggcaa ggcggcaagg tattcgttca cagtcgtggc cgcgatcttc atgtccctgg
+    31441 tcttccctgg atggtatgaa tcgaaacgac acgccagagt agcgttttgc gcaagaaaat
+    31501 acggatggaa tcgatacaat aatgctcgct gatacaatcg cagaactcgc gcgtacgcgc
+    31561 gaccgcatac tccaatccaa ggagtatctt tgacgttgca ggaaaacgcg tcgacgcgga
+    31621 acggctcgag gccgaaagcg cggcggggga tttctggaat gacaatcagc gtgcacagga
+    31681 gcatctgaaa aagcttaccg cgcttaagcg ggtcgtcgaa ccttgggacg ccctcgaccg
+    31741 tgatacttcc gacagccttg agatggccga gatgctgaag gccgagggcg acgagagcat
+    31801 ggcgcccgaa ctggaaaagc aggccgccga actcgcgcag cgactcaatg accttgagtt
+    31861 caaaagcatg ctcagcgagg ccgaggacgt gtcggattca ttccttcaca tccacccggg
+    31921 agccggcggc acggaaagct gcgattgggc aaacatgctc ttgcgcatgt atacacgctg
+    31981 ggccgagcgc aaaggcttta aggttgagct tatcgatctc cagcccggag aaggcgccgg
+    32041 aatctcgcgc gtcacccttg ccgtgcgagg ggaatatgcg ttcggatatc tcaaggcgga
+    32101 gtccggggtt caccgcctgg ttcgcatctc ccctttcgac gccaacaagc gccgccacac
+    32161 gtcctttgca tccgtgcatg cctacgcgga ggtcacagac gacatcgagg tcgagattct
+    32221 cgacaaggat ttgcgcattg atacgtaccg gtcctctggc gccggcggcc agcacgtgaa
+    32281 cgttaccgac agtgccgtcc gcattacgca cattcccacc aagattgtcg tctcctgcca
+    32341 gaacgagcgc agccagcaca agaacaaggc caccgccatg aaagtgctgc gttcgcgcct
+    32401 ctatcagctg tacaaggagc agcgcgaagc cgaccaggcc gccaaagccg gggagaagaa
+    32461 ggacatctcc tggggttcgc agattcggtc ctacgtgttc cagccctacc agatggtgaa
+    32521 ggaccttcgc accgacgtgg agacgagtaa catcggcgcc gttatggacg gcgcaattga
+    32581 cccgtttatc gaggccttcc tgcgttcaca aatgggcaag caaaaggttt gatttgccct
+    32641 tttcgcagtc cgcagtattc aataatactt aggtggaaat aggagcgaat tgaacacttt
+    32701 cgaacaacaa caggaacttt ttgcgctgaa aacacgggct cgagtcgacc cgcgaattac
+    32761 cgcaatggaa gtcgccgcat cccgcaaagg gacaatcgtc acgattgcag gtttttccgc
+    32821 caatcaccat acggacgcct gcgtccgcgc cgtggctgcc gatgtcttcg gcaggcgcaa
+    32881 tgtccgcttc gagttgaagg tcctcacgcg cgattacccg ctatcctttt acgaggtcac
+    32941 cgtcgccaac gccgtgttct acaagaccac gaagatcatc aaggcagacc tgctcaccga
+    33001 ggcattctgc ggcagcgtga tacgcggata cttcgaacac aagggatgga tcttctgcca
+    33061 gcatagcgac ggctacgttg gctacgttcc caaggcatcc ctcgtcccag ccgacaagaa
+    33121 gcgctacctc cggtggaaaa acggaaaatg cgccaccctg cagagaaccg taaagctggg
+    33181 tggaatgtct ctcgccccgt gcacccgatt gatttacgat aatggccggg tgaatttgcc
+    33241 gggcgataag tgggtgaggg tttccgcgcg tgacataaag gtctccaaac cgggaaatcc
+    33301 ggcattcatc cgctctgtac gccgtcacac ctggccaacg ttcaaaaaca caaaatactt
+    33361 atggggcggt aaaactcaga tcgggataga ttgctccggc ttcatgcaga ccctcgcgct
+    33421 cctcgaaggg atcctcctgc cacgcgacgc cagtatgcag gcttacgttg gcgagataac
+    33481 cggctatctg ccggactact cggacatgct ccccggcgat ctcatcctgt tcatcaacga
+    33541 ccaggccaag tactttcatg tcggcatctg gattggcaac gacatgttcc ttcattcctc
+    33601 gggaaccaag aacataatca tttcatctat gcacccgtcg ggcaaaaact acatggcacg
+    33661 ctacggcgaa actttcgcgt tcggaaggcg cattcacctg tgaaattcaa acactcaacc
+    33721 tacaccctga acctcatcaa tccattcggt attgcccgat ccacgaagac acaaagcccg
+    33781 gttgtcctgg tcaatctcga tggcggctgg ggcgaatccg ccccgacaaa cttttacggg
+    33841 gaaaacgccg acaccgttca tgctgccctt cagaaaatgg aagcactcga tgtcgctgac
+    33901 ctggattgca tcgaagacat cgacgatgcg ctcctggcca ttgcaccaaa agaccagagc
+    33961 gcgcgcgccg cggttgatat tgcgcttcac gacaggctcg cgaagaacct gaatgtccca
+    34021 ctctataagc tcttcggcaa aagccccgac aaggaaatga tcacttcgtt caccatcggg
+    34081 atcgataccg tggatgaaat gatgcgcaag gtggacgagg caaagcagta cgacatcctg
+    34141 aaaatcaaac tcggcaagga tcttgagcaa gaccttgccg tcatgaagga aattcgaaaa
+    34201 gcagtgggag acaaaactgt tcgagtcgat gccaacggcg gttggaccct ggaacaggca
+    34261 aaacaggcat tgccggcaat ggccgacctg ggtgttgagt acgtcgagca acccctttac
+    34321 aaaggctcac acgctgaact caaggaactg aagaagggcg ctccccttcc catcttcgtg
+    34381 gatgaagatt ccatggtcgc aaaagacctc cccaaactca ttggtgctgt cgacggtatc
+    34441 aacatcaagc tcatgaaatc aggcggcatt gccgaagccc gccgaatgat tgcactcggc
+    34501 cgcgccctgg atttccagat tatgatcggg tgcatgattg aaaccagcgt tgccatttcg
+    34561 gcggccgcgc acctcggtcc attctgtgac ttcctcgatc tcgacggaaa tctcctcatc
+    34621 tcgaatgatc catttgccgg cgtggaatgc gagaagaatg gccgcataca tttaagcgat
+    34681 gcgccgggcc ttggcgtcgt cgtgcgttcg gagtatgcaa acgcagtgcc ggcctgaccg
+    34741 gtcgcaattt tcgccgcagc tcggcgccct cgctgtcatt gcggccattt cactggcctt
+    34801 gcgctggtgg cgattggacc tgatgagttt tcgcttcgac tcggcggaag ccatgttccg
+    34861 cgcgcgg
+//
+
+LOCUS       GQ244491                2695 bp    DNA     linear   ENV 12-MAY-2010
+DEFINITION  Uncultured bacterium AOAmox1 genomic sequence.
+ACCESSION   GQ244491
+VERSION     GQ244491.1
+DBLINK      BioProject: PRJNA36531
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium AOAmox1
+  ORGANISM  uncultured bacterium AOAmox1
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 2695)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Metagenomics Reveals Antibiotic Resistance Genes Encoding Predicted
+            Bifunctional Proteins in Apple Orchard Soil
+  JOURNAL   Appl. Environ. Microbiol. (2010) In press
+   PUBMED   20453147
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 2695)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Antibiotic Resistance Genes in a Managed Ecosystem as Revealed by
+            Functional Metagenomics
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 2695)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUN-2009) Bacteriology, University of Wisconsin, 1550
+            Linden Drive, Madison, WI 53706, USA
+FEATURES             Location/Qualifiers
+     source          1..2695
+                     /organism="uncultured bacterium AOAmox1"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:654970"
+                     /clone="AOAmox1"
+                     /environmental_sample
+                     /country="USA: Wisconsin"
+     gene            454..1155
+                     /locus_tag="WISOIL_0032"
+     CDS             454..1155
+                     /locus_tag="WISOIL_0032"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="ACS83722.1"
+                     /translation="MVTSSLLHSIPGLRHGFGTAAALVPPALAPVWDLRPAKRQVHGV
+                     RVAAIVAPQQQVGDADGFQTAVPGLPVSIITADCVPLLLARRDGRQVAAVHAGWRGLY
+                     DGIIPAALAAFAQDSPARVIRGLTPWGDTGSAVVAAVGPTICAACYEVSVEMAADFEQ
+                     RFGAAAVPAFRHLDLRAIAALQLRQAGVVEIDHVGGCTCCTRDAAGTPVYRSYRRGDR
+                     GSQMHSGLYITTKGE"
+     gene            1155..2006
+                     /gene="amo1"
+                     /locus_tag="WISOIL_0033"
+     CDS             1155..2006
+                     /gene="amo1"
+                     /locus_tag="WISOIL_0033"
+                     /note="metallo-beta-lactamase"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Amo1"
+                     /protein_id="ACS83721.1"
+                     /translation="MKVIASLILAAFATVAHVASAQERDWSAPQQPFAIYGNTHYVGT
+                     AGISAILLTSPQGHILLDGTTGKGASVVAANIQALGYRLKDVKYILGSHSHEDHAGGI
+                     AALQKLTGAQVLVGAANVASMRSGVSPSTDPQFGSLSNFAGAAKVRGVADGEVVKLGP
+                     LVVTAHSTPGHTAGGTSWSWQSCEAGQCRNVVYVDSVTAVSADGYRFSDHPELVAQFR
+                     NTFSIVEGLSCEVAIAAHPEFNDLWGRQQRAAQEGSAAYVDSKGCRIIAEAGRKRLET
+                     RLASEQR"
+ORIGIN      
+        1 ccgctgatcg acggcggccg caatagtgcg aatgtgacgc gcagcgaagc ggcgctggaa
+       61 gaatcggtgg ctggctaccg ccagaccgtg ctgagtgcat tcgccgaggt ggaagacaac
+      121 ctggcgggcc tgcgcatcct gggcggccag accgcgcaga tcgacgatgc gctggtttcc
+      181 gcgcgccgtt cggccgatct ggcgcaaaag ctgtacgacg ccggccgctc cagctacctg
+      241 gacctgctcg atgcgcagcg caacctggct gcggtcgagc gcaacgcggt gcaattgcgc
+      301 ggcgaccgtg ccgtcaccac ggtggcgctg attcgttccc tgggcggcga ctggaattaa
+      361 atctgcgagt tgattagccc ttcacggcgt tgcgctcttg cggacgccgt gttttttcgc
+      421 tatcattgcg acaaatgtca cacaaaggct aatatggtca caagcagtct gttacacagc
+      481 attccaggcc tgcggcatgg cttcggcacc gccgccgcgc tggtgccgcc cgccttggcg
+      541 cccgtatggg acttgcggcc ggccaaacgc caggtgcatg gcgtgcgcgt ggcggccatt
+      601 gtcgcgccgc agcagcaagt gggcgacgcc gatggcttcc agacggccgt gccgggcctg
+      661 ccggtcagca ttatcaccgc cgattgcgtg ccgctgctgc tggcgcggcg cgacggcagg
+      721 caggtggcgg cggtgcacgc cggctggcgc ggcctgtacg acggcatcat ccccgccgcg
+      781 ctggccgcct tcgcccagga cagcccagcc cgtgtcatac ggggcctgac cccatggggt
+      841 gacacgggct cggctgtggt ggcggcggtc gggccgacga tctgcgcggc gtgctatgaa
+      901 gtcagcgtgg agatggcggc ggatttcgaa cagcgcttcg gcgcggcggc ggtgccggct
+      961 ttccgccatc tcgatttgcg cgcaatcgcg gcgctccagt tgcgccaggc aggcgtggtg
+     1021 gaaatcgatc acgtcggcgg ctgcacttgc tgcacccgcg acgccgccgg tacgccggtt
+     1081 taccgcagct accggcgtgg cgatcgtgga tcgcaaatgc attcggggct gtacatcact
+     1141 accaaaggag aataatgaag gtcatcgcat cccttatcct ggccgctttt gccactgtcg
+     1201 ctcatgtcgc cagcgcgcag gagcgcgact ggagcgcacc gcagcagccg tttgccatct
+     1261 acggcaatac ccactacgtc ggcaccgccg gcatcagcgc catcctgctg acgtcgccgc
+     1321 aggggcacat cctgctggac ggcaccacgg gcaaaggcgc gagcgtggtg gcggcgaata
+     1381 tccaggcgct gggttatcgg ctgaaggatg tgaagtacat cctgggttcg cattcgcatg
+     1441 aggaccacgc gggtggcatt gcggcgctgc agaagctgac cggcgctcag gtattggtcg
+     1501 gcgcggccaa cgtcgcatcc atgcgcagcg gggtgtcgcc aagcaccgat ccgcaatttg
+     1561 gcagtctgtc gaacttcgcc ggcgcggcga aggtgcgcgg cgtggccgac ggtgaggtcg
+     1621 tgaaacttgg cccgctggta gtcactgcgc acagtacgcc tggccatacg gcgggcggta
+     1681 ccagctggag ctggcagtcc tgcgaggcgg ggcaatgcag gaacgtggtc tatgtggata
+     1741 gcgtgaccgc ggtgtcggcc gacggctacc gtttcagcga ccatccggaa ctggtggcgc
+     1801 aattcaggaa caccttcagc atcgtggaag gattatcctg cgaggtggca atcgctgcgc
+     1861 atccggaatt caatgatttg tggggccgcc agcagcgggc ggcgcaagag ggcagtgcgg
+     1921 cctatgtcga cagcaagggt tgccgcatca tcgccgaggc cgggcgtaaa cgtcttgaaa
+     1981 cccgcctggc aagcgaacag cgctaggcag gacgggtcga agcgtcgcgg gcggtccccg
+     2041 cggggacagc gcgccagccg ttttggaggc ggcgaggggg cggcgcgctg tcggcgggga
+     2101 agcggctgct gcttacttgg ccggagcggc ttccttggtg gcggctactt ccttggctgc
+     2161 ctcggctttc ttggcatgct tggccttttt catgtccttg gcgccgctgt gctcatgcga
+     2221 agcggctggc atggctgccg ctgccggcgt ggcaggggtg gcgggagtcg ctttgctgcc
+     2281 tttgtcggct gcaacggccg gcgtggctgg cgtcgcaggc gtcgcagcgc tggcggcagg
+     2341 ggcggcggct ggcttggcgg ccggcgctgg agcttgggcg aaggcagcgg tgacgaacag
+     2401 gctggcgagc agggtggcga tggttttctt catggtcaag ctcctggttt aaaaatggta
+     2461 taaatcgttt catgtggcgt gcactattgc cgtgtcactg agctgaaaac ggcggccgtg
+     2521 tcgaaccagt tgacgggcat tacaactcct tacacttggc aaaaatgctt acaaagtgaa
+     2581 ctggataacc gtctgggcgc cgtgccgccc ttacagtggc cgcatgaagg acgcactcaa
+     2641 gacttacaag gcgaagcggg acttcagcat tacgccggaa cccgcaaggg gaagg
+//
+
+LOCUS       GQ244492                2362 bp    DNA     linear   ENV 12-MAY-2010
+DEFINITION  Uncultured bacterium AOCarb11 genomic sequence.
+ACCESSION   GQ244492
+VERSION     GQ244492.1
+DBLINK      BioProject: PRJNA36531
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium AOCarb11
+  ORGANISM  uncultured bacterium AOCarb11
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 2362)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Metagenomics Reveals Antibiotic Resistance Genes Encoding Predicted
+            Bifunctional Proteins in Apple Orchard Soil
+  JOURNAL   Appl. Environ. Microbiol. (2010) In press
+   PUBMED   20453147
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 2362)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Antibiotic Resistance Genes in a Managed Ecosystem as Revealed by
+            Functional Metagenomics
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 2362)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUN-2009) Bacteriology, University of Wisconsin, 1550
+            Linden Drive, Madison, WI 53706, USA
+FEATURES             Location/Qualifiers
+     source          1..2362
+                     /organism="uncultured bacterium AOCarb11"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:654972"
+                     /clone="AOCarb11"
+                     /environmental_sample
+                     /country="USA: Wisconsin"
+     gene            303..983
+                     /locus_tag="WISOIL_0034"
+     CDS             303..983
+                     /locus_tag="WISOIL_0034"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="ACS83723.1"
+                     /translation="MITSSLLNGIPGIRHGFGTALALVPEVLQPLWTLRPDKKQVHGT
+                     EAVHITTPQQAVGHADAFFTSTPGIPVSVITADCVPLLLARRDGGMVAAVHAGWRGLY
+                     DGIIGATLAQLAQAGTPAASLVAAIGPTICANCYEVSEELAGQFASHYAALPREVVLP
+                     AHRHLDLRALAAHELRTAGVQDLEHVGGCTFCARDGAGHHIYRSYRRGDRNSQMHAGL
+                     YITPKGDT"
+     gene            980..1828
+                     /gene="crb11"
+                     /locus_tag="WISOIL_0035"
+     CDS             980..1828
+                     /gene="crb11"
+                     /locus_tag="WISOIL_0035"
+                     /note="metallo-beta-lactamase"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Crb11"
+                     /protein_id="ACS83724.1"
+                     /translation="MKTLASLVMAAFAAVAPAHADDWSDPQKPFTIYGNTHYVGTAGI
+                     SAVLITSPQGHVLIDGATAAGAKVIAANIAAMGYRLEDVKYILSSHSHEDHAGGISAL
+                     QKLSGATVLAGAANVEALRSGVSPKEDPQFGNLSNFQGVAKVRAVKDGEVLKQGPLAI
+                     TAHATPGHTVGGVSWTWQSCEMGKCKAMVFGDSLTAVSADSYRFSEHPEVVATFKASF
+                     SKVEALPCDVMITAHPGVNALFERQKREAAEGKAAYVDAGACKAVAGKGRELLASRLA
+                     DEGKKK"
+ORIGIN      
+        1 tggtcagcgc ccgccgttcc gccgacctgg cgcagaagct gtatgacgcc ggccgttcca
+       61 gctacctgga cctgctcgat gcacagcgca acctggcggc cgtggagcgc aatgccgtac
+      121 agctgcgcgg caaccgtgcc gtcacgaccg tggcgctgat ccgatccctg ggaggcggct
+      181 gggattcagc cgtgacgaac tgattaattt ttagttcgat tgccctttaa cggcgctccg
+      241 ctcaagcggg cgccgttttt tttcgctatc attgccgcag ttttcgaaag gcgggggatg
+      301 gtgtgatcac gagcagtctg ttgaacggca ttccgggcat ccgccacggt ttcggcaccg
+      361 cgctggcact ggtgccggag gtgctgcagc ctttgtggac gctgcgtccc gacaagaagc
+      421 aggtgcatgg cacagaggcc gtgcacatca cgaccccgca gcaagccgtc ggccacgccg
+      481 acgccttctt taccagtacc cccggcattc ccgtcagcgt cattacggcc gattgcgtcc
+      541 ccttgctgct ggcgcggcgc gatggcggca tggtagccgc ggtgcatgcc ggctggcgcg
+      601 gcctgtacga cggcatcatt ggcgccacgc tggcgcaact ggcgcaggcc ggcacgcctg
+      661 ccgcttcgct ggtcgcagcg atcgggccga ccatctgcgc caactgctac gaagtgagcg
+      721 aggaactggc cggccagttc gccagccatt acgcggcgct gccgcgcgaa gtcgtgctgc
+      781 cggcacatcg gcatcttgac ttgcgggcac tggcggcgca cgagttgcgc accgccggcg
+      841 tccaggacct ggagcatgtc ggcggctgca ctttctgtgc acgcgatggc gccggccacc
+      901 atatctatcg cagttaccgg cgcggcgacc gcaattcgca gatgcacgcc gggctgtaca
+      961 tcaccccaaa aggagacaca tgaaaacact ggcttcactt gtcatggcgg cctttgccgc
+     1021 tgtcgcaccg gcgcacgccg atgactggag cgacccgcaa aaaccgttca cgatctacgg
+     1081 caacacgcac tatgttggca cggcgggcat ttcggcggtg ctgatcacgt cgccgcaagg
+     1141 ccatgtgctg atcgatggcg ctaccgctgc cggcgccaag gtgatcgcgg caaatatcgc
+     1201 tgccatgggg taccggctgg aggacgtcaa atatattctc agctcgcact cgcacgaaga
+     1261 ccatgccggc ggcatttccg cgctgcagaa gctgagcggc gccacggtgc tggccggtgc
+     1321 cgcgaatgtg gaagccctgc gcagcggtgt gtcgccgaaa gaagatccgc agttcggcaa
+     1381 cctgtcgaat ttccagggtg tggcgaaggt gcgggccgtg aaggacggcg aggtactgaa
+     1441 gcaggggccg ctggccatca cggcacatgc gacgcctggc cacacggtgg gaggtgtcag
+     1501 ctggacctgg caatcctgcg agatgggcaa atgcaaggcg atggtctttg gcgacagcct
+     1561 gaccgccgta tcggccgata gctatcgttt cagcgagcat ccggaagtgg tggcaacctt
+     1621 caaggcaagc ttcagcaagg tcgaagcgct gccatgcgac gtcatgatca ccgcccaccc
+     1681 tggcgtgaac gcgctgttcg agcgccagaa gcgcgaggcg gcggagggca aggcggctta
+     1741 tgtcgatgcg ggagcctgca aggcggttgc aggcaagggg cgtgaactgc tggcttcccg
+     1801 cctggcggac gagggaaaga agaagtaaag ccatgaaaaa aggcccgctt gctgagcggg
+     1861 ccttttgtat tggaacggct tacttggacg gagcggcttc cttggtttct gccttggctt
+     1921 ccgtgtgcac tggcttggcc ttggcggctt tcttgtgctt cttcacttca ggtgccgggg
+     1981 tcgcggcctt gctgtccttg gcttcggcct tgactgcagg cgtggctgga gtggctggcg
+     2041 ttgccggcgt agctggcgtc gcggccttgg cctctgcctt gacagccggc gtggccgccg
+     2101 ttgccggggt tgccggggtt gccggcgttg ccggggttgc agccggcgcg cttacggcag
+     2161 cgctggaagc gtgtgctgcg gcagcgggag cagccggggt ttgtgcgaag gcgacggtgg
+     2221 cgaacaggct ggcgataacg gtagcggcaa tcttcttcat ggtcaggctc ctggtgaatt
+     2281 tgttggtagt gaacatctgg tcactgagca ggaaacgcgg cctcgggatg gtcagttgac
+     2341 gactattaca gctggttaca aa
+//
+
+LOCUS       GQ244493                3021 bp    DNA     linear   ENV 24-JUL-2016
+DEFINITION  Uncultured bacterium AOCefta11 genomic sequence.
+ACCESSION   GQ244493
+VERSION     GQ244493.1
+DBLINK      BioProject: PRJNA36531
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium AOCefta11
+  ORGANISM  uncultured bacterium AOCefta11
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 3021)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Metagenomics Reveals Antibiotic Resistance Genes Encoding Predicted
+            Bifunctional Proteins in Apple Orchard Soil
+  JOURNAL   Appl. Environ. Microbiol. (2010) In press
+   PUBMED   20453147
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 3021)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Antibiotic Resistance Genes in a Managed Ecosystem as Revealed by
+            Functional Metagenomics
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 3021)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUN-2009) Bacteriology, University of Wisconsin, 1550
+            Linden Drive, Madison, WI 53706, USA
+FEATURES             Location/Qualifiers
+     source          1..3021
+                     /organism="uncultured bacterium AOCefta11"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:654976"
+                     /clone="AOCefta11"
+                     /environmental_sample
+                     /country="USA: Wisconsin"
+     gene            <1..375
+                     /locus_tag="WISOIL_0036"
+     CDS             <1..375
+                     /locus_tag="WISOIL_0036"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="D-glucarate dehydratase"
+                     /protein_id="ACS83725.1"
+                     /translation="SVRVAQMCHEWGLTWGSHSNNXFDISLAMFTHVAAAAPGEITAI
+                     DTHWIWQDGQRLTKAPLQIVDGCVQVPQKAGLGVELDMDQVAKAHELYKGMGLGARDD
+                     SVAMQFLIPGWTFDNKKPCLVR"
+     gene            445..1614
+                     /gene="cft11"
+                     /locus_tag="WISOIL_0037"
+     CDS             445..1614
+                     /gene="cft11"
+                     /locus_tag="WISOIL_0037"
+                     /note="class C beta-lactamase"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Cft11"
+                     /protein_id="ACS83726.1"
+                     /translation="MARTESMADLIHMNKLKTLAACMAMLATGPCIAADPIETAVNAA
+                     VQPVMQAQNIAGMAVAVTVNGKPQYFNYGVASTETGKPVSENTLFEIGSVSKTFTATL
+                     AAYAQATGKLSLSDKASQVWPALRGSAFDRISVLQLGTYSAGGLPLQFPPEADSADTM
+                     LGYYQQWKPLYPAGTHRLYSNPSLGLFGYLAAHSIGQPFDDAMEKTLLPKLGLKHTYV
+                     NVPQDQMSLYAQGYNKDDKPVRVGPGALDSEAYGVKTSAADLLMYVQANMKPASLAKP
+                     LQQAIALTHTGYYTVGDMTQGLGWELYAYPVSLDRLLEGNSTPMAMQAHKVQWLNPPQ
+                     PQPSNVLINKTGSTGGFGAYVAFVPSKDIGIVILANKNFPIAERVKIAHQVLSAL"
+     gene            complement(1926..2477)
+                     /locus_tag="WISOIL_0038"
+     CDS             complement(1926..2477)
+                     /locus_tag="WISOIL_0038"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="ACS83727.1"
+                     /translation="MLIRSLTLATLLAIAGPLFAADGDSPLDMDKGRSRPLIVIAPST
+                     VDPMWVSLKQSLDEPANRKGFTDRNMVLYTVLNLMGQREGKDLGPQDTAALIRSLKLG
+                     AGSKSKVILVGKDGEKKFEQSENIKLEDIFSAVDQLPAAEKETPPPTVATPAPEAPAA
+                     KGAKNTKQAKSTKPVKPPEMPDD"
+ORIGIN      
+        1 tcggtacgcg tggcgcagat gtgccacgaa tggggcctga cctggggctc gcattccaac
+       61 aatcanttcg acatttccct ggcgatgttc acccacgttg cggccgctgc gccgggcgaa
+      121 atcaccgcca tcgacactca ctggatctgg caggacggtc agcgcctgac caaggcgccg
+      181 ctgcaaattg tcgatggctg cgtgcaggtg ccgcagaaag cggggctggg tgtggaactg
+      241 gacatggatc aagtggccaa ggcccatgaa ctctataaag gcatgggcct gggtgcgcgg
+      301 gacgacagcg tggcgatgca gtttttgatt ccgggctgga cgttcgataa caagaagccg
+      361 tgcctggtgc gctgaatgcc ggttttgaaa cccactcccg gccgcgcatg aaaaaccgtc
+      421 cgccattgca ttcaaccgcc taaaatggcg cgcactgaat caatggcgga cctcatccac
+      481 atgaacaagc tgaaaacact tgcggcctgc atggccatgc ttgctactgg cccctgcatc
+      541 gccgcagatc caatcgagac agccgtgaac gccgctgttc aaccggtgat gcaagcccag
+      601 aacattgccg gcatggccgt ggcggtgacc gtcaacggca aaccgcagta tttcaactat
+      661 ggcgtagcct cgacagaaac cggaaaaccg gtctcggaaa acaccctgtt cgagatcggc
+      721 tccgtcagca aaaccttcac cgccactctc gccgcctatg cccaggccac cggcaaactg
+      781 tcgttatcgg acaaggccag ccaggtttgg ccagccctgc gcggcagcgc gttcgaccgc
+      841 atcagcgtgc tgcaattagg cacttacagt gccgggggcc tgcccctgca atttccgcct
+      901 gaggccgact ccgccgacac catgctcggt tactaccagc agtggaaacc gctctaccct
+      961 gccggcaccc atcgcttgta ttcaaacccc agcctgggcc tgttcggcta cctcgccgcg
+     1021 catagcatcg ggcagccgtt tgatgatgcg atggagaaaa ccctgctgcc gaaactcggt
+     1081 ttgaagcaca cctatgtgaa cgtgccacag gaccagatga gcctctacgc ccagggctac
+     1141 aacaaggacg acaaaccggt gcgagtcggc cccggcgcac tcgattccga agcctacgga
+     1201 gtgaaaacca gcgcggcgga cctgttgatg tatgttcaag cgaacatgaa gccggccagt
+     1261 ctggcaaaac cgttgcaaca ggccatcgcc ttgacccaca ccggctatta caccgtcggc
+     1321 gatatgactc agggattggg ttgggagttg tatgcctatc cggtttcgct ggaccgcctg
+     1381 cttgaaggca actcgacacc catggccatg caagcgcaca aagtccaatg gctgaacccg
+     1441 ccacagccac agccgagcaa cgtactgatc aacaagaccg gatcgaccgg tggtttcggc
+     1501 gcctacgtcg catttgtgcc gtcgaaggac atcggcatcg tgatactggc gaacaagaat
+     1561 ttcccgattg cagagcgggt caaaattgcc catcaggtac tgagcgcctt gtaggtgcga
+     1621 gctcgctccg ggcggcgttg cgacaaatgg gccgagatcg gtggtggttt gagcgtggcg
+     1681 gcgaagcaga atcatcattt ctacgccgag ggtggataca ccaagggcag tgacatcgaa
+     1741 cagccctggg ctgtgacggt ggggtatcgc tacaacgggt agctttcctg actgatgcag
+     1801 atgctttgga gagagcctat cggagcgccg ggcagagctg ccggtgtatc tgaagcgggg
+     1861 ccgcttcgca gcccaacggg ggcaagcccc ctcgccacct gctgttacaa ggatttcgcg
+     1921 ccggatcaat catccggcat ttcaggcggt ttgacgggtt tggtcgattt agcctgcttg
+     1981 gtgttcttgg cgcctttagc cgcgggcgct tctggcgctg gagtggccac tgttggcggt
+     2041 ggggtttctt tctcggccgc aggcagttgg tcgacggcgc tgaaaatatc ttccagcttg
+     2101 atgttctctg actgttcgaa tttcttttcg ccatccttgc cgaccagaat caccttgctc
+     2161 ttggacccgg cccccagttt gagcgagcgg atcaacgctg ccgtgtcctg tggccccagg
+     2221 tccttgcctt cgcgctgtcc catcaggttg agcacggtgt acagcaccat gttgcggtcg
+     2281 gtgaaaccct tgcgattggc cggctcgtcc agtgactgtt tcaggctgac ccacataggg
+     2341 tcaacagtgc ttggggcgat aacaatcagc ggacgggacc ggcccttgtc catgtccagc
+     2401 ggtgagtcgc catcggcggc gaacaggggg ccggcgattg ccagcagggt agccagggtc
+     2461 agtgacctga tgagcatgcg cctctccttt tgatatccac gctctaatga ttgcgcatcg
+     2521 cggcgttcgt tccggtgacg ctcggcaaat gtgctctgcc ttgccccaag cttaggtcag
+     2581 cgcggtcatt gcgcaacagc tcggggcaat cttgggcgtg aaccaatgcg aaggaagatc
+     2641 aaggattgtg cgacaggatg gcgggtgaat ttcgataccc acgtcgggca tctgctggaa
+     2701 atattcaccc gcaaaaagga agggatcgaa tcagaacgcc agtttgtagc cgatcagcat
+     2761 cagcatggtt gccaggcaag ggcgcagcag ttcatcggag atccgcccgg tcaggtggct
+     2821 gcccagataa atccccggca acgaaccgac cagcaagtaa cccagcacct gccaatccat
+     2881 gttgcccatg ctcgcgtgac cnaaaccggc gaaccagcgt cagcggaaac ggcgtgggca
+     2941 atttctgtcc ccaccaaacg gcgagtcggc aacaacggaa aaaaaaatga acagtgccac
+     3001 ggtgcccaag gcgccggcgc c
+//
+
+LOCUS       GQ244494                2251 bp    DNA     linear   ENV 24-JUL-2016
+DEFINITION  Uncultured bacterium AOPip4 genomic sequence.
+ACCESSION   GQ244494
+VERSION     GQ244494.1
+DBLINK      BioProject: PRJNA36531
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium AOPip4
+  ORGANISM  uncultured bacterium AOPip4
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 2251)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Metagenomics Reveals Antibiotic Resistance Genes Encoding Predicted
+            Bifunctional Proteins in Apple Orchard Soil
+  JOURNAL   Appl. Environ. Microbiol. (2010) In press
+   PUBMED   20453147
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 2251)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Antibiotic Resistance Genes in a Managed Ecosystem as Revealed by
+            Functional Metagenomics
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 2251)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUN-2009) Bacteriology, University of Wisconsin, 1550
+            Linden Drive, Madison, WI 53706, USA
+FEATURES             Location/Qualifiers
+     source          1..2251
+                     /organism="uncultured bacterium AOPip4"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:654982"
+                     /clone="AOPip4"
+                     /environmental_sample
+                     /country="USA: Wisconsin"
+     gene            complement(16..1212)
+                     /gene="pip4"
+                     /locus_tag="WISOIL_0039"
+     CDS             complement(16..1212)
+                     /gene="pip4"
+                     /locus_tag="WISOIL_0039"
+                     /note="class C beta-lactamase"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Pip4"
+                     /protein_id="ACS83728.1"
+                     /translation="MQNDRIFFGAIMMRLFKVFIVLFFSLLIPIHSYAVSNDKINDLA
+                     RNFMKENQVEGMSVAVLDKNRILILNYGIADEFKKTPVTNDTIYTIASFSKTVTATLA
+                     AIASVENKLNLDEPFIQHFPGLNNDKDMGSITTRELLGHVSSLPFDFTPRPKTYPELV
+                     SALNHFDPKWPPGTEYSYSNASIGVVGYVLQNVYSEKYQDILNGKILKPLHMTSTFLT
+                     VPAEKEKYIALGHEKDNKIVPYSKDNGVWFAAASLKSTISDMAKYLNAHINYASLQDK
+                     NLARGIAVVHENNYCFADKLSCEQLAWQAHVISELKNSSGDSYFVAYDSNDMPTFARK
+                     QIMENGGLDKSKIFIDKTGSGFGMSSYMAYIPADKVGVVILLNKGIADERIKLGRDIL
+                     RSLGSA"
+     gene            complement(1285..>2251)
+                     /locus_tag="WISOIL_0040"
+     CDS             complement(1285..>2251)
+                     /locus_tag="WISOIL_0040"
+                     /codon_start=2
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="ACS83729.1"
+                     /translation="VGPYGQVYFKAGLITWASLALYYSNLPWATPRLMMAIVFAIFGV
+                     WALWFAHKRHITLLFSVLFLGILAWFISIKPSHDRPWRPEFARMPTAIVNGDTVHLIN
+                     YRNFDFRTRTDFTERYEERTVSLSHLTGLDLYISYWMPGPIGHTFVSFIFDNAAPVSV
+                     SIETRPEIGEAFAPIASMFKQFELIYVVGDERDLVRSRTNVRKERVFLYHIRISPNNA
+                     RRLFLVYLERINELAAHPEFYDLFRNSCTVNIIRYANLAGRVGRFDISHLLNGLIDGY
+                     LYNQGWLNTSMPLNELRARSFINPAAEAADQQADFSERIRASLPK"
+ORIGIN      
+        1 cgggctacaa aaaacttatg cgctgcccaa acttctcaaa atatcccgcc ccagtttgat
+       61 tctttcatca gcaatgcctt tattcaaaag aataaccacc ccaactttat ccgctggaat
+      121 gtaagccata taactcgaca tgccaaaacc ggagcctgtt ttgtcaataa atattttgct
+      181 tttatcaaga ccaccatttt ccatgatttg ttttctggca aaagttggca tgtcattgct
+      241 gtcataagca acaaaatatg agtcaccgga gctgtttttc aactctgata taacatgtgc
+      301 ttgccatgcg agttgttcgc aggacagttt atcggcaaaa caataattat tttcatgcac
+      361 aaccgctatg cccctggcaa gatttttatc ctgtaatgag gcgtaattga tgtgcgcatt
+      421 taaatacttt gccatatcag aaatggttga cttcaaagat gccgctgcaa accatacccc
+      481 attgtctttg ctgtaaggca cgattttatt atctttctca tgacccagcg cgatatattt
+      541 ttccttttcc gcaggcactg tcaaaaaggt tgaagtcata tgcaatggct ttaatatttt
+      601 gccgttcaaa atgtcctgat atttttcaga gtaaacgttc tgcaaaacat aacccaccac
+      661 acctatgctt gcgttcgaat aactgtattc agttccggga ggccattttg gatcaaaatg
+      721 atttaaagca ctcacaagct ccggataggt tttggggcga ggtgtaaaat caaacggcaa
+      781 tgaagacaca tggccaagca actctcttgt ggtaatgcta cccatatcct tgtcattgtt
+      841 gagcccggga aagtgttgaa taaagggctc gtccaggttc agtttgttct caacagaagc
+      901 gatcgcggcc aaagttgcag taactgtttt gctgaaggaa gcaatcgtgt atatcgtatc
+      961 gtttgttacg ggtgtttttt taaactcatc cgcaatacca taattaagaa tcaatatcct
+     1021 gtttttatcc aaaacagcga cagacatccc ctcaacctga ttttccttca taaaattccg
+     1081 tgccaaatcg tttattttgt catttgagac ggcataagaa tggatgggta ttaacaggga
+     1141 gaaaaaaagg actataaaaa ctttaaataa tctcatcata atagctccaa aaaaaattct
+     1201 gtcattttgc attgtaccgg tcgaataaaa cggaacaaac cgagccgcga ctgtttcgtg
+     1261 tctgctccag gtgcatgggc cccgtcattt tggcaaggat gcacgaatac gctcagagaa
+     1321 atctgcctgc tgatcagccg cttctgctgc cggatttata aaggaacgtg cacgtaactc
+     1381 gttcagtggc atgctggtat tcagccagcc ctgattatac agatacccat ctatcaaacc
+     1441 attgagaaga tgactgatat caaagcgtcc tactcttccg gcaagattgg cataacgaat
+     1501 aatattgacg gtgcagctgt tacgaaacaa gtcataaaat tcgggatgag cggccagttc
+     1561 attgatgcgc tcaagataca ccagaaaaag acgacgggca ttgttgggtg aaatcctgat
+     1621 gtgataaaga aatacccgct ccttcctgac attggtgcgc gaacgaacca aatcacgctc
+     1681 atcacccacc acataaataa gctcaaattg tttgaacatg gacgcaatgg gtgcgaaggc
+     1741 ctcgccaatt tcaggtcttg tttcgataga aacactcact ggcgctgcat tgtcaaagat
+     1801 aaagcttaca aacgtatggc cgatgggacc cggcatccag tatgagatgt aaagatccag
+     1861 acccgtgaga tgcgacagtg ataccgtgcg ctcttcataa cgctctgtaa aatcagtgcg
+     1921 agtacgaaaa tcaaaattac gataattaat cagatgcacc gtatcaccat tgacaatggc
+     1981 tgttggcatg cgtgcaaact caggtcgcca gggcctgtca tgagatggct tgatgcttat
+     2041 aaaccaggcc aaaatgccaa gaaacaagac cgaaaacagg agagtaatgt gccgtttatg
+     2101 tgcaaaccat aaagcccaaa caccaaatat ggcaaacaca atggccatca tcagacgcgg
+     2161 ggttgcccag ggcaggttgg aatagtacag ggccagactt gcccatgtaa taaggcccgc
+     2221 tttaaaataa acctgaccgt atgggccaac c
+//
+
+LOCUS       GQ244495                2021 bp    DNA     linear   ENV 24-JUL-2016
+DEFINITION  Uncultured bacterium AOCarb2 genomic sequence.
+ACCESSION   GQ244495
+VERSION     GQ244495.1
+DBLINK      BioProject: PRJNA36531
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium AOCarb2
+  ORGANISM  uncultured bacterium AOCarb2
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 2021)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Metagenomics Reveals Antibiotic Resistance Genes Encoding Predicted
+            Bifunctional Proteins in Apple Orchard Soil
+  JOURNAL   Appl. Environ. Microbiol. (2010) In press
+   PUBMED   20453147
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 2021)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Antibiotic Resistance Genes in a Managed Ecosystem as Revealed by
+            Functional Metagenomics
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 2021)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUN-2009) Bacteriology, University of Wisconsin, 1550
+            Linden Drive, Madison, WI 53706, USA
+FEATURES             Location/Qualifiers
+     source          1..2021
+                     /organism="uncultured bacterium AOCarb2"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:654973"
+                     /clone="AOCarb2"
+                     /environmental_sample
+                     /country="USA: Wisconsin"
+     gene            complement(<1..600)
+                     /locus_tag="WISOIL_0041"
+     CDS             complement(<1..600)
+                     /locus_tag="WISOIL_0041"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="ACS83730.1"
+                     /translation="MKKQLLFITAVCVSFLQAKAQTPFPTMEYVDINKVKAAVLVHGD
+                     MWWDPVTQTSRCFFPATSARNIGFAGALWMSGYDASSQLHIASQMYRQNGNDYWPGPI
+                     DTTTGVLDLATSTDWAKIWKVKRDTIKKFLFDTAARTVSSTPKSILEWPGKGNTYARG
+                     AGGVSLNVIRSMAPFVDLNANGIYEPLLGEYPDVNGDLAL"
+     gene            complement(763..1617)
+                     /gene="crb2"
+                     /locus_tag="WISOIL_0042"
+     CDS             complement(763..1617)
+                     /gene="crb2"
+                     /locus_tag="WISOIL_0042"
+                     /note="class D beta-lactamase"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Crb2"
+                     /protein_id="ACS83731.1"
+                     /translation="MRKNIVVAILSVILFASCAETRIKEHADWGKFFESRGIKKACFM
+                     LRDNNHESIHYYNKARCTERFMPASTFKVFNSLVALETAIAPDDQLVITWDSVARRED
+                     CDKDLTMREAFKASCLGYYQEIARRIGPTKMQHYLDTVKYGNMKMGGRIDNFWINQSL
+                     QISADEQTGFLKRMYFAELPFAERSQRIVKTMMLQEQTPRYNLYYKTGTGPIGDKYIY
+                     WVVGFAERIEHVKEPKGSMNKSDVRNYPYFFALNFEMPQADTSQDWFKARIEILHDVL
+                     KEYGAIPK"
+     gene            complement(1679..>2021)
+                     /locus_tag="WISOIL_0043"
+     CDS             complement(1679..>2021)
+                     /locus_tag="WISOIL_0043"
+                     /codon_start=2
+                     /transl_table=11
+                     /product="dihydrolipoamide acetyltransferase"
+                     /protein_id="ACS83732.1"
+                     /translation="LKDVNALANAARNNKLKADDTQGGTFTVTNVGTFGSLMGTPIIN
+                     QPQVAILAVGAIKKRPMVLETEDGDVIAIRHMMYLSLSYDHRIVDGSLGASFLTAVAN
+                     ELEAFDVNRAV"
+ORIGIN      
+        1 cagcgcaagg tcaccattca catcagggta ttcgcccaaa agcggctcat aaataccatt
+       61 cgcattcagg tccacgaatg gggccatgct gcgtatcaca ttaagcgata ctccacctgc
+      121 ccctcttgcg taggtattcc ctttgcccgg ccactccagt atcgatttag gcgtactact
+      181 tacagtacgg gcagcggtat caaacaaaaa cttttttatc gtatcccttt tcaccttcca
+      241 tatcttggcc caatctgttg atgtggcaag gtccagcacg cctgttgtag tatctatcgg
+      301 gccgggccaa tagtcattac cattctgccg gtacatctgt gatgcgatat gcaactgcga
+      361 gcttgcatca taccccgaca tccatagtgc tccagcaaac ccgatgttgc gggccgatgt
+      421 tgcaggaaaa aagcaacgcg atgtttgcgt aaccgggtcc caccacatgt caccatgcac
+      481 cagcacagcg gctttcactt tattgatatc aacgtattcc atcgttggaa agggtgtttg
+      541 cgccttggct tgcaagaacg aaacgcaaac ggctgtaata aacagtaact gttttttcat
+      601 cgtgtatttt ataaaagatt aggcaatgtg tatattagca atacaaatat aaccaaaagg
+      661 caacactaaa gcacttatag gctacaacta cgtaaaaaaa gcagccctca aggctgctcg
+      721 ctttatcttt ttacttttag cttttcactt ttggtttttg ccttatttcg gtatcgcacc
+      781 gtattctttc agcacatcat gcaatatctc gatccgtgcc ttaaaccaat cctgtgacgt
+      841 atcagcttgc ggcatttcaa aattcagcgc aaagaaatat gggtagttcc ttacatcgct
+      901 tttgttcata gaccccttcg gctcttttac atgttctatc cgctctgcaa accctaccac
+      961 ccagtaaatg tacttatcgc ctataggccc ggtgcccgtc ttataatata ggttgtaccg
+     1021 cggtgtttgc tcctgcagca tcatggtctt tacgatacgc tgcgaacgct ccgcaaaagg
+     1081 taattccgcg aaatacatac gcttcaaaaa gcccgtctgc tcatctgccg atatctgtaa
+     1141 cgattggttg atccagaaat tatctatcct gccgcccatc ttcatattgc catacttcac
+     1201 cgtatccagg taatgctgca tcttggtagg ccctatccgg cgcgctattt cctggtaata
+     1261 ccccaggcag cttgccttaa acgcctcacg cattgttaag tccttatcac aatcttcgcg
+     1321 gcgggctacg ctatcccatg ttattacaag ctggtcgtca ggcgctatcg ccgtttcaag
+     1381 cgctaccagc gaattaaaaa ctttgaaagt ggacgccggc atgaaccgct ctgtgcaacg
+     1441 cgctttgtta taataatgta tcgactcgtg gttattatca cgaagcatga agcatgcctt
+     1501 tttgatacct ctcgattcaa aaaatttacc ccaatctgca tgttccttta tccgcgtctc
+     1561 cgcgcacgaa gcaaacagga tcacactaag gatggctact actatatttt tacgcatcaa
+     1621 gcttttactt acgacttatt aatttcaaat tcccaatccc caattccaac tccctacact
+     1681 acaccgccct gttcacatca aacgcttcca gctcattcgc cacagccgtc aggaagctcg
+     1741 cacccagcga accatccact atacggtggt catagctcag cgacaaatac atcatgtggc
+     1801 gaatagcaat tacatcccca tcttccgtct cgagtaccat tgggcgtttt ttgatagcgc
+     1861 ccacggcaag tatcgctacc tgcggctggt tgatgatagg tgtgcccatc aggctgccaa
+     1921 atgtgcccac gttcgtcact gtaaacgtgc ccccctgtgt atcgtctgct ttcagtttat
+     1981 tattacgtgc tgcgttcgca agcgcgttca catcttttag t
+//
+
+LOCUS       GQ244496                4774 bp    DNA     linear   ENV 12-MAY-2010
+DEFINITION  Uncultured bacterium AOCefta1 genomic sequence.
+ACCESSION   GQ244496
+VERSION     GQ244496.1
+DBLINK      BioProject: PRJNA36531
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium AOCefta1
+  ORGANISM  uncultured bacterium AOCefta1
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 4774)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Metagenomics Reveals Antibiotic Resistance Genes Encoding Predicted
+            Bifunctional Proteins in Apple Orchard Soil
+  JOURNAL   Appl. Environ. Microbiol. (2010) In press
+   PUBMED   20453147
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 4774)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Antibiotic Resistance Genes in a Managed Ecosystem as Revealed by
+            Functional Metagenomics
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 4774)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUN-2009) Bacteriology, University of Wisconsin, 1550
+            Linden Drive, Madison, WI 53706, USA
+FEATURES             Location/Qualifiers
+     source          1..4774
+                     /organism="uncultured bacterium AOCefta1"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:654975"
+                     /clone="AOCefta1"
+                     /environmental_sample
+                     /country="USA: Wisconsin"
+     gene            complement(23..1243)
+                     /locus_tag="WISOIL_0044"
+     CDS             complement(23..1243)
+                     /locus_tag="WISOIL_0044"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="ACS83733.1"
+                     /translation="MDHAINTLKTAQLTELELISKLKEPKEKLISLIERFNHFINQIE
+                     IIDNKTIIRLIGDEVADRGNCDYFTLRIIDLFRQNQGNMKIILSNHGCEFIYGCEQLA
+                     QGGSFTPQGSVANFQTSSFWGLELLLEHNIITADELLLLTNRSYKSTLKLIDYTLSED
+                     GITLFSHAPIKLDSLELMAKYLCVSYDDSTKGALAGTIEKINKCITILINKNSLHHFF
+                     DNNNIPDKCTMSEEERIAWPLIYFIWNRWDEKKETIDARPNSINGYNITYVHGHDPFQ
+                     SSYPHVYNLDTICGKEPRKIEDEKMNNSFLFIRQNCKTTNDTSPSENYLRNVFRLKVF
+                     DSBEGDLNYTSALKKELTIEESFKKMSLLGKPVLSXFETPQIDQTSHSGSLFVEIPLA
+                     SEKNEVHELIPILH"
+     gene            1303..2805
+                     /locus_tag="WISOIL_0045"
+     CDS             1303..2805
+                     /locus_tag="WISOIL_0045"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="penicillin binding protein"
+                     /protein_id="ACS83734.1"
+                     /translation="MAQAIPYRSSGKLIIKVSHHCDIPFSVFLMNKAYIVLPVSLLSS
+                     PNNVKIALAHEGQHHRNGDCLWAYFIEVIRIIFFCNPGVTRWKKVLSDLQEFSCDEVL
+                     IGHSKISPHDYGHCLVRVVQAASQSSLPTNPKFACAVGMALDKQNEDCTFIIRRISML
+                     SAYPLKTSRPLIIGIAFVGFSIVAPLCMAYSAAGTLTSPKLKEMDTSHLNPKIQDIAQ
+                     KEIALAVKEYHAKSGVIAIVDSKNGTIIAFAESSRNLENSWKSRVFSPGSTIKPFIAA
+                     AAIDSGTSYETKNYDCRSPYNIEGKTFTNYDSKVKSASLADAIAKSINVCLIKVSQEA
+                     GAPVVRKKLSEFGFDLNSGWQSSQSDDLQLAQASLGENIPVTIESLAKSYAILAHQGR
+                     SFEEPSKAVVSEKTLSSVNRMLENAVANGTGRRAAIPGISVAGKTGTVIENKVKPLAL
+                     FAGYAPANNPNYVLLVVIEDGYLSKNGATMTSGGELAAPVFHNVAKNILK"
+     gene            2910..3710
+                     /gene="cft1"
+                     /locus_tag="WISOIL_0046"
+     CDS             2910..3710
+                     /gene="cft1"
+                     /locus_tag="WISOIL_0046"
+                     /note="class D beta-lactamase"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Cft1"
+                     /protein_id="ACS83735.1"
+                     /translation="MKKIIVFLIIELLSCSTSWAQNTCFLVKENQTILKQEGNECTKR
+                     YAPESTFKIALSLMGFDSGLLKDETHPEWPYKKEYELYLNVWKSPHNPRTWIRDSCVW
+                     YSQVLTKQLGMARFKGYVDAFDYGNQDTSGDKGKNNGLTNAWLSSSLVISPTEQIQFL
+                     QKIVDKNIPVSSKAVNMTKKVLYIQELPGGWKLYGKTGTGRQLAKDGTTKLPLQHGWF
+                     VGWIEKEGRAITFANHIADSKENTVFASFRAKNDALIKLFYLINELEK"
+     gene            3785..4738
+                     /locus_tag="WISOIL_0047"
+     CDS             3785..4738
+                     /locus_tag="WISOIL_0047"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="transcriptional regulator"
+                     /protein_id="ACS83736.1"
+                     /translation="MTEWYVKDLSKLTGISVQTLHHYDRIDLLKPSLRLVNGYRVYSE
+                     KDLLKLQQIIALKFLGFELSQIKHLLFEESSALKHFNSQAELLEQKANALQAGAKALK
+                     SIIHSVDKSKSIPWETIIQLIEVYRMTENLEHGWVREIFTPDELKQYVEFENEMKANK
+                     TPEQKAAFEKKWYQLSEEVKNNIKFDPNSTVGIQTGKKYMEWVNGIYGKKYAHLRTKK
+                     WEKGFGEGKGLEDIGLTPEILVWLEKALDAYWKDRLYGILEQVGHSSNSSVSKLWNEA
+                     LDDMYGEEVLRKKAVYELVLKDDKVSPEAKLWLXNHLNSLN"
+ORIGIN      
+        1 ttaagaaatt taaaaaacta acttaatgaa gaatgggaat tagttcatgt acctcatttt
+       61 tctcagacgc caggggaatt tcgacgaata agcttcctga gtgacttgtt tggtctattt
+      121 gcggcgtttc gaaagyggaa agaacaggtt tacctagaag actcattttt ttaaaactct
+      181 cttcaatagt taattctttt tttaaagctg aggtatagtt caaatcacct tcatytgaat
+      241 cgaatacttt aaggcgaaat acattgcgta gataattttc tgaaggtgaa gtatcgtttg
+      301 tagtcttgca attttgtctt ataaataaaa atgaattatt cattttttca tcttcaattt
+      361 tacgaggttc ttttccacag attgtgtcta gattgtatac gtggggatag gaactttgga
+      421 aagggtcatg accatgtacg tatgtaatgt tatagccatt tatactgttt ggtcgcgcat
+      481 ctatagtttc ctttttttca tcccatcggt tccatataaa ataaattaaa ggccaagcaa
+      541 tacgttcttc ttctgacata gtacatttat cagggatatt attattatca aaaaaatgat
+      601 gtagactatt tttattaata aggatggtta tgcatttatt aatcttctca atagtgccag
+      661 ctagagctcc tttcgtcgaa tcgtcataag atacacacaa atatttagcc attaattcta
+      721 ggctatcgag ctttataggg gcatggctaa ataaagtaat accatcttcg cttaaggtat
+      781 aatcaattag ttttaaggtg gatttataac tacgattagt taggagaagc aactcatccg
+      841 cagttattat gttatgttct aataataatt caagtcccca aaaagaagag gtttggaaat
+      901 tggccactga gccttgagga gtgaaggaac ctccttgagc aagttgttca caaccataaa
+      961 tgaattcaca accatggtta gaaagaatta ttttcatatt cccttggttt tgtcgaaaca
+     1021 aatcgataat tctcaaggta aaataatcac aattcccacg atcggcaact tcatctccaa
+     1081 tcaatcgaat gattgtttta ttatctataa tttcaatttg atttataaaa tgattgaaac
+     1141 gctctattaa agaaattaat ttttctttag gctcctttaa tttgctaatt aattccagct
+     1201 cagtcagctg cgctgtttta agggtattta ttgcatgatc cagcaattgg tttaatccaa
+     1261 atgcgtcctt ctttaaggct ataataaaac ttttgatccc ttttggcgca agcaattcct
+     1321 tatcgtagct ctggtaaatt gattataaaa gtatcccacc attgtgacat tcccttttca
+     1381 gtatttttaa tgaataaagc atacattgta ttgcctgtat ccttactttc ttctcctaat
+     1441 aacgtcaaga ttgcccttgc tcacgaaggg cagcaccacc gtaatggcga ctgtttatgg
+     1501 gcgtatttta ttgaggtgat tcgcattatc ttcttttgta acccgggtgt tacacgatgg
+     1561 aaaaaagttt taagcgactt gcaagaattt tcatgtgatg aggtattgat tggccactca
+     1621 aaaatttctc cacatgatta tggccactgc ctagttcgag tagtacaggc agcatctcaa
+     1681 agttctctgc caactaaccc aaaatttgca tgcgccgtgg gtatggcttt ggacaaacaa
+     1741 aacgaagact gtacttttat aatcaggaga atttcaatgt tatcagctta ccctttaaaa
+     1801 acctcccgcc ctttaataat aggaatagca tttgtcggat tttctatagt ggcacctttg
+     1861 tgtatggctt actctgctgc aggaacctta acaagtccta aattgaaaga aatggatact
+     1921 tctcatttaa atcctaaaat ccaagatatc gcacagaaag aaattgcatt agcagtaaaa
+     1981 gaatatcatg ctaaatcggg agttattgcc attgttgatt caaagaatgg aactataatt
+     2041 gcctttgcag aatcaagcag gaatcttgaa aatagctgga agtcccgtgt tttttcacct
+     2101 ggctccacaa taaaaccctt tattgcagcg gccgcaatag attctggaac gagttatgaa
+     2161 acaaaaaact acgattgtcg ttcaccctat aacatagaag gcaagacatt cacaaattat
+     2221 gattctaagg ttaaatctgc ttctttagcg gatgcaatcg caaaatcgat taatgtttgt
+     2281 cttattaaag tttctcaaga agctggagca ccggtagtac gtaaaaaact tagtgagttt
+     2341 ggttttgatt taaattctgg atggcagtca agccaaagtg atgatcttca gcttgcacaa
+     2401 gcctcattgg gtgaaaatat cccggtaact atcgagtcct tagcaaaatc ctatgcaatt
+     2461 ctggcacatc aaggacgttc ctttgaggag ccttctaagg ctgtggtttc agaaaaaact
+     2521 ctaagttcgg taaatcgtat gcttgagaat gctgttgcaa acggaacggg aaggagggct
+     2581 gctattcctg gtatttctgt ggcgggtaaa actggtaccg tgatagagaa taaagttaag
+     2641 ccgcttgctt tatttgctgg atatgctcca gccaataatc ccaattacgt attattagta
+     2701 gtaattgagg acgggtattt aagcaagaat ggagcgacga tgacttccgg gggagaatta
+     2761 gcagctcccg tattccataa tgttgcaaaa aatattttaa aatagcgtag gaaacccggt
+     2821 tgcaagcaac caggctacac cagaattata gtagcctggt tgcttgcaac cggaagtctt
+     2881 ggtggtcaaa ttattataat tgaggtggta tgaaaaaaat cattgttttt ttaattattg
+     2941 aattattatc ctgttccacc agctgggccc aaaatacctg ttttctagta aaagaaaatc
+     3001 aaacaatatt aaaacaagaa ggtaatgaat gcactaaaag atacgcaccc gaatccacct
+     3061 ttaagattgc attaagtctt atggggtttg attcgggttt gctaaaagat gaaacccatc
+     3121 ccgagtggcc ttataaaaag gaatacgagc tgtatctaaa tgtatggaaa tcccctcata
+     3181 accctcgaac ttggataaga gattcctgtg tgtggtattc acaagtactc acaaagcagt
+     3241 taggtatggc ccgattcaag gggtatgtag atgcttttga ttatggcaac caggatacat
+     3301 caggcgataa aggtaagaat aatggcttaa cgaatgcatg gttatcgagt tcccttgtaa
+     3361 tttcgcctac agagcaaatc caattcttgc aaaaaatagt cgataaaaat attcctgtga
+     3421 gctcgaaagc tgtaaatatg actaaaaaag ttttgtatat tcaagaatta cccggcggtt
+     3481 ggaaattgta cggcaaaaca ggaactggca ggcagttagc aaaagacgga acaacgaaat
+     3541 tgcctctcca gcatggatgg tttgtaggtt ggattgaaaa agaggggcga gcgattacat
+     3601 ttgccaacca tattgcggat agtaaagaaa atactgtatt tgcgagtttt cgcgcaaaaa
+     3661 atgacgcgct tattaaattg ttttatctta ttaacgagtt ggaaaaataa tttaaaaaat
+     3721 tttaaaaaac gcttgaccct attgttgcta tataccttac ctttgtattt aaggagggaa
+     3781 cacgatgact gaatggtacg taaaagactt aagcaaatta accggtattt cggtgcaaac
+     3841 tctgcatcat tacgaccgta tagacttgct taagccttca cttcgtcttg ttaatggata
+     3901 tcgtgtttac tctgagaagg atttattgaa attacaacaa attattgctt tgaagttttt
+     3961 gggttttgaa ttatcacaaa tcaaacactt actctttgaa gaaagtagtg cgcttaaaca
+     4021 ctttaacagt caagctgagc tgttagaaca aaaagcaaat gctttacagg caggagctaa
+     4081 ggcactcaaa agcattattc attctgttga taaaagtaaa tctattcctt gggaaactat
+     4141 tattcaactt atagaggtat atagaatgac agaaaatctt gagcatggct gggttaggga
+     4201 aatattcact cctgatgagt taaaacagta tgtggaattt gaaaatgaaa tgaaagctaa
+     4261 taaaactccg gaacaaaaag ccgcttttga aaagaaatgg tatcaattat cggaagaggt
+     4321 gaaaaacaat atcaaatttg atcctaattc aacggtgggt atccaaactg gtaagaaata
+     4381 tatggaatgg gtcaatggca tatatggaaa aaaatacgct catctgagaa caaaaaagtg
+     4441 ggagaaagga tttggagaag gaaaaggtct tgaggatatt ggcttaactc cggaaatcct
+     4501 agtatggtta gagaaagctt tagatgctta ctggaaggat aggctttacg gcattctgga
+     4561 gcaagtagga cacagttcta attcttcagt gtcaaaactt tggaatgaag ctttagatga
+     4621 catgtatggt gaagaggtgt tgcgtaaaaa agccgtatat gaattggtac taaaggacga
+     4681 taaggtaagt cctgaagcta aactttggct aanaaatcat ttaaattctt taaattaatt
+     4741 cttanaggtc ggtattcgta ccgacctctt ttgt
+//
+
+LOCUS       GQ244497                2374 bp    DNA     linear   ENV 24-JUL-2016
+DEFINITION  Uncultured bacterium AOKan4 genomic sequence.
+ACCESSION   GQ244497
+VERSION     GQ244497.1
+DBLINK      BioProject: PRJNA36531
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium AOKan4
+  ORGANISM  uncultured bacterium AOKan4
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 2374)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Metagenomics Reveals Antibiotic Resistance Genes Encoding Predicted
+            Bifunctional Proteins in Apple Orchard Soil
+  JOURNAL   Appl. Environ. Microbiol. (2010) In press
+   PUBMED   20453147
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 2374)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Antibiotic Resistance Genes in a Managed Ecosystem as Revealed by
+            Functional Metagenomics
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 2374)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUN-2009) Bacteriology, University of Wisconsin, 1550
+            Linden Drive, Madison, WI 53706, USA
+FEATURES             Location/Qualifiers
+     source          1..2374
+                     /organism="uncultured bacterium AOKan4"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:654979"
+                     /clone="AOKan4"
+                     /environmental_sample
+                     /country="USA: Wisconsin"
+     gene            complement(<1..495)
+                     /locus_tag="WISOIL_0048"
+     CDS             complement(<1..495)
+                     /locus_tag="WISOIL_0048"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="ACS83737.1"
+                     /translation="MSSEFIFAVGSENPVKINCVAEAITAFWPIGRAMGVSTNSGVSA
+                     QPDSDQEMLLGALNRAKQALAKVPEAHFGVGLEGGTLDAEEGMWAYAWIVVVDRNGQI
+                     GKGQSGRFLLPEPIAQLVRDGIELGEADDRFFGRSNSKQQDGAIGILSDGVVTRLDLY
+                     KPAVI"
+     gene            498..1709
+                     /gene="kan4"
+                     /locus_tag="WISOIL_0049"
+     CDS             498..1709
+                     /gene="kan4"
+                     /locus_tag="WISOIL_0049"
+                     /note="aminoglycoside 6'-N-acetyltransferase"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Kan4"
+                     /protein_id="ACS83738.1"
+                     /translation="MESQVEVCQKARKLTRLYRHSQSEVSVRIIDFPQEESQLIRQSA
+                     ELLVEAFKQHWPKAWPTMQDALETVHESFAENRLCRVALDDGGGVLGWIGGIESYDGK
+                     VWELHPLAVSPRAQGRGIGRMLVEDLEAQVAARGGLTLWLGSDDEDGMTSLGGIDMYP
+                     NPLEHLAKIKNLRGHPYGFYQKLGFVITGVMPDANGFGKPDIYLAKRVAQSKESTKNH
+                     AAFKLRVNDEIEIRMYEESDAETVFALVDRNREHLREWLIWVDATNSQEVTLQHIRDF
+                     ERHYENKVALSAGIWLKGELAGAIGVVGYHWHNRVMEIGYWLSASQQGKGIMTKAVSA
+                     MIDNAFNNLGLNRVEIHCASGNTRSRAIPERLNFKQDGVMREAGLVNGQFVDKVIYSM
+                     LASEWKTYNQS"
+     gene            1685..>2374
+                     /locus_tag="WISOIL_0050"
+     CDS             1685..>2374
+                     /locus_tag="WISOIL_0050"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hydroxypyruvate reductase"
+                     /protein_id="ACS83739.1"
+                     /translation="MENLQSIMTSTSKLRETALKIFHRTLVAIDVETVVSSYLRLNGN
+                     QLMVGDEVCDLSKFTRLLIIAIGKASVPMARATERLLEDRITDGLVVTNAVIGSLPQM
+                     PVLIGGHPLPNAASLEAAARALSLLHQHDAEDSLVLFLISGGGSAMFEQPIDPQMTLD
+                     DLQAVNRVLVNCGAVINEMNIVRRHLSAVKGGKLAGAAPRSRQISLYISDVNSDDLTT
+                     VASGPTLPDSST"
+ORIGIN      
+        1 gatcactgct ggcttgtaca aatccagcct cgttaccact ccatcggaca aaatccctat
+       61 cgcgccatct tgctgttttg aatttgagcg gccaaaaaat cggtcgtctg cttcccccag
+      121 ttcaatccca tcccgaacca attgtgcaat tggctccggc aataaaaacc ggcctgattg
+      181 ccctttgccg atttgaccat ttcgatctac gacgacgatc cacgcatatg cccacatccc
+      241 ttcttccgca tccagcgttc cgccttccaa accgacaccg aaatgtgctt cgggaacttt
+      301 tgccaatgcc tgtttcgcgc gattgagtgc gccaagcaac atttcctgat cagaatccgg
+      361 ttgcgcactg acgccggaat tcgtgctgac acccattgca cggccaattg gccagaaagc
+      421 agtaatggct tccgcaacgc aattaatttt gactggattt tcagagccaa cagcgaagat
+      481 aaattcagat gacatagatg gagtcgcaag ttgaagtttg tcagaaggca cgtaaactaa
+      541 cacggcttta tcgccactca caatcggagg tttccgtgcg catcattgat ttccctcaag
+      601 aagagagtca actcattcgc caatcggctg aattgttggt tgaagccttt aagcagcatt
+      661 ggccgaaggc ctggccaaca atgcaagacg cgctggaaac agttcatgaa tccttcgctg
+      721 aaaaccgcct ctgtcgtgtt gcacttgatg acggtggcgg cgtgcttggt tggatcggcg
+      781 gcattgaaag ctatgatggc aaagtctggg aactgcatcc gctagcagtc agcccccgcg
+      841 cgcaaggtcg cggcattgga cgaatgctgg tcgaagactt ggaagcgcaa gttgcggcgc
+      901 gcggggggtt gacgttatgg cttggcagcg atgatgaaga cggaatgact tcgctgggtg
+      961 gcattgatat gtatccgaac ccgttggagc atctggcaaa aatcaagaat ttgcgtggcc
+     1021 atccttacgg gttttatcaa aagctgggtt ttgtgattac cggtgtaatg cctgacgcca
+     1081 atggcttcgg caagccggac atctatctgg ccaagcgcgt agcgcaaagc aaggagtcaa
+     1141 ccaagaacca cgctgcattc aaactaagag taaacgacga aatcgaaatc cgaatgtatg
+     1201 aggaatcaga cgcggaaacg gtctttgcgt tggttgaccg caatcgcgaa catctgcgcg
+     1261 aatggctgat ttgggttgac gctacaaact cacaggaagt cacgctgcag catatacgcg
+     1321 atttcgagcg ccattacgaa aataaggtag ctctttcggc cggcatttgg ctgaagggtg
+     1381 agcttgccgg cgcaattggg gtggttggtt accactggca taaccgagtg atggaaatcg
+     1441 gctactggct gtccgccagc caacaaggca aaggcattat gaccaaagca gtctcagcaa
+     1501 tgattgataa cgcatttaat aatctgggac tgaaccgcgt cgagattcat tgcgcaagtg
+     1561 gaaacactcg cagccgagcg attcccgaac gactcaattt caaacaggac ggcgtgatgc
+     1621 gcgaagccgg tttagtcaac ggccagtttg tggacaaagt aatttactca atgctggcca
+     1681 gcgaatggaa aacttacaat caatcatgac ttcaacttct aaactgcgcg aaacggcgct
+     1741 gaaaatcttt catcgaactc tggtagcgat tgatgtcgaa actgtcgttt catcgtatct
+     1801 gcggttgaat ggcaatcaac tgatggttgg cgatgaagtt tgcgacttgt cgaagttcac
+     1861 gcgcctgctg atcatcgcca tcggaaaggc cagtgtgcca atggcgcgcg cgacagaacg
+     1921 actgttggaa gatcgaatca cagacggttt ggttgtcacc aatgcagtga ttggcagttt
+     1981 gccccaaatg cctgtgttga ttggcggcca tcctctgccc aatgcggcga gtttggaggc
+     2041 cgccgcaagg gcgttgtcgt tgctccatca gcacgacgca gaagattcac tggtgttgtt
+     2101 tttgatctct ggtggcgggt cagcgatgtt tgaacaaccg attgatcccc agatgacgct
+     2161 cgacgatctg caagccgtta accgtgtgct ggtcaattgc ggcgcggtga tcaacgaaat
+     2221 gaacatcgtc cggcgacatt tgtcggcagt caaaggtgga aagcttgctg gcgctgcgcc
+     2281 gcgttcgcgg cagatttcgc tctacatttc cgatgtcaac agcgatgact taacgacggt
+     2341 cgcttcggga ccaacgttgc cggacagttc gacg
+//
+
+LOCUS       GQ244498                1959 bp    DNA     linear   ENV 24-JUL-2016
+DEFINITION  Uncultured bacterium AOKan6 genomic sequence.
+ACCESSION   GQ244498
+VERSION     GQ244498.1
+DBLINK      BioProject: PRJNA36531
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium AOKan6
+  ORGANISM  uncultured bacterium AOKan6
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1959)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Metagenomics Reveals Antibiotic Resistance Genes Encoding Predicted
+            Bifunctional Proteins in Apple Orchard Soil
+  JOURNAL   Appl. Environ. Microbiol. (2010) In press
+   PUBMED   20453147
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1959)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Antibiotic Resistance Genes in a Managed Ecosystem as Revealed by
+            Functional Metagenomics
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 1959)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUN-2009) Bacteriology, University of Wisconsin, 1550
+            Linden Drive, Madison, WI 53706, USA
+FEATURES             Location/Qualifiers
+     source          1..1959
+                     /organism="uncultured bacterium AOKan6"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:654980"
+                     /clone="AOKan6"
+                     /environmental_sample
+                     /country="USA: Wisconsin"
+     gene            complement(<1..495)
+                     /locus_tag="WISOIL_0051"
+     CDS             complement(<1..495)
+                     /locus_tag="WISOIL_0051"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hydroxypyruvate reductase"
+                     /protein_id="ACS83740.1"
+                     /translation="MESAKTERTGLMSNLRTTVLEIFRRTLTAVDVEAAVSARLRLNH
+                     NQLTIEEESCDLAQFSRVVVIAIGKASVPMARAVEKILDDRITDGLVVTNAVIGSLPQ
+                     YLPVLIGGHPLPNSASLEAAARALALLRAHDAEDTLVLFLISGGGSALFEQPIDPSLT
+                     LDDLQ"
+     gene            complement(462..1025)
+                     /locus_tag="WISOIL_0052"
+     CDS             complement(462..1025)
+                     /locus_tag="WISOIL_0052"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="GCN5-related N-acetyltransferase"
+                     /protein_id="ACS83741.1"
+                     /translation="MFALRVDDEIELRLLEEHHAEEIFAVVDTNRAHLREWLAWVDEE
+                     VSANEAKDYIKMMRERFAAFTGVAMGIWHQDRLVGAMSFVNIDQQSRWAEIGYWLGAP
+                     SQGRGIITRSCRAIINYAFDDLKLNRIVIRCADGNHRSRAIPERLGFLQEGRLRQTIW
+                     LYDRFWDALIYGMLAGEWKAQKQKGQV"
+     gene            complement(1050..1661)
+                     /gene="kan6"
+                     /locus_tag="WISOIL_0053"
+     CDS             complement(1050..1661)
+                     /gene="kan6"
+                     /locus_tag="WISOIL_0053"
+                     /note="aminoglycoside 6'-N-acetyltransferase"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Kan6"
+                     /protein_id="ACS83742.1"
+                     /translation="MTGIRKLAQLQRGSQRRKHMRITDLPQDNESIIEQTARVLYDAF
+                     KEHSPTWTTMEAAIEEVRESFAEHRISRVAIDDEGSVLGWIGGQPIYDGHVWELHPLA
+                     IAPRAQGRGIGRKLVEDLEAQVAARGGVTLWLGSDDEGDRTSLGGVDLYPNPLAHLAN
+                     IKNLRSHPYEFYQKLGFVIVGVLPDANGAGKPDIFLAKRVRQK"
+ORIGIN      
+        1 ttgcagatcg tcgagcgtca ggctcggatc aatcggctgt tcaaacagcg ctgaaccgcc
+       61 gcctgaaatc agaaacaaga ccagagtgtc ttcagcatcg tgcgcgcgaa gcaaggccag
+      121 cgcccttgct gccgcttcca ggcttgcaga attcggcagc ggatggccgc cgatcagcac
+      181 cggcaaatat tgcggcaagc tgccaataac ggcgttggtg acaaccagac catctgtgat
+      241 tcggtcatcc aaaatctttt cgaccgcgcg cgccatcgga acgctggctt tcccaatggc
+      301 aatcacaact acgcgggaaa actgcgccag atcgcaactc tcctcttcga tggtcagttg
+      361 attgtggttc aaacgcagcc gggcgctgac cgccgcttcg acatcaactg ccgtcagcgt
+      421 ccgccggaag atttccagca cagttgttcg cagattgctc atcagacctg tcctttctgt
+      481 ttttgcgctt tccattcgcc ggccagcatt ccataaatca gcgcatccca gaagcggtcg
+      541 tatagccaga ttgtttgtcg cagccgtccc tcctgcagga agcctaatcg ttcgggaatc
+      601 gcgcggctgc gatgattgcc gtcggcacag cgaatcacaa tgcgattaag tttcagatcg
+      661 tcgaaagcgt agttgatgat cgctcggcac gaccgtgtga taatgccgcg cccttgcgac
+      721 ggcgcgccaa gccaatagcc gatctccgcc caccgactct gctgatcaat gttgacgaag
+      781 ctcatagctc cgaccaaacg gtcttgatgc caaatgccca ttgccacacc ggtgaaggcc
+      841 gcgaaccgtt cgcgcatcat cttgatgtag tctttggcct cattcgcgga gacttcctca
+      901 tccacccatg ccagccactc ccgcaaatgc gcgcggttgg tgtccactac agcgaatatc
+      961 tcttcggcgt ggtgttcctc cagcagccgc aattcaatct cgtcatctac tctgagcgca
+     1021 aacattcatc acctcttctt gcttcatcgt tacttttgcc gcacgcgctt ggccagaaag
+     1081 atgtcgggct tgcccgcgcc gttggcatcg ggcaacacgc caacaatgac aaagcccagc
+     1141 ttctgataaa attcgtaggg atggctgcgc agatttttga tgttggccag atgcgcgagc
+     1201 ggatttgggt aaagatcaac accgccgagc gatgtcctgt cgccttcatc atcgctgccc
+     1261 agccacagtg tcacaccgcc gcgcgcggca acttgcgcct ctaaatcttc gactaacttg
+     1321 cgtccgatgc cgcgcccttg cgcgcgcggt gcaatggcca gcgggtgcaa ttcccaaaca
+     1381 tgaccatcgt atattggctg gccaccgatc cagccaagca ccgagccctc atcgtcaatg
+     1441 gcaacgcggc tgatgcggtg ttctgcgaat gattcgcgga cttcttctat cgccgcctcc
+     1501 attgtcgtcc aagtagggga gtgctctttg aaagcgtcat aaagcaccct ggcagtctgt
+     1561 tcgatgattg attcgttgtc ttgtggaaga tcggtgatgc gcatgtgttt ccttcgttgt
+     1621 gagccgcgtt gaagctgtgc tagtttacga atgccggtca tcaattcaac cttgccgtag
+     1681 ataatcgcag aggaagctat gagtacagca ttaaggtcaa aatcgccaat tgcgccgaag
+     1741 aacaaactca acgccaagct gaaggcagaa tcccaaccca agccacgccg cccgaagacc
+     1801 acgccgaagt tccgaccctg aatcgttggt catacatttt gggccgttga aagataagat
+     1861 caccgatgac gaattcttcg agttctgcgc gagtaattgg gaattgcgga tcgagatgac
+     1921 aaanggaggg gcgatatgat aattatgatg cccaaccct
+//
+
+LOCUS       GQ244499                2088 bp    DNA     linear   ENV 24-JUL-2016
+DEFINITION  Uncultured bacterium AOKan8 genomic sequence.
+ACCESSION   GQ244499
+VERSION     GQ244499.1
+DBLINK      BioProject: PRJNA36531
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium AOKan8
+  ORGANISM  uncultured bacterium AOKan8
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 2088)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Metagenomics Reveals Antibiotic Resistance Genes Encoding Predicted
+            Bifunctional Proteins in Apple Orchard Soil
+  JOURNAL   Appl. Environ. Microbiol. (2010) In press
+   PUBMED   20453147
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 2088)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Antibiotic Resistance Genes in a Managed Ecosystem as Revealed by
+            Functional Metagenomics
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 2088)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUN-2009) Bacteriology, University of Wisconsin, 1550
+            Linden Drive, Madison, WI 53706, USA
+FEATURES             Location/Qualifiers
+     source          1..2088
+                     /organism="uncultured bacterium AOKan8"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:654981"
+                     /clone="AOKan8"
+                     /environmental_sample
+                     /country="USA: Wisconsin"
+     gene            complement(352..915)
+                     /locus_tag="WISOIL_0058"
+     CDS             complement(352..915)
+                     /locus_tag="WISOIL_0058"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="GCN5-related acetyltransferase"
+                     /protein_id="ACS83743.1"
+                     /translation="MFALRVDDEIELRLLEEQHAEEIFALVDSNRAHLREWLPWVDEE
+                     VSANAARDYIKMMRERFTAFTGMAMGIWHQDRLAGAVSFVNIDQQSRWAEIGYWIDAP
+                     SQGHGIITRSCRAMINYAFDDLKLNRIVIRCADGNHRSRAIPERLGFRQEGRLRQTIW
+                     LYDRFWDALIYGMLADEWKAQKQKGRL"
+     gene            complement(941..1552)
+                     /gene="kan8"
+                     /locus_tag="WISOIL_0059"
+     CDS             complement(941..1552)
+                     /gene="kan8"
+                     /locus_tag="WISOIL_0059"
+                     /note="aminoglycoside 6'-N-acetyltransferase"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Kan8"
+                     /protein_id="ACS83744.1"
+                     /translation="MTGIRKLAQLQRGSQRRKHMRITNLPQDNESIIEQTARVLYDAF
+                     KDHSPSWTTMEAAIEEVRESFAEHRISRIAIDDDGAVAGWIGGQPMYDGHVWEIHPLA
+                     VAPRAQGRGIGRKLVEDLEAQVAARGGVTLWMGSDDEGDRTSLGGVDLYPNPLAHLAN
+                     IKNLRGHPYEFYQKLGFAIVGVLPDANGAGKPDIFLAKRVRQK"
+     gene            1824..>2088
+                     /locus_tag="WISOIL_0060"
+     CDS             1824..>2088
+                     /locus_tag="WISOIL_0060"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="ACS83745.1"
+                     /translation="MIILMPTGGEGGNRSFKLTARFGSWAEADGTGEGFDSSTEFSLP
+                     NGAKPSPDVSWILRERWKALSVKQREEFPPVCPDFVVELRSRTD"
+ORIGIN      
+        1 gcagtaagga cagcgctcgc gcggcggctt ccaggctggc cgcattcggc agcggatggc
+       61 cgccaacgag aaccggcagt tgcggcagac tgccggccac tgcattggtg acgaccaggc
+      121 catcggtgat tcgatcttca agaatccttt cgaccgcgcg tgccatcggc acactggctt
+      181 taccgatggc aatcacaacc aggcgggaga actgcgccag atcacaaacc tcttcttcga
+      241 tagtcagttg attatggttc aaactcagat gtgcgccaac gattgcttca acatcaatcg
+      301 ccgccagcgt ccgccgaaag atatccagcg cagttgttcg cagattgctc atcagagccg
+      361 tcctttctgt ttttgcgctt tccattcatc ggccagcatt ccataaatca gcgcatccca
+      421 gaagcggtcg tatagccaga tcgtttgccg caggcgtcct tcctgccgga agcccaggcg
+      481 ttctggaatc gcgcggctgc gatgattgcc gtcggcacag cgaatcacaa tgcggttgag
+      541 tttcagatcg tcgaaagcgt agttgatcat cgcccggcat gaccgtgtga taatgccgtg
+      601 gccttgtgat ggcgcgtcaa tccaatagcc gatctccgcc caccgactct gctgatcaat
+      661 gttgacgaag ctgacagctc cagccaaacg gtcttggtgc cagattccca tcgccatgcc
+      721 ggtgaaagcc gtgaaccgtt cgcgcatcat ctttatgtag tccctggccg cattcgcgga
+      781 tacttcttca tccacccacg gcaaccactc ccgcaaatgc gcgcggttgg agtccaccag
+      841 cgcgaaaatc tcctcggcgt gctgttcctc cagcagccgt aattcaatct cgtcgtctac
+      901 tctaagagca aacattcatc acctcttctt aacttcatcg ttacttttgc cgcacgcgct
+      961 tggccagaaa gatgtcgggc ttgcctgcgc cattggcatc gggcaacact ccaacaatgg
+     1021 caaagcccag cttctgataa aactcgtacg gatggccgcg cagatttttg atgttggcca
+     1081 gatgcgccag cggatttggg taaagatcaa caccgccgag cgatgtcctg tcgccttcgt
+     1141 catcgctgcc catccacagt gttacgccgc cgcgcgcggc aacttgagcc tctaaatctt
+     1201 cgaccaactt gcgtccgatg ccgcgacctt gcgcgcgcgg cgcgacggcc agcggatgta
+     1261 tctcccaaac gtgtccatcg tacatcggct ggccgccgat ccagccggcc acagcgccgt
+     1321 catcgtcaat ggcaatgcgg ctgatgcgat gttctgcgaa tgattcgcgg acttcttcta
+     1381 tcgccgcctc catagtcgtc caactagggg agtgatcttt gaaagcgtca taaagcaccc
+     1441 tggcagtctg ttcgatgatt gattcgttgt cttgcggaag attggtgatg cgcatgtgtt
+     1501 tccttcgttg tgagccgcgt tgaagctgtg ctagtttacg aatgccggtc atcaattcaa
+     1561 ccttgcctta gataatcgca gaggaagcta tgagtacagc attaaggtca aaatcgccaa
+     1621 ttgcgccaaa gaacaagccc aaagccaagc tgaaggcgga atcccaaccc acgccacgtt
+     1681 gcccgaagag cgcgccgaag ttcgaatttg aatcactggt cattcacttc gggccgttga
+     1741 aagataagat cactgatgat gagttcttca aattctgtat gcgcaatcga gatttgcgga
+     1801 tcgagatgag caagtagggc gagatgatta tcctgatgcc gaccggcggg gagggcggaa
+     1861 atcggagctt caaactgacg gcgaggttcg gcagttgggc agaagctgat ggcaccggtg
+     1921 aaggctttga ctcttcgacc gaattcagtc tgccaaacgg cgcgaagcct tcgcccgacg
+     1981 tttcgtggat tctccgcgag cggtggaagg cgctctccgt caagcagcgc gaagagttcc
+     2041 ctcctgtctg cccggacttt gtggtggaac tacgttcgag aacagatc
+//
+
+LOCUS       GQ244500                2586 bp    DNA     linear   ENV 12-MAY-2010
+DEFINITION  Uncultured bacterium AOCefta8 genomic sequence.
+ACCESSION   GQ244500
+VERSION     GQ244500.1
+DBLINK      Project: 36531
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium AOCefta8
+  ORGANISM  uncultured bacterium AOCefta8
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 2586)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Metagenomics Reveals Antibiotic Resistance Genes Encoding Predicted
+            Bifunctional Proteins in Apple Orchard Soil
+  JOURNAL   Appl. Environ. Microbiol. (2010) In press
+   PUBMED   20453147
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 2586)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Antibiotic Resistance Genes in a Managed Ecosystem as Revealed by
+            Functional Metagenomics
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 2586)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUN-2009) Bacteriology, University of Wisconsin, 1550
+            Linden Drive, Madison, WI 53706, USA
+FEATURES             Location/Qualifiers
+     source          1..2586
+                     /organism="uncultured bacterium AOCefta8"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:654978"
+                     /clone="AOCefta8"
+                     /environmental_sample
+                     /country="USA: Wisconsin"
+     gene            197..961
+                     /locus_tag="WISOIL_0054"
+     CDS             197..961
+                     /locus_tag="WISOIL_0054"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="ACS83746.1"
+                     /translation="MFGGAHSETLLRLGIFGVEIILTLNLIYWMRSSTRGHQEPWKFV
+                     LAILGFGMLTGILAAFIEIKYSFNIPQLQETAPQLVAKYGIWYDFINNISASLIEELA
+                     KYTVAVFTVVNTRHFHRMSDAILYLILIGLGFSLIEDAIFFLNPATDAPYRLLSFYLH
+                     SGTSAIIGYSLGRFKFGQAGYFELIRAVIAAVGLHFAYNYASQLQNVKASFYLTLCFS
+                     LFITLQIFILFRRALVEEYHLEKETKDGIPTTLLNL"
+     gene            complement(1012..1599)
+                     /gene="cft8"
+                     /locus_tag="WISOIL_0055"
+     CDS             complement(1012..1599)
+                     /gene="cft8"
+                     /locus_tag="WISOIL_0055"
+                     /note="sigma-24 subunit"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Cft8"
+                     /protein_id="ACS83747.1"
+                     /translation="MKASRPVLPLRDEQRREFEDYWKRSRPMLFNYAYRLSGGNREDA
+                     SDLLHEAATRALSSFHTYDRMMPFNRWFSRILENCSTDDWRKRQRQVKTLSSDSPLFC
+                     NKEDEEMVAEFADPEPDPCRILMRKVFDEGIERAIRDLPLEYRETFLLAVVEERSYLE
+                     IGKVTNAVPGTVRSRLHRARKLMRKSLEKSNYQAT"
+ORIGIN      
+        1 agcccaggaa tgttgcgatc agctcactcc cccgaaaagc taggcctcga aaaacctttt
+       61 cggatcttga aggtcaaccc accccccgac cccacagccg aaattattct aatctccccc
+      121 attctctgcc acctccccgg tggctttttt cttatccttt ctggtcttct ccccccttct
+      181 cctctacaat agagctatgt ttggtggggc tcattctgaa acgcttctcc ggctcggcat
+      241 ctttggtgtg gagattattt tgacgttgaa ccttatttat tggatgcgca gctcgacccg
+      301 cggccaccaa gagccctgga aatttgtgct agccattctg ggatttggca tgctgactgg
+      361 cattttggcc gcctttattg agattaagta ctcgtttaat attccccagc tccaagaaac
+      421 cgccccccag ctggtggcca agtacggtat ttggtatgac tttattaaca atatctcggc
+      481 cagcctgatt gaagagctgg ctaaatacac ggtcgcggtt tttacggtgg tcaatactcg
+      541 ccacttccac cggatgagcg acgccatttt gtatctcatt ttaattggtc tcggcttctc
+      601 tttaattgaa gatgctattt tctttttaaa cccagccacc gacgcccctt accggttatt
+      661 aagcttttat ctccactcgg gcaccagcgc cattattggc tatagcctgg ggcgctttaa
+      721 atttggccaa gctggttact ttgagttaat tcgggcggtt attgcagcgg tgggactaca
+      781 ttttgcctat aactacgcca gtcagttgca aaatgtaaaa gcttcgtttt acctgacgct
+      841 ttgtttttcg ctctttatta ccttgcagat ttttatcctc ttccggcggg ccttggtaga
+      901 agaataccat ctagaaaaag agaccaaaga tggaattccc actactctct taaacttgta
+      961 aaagaaaagg gccctctgca gtgaggagcc cttcgtaggc gtgatgagct atcaggtcgc
+     1021 ctgataatta cttttttcga gcgattttcg catcagcttg cgagctcgat gcaatcgaga
+     1081 gcgcactgta cccggaaccg cattagtgac cttgccaatt tcaaggtagg agcgttcttc
+     1141 tactaccgct aacagaaaag tttctcgata ttcaagcggg aggtcacgta tcgccctctc
+     1201 tatgccctca tcaaagactt ttcgcatcag aattcgacaa ggatcaggct cggggtcagc
+     1261 aaactctgcg accatctctt catcctcctt gttgcaaaaa aggggactgt ccgaagagag
+     1321 cgtctttacc tgtcgctgtc ttttccgcca atcatcggta gaacaattct cgaggatgcg
+     1381 ggaaaaccat ctattaaagg gcatcatcct atcataggta tgaaaggagc taagcgccct
+     1441 tgtagcagcc tcgtgcagca agtctgaggc atcttctcta tttcctccac tcaggcggta
+     1501 ggcatagttg aacagcatcg gacgggacct tttccaataa tcctcaaact ctctgcgctg
+     1561 ctcatccctt agcggtaaaa ccggtctcga cgctttcatg tcagctctcc tttcgatcca
+     1621 gacacaagtc tgcggcgatc atagcccatt agtccttctt ctgtcaagaa cggtcgagtc
+     1681 tttgacttac ttagcaggag aactgatcgc ccccctttct cttctttctt ttcgactttc
+     1741 aacttcgcca aggaatggta tcccggaagt gaagtcgtcg ccttcgtctt gcaagaaccc
+     1801 taaccaccca gatcagggtt cttttgttta agtacctacc aaaaatgacg ctccgagcaa
+     1861 ttcgggacgt catttttagc cagcgttttg tatttttctg gtgggcgcat caggagtcga
+     1921 aggacctcgt cattagtacc ttcggtacgc tgcgcgagcg ccttcggcgc gtttcggtcc
+     1981 ttgagataag tatttgctgg tgggcgcatc aggagtcgaa cctgagacct cgtcattatc
+     2041 agtgacgcgc tctaaccatc tgagctatgc gcccttcagc aaatacttat tactatctta
+     2101 gcgaaacgat cagtgacgcg ctctaacccc cagcccaccg acttctaacc tgtttttgtc
+     2161 tcatctacct tactacaaat ctgaggaaaa gaaaagggtt ggagcaagac tccaacccca
+     2221 tcgcgattgt tatttcaggg gctcaactca tattgtttga tactcagaaa aggaaaagca
+     2281 tccctaagac taccctgcct ccccatgtct cgatagatgc ctgagtcctc gcacatatca
+     2341 acaacctgct caagactggg aattcgctgc aaattccccc caaagccacg ggcagttcgc
+     2401 ctctcctcat gcaagtaaac caattgcaga gacatgaaag gagagcggat tctccgtaag
+     2461 acctgcagca gcaagggaac ctgctgcgaa tcagcccgta caatcagaga gagcggcgag
+     2521 ttccagctat ccggaccagc taaactgatc aaggtctgct gcacctcact ttcactcagc
+     2581 ctctcc
+//
+
+LOCUS       GQ244501                1956 bp    DNA     linear   ENV 24-JUL-2016
+DEFINITION  Uncultured bacterium AOTet43 genomic sequence.
+ACCESSION   GQ244501
+VERSION     GQ244501.1
+DBLINK      BioProject: PRJNA36531
+KEYWORDS    ENV.
+SOURCE      uncultured bacterium AOTet43
+  ORGANISM  uncultured bacterium AOTet43
+            Bacteria; environmental samples.
+REFERENCE   1  (bases 1 to 1956)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Metagenomics Reveals Antibiotic Resistance Genes Encoding Predicted
+            Bifunctional Proteins in Apple Orchard Soil
+  JOURNAL   Appl. Environ. Microbiol. (2010) In press
+   PUBMED   20453147
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1956)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Antibiotic Resistance Genes in a Managed Ecosystem as Revealed by
+            Functional Metagenomics
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 1956)
+  AUTHORS   Donato,J.J., Moe,L.A., Converse,B.J., Smart,K.D., Berklein,F.C.,
+            McManus,P.S. and Handelsman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUN-2009) Bacteriology, University of Wisconsin, 1550
+            Linden Drive, Madison, WI 53706, USA
+FEATURES             Location/Qualifiers
+     source          1..1956
+                     /organism="uncultured bacterium AOTet43"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /db_xref="taxon:654983"
+                     /clone="AOTet43"
+                     /environmental_sample
+                     /country="USA: Wisconsin"
+     gene            complement(60..1619)
+                     /gene="tet43"
+                     /locus_tag="WISOIL_0056"
+     CDS             complement(60..1619)
+                     /gene="tet43"
+                     /locus_tag="WISOIL_0056"
+                     /note="efflux protein"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Tet43"
+                     /protein_id="ACS83748.1"
+                     /translation="MPPSHHMLRPIEQCSILWNDVRYSNSVRLKEAGMTATTQASAPA
+                     ARTYLSLRAAWIPLFALCLAFFVEMVDNTLLTIALPTIGRDLGASVTSLQWVTGAYSL
+                     TFGGLLLTAGSLADRFGRRRVLQIGLLAFGLISLTVIAVATAGQLIAVRAALGLAAAA
+                     MAPITNSLVFRLFEGEDLRRRAMTLMIVVGMSGFILGPLLGGTVLAHASWQWLLLINA
+                     PIALIALIGVRLGVPADDAEGLTKDRLDVKGSALSIAAIGLACYTLTSGVEHGWMSAV
+                     TWACGIGAAAALMGFVWHERRTDHPMLDLDVFRNRTVRGASIAQVGTSIAMASLMFGL
+                     ILHFQGAYGWSPMRAGLANLPLILTMILATPVSEGLAKRFGHRIAMLIGAGLLAGSLA
+                     GLAWGVGHGYLVIAVFMVTFTLGLRTVMTIAAVGLVGAMPENRTSLGAALNDTAQEVG
+                     TSLGMAVIGTLIAVLXTTTLPNGDXSLDLATSYFAGERIAYLFLAVVVGVIAGWGALT
+                     LSNSKEMEDVH"
+     gene            1618..>1956
+                     /locus_tag="WISOIL_0057"
+     CDS             1618..>1956
+                     /locus_tag="WISOIL_0057"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tetR family transcriptional regulator"
+                     /protein_id="ACS83749.1"
+                     /translation="MTEAQGRSPRRRASHSMDSVITEAVALLDEAGESGLTFRALAER
+                     LGGGVASIYWYVSSKDELLDRASDHVVGNVLEQTAHLAHSEGSPRTSDPINDMREIAI
+                     SLFXAVADRPW"
+ORIGIN      
+        1 tccactccac cactcagcgc tgcgagaacc ttcacggcat caagggtacg cggtgcccgc
+       61 tagtggacgt cttccatctc cttggagttg gacaacgtga gcgcgcccca tcccgcgatc
+      121 actccgacta cgacggcaag gaacagataa gcgatgcgct ccccggcgaa gtatgaagtc
+      181 gcgaggtcga ggctccmgtc gccgttggga agcgtcgtgg tgrcgagcac cgcgatgagc
+      241 gtgccgatca ctgccatgcc gaggcttgtt cctacttctt gggcggtgtc gttgagtgcc
+      301 gcgccgagcg aggtgcggtt ctccggcatc gcaccaacga ggcccaccgc cgcgatcgtc
+      361 ataacggtgc ggagaccgag ggtgaaggtc accatgaata ccgcgatgac gaggtascca
+      421 tgccccacgc cccacgcgag gccagcgagc gatccggcga ggagacccgc gccgatgagc
+      481 atggcaatgc ggtggccgaa cctcttcgcg aggccctcag agaccggtgt cgcaagaatc
+      541 atcgtgagga tgagcggcag gttggcgagg ccggcgcgca tggggctcca gccgtacgcg
+      601 ccctggaagt gaaggatcag gccgaacatc agcgaagcca tcgcgattga ggtgcctacc
+      661 tgggcgatcg atgcgccgcg aacggtgcgg ttcctgaaga cgtcgaggtc cagcatgggg
+      721 tgatcggtgc ggcgctcgtg ccacacgaat cccatcagcg cggcagccgc gccgatcccg
+      781 caggcccagg tgacggcaga catccagccg tgctccactc cgctcgtgag tgtgtagcaa
+      841 gcgaggccga tcgcggcgat gctgagtgcc gagcccttca cgtcaaggcg gtcctttgtg
+      901 agtccctcgg cgtcgtccgc aggcacgcca aggcgaacgc cgatgagcgc aatgagcgcg
+      961 atgggtgcgt tgataagcag caaccactgc cagctggcgt gagcgagaac cgttccgccg
+     1021 agtagcgggc caaggatgaa tccgctcatg ccgacgacga tcatgagggt cattgcccgc
+     1081 cgacggaggt cctcgccctc gaacagcctg aacacgaggg agttggtgat tggggccatc
+     1141 gcggcggcgg cgaggccgag cgcagcgcgc accgcgatca gctggcccgc ggttgccacg
+     1201 gcaatcaccg tgaggctgat gagcccaaag gcgagaaggc caatctgcag cacgcggcgc
+     1261 cggccaaagc ggtcggcgag cgagcccgct gtcagcaaca ggccgccaaa ggtcagcgaa
+     1321 taggcgccgg tcacccactg caaggaggtg acgctcgcgc cgaggtcgcg cccgatcgtc
+     1381 ggcagcgcga tcgtgagcag ggtgttgtca accatctcca cgaagaacgc gaggcagagc
+     1441 gcgaagagcg gaatccacgc ggcgcgcagc gacagatagg tacgtgccgc gggtgccgag
+     1501 gcttgagttg tggcggtcat accggcctcc ttcagtcgaa cgctgttcga gtatcgaacg
+     1561 tcgttccata gaatagaaca ttgttcgatt gggcgcaaca tgtggtgaga tgggggcatg
+     1621 acagaggctc agggacgaag cccgcgcaga cgcgcatccc actcgatgga cagcgtgatc
+     1681 accgaagccg tcgcgctgct cgacgaggcc ggagagtcgg gactcacctt ccgcgcgctg
+     1741 gccgagcggc tcggcggggg cgtcgcaagc atctactggt atgtgtcgag caaagacgaa
+     1801 ttgctcgatc gcgcgagcga tcacgtggtt ggcaacgtgc tcgagcagac ggctcacctc
+     1861 gcccacagcg agggctcgcc acggacctcc gatcccatca acgacatgcg agagattgcc
+     1921 atctcgctct tcnacgccgt ggcggaccga ccctgg
+//
+
