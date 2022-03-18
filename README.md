@@ -28,8 +28,7 @@ cd-hit-est -i DNA_insert_seq.fasta -o /home/remi.gschwind/resfinder_FG/output/cd
 prokka --cpus 6 --locustag prokka --gcode 11 --outdir /home/remi.gschwind/resfinder_FG/output/output_prokka --prefix prokka DNA_insert_seq_cdhit.fasta
 ```
 
-**OUTPUT:** 
-output/output_prokka/ contains all the output from PROKKA annotation. Next step are done using the prokka.gff file.
+output/output_prokka/ contains all the output from PROKKA annotation. Next step is done using the prokka.gff file.
 
 4. annotation_curation.py is used to discard insert sequences without ARGs annotation.
 
