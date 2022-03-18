@@ -12,20 +12,18 @@ In **SCRIPT** you can found all the scripts needed for ResFinder FG v.2.0 constr
 
 REMI, Here add FIGURE 1 from your draft
 
-1. All the accession numbers were retrieved from the publications and can be found in data/an/ directory.
-
-2. All the fasta files retrieved using accesion numbers found in publications and Batch Entrez are concatenated into one fasta in data/contigs directory.
+1. All the accession numbers were retrieved from the publications and can be found in data/an/ directory. All the fasta files retrieved using accesion numbers found in publications and Batch Entrez are concatenated into one fasta in data/contigs directory.
 Fasta files are then concatenated using command: 
 ```
 cat *fasta > DNA_insert_seq.fasta 
 ```
 
-3. CD-HIT is used to remove redundant sequences in the concatenated fasta file. 
+2. CD-HIT is used to remove redundant sequences in the concatenated fasta file. 
 ```
 cd-hit-est -i DNA_insert_seq.fasta -o /home/remi.gschwind/resfinder_FG/output/cdhit/DNA_insert_seq_cdhit.fasta -d 0 -c 1 -M 0
 ```
 
-4. PROKKA is used to annotate each insert sequence.
+3. PROKKA is used to annotate each insert sequence.
 ```
 prokka --cpus 6 --locustag prokka --gcode 11 --outdir /home/remi.gschwind/resfinder_FG/output/output_prokka --prefix prokka DNA_insert_seq_cdhit.fasta
 ```
@@ -33,9 +31,9 @@ prokka --cpus 6 --locustag prokka --gcode 11 --outdir /home/remi.gschwind/resfin
 **OUTPUT:** 
 output/output_prokka/ contains all the output from PROKKA annotation. Next step are done using the prokka.gff file.
 
-5. annotation_curation.py is used to discard insert sequences without ARGs annotation.
+4. annotation_curation.py is used to discard insert sequences without ARGs annotation.
 
-All the GenBank files retrieved using accesion numbers found in publications and Batch Entrez are found in data/gb directory.
+5. All the GenBank files retrieved using accesion numbers found in publications and Batch Entrez are found in data/gb directory.
 gb_info_retriever.py is used to get information (antibiotic used for selection, environment) associated to insert.
 
 6. merge_gb_annot.py is used to merge information coming from GenBank and PROKKA annotations. Additional step si added to discard non relevant ARG-antibiotic pair.
@@ -54,6 +52,4 @@ CD-HIT command: cd-hit-est -i DNA_insert_seq.fasta -o /home/remi.gschwind/resfin
 ```
 CD-HIT command: cd-hit -i DNA_insert_seq.fasta -o /home/remi.gschwind/resfinder_FG/output/cdhit/DNA_insert_seq_cdhit.fasta -d 0 -c 1 -M 0
 ```
-11. final_stats.py used to check the number of genes obtained in the database. 
-
-RFG_db_construction.sh : script which allows to launch successively the different scripts.
+11. final_stats.py used to check the number of genes obtained in the database. NOTE: RFG_db_construction.sh : script which allows to launch successively the different scripts.
