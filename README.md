@@ -10,7 +10,7 @@ In **SCRIPT** you can found all the scripts needed for ResFinder FG v.2.0 constr
 
 ## ResFinder FG construction workflow
 
-REMI, Here add FIGURE 1 from your draft
+![image](https://user-images.githubusercontent.com/87382025/159026950-ce142ffb-0c2e-457b-9b87-c7fb381851b7.png)
 
 1. All the accession numbers were retrieved from the publications and can be found in data/an/ directory. All the fasta files retrieved using accesion numbers found in publications and Batch Entrez are concatenated into one fasta in data/contigs directory.
 Fasta files are then concatenated using command: 
