@@ -1,18 +1,18 @@
 # ResFinder_FG_Construction
 
-## DATA
+## DATA: recovered from publications using functional metagenomics.
 
 ### an : directory with all the accession number retrieved from publications using functional metagenomics.
 ### contigs : directory with all the inserts sequence retrieve from the accession numbers using batch entrez.
 ### gb : directory with all the genebank files retrieved from the accession numbers using batch entrez. 
 ### rf_4 : directory with a table containing all the ARG annotation obtained after ResFinder 4.0 annotation using Prokka.
 
-## SCRIPT
+## SCRIPT: Directory containing all the scripts needed for ResFinder FG construction.
 
-# Directory containing all the scripts needed for ResFinder FG construction.
 ### RFG_db_construction.sh : script which allows to launch successively the different scripts.
-### All the fasta files are concatenated into one fasta : DNA_insert_seq.fasta
-### CD-HIT: used to remove redundant sequences.
+### All the fasta files retrieved using accesion numbers found in publications and Batch Entrez are concatenated into one fasta.
+#### OUTPUT: output/DNA_insert_seq.fasta
+### CD-HIT is used to remove redundant sequences in the concatenated fasta file. Command: 
 #### OUTPUT: output/cdhit/DNA_insert_seq_cdhit.fasta
 ### PROKKA ANNOTATION: used to annotate each insert sequence. 
 #### OUTPUT: output/output_prokka/prokka.gff
