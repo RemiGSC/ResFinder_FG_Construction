@@ -52,3 +52,5 @@ CD-HIT command: cd-hit-est -i DNA_insert_seq.fasta -o /home/remi.gschwind/resfin
 CD-HIT command: cd-hit -i DNA_insert_seq.fasta -o /home/remi.gschwind/resfinder_FG/output/cdhit/DNA_insert_seq_cdhit.fasta -d 0 -c 1 -M 0
 ```
 11. final_stats.py used to check the number of genes obtained in the database. NOTE: RFG_db_construction.sh : script which allows to launch successively the different scripts.
+
+The final database can be downloaded from /output/RFG_db/ResFinder_FG.fasta (nucleic acid version) or /output/RFG_db/ResFinder_FG.faa (amino acid version).
