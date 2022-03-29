@@ -5,10 +5,10 @@
 # Size selection details : - 780bp for beta-lactamases - 534bp for Cat - 1134bp for Tet_efflux - 1919bp for Tet_protection
 # - 741 bp for 16S rRNA methlytransferases - 474bp for Dfr - 300bp for d-ala-d-ligase - 300 bp for any other genes
 
-i_inserts = "/home/remi.gschwind/resfinder_FG/output/merged_data/inserts_rf_cured_atb_valid.csv"
-o_size_ok = "/home/remi.gschwind/resfinder_FG/output/merged_data/lenght_checked/inserts_rf_cured_atb_size_valid.csv"
-o_size_no = "/home/remi.gschwind/resfinder_FG/output/merged_data/lenght_checked/inserts_rf_cured_atb_wrong_size.csv"
-o_size_stats = "/home/remi.gschwind/resfinder_FG/output/merged_data/lenght_checked/size_selection_stats.csv"
+i_inserts = "/home/remi.gschwind/resfinder_FG/output/merged_data/ARGs_ATB_valid.csv"
+o_size_ok = "/home/remi.gschwind/resfinder_FG/output/merged_data/ARGs_size_valid.csv"
+o_size_no = "/home/remi.gschwind/resfinder_FG/output/merged_data/inserts_rf_cured_atb_wrong_size.csv"
+o_size_stats = "/home/remi.gschwind/resfinder_FG/output/merged_data/size_selection_stats.csv"
 
 # We put all the lines of the input table in a list and then remove the line if end-start is below our standard
 w_size = []

@@ -5,7 +5,7 @@
 i_gb = "/home/remi.gschwind/resfinder_FG/output/gb_info/gb_output.csv"
 i_inserts = "/home/remi.gschwind/resfinder_FG/output/annotation_curation/ARGs_inserts.csv"
 o_merge = "/home/remi.gschwind/resfinder_FG/output/merged_data/o_merge.csv"
-o_db_file = "/home/remi.gschwind/resfinder_FG/output/merged_data/inserts_rf_cured_atb_valid.csv"
+o_db_file = "/home/remi.gschwind/resfinder_FG/output/merged_data/ARGs_ATB_valid.csv"
 o_elim = "/home/remi.gschwind/resfinder_FG/output/merged_data/inserts_atb_non_valid.csv"
 o_stats = "/home/remi.gschwind/resfinder_FG/output/merged_data/atb_correspondance_stats.csv"
 

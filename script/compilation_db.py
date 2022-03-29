@@ -8,7 +8,7 @@ from Bio import SeqIO
 
 # We specify the directions of input and output files
 
-i_lines = "/home/remi.gschwind/resfinder_FG/output/merged_data/number_check/inserts_rf_cured_atb_size_valid_nodup.csv"
+i_lines = "/home/remi.gschwind/resfinder_FG/output/merged_data/ARGs_number_valid.csv"
 i_seq = "/home/remi.gschwind/resfinder_FG/output/DNA_insert_seq.fasta"
 o_db = "/home/remi.gschwind/resfinder_FG/output/RFG_db/db.fasta"
 

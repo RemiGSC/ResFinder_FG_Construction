@@ -1,0 +1,395 @@
+JN086163.1;CYC;human fecal matter;JN086163.1;10;1404;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+JN086163.1;CYC;human fecal matter;JN086163.1;1406;2461;-;D-alanine--D-alanine ligase
+KJ910943.1;CHL;feces;KJ910943.1;1345;1971;+;Chloramphenicol acetyltransferase
+KJ910943.1;CHL;feces;KJ910943.1;2946;3572;-;Chloramphenicol acetyltransferase
+KJ911001.1;TET;feces;KJ911001.1;837;1877;-;Tetracycline resistance protein TetM from transposon TnFO1
+KJ911001.1;TET;feces;KJ911001.1;1889;2521;-;Tetracycline resistance protein TetM from transposon TnFO1
+KY686303.1;TET;Cabrales cheese;KY686303.1;23587;24264;-;Tetracycline repressor protein class A from transposon 1721
+KY686303.1;TET;Cabrales cheese;KY686303.1;24343;25542;+;Tetracycline resistance protein%2C class C
+JX009202.1;AMX;soil;JX009202.1;313;1467;+;Beta-lactamase
+JX009202.1;AMX;soil;JX009202.1;1596;2876;-;Beta-lactamase
+KJ692276.1;CYC;grassland soil;KJ692276.1;112;480;+;D-alanine--D-alanine ligase
+KJ692276.1;CYC;grassland soil;KJ692276.1;488;1132;+;D-alanine--D-alanine ligase B
+KJ692278.1;CYC;grassland soil;KJ692278.1;396;1670;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KJ692278.1;CYC;grassland soil;KJ692278.1;1663;2586;+;D-alanine--D-alanine ligase B
+KJ692686.1;TET;grassland soil;KJ692686.1;32;574;+;Tetracycline resistance protein%2C class C
+KJ692686.1;TET;grassland soil;KJ692686.1;653;1837;+;Tetracycline resistance protein%2C class C
+KJ693639.1;CYC;grassland soil;KJ693639.1;287;1186;+;D-alanine--D-alanine ligase
+KJ693639.1;CYC;grassland soil;KJ693639.1;1287;2906;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KJ693688.1;FOX;grassland soil;KJ693688.1;3048;3995;-;Metallo-beta-lactamase L1 type 3
+KJ693688.1;FOX;grassland soil;KJ693688.1;5051;5941;+;Metallo-beta-lactamase L1 type 3
+KJ693725.1;CYC;grassland soil;KJ693725.1;223;528;-;D-alanine--D-alanine ligase
+KJ693725.1;CYC;grassland soil;KJ693725.1;687;1010;-;D-alanine--D-alanine ligase
+KJ694209.1;CYC;grassland soil;KJ694209.1;62;505;+;D-alanine--D-alanine ligase B
+KJ694209.1;CYC;grassland soil;KJ694209.1;502;1056;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KJ694223.1;CYC;grassland soil;KJ694223.1;663;1295;+;D-alanine--D-alanine ligase
+KJ694223.1;CYC;grassland soil;KJ694223.1;1270;1650;+;D-alanine--D-alanine ligase B
+KJ694272.1;CYC;grassland soil;KJ694272.1;455;889;+;D-alanine--D-alanine ligase A
+KJ694272.1;CYC;grassland soil;KJ694272.1;882;1565;+;D-alanine--D-alanine ligase A
+KJ694311.1;CYC;grassland soil;KJ694311.1;205;816;+;D-alanine--D-alanine ligase
+KJ694311.1;CYC;grassland soil;KJ694311.1;758;1141;+;D-alanine--D-alanine ligase
+KJ694313.1;CYC;grassland soil;KJ694313.1;1214;1747;+;D-alanine--D-alanine ligase
+KJ694313.1;CYC;grassland soil;KJ694313.1;1692;2171;+;D-alanine--D-alanine ligase
+KJ694332.1;CYC;grassland soil;KJ694332.1;298;1428;-;D-alanine--D-alanine ligase A
+KJ694332.1;CYC;grassland soil;KJ694332.1;1531;2958;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KJ694378.1;CYC;grassland soil;KJ694378.1;410;943;+;D-alanine--D-alanine ligase
+KJ694378.1;CYC;grassland soil;KJ694378.1;888;1274;+;D-alanine--D-alanine ligase
+KJ694459.1;CYC;grassland soil;KJ694459.1;837;2102;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KJ694459.1;CYC;grassland soil;KJ694459.1;2114;3043;-;D-alanine--D-alanine ligase B
+KJ695170.1;CYC;Agricultural soil;KJ695170.1;1464;2360;+;D-alanine--D-alanine ligase
+KJ695170.1;CYC;Agricultural soil;KJ695170.1;2473;2871;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KJ695546.1;CYC;Agricultural soil;KJ695546.1;2972;3877;-;D-alanine--D-alanine ligase
+KJ695546.1;CYC;Agricultural soil;KJ695546.1;3874;4572;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KJ695855.1;TET;Agricultural soil;KJ695855.1;130;768;+;Tetracycline resistance protein%2C class C
+KJ695855.1;TET;Agricultural soil;KJ695855.1;885;2078;+;Tetracycline resistance protein%2C class C
+KJ695919.1;CYC;Agricultural soil;KJ695919.1;5146;5676;-;D-alanine--D-alanine ligase A
+KJ695919.1;CYC;Agricultural soil;KJ695919.1;5636;6292;-;D-alanine--D-alanine ligase A
+KJ696413.1;CYC;Agricultural soil;KJ696413.1;443;1705;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KJ696413.1;CYC;Agricultural soil;KJ696413.1;1695;2636;-;D-alanine--D-alanine ligase
+KU605947.1;TET;Preterm_infant_stool;KU605947.1;2111;3484;-;tetracycline efflux MFS transporter Tet(L)
+KU605947.1;TET;Preterm_infant_stool;KU605947.1;3582;5501;-;tetracycline resistance ribosomal protection protein Tet(M)
+KU606020.1;AMX;Preterm_infant_stool;KU606020.1;1332;2207;-;Beta-lactamase OXY-1
+KU606020.1;AMX;Preterm_infant_stool;KU606020.1;2820;3986;+;Beta-lactamase
+KU608064.1;TET;Preterm_infant_stool;KU608064.1;2854;4773;+;tetracycline resistance ribosomal protection protein Tet(M)
+KU608064.1;TET;Preterm_infant_stool;KU608064.1;4871;6244;+;tetracycline efflux MFS transporter Tet(L)
+JF924888.1;TMP;soil;JF924888.1;253;756;+;Dihydrofolate reductase type 3
+JF924888.1;TMP;soil;JF924888.1;753;1301;+;Dihydrofolate reductase type 3
+MN340017.1;SPT;wastewater+triclosan;MN340017.1;5686;6465;-;Streptomycin 3''-adenylyltransferase
+MN340017.1;SPT;wastewater+triclosan;MN340017.1;8276;9055;-;Streptomycin 3''-adenylyltransferase
+MN340017.1;SPT;wastewater+triclosan;MN340017.1;9695;10489;-;Aminoglycoside 3'-phosphotransferase
+MN340019.1;TET;wastewater+triclosan;MN340019.1;24459;25649;-;Tetracycline resistance protein%2C class C
+MN340019.1;TET;wastewater+triclosan;MN340019.1;25742;26422;+;Tetracycline repressor protein class A from transposon 1721
+MN340020.1;TET;wastewater+triclosan;MN340020.1;10569;11249;-;Tetracycline repressor protein class A from transposon 1721
+MN340020.1;TET;wastewater+triclosan;MN340020.1;11342;12532;+;Tetracycline resistance protein%2C class C
+MN340021.1;TET;wastewater+triclosan;MN340021.1;23725;24393;-;Tetracycline repressor protein class A from transposon 1721
+MN340021.1;TET;wastewater+triclosan;MN340021.1;24514;25695;+;Tetracycline resistance protein%2C class C
+KX125140.1;CYC;human_gut;KX125140.1;1435;2382;+;D-alanine--D-alanine ligase
+KX125140.1;CYC;human_gut;KX125140.1;2398;3768;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KX125141.1;CYC;human_gut;KX125141.1;1241;1840;-;D-alanine--D-alanine ligase B
+KX125141.1;CYC;human_gut;KX125141.1;1833;2276;-;D-alanine--D-alanine ligase B
+KX125144.1;CYC;human_gut;KX125144.1;408;1796;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KX125144.1;CYC;human_gut;KX125144.1;1861;2976;-;D-alanine--D-alanine ligase
+KX125208.1;TET;human_gut;KX125208.1;4653;5393;-;Tetracycline resistance protein TetM from transposon TnFO1
+KX125208.1;TET;human_gut;KX125208.1;5333;6574;-;Tetracycline resistance protein TetO
+KX125428.1;CYC;newborn_gut;KX125428.1;43;1413;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KX125428.1;CYC;newborn_gut;KX125428.1;1441;2496;-;D-alanine--D-alanine ligase
+KX125431.1;CYC;newborn_gut;KX125431.1;941;1981;-;D-alanine--D-alanine ligase
+KX125431.1;CYC;newborn_gut;KX125431.1;1978;2445;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KX125438.1;CYC;newborn_gut;KX125438.1;1008;2378;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KX125438.1;CYC;newborn_gut;KX125438.1;2406;3461;-;D-alanine--D-alanine ligase
+KX125441.1;CYC;newborn_gut;KX125441.1;752;1807;+;D-alanine--D-alanine ligase
+KX125441.1;CYC;newborn_gut;KX125441.1;1823;3202;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KX125604.1;CYC;newborn_gut;KX125604.1;382;1752;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KX125604.1;CYC;newborn_gut;KX125604.1;1780;2835;-;D-alanine--D-alanine ligase
+KX125607.1;CYC;newborn_gut;KX125607.1;755;1795;-;D-alanine--D-alanine ligase
+KX125607.1;CYC;newborn_gut;KX125607.1;1792;2391;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KX125649.1;TET;newborn_gut;KX125649.1;787;1794;+;Tetracycline resistance protein TetO
+KX125649.1;TET;newborn_gut;KX125649.1;1820;2707;+;Tetracycline resistance protein TetM from transposon TnFO1
+KX125729.1;CYC;human_gut;KX125729.1;279;680;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KX125729.1;CYC;human_gut;KX125729.1;695;1306;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KX125729.1;CYC;human_gut;KX125729.1;1340;2392;-;D-alanine--D-alanine ligase
+KX125758.1;CYC;human_gut;KX125758.1;552;1559;-;D-alanine--D-alanine ligase A
+KX125758.1;CYC;human_gut;KX125758.1;2936;3943;+;D-alanine--D-alanine ligase A
+KX125765.1;CYC;human_gut;KX125765.1;277;1665;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KX125765.1;CYC;human_gut;KX125765.1;1694;2719;-;D-alanine--D-alanine ligase
+KX125785.1;CYC;human_gut;KX125785.1;344;1759;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KX125785.1;CYC;human_gut;KX125785.1;1779;2804;-;D-alanine--D-alanine ligase
+KX125788.1;CYC;human_gut;KX125788.1;15;1385;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KX125788.1;CYC;human_gut;KX125788.1;1413;2468;-;D-alanine--D-alanine ligase
+KX125789.1;CYC;human_gut;KX125789.1;838;1389;-;D-alanine--D-alanine ligase A
+KX125789.1;CYC;human_gut;KX125789.1;1471;1899;-;Vancomycin B-type resistance protein VanB
+KX125790.1;CYC;human_gut;KX125790.1;91;1446;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KX125790.1;CYC;human_gut;KX125790.1;1443;2498;+;Vancomycin C-type resistance protein VanC
+KX125794.1;CYC;human_gut;KX125794.1;309;1013;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KX125794.1;CYC;human_gut;KX125794.1;1099;2151;-;D-alanine--D-alanine ligase
+KX125833.1;CYC;human_gut;KX125833.1;1129;2184;+;D-alanine--D-alanine ligase
+KX125833.1;CYC;human_gut;KX125833.1;2186;3580;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KX125834.1;CYC;human_gut;KX125834.1;1506;2570;+;D-alanine--D-alanine ligase
+KX125834.1;CYC;human_gut;KX125834.1;2586;3956;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KX126522.1;TET;newborn_gut;KX126522.1;433;1587;+;Tetracycline resistance protein TetO
+KX126522.1;TET;newborn_gut;KX126522.1;1619;2353;+;Tetracycline resistance protein TetO
+KX126610.1;PEN;newborn_gut;KX126610.1;63;956;+;Beta-lactamase 1
+KX126610.1;PEN;newborn_gut;KX126610.1;3456;4349;+;Beta-lactamase 1
+KX126941.1;GEN;newborn_gut;KX126941.1;792;1133;+;Bifunctional AAC/APH
+KX126941.1;GEN;newborn_gut;KX126941.1;1088;2245;+;Bifunctional AAC/APH
+KX127181.1;CYC;newborn_gut;KX127181.1;626;2005;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KX127181.1;CYC;newborn_gut;KX127181.1;2021;3076;-;D-alanine--D-alanine ligase
+KX127196.1;CYC;newborn_gut;KX127196.1;55;651;+;Vancomycin C-type resistance protein VanC
+KX127196.1;CYC;newborn_gut;KX127196.1;620;1030;+;D-alanine--D-alanine ligase
+KX127202.1;CYC;newborn_gut;KX127202.1;48;464;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KX127202.1;CYC;newborn_gut;KX127202.1;461;1501;+;D-alanine--D-alanine ligase
+KX127212.1;CYC;newborn_gut;KX127212.1;91;1479;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KX127212.1;CYC;newborn_gut;KX127212.1;1493;2560;+;Vancomycin B-type resistance protein VanB
+KX127221.1;CYC;newborn_gut;KX127221.1;126;527;-;D-alanine--D-alanine ligase
+KX127221.1;CYC;newborn_gut;KX127221.1;586;1185;-;D-alanine--D-alanine ligase B
+KX127222.1;CYC;newborn_gut;KX127222.1;55;498;-;D-alanine--D-alanine ligase B
+KX127222.1;CYC;newborn_gut;KX127222.1;467;1111;-;D-alanine--D-alanine ligase B
+KX127226.1;CYC;newborn_gut;KX127226.1;520;1890;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KX127226.1;CYC;newborn_gut;KX127226.1;1918;2274;-;D-alanine--D-alanine ligase
+KX127226.1;CYC;newborn_gut;KX127226.1;2222;2974;-;D-alanine--D-alanine ligase
+KX127613.1;TET;human_gut;KX127613.1;144;1574;-;Tetracycline resistance protein TetO
+KX127613.1;TET;human_gut;KX127613.1;1578;2081;-;Tetracycline resistance protein TetO
+KX127895.1;CYC;newborn_gut;KX127895.1;1311;1676;-;D-alanine--D-alanine ligase
+KX127895.1;CYC;newborn_gut;KX127895.1;1704;2369;-;D-alanine--D-alanine ligase B
+KX128043.1;CYC;newborn_gut;KX128043.1;9;1439;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KX128043.1;CYC;newborn_gut;KX128043.1;1463;2521;-;D-alanine--D-alanine ligase
+KX128222.1;CYC;newborn_gut;KX128222.1;6;521;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KX128222.1;CYC;newborn_gut;KX128222.1;470;1315;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KX128222.1;CYC;newborn_gut;KX128222.1;1343;2398;-;D-alanine--D-alanine ligase
+KX128294.1;TET;newborn_gut;KX128294.1;1750;2865;+;Tetracycline resistance protein TetO
+KX128294.1;TET;newborn_gut;KX128294.1;2834;3670;+;Tetracycline resistance protein TetM from transposon TnFO1
+KX128404.1;CYC;newborn_gut;KX128404.1;1388;2446;+;D-alanine--D-alanine ligase
+KX128404.1;CYC;newborn_gut;KX128404.1;2470;3900;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KX128696.1;TET;newborn_gut;KX128696.1;1588;1926;-;Tetracycline resistance protein TetM from transposon TnFO1
+KX128696.1;TET;newborn_gut;KX128696.1;1923;2819;-;Tetracycline resistance protein TetM from transposon TnFO1
+KX128716.1;TET;newborn_gut;KX128716.1;2438;3478;-;Tetracycline resistance protein TetM from transposon TnFO1
+KX128716.1;TET;newborn_gut;KX128716.1;3423;4358;-;Tetracycline resistance protein TetO
+KX128866.1;TET;newborn_gut;KX128866.1;846;2276;-;Tetracycline resistance protein TetO
+KX128866.1;TET;newborn_gut;KX128866.1;2236;2784;-;Tetracycline resistance protein TetO
+KF626939.1;CYC;pediatric_fecal_sample;KF626939.1;14;730;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF626939.1;CYC;pediatric_fecal_sample;KF626939.1;885;1937;-;D-alanine--D-alanine ligase B
+KF626969.1;CYC;pediatric_fecal_sample;KF626969.1;580;1638;+;D-alanine--D-alanine ligase
+KF626969.1;CYC;pediatric_fecal_sample;KF626969.1;1635;3026;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF626991.1;CYC;pediatric_fecal_sample;KF626991.1;594;1046;-;D-alanine--D-alanine ligase A
+KF626991.1;CYC;pediatric_fecal_sample;KF626991.1;1030;1680;-;D-alanine--D-alanine ligase
+KF627047.1;CYC;pediatric_fecal_sample;KF627047.1;877;1467;-;D-alanine--D-alanine ligase A
+KF627047.1;CYC;pediatric_fecal_sample;KF627047.1;1504;2205;-;D-alanine--D-alanine ligase
+KF627064.1;CYC;pediatric_fecal_sample;KF627064.1;432;1499;+;D-alanine--D-alanine ligase
+KF627064.1;CYC;pediatric_fecal_sample;KF627064.1;1512;2864;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF627090.1;CYC;pediatric_fecal_sample;KF627090.1;1218;1856;-;D-alanine--D-alanine ligase
+KF627090.1;CYC;pediatric_fecal_sample;KF627090.1;1849;2277;-;D-alanine--D-alanine ligase
+KF627145.1;CYC;pediatric_fecal_sample;KF627145.1;734;1261;+;D-alanine--D-alanine ligase
+KF627145.1;CYC;pediatric_fecal_sample;KF627145.1;1242;1646;+;D-alanine--D-alanine ligase
+KF627204.1;CYC;pediatric_fecal_sample;KF627204.1;713;1444;-;D-alanine--D-alanine ligase
+KF627204.1;CYC;pediatric_fecal_sample;KF627204.1;1425;1760;-;D-alanine--D-alanine ligase
+KF627271.1;CYC;pediatric_fecal_sample;KF627271.1;613;1584;+;D-alanine--D-alanine ligase B
+KF627271.1;CYC;pediatric_fecal_sample;KF627271.1;1663;3024;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF627272.1;CYC;pediatric_fecal_sample;KF627272.1;175;1560;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF627272.1;CYC;pediatric_fecal_sample;KF627272.1;1560;2612;-;D-alanine--D-alanine ligase
+KF627349.1;CYC;pediatric_fecal_sample;KF627349.1;339;1454;+;D-alanine--D-alanine ligase
+KF627349.1;CYC;pediatric_fecal_sample;KF627349.1;1519;2907;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF627364.1;CYC;pediatric_fecal_sample;KF627364.1;605;1015;-;D-alanine--D-alanine ligase
+KF627364.1;CYC;pediatric_fecal_sample;KF627364.1;1150;1671;-;D-alanine--D-alanine ligase
+KF627407.1;CYC;pediatric_fecal_sample;KF627407.1;533;1588;+;D-alanine--D-alanine ligase
+KF627407.1;CYC;pediatric_fecal_sample;KF627407.1;1604;2362;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF627449.1;CYC;pediatric_fecal_sample;KF627449.1;302;1654;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF627449.1;CYC;pediatric_fecal_sample;KF627449.1;1651;2691;+;D-alanine--D-alanine ligase
+KF627459.1;CYC;pediatric_fecal_sample;KF627459.1;212;727;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF627459.1;CYC;pediatric_fecal_sample;KF627459.1;669;1583;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF627459.1;CYC;pediatric_fecal_sample;KF627459.1;1611;2666;-;D-alanine--D-alanine ligase
+KF627539.1;CYC;pediatric_fecal_sample;KF627539.1;174;800;-;D-alanine--D-alanine ligase B
+KF627539.1;CYC;pediatric_fecal_sample;KF627539.1;880;1194;-;D-alanine--D-alanine ligase
+KF627575.1;GEN;pediatric_fecal_sample;KF627575.1;1330;2229;+;Bifunctional AAC/APH
+KF627575.1;GEN;pediatric_fecal_sample;KF627575.1;2273;2809;+;Bifunctional AAC/APH
+KF627727.1;CYC;pediatric_fecal_sample;KF627727.1;1458;2510;+;D-alanine--D-alanine ligase
+KF627727.1;CYC;pediatric_fecal_sample;KF627727.1;2558;3421;+;D-alanine--D-alanine ligase
+KF627780.1;SXT;pediatric_fecal_sample;KF627780.1;366;857;-;Dihydrofolate reductase
+KF627780.1;SXT;pediatric_fecal_sample;KF627780.1;1834;2313;+;Dihydrofolate reductase
+KF627785.1;SXT;pediatric_fecal_sample;KF627785.1;1807;2301;+;Dihydrofolate reductase
+KF627785.1;SXT;pediatric_fecal_sample;KF627785.1;5267;5767;+;Dihydrofolate reductase
+KF627846.1;CYC;pediatric_fecal_sample;KF627846.1;772;1380;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF627846.1;CYC;pediatric_fecal_sample;KF627846.1;1466;2518;-;D-alanine--D-alanine ligase
+KF627849.1;CYC;pediatric_fecal_sample;KF627849.1;229;1620;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF627849.1;CYC;pediatric_fecal_sample;KF627849.1;1617;2675;-;D-alanine--D-alanine ligase
+KF627858.1;CYC;pediatric_fecal_sample;KF627858.1;861;1613;+;D-alanine--D-alanine ligase
+KF627858.1;CYC;pediatric_fecal_sample;KF627858.1;1600;1923;+;D-alanine--D-alanine ligase
+KF627909.1;CYC;pediatric_fecal_sample;KF627909.1;493;1545;+;D-alanine--D-alanine ligase
+KF627909.1;CYC;pediatric_fecal_sample;KF627909.1;1631;2299;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF627914.1;CYC;pediatric_fecal_sample;KF627914.1;559;990;+;D-alanine--D-alanine ligase B
+KF627914.1;CYC;pediatric_fecal_sample;KF627914.1;980;1591;+;D-alanine--D-alanine ligase
+KF627939.1;CYC;pediatric_fecal_sample;KF627939.1;217;1173;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF627939.1;CYC;pediatric_fecal_sample;KF627939.1;1702;2472;-;D-alanine--D-alanine ligase B
+KF627989.1;CYC;pediatric_fecal_sample;KF627989.1;1692;2747;+;D-alanine--D-alanine ligase
+KF627989.1;CYC;pediatric_fecal_sample;KF627989.1;2775;4145;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF628027.1;CYC;pediatric_fecal_sample;KF628027.1;322;1674;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF628027.1;CYC;pediatric_fecal_sample;KF628027.1;1671;2711;+;D-alanine--D-alanine ligase
+KF628255.1;CYC;pediatric_fecal_sample;KF628255.1;1706;2158;+;D-alanine--D-alanine ligase
+KF628255.1;CYC;pediatric_fecal_sample;KF628255.1;2169;2741;+;D-alanine--D-alanine ligase A
+KF628279.1;CYC;pediatric_fecal_sample;KF628279.1;8;829;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF628279.1;CYC;pediatric_fecal_sample;KF628279.1;831;1886;-;D-alanine--D-alanine ligase
+KF628280.1;CYC;pediatric_fecal_sample;KF628280.1;422;901;-;D-alanine--D-alanine ligase
+KF628280.1;CYC;pediatric_fecal_sample;KF628280.1;852;1490;-;D-alanine--D-alanine ligase
+KF628282.1;CYC;pediatric_fecal_sample;KF628282.1;43;597;+;D-alanine--D-alanine ligase
+KF628282.1;CYC;pediatric_fecal_sample;KF628282.1;536;1105;+;D-alanine--D-alanine ligase A
+KF628286.1;CYC;pediatric_fecal_sample;KF628286.1;1168;1980;+;D-alanine--D-alanine ligase
+KF628286.1;CYC;pediatric_fecal_sample;KF628286.1;2045;2356;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF628306.1;CYC;pediatric_fecal_sample;KF628306.1;26;592;-;D-alanine--D-alanine ligase
+KF628306.1;CYC;pediatric_fecal_sample;KF628306.1;597;1061;-;D-alanine--D-alanine ligase B
+KF628326.1;CYC;pediatric_fecal_sample;KF628326.1;583;954;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF628326.1;CYC;pediatric_fecal_sample;KF628326.1;1029;2084;-;D-alanine--D-alanine ligase
+KF628344.1;CYC;pediatric_fecal_sample;KF628344.1;333;872;-;D-alanine--D-alanine ligase B
+KF628344.1;CYC;pediatric_fecal_sample;KF628344.1;892;1269;-;D-alanine--D-alanine ligase
+KF628420.1;CYC;pediatric_fecal_sample;KF628420.1;620;1669;+;D-alanine--D-alanine ligase
+KF628420.1;CYC;pediatric_fecal_sample;KF628420.1;1666;2349;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF628424.1;CYC;pediatric_fecal_sample;KF628424.1;373;1734;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF628424.1;CYC;pediatric_fecal_sample;KF628424.1;1754;2785;-;D-alanine--D-alanine ligase B
+KF628508.1;TET;pediatric_fecal_sample;KF628508.1;361;1440;-;Tetracycline resistance protein TetM from transposon TnFO1
+KF628508.1;TET;pediatric_fecal_sample;KF628508.1;1511;2281;-;Tetracycline resistance protein TetO
+KF628520.1;CYC;pediatric_fecal_sample;KF628520.1;222;1337;+;D-alanine--D-alanine ligase
+KF628520.1;CYC;pediatric_fecal_sample;KF628520.1;1398;2126;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF628552.1;CYC;pediatric_fecal_sample;KF628552.1;219;1283;-;Vancomycin/teicoplanin A-type resistance protein VanA
+KF628552.1;CYC;pediatric_fecal_sample;KF628552.1;1280;1624;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF628590.1;CYC;pediatric_fecal_sample;KF628590.1;2137;3177;-;D-alanine--D-alanine ligase
+KF628590.1;CYC;pediatric_fecal_sample;KF628590.1;3174;4526;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF628653.1;CYC;pediatric_fecal_sample;KF628653.1;245;1624;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF628653.1;CYC;pediatric_fecal_sample;KF628653.1;1640;2695;-;D-alanine--D-alanine ligase
+KF628659.1;CYC;pediatric_fecal_sample;KF628659.1;2284;3036;+;D-alanine--D-alanine ligase
+KF628659.1;CYC;pediatric_fecal_sample;KF628659.1;3368;4738;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF628677.1;CYC;pediatric_fecal_sample;KF628677.1;2279;2773;+;D-alanine--D-alanine ligase
+KF628677.1;CYC;pediatric_fecal_sample;KF628677.1;2730;3335;+;D-alanine--D-alanine ligase
+KF628677.1;CYC;pediatric_fecal_sample;KF628677.1;3363;4733;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF628720.1;CYC;pediatric_fecal_sample;KF628720.1;416;1843;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF628720.1;CYC;pediatric_fecal_sample;KF628720.1;1840;2871;-;D-alanine--D-alanine ligase
+KF628739.1;CYC;pediatric_fecal_sample;KF628739.1;1292;1867;+;Vancomycin C-type resistance protein VanC
+KF628739.1;CYC;pediatric_fecal_sample;KF628739.1;1974;2306;+;Vancomycin C-type resistance protein VanC
+KF628743.1;CYC;pediatric_fecal_sample;KF628743.1;2134;3174;-;D-alanine--D-alanine ligase
+KF628743.1;CYC;pediatric_fecal_sample;KF628743.1;3171;4523;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF628748.1;CYC;pediatric_fecal_sample;KF628748.1;802;1233;+;D-alanine--D-alanine ligase B
+KF628748.1;CYC;pediatric_fecal_sample;KF628748.1;1334;1723;+;D-alanine--D-alanine ligase B
+KF628801.1;CYC;pediatric_fecal_sample;KF628801.1;78;791;-;D-alanine--D-alanine ligase
+KF628801.1;CYC;pediatric_fecal_sample;KF628801.1;757;1122;-;D-alanine--D-alanine ligase
+KF628816.1;CYC;pediatric_fecal_sample;KF628816.1;295;1674;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF628816.1;CYC;pediatric_fecal_sample;KF628816.1;1690;2745;-;D-alanine--D-alanine ligase
+KF628820.1;CYC;pediatric_fecal_sample;KF628820.1;1078;2142;-;Vancomycin C-type resistance protein VanC
+KF628820.1;CYC;pediatric_fecal_sample;KF628820.1;2156;2695;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF628829.1;TET;pediatric_fecal_sample;KF628829.1;133;855;+;Tetracycline resistance protein TetM from transposon TnFO1
+KF628829.1;TET;pediatric_fecal_sample;KF628829.1;812;1924;+;Tetracycline resistance protein TetM from transposon TnFO1
+KF628839.1;CYC;pediatric_fecal_sample;KF628839.1;70;594;+;D-alanine--D-alanine ligase
+KF628839.1;CYC;pediatric_fecal_sample;KF628839.1;587;952;+;D-alanine--D-alanine ligase A
+KF628851.1;CYC;pediatric_fecal_sample;KF628851.1;2;316;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF628851.1;CYC;pediatric_fecal_sample;KF628851.1;347;1396;-;D-alanine--D-alanine ligase
+KF628870.1;CYC;pediatric_fecal_sample;KF628870.1;929;1981;+;D-alanine--D-alanine ligase
+KF628870.1;CYC;pediatric_fecal_sample;KF628870.1;1981;3366;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF628892.1;CYC;pediatric_fecal_sample;KF628892.1;1432;2496;+;D-alanine--D-alanine ligase
+KF628892.1;CYC;pediatric_fecal_sample;KF628892.1;2512;3186;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF628892.1;CYC;pediatric_fecal_sample;KF628892.1;3140;3883;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF628932.1;CYC;pediatric_fecal_sample;KF628932.1;659;1072;+;D-alanine--D-alanine ligase
+KF628932.1;CYC;pediatric_fecal_sample;KF628932.1;1074;1478;+;D-alanine--D-alanine ligase
+KF628952.1;CYC;pediatric_fecal_sample;KF628952.1;1296;1904;-;D-alanine--D-alanine ligase A
+KF628952.1;CYC;pediatric_fecal_sample;KF628952.1;1853;2362;-;Vancomycin/teicoplanin A-type resistance protein VanA
+KF628956.1;CYC;pediatric_fecal_sample;KF628956.1;1234;2277;-;Vancomycin C-type resistance protein VanC
+KF628956.1;CYC;pediatric_fecal_sample;KF628956.1;2283;3065;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF628987.1;CYC;pediatric_fecal_sample;KF628987.1;330;773;-;D-alanine--D-alanine ligase
+KF628987.1;CYC;pediatric_fecal_sample;KF628987.1;733;1380;-;D-alanine--D-alanine ligase
+KF629013.1;CYC;pediatric_fecal_sample;KF629013.1;2119;3174;+;D-alanine--D-alanine ligase
+KF629013.1;CYC;pediatric_fecal_sample;KF629013.1;3202;4572;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF629015.1;CYC;pediatric_fecal_sample;KF629015.1;721;1599;+;Vancomycin B-type resistance protein VanB
+KF629015.1;CYC;pediatric_fecal_sample;KF629015.1;1544;1906;+;D-alanine--D-alanine ligase A
+KF629091.1;CYC;pediatric_fecal_sample;KF629091.1;98;841;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF629091.1;CYC;pediatric_fecal_sample;KF629091.1;795;1469;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF629091.1;CYC;pediatric_fecal_sample;KF629091.1;1485;2549;-;D-alanine--D-alanine ligase
+KF629122.1;CYC;pediatric_fecal_sample;KF629122.1;136;1506;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF629122.1;CYC;pediatric_fecal_sample;KF629122.1;1530;2552;-;D-alanine--D-alanine ligase
+KF629152.1;CYC;pediatric_fecal_sample;KF629152.1;984;2039;+;D-alanine--D-alanine ligase
+KF629152.1;CYC;pediatric_fecal_sample;KF629152.1;2055;3434;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF629155.1;CYC;pediatric_fecal_sample;KF629155.1;291;1670;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF629155.1;CYC;pediatric_fecal_sample;KF629155.1;1670;2722;-;D-alanine--D-alanine ligase
+KF629157.1;CYC;pediatric_fecal_sample;KF629157.1;823;1233;-;D-alanine--D-alanine ligase A
+KF629157.1;CYC;pediatric_fecal_sample;KF629157.1;1259;1918;-;D-alanine--D-alanine ligase
+KF629227.1;CYC;pediatric_fecal_sample;KF629227.1;195;674;+;Vancomycin B-type resistance protein VanB
+KF629227.1;CYC;pediatric_fecal_sample;KF629227.1;629;1258;+;D-alanine--D-alanine ligase
+KF629292.1;CYC;pediatric_fecal_sample;KF629292.1;772;1137;-;D-alanine--D-alanine ligase
+KF629292.1;CYC;pediatric_fecal_sample;KF629292.1;1113;1841;-;D-alanine--D-alanine ligase B
+KF629331.1;GEN;pediatric_fecal_sample;KF629331.1;370;906;-;Bifunctional AAC/APH
+KF629331.1;GEN;pediatric_fecal_sample;KF629331.1;950;1849;-;Bifunctional AAC/APH
+KF629402.1;CYC;pediatric_fecal_sample;KF629402.1;14;940;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF629402.1;CYC;pediatric_fecal_sample;KF629402.1;956;2020;-;D-alanine--D-alanine ligase
+KF629499.1;CYC;pediatric_fecal_sample;KF629499.1;994;2049;+;D-alanine--D-alanine ligase
+KF629499.1;CYC;pediatric_fecal_sample;KF629499.1;2051;3445;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF629513.1;CYC;pediatric_fecal_sample;KF629513.1;679;2058;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF629513.1;CYC;pediatric_fecal_sample;KF629513.1;2074;3129;-;D-alanine--D-alanine ligase
+KF629530.1;CYC;pediatric_fecal_sample;KF629530.1;1577;2632;+;D-alanine--D-alanine ligase
+KF629530.1;CYC;pediatric_fecal_sample;KF629530.1;2660;3256;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF629559.1;CYC;pediatric_fecal_sample;KF629559.1;2;1192;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF629559.1;CYC;pediatric_fecal_sample;KF629559.1;1208;2272;-;D-alanine--D-alanine ligase
+KF629711.1;CYC;pediatric_fecal_sample;KF629711.1;139;1509;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF629711.1;CYC;pediatric_fecal_sample;KF629711.1;1525;2589;-;D-alanine--D-alanine ligase
+KF629744.1;CYC;pediatric_fecal_sample;KF629744.1;311;1678;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF629744.1;CYC;pediatric_fecal_sample;KF629744.1;1743;2858;-;D-alanine--D-alanine ligase
+KF629770.1;CYC;pediatric_fecal_sample;KF629770.1;311;1678;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF629770.1;CYC;pediatric_fecal_sample;KF629770.1;1743;2780;-;D-alanine--D-alanine ligase
+KF629820.1;CYC;pediatric_fecal_sample;KF629820.1;442;858;-;D-alanine--D-alanine ligase
+KF629820.1;CYC;pediatric_fecal_sample;KF629820.1;931;1509;-;D-alanine--D-alanine ligase
+KF629820.1;CYC;pediatric_fecal_sample;KF629820.1;2223;2639;-;D-alanine--D-alanine ligase
+KF629820.1;CYC;pediatric_fecal_sample;KF629820.1;2707;3213;-;D-alanine--D-alanine ligase
+KF629920.1;CYC;pediatric_fecal_sample;KF629920.1;115;477;-;D-alanine--D-alanine ligase
+KF629920.1;CYC;pediatric_fecal_sample;KF629920.1;609;1181;-;D-alanine--D-alanine ligase
+KF629937.1;CYC;pediatric_fecal_sample;KF629937.1;523;924;-;D-alanine--D-alanine ligase A
+KF629937.1;CYC;pediatric_fecal_sample;KF629937.1;942;1610;-;Vancomycin B-type resistance protein VanB
+KF630029.1;CYC;pediatric_fecal_sample;KF630029.1;646;1701;+;D-alanine--D-alanine ligase
+KF630029.1;CYC;pediatric_fecal_sample;KF630029.1;1717;3096;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF630174.1;CYC;pediatric_fecal_sample;KF630174.1;2331;3371;-;D-alanine--D-alanine ligase
+KF630174.1;CYC;pediatric_fecal_sample;KF630174.1;3368;3964;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF630174.1;CYC;pediatric_fecal_sample;KF630174.1;3933;4721;-;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF630196.1;CYC;pediatric_fecal_sample;KF630196.1;513;1565;+;D-alanine--D-alanine ligase
+KF630196.1;CYC;pediatric_fecal_sample;KF630196.1;1651;3021;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF630268.1;TET;pediatric_fecal_sample;KF630268.1;1345;2718;-;tetracycline efflux MFS transporter Tet(L)
+KF630268.1;TET;pediatric_fecal_sample;KF630268.1;2816;4735;-;tetracycline resistance ribosomal protection protein Tet(M)
+KF630298.1;CYC;pediatric_fecal_sample;KF630298.1;874;1614;+;D-alanine--D-alanine ligase
+KF630298.1;CYC;pediatric_fecal_sample;KF630298.1;1921;3300;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KF630334.1;CYC;pediatric_fecal_sample;KF630334.1;2160;3215;+;D-alanine--D-alanine ligase
+KF630334.1;CYC;pediatric_fecal_sample;KF630334.1;3243;4613;+;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KU543782.1;TET;feces;KU543782.1;1297;3216;+;tetracycline resistance ribosomal protection protein Tet(M)
+KU543782.1;TET;feces;KU543782.1;3410;4786;+;tetracycline efflux MFS transporter Tet(L)
+KU543820.1;TET;feces;KU543820.1;172;2091;+;tetracycline resistance ribosomal protection protein Tet(M)
+KU543820.1;TET;feces;KU543820.1;2285;3661;+;tetracycline efflux MFS transporter Tet(L)
+KU544001.1;AMX;sewage;KU544001.1;208;1038;-;Beta-lactamase OXA-1
+KU544001.1;AMX;sewage;KU544001.1;1978;2778;-;Beta-lactamase OXA-10
+KU544343.1;GEN;sewage;KU544343.1;1306;2166;-;SPbeta prophage-derived aminoglycoside N(3')-acetyltransferase-like protein YokD
+KU544343.1;GEN;sewage;KU544343.1;4286;4633;+;2''-aminoglycoside nucleotidyltransferase
+KU544792.1;TET;sewage;KU544792.1;452;1087;-;Tetracycline repressor protein class A from transposon 1721
+KU544792.1;TET;sewage;KU544792.1;1180;2370;+;Tetracycline resistance protein%2C class C
+KU544800.1;TET;sewage;KU544800.1;823;2013;-;Tetracycline resistance protein%2C class C
+KU544800.1;TET;sewage;KU544800.1;2106;2741;+;Tetracycline repressor protein class A from transposon 1721
+KU545059.1;TET;feces;KU545059.1;53;730;-;Tetracycline repressor protein class A from transposon 1721
+KU545059.1;TET;feces;KU545059.1;809;2008;+;Tetracycline resistance protein%2C class C
+KU545257.1;TET;feces;KU545257.1;734;1933;-;Tetracycline resistance protein%2C class C
+KU545257.1;TET;feces;KU545257.1;2012;2665;+;Tetracycline repressor protein class A from transposon 1721
+KU545389.1;TET;feces;KU545389.1;319;996;-;Tetracycline repressor protein class A from transposon 1721
+KU545389.1;TET;feces;KU545389.1;1075;2274;+;Tetracycline resistance protein%2C class C
+KU545548.1;TET;feces;KU545548.1;3765;4964;-;Tetracycline resistance protein%2C class C
+KU545548.1;TET;feces;KU545548.1;5043;5696;+;Tetracycline repressor protein class A from transposon 1721
+KU545550.1;TET;feces;KU545550.1;1135;3054;+;tetracycline resistance ribosomal protection protein Tet(M)
+KU545550.1;TET;feces;KU545550.1;3152;4525;+;tetracycline efflux MFS transporter Tet(L)
+KU545564.1;TGC;feces;KU545564.1;1128;1646;-;Tetracycline repressor protein class A from transposon 1721
+KU545564.1;TGC;feces;KU545564.1;1725;2924;+;Tetracycline resistance protein%2C class C
+KU545618.1;TET;feces;KU545618.1;256;1455;-;Tetracycline resistance protein%2C class C
+KU545618.1;TET;feces;KU545618.1;1534;2187;+;Tetracycline repressor protein class A from transposon 1721
+KU545620.1;TET;feces;KU545620.1;1213;2586;-;tetracycline efflux MFS transporter Tet(L)
+KU545620.1;TET;feces;KU545620.1;2684;3724;-;Tetracycline resistance protein TetM from transposon TnFO1
+KU545776.1;TET;feces;KU545776.1;75;752;-;Tetracycline repressor protein class A from transposon 1721
+KU545776.1;TET;feces;KU545776.1;831;2030;+;Tetracycline resistance protein%2C class C
+KU546368.1;TET;feces;KU546368.1;1007;2206;-;Tetracycline resistance protein%2C class C
+KU546368.1;TET;feces;KU546368.1;2285;2962;+;Tetracycline repressor protein class A from transposon 1721
+KU546489.1;TET;feces;KU546489.1;1970;3169;-;Tetracycline resistance protein%2C class C
+KU546489.1;TET;feces;KU546489.1;3248;3925;+;Tetracycline repressor protein class A from transposon 1721
+KU546670.1;GEN;feces;KU546670.1;1377;2276;+;Bifunctional AAC/APH
+KU546670.1;GEN;feces;KU546670.1;2320;2856;+;Bifunctional AAC/APH
+KU547095.1;TET;latrine;KU547095.1;917;2116;-;Tetracycline resistance protein%2C class B
+KU547095.1;TET;latrine;KU547095.1;2155;2781;+;Tetracycline repressor protein class A from transposon 1721
+KU547104.1;TET;latrine;KU547104.1;705;1298;-;Tetracycline repressor protein class A from transposon 1721
+KU547104.1;TET;latrine;KU547104.1;1869;2537;+;Tetracycline resistance protein%2C class C
+KU547121.1;TET;latrine;KU547121.1;1349;1717;-;Tetracycline resistance protein TetM from transposon TnFO1
+KU547121.1;TET;latrine;KU547121.1;1684;2271;-;Tetracycline resistance protein TetM from transposon TnFO1
+KU547475.1;TET;feces;KU547475.1;315;992;-;Tetracycline repressor protein class A from transposon 1721
+KU547475.1;TET;feces;KU547475.1;1071;2270;+;Tetracycline resistance protein%2C class C
+KU547940.1;TET;latrine;KU547940.1;58;672;+;Tetracycline resistance protein TetM from transposon TnFO1
+KU547940.1;TET;latrine;KU547940.1;731;1099;+;Tetracycline resistance protein TetM from transposon TnFO1
+KU547943.1;TET;latrine;KU547943.1;1044;2243;-;Tetracycline resistance protein%2C class C
+KU547943.1;TET;latrine;KU547943.1;2322;2999;+;Tetracycline repressor protein class A from transposon 1721
+KU548382.1;TET;latrine;KU548382.1;339;1574;-;Tetracycline resistance protein%2C class C
+KU548382.1;TET;latrine;KU548382.1;1577;2170;+;Tetracycline repressor protein class A from transposon 1721
+KU548969.1;TET;feces;KU548969.1;607;1377;+;Tetracycline resistance protein TetO
+KU548969.1;TET;feces;KU548969.1;1448;2527;+;Tetracycline resistance protein TetM from transposon TnFO1
+GQ343139.1;MIN;human fecal matter;GQ343139.1;72;959;-;Tetracycline resistance protein TetM from transposon TnFO1
+GQ343139.1;MIN;human fecal matter;GQ343139.1;985;1992;-;Tetracycline resistance protein TetO
+JQ966977.1;TET;honeybee_gut;JQ966977.1;14997;15632;-;Tetracycline repressor protein class A from transposon 1721
+JQ966977.1;TET;honeybee_gut;JQ966977.1;15725;16915;+;Tetracycline resistance protein%2C class C
+JQ966978.1;TET;honeybee_gut;JQ966978.1;4138;4773;-;Tetracycline repressor protein class A from transposon 1721
+JQ966978.1;TET;honeybee_gut;JQ966978.1;4866;6056;+;Tetracycline resistance protein%2C class C
+JQ966980.1;TET;honeybee_gut;JQ966980.1;5573;6208;-;Tetracycline repressor protein class A from transposon 1721
+JQ966980.1;TET;honeybee_gut;JQ966980.1;6301;7491;+;Tetracycline resistance protein%2C class C
+JQ966981.1;TET;honeybee_gut;JQ966981.1;12808;13443;-;Tetracycline repressor protein class A from transposon 1721
+JQ966981.1;TET;honeybee_gut;JQ966981.1;13536;14726;+;Tetracycline resistance protein%2C class C
+JQ966984.1;TET;honeybee_gut;JQ966984.1;26973;27632;-;Tetracycline repressor protein class A from transposon 1721
+JQ966984.1;TET;honeybee_gut;JQ966984.1;27725;28900;+;Tetracycline resistance protein%2C class C

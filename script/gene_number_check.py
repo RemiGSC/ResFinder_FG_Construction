@@ -4,10 +4,10 @@
 
 # First, we define all the input and output file :  
 
-i_inserts = "/home/remi.gschwind/resfinder_FG/output/merged_data/lenght_checked/inserts_rf_cured_atb_size_valid.csv"
-o_duplicate = "/home/remi.gschwind/resfinder_FG/output/merged_data/number_check/duplicate.csv"
-o_no_duplicate = "/home/remi.gschwind/resfinder_FG/output/merged_data/number_check/inserts_rf_cured_atb_size_valid_nodup.csv"
-o_stats = "/home/remi.gschwind/resfinder_FG/output/merged_data/number_check/stats_gene_number_check.csv"
+i_inserts = "/home/remi.gschwind/resfinder_FG/output/merged_data/ARGs_size_valid.csv"
+o_duplicate = "/home/remi.gschwind/resfinder_FG/output/merged_data/duplicate.csv"
+o_no_duplicate = "/home/remi.gschwind/resfinder_FG/output/merged_data/ARGs_number_valid.csv"
+o_stats = "/home/remi.gschwind/resfinder_FG/output/merged_data/stats_gene_number_check.csv"
 
 # We create lists for the input lines, the accession numbers in those lines and a list for the future duplicates identified
 list_an = []

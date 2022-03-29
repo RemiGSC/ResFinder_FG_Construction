@@ -41,25 +41,23 @@ mkdir /home/remi.gschwind/resfinder_FG/output/merged_data
 python merge_gb_annot.py
 echo "GB_and_Annot_merged"
 
-# FILTERING ACCORDING TO GENE LENGTH 
+# GENE LENGTH CHECK
 
-mkdir /home/remi.gschwind/resfinder_FG/output/merged_data/lenght_checked
 python length_check.py
 echo "ARG_length_checked"
 
-# FILTERING ACCORDING TO NUMBER OF ARG PER INSERTS
+# NUMBER OF ARG PER INSERTS CHECK
 
-mkdir /home/remi.gschwind/resfinder_FG/output/merged_data/number_check
 python gene_number_check.py
 echo "ARG_number_check"
 
-# COMPILATION OF THE DATABASE
+# DATABASE COMPILATION
 
 mkdir /home/remi.gschwind/resfinder_FG/output/RFG_db
 python3 compilation_db.py
 echo "Compilation_done"
 
-# CDHIT FOR NUCLEIC ACID VERSION OF DB
+# CDHIT
 
 cd /home/remi.gschwind/resfinder_FG/output/RFG_db
 cd-hit-est -i db.fasta -o ResFinder_FG.fasta -d 0 -c 1 -M 0
@@ -77,7 +75,7 @@ cd /home/remi.gschwind/resfinder_FG/output/RFG_db
 cd-hit -i db.faa -o ResFinder_FG.faa -d 0 -c 1 -M 0
 echo "Cdhit_faa_done"
 
-# STATS ON OUTPUT
+# STATS
 
 python /home/remi.gschwind/resfinder_FG/script/final_stats.py
 echo "stats_done"

@@ -1,0 +1,6 @@
+     3 WARNING: SEQ_FEAT.BadProteinName
+ 62194 WARNING: SEQ_FEAT.GeneXrefWithoutGene
+  1272 WARNING: SEQ_FEAT.InvalidInferenceValue
+     1 WARNING: SEQ_FEAT.OnlyGeneXrefs
+    25 WARNING: SEQ_FEAT.ProteinNameEndsInBracket
+     8 WARNING: SEQ_FEAT.WrongQualOnImpFeat
