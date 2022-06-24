@@ -10,7 +10,8 @@ In **SCRIPT** you can found all the scripts needed for ResFinder FG v.2.0 constr
 
 ## ResFinder FG construction workflow
 
-![image][https://github.com/RemiGSC/ResFinder_FG_Construction/Construction_scheme.png|alt=Construction_scheme]
+![Ceci est un exemple d’image](https://github.com/RemiGSC/ResFinder_FG_Construction/blob/main/Construction_scheme.png)
+
 1. All the accession numbers were retrieved from the publications and can be found in data/an/ directory. All the fasta files retrieved using accesion numbers found in publications and Batch Entrez are concatenated into one fasta in data/contigs directory.
 Fasta files are then concatenated using command: 
 ```
